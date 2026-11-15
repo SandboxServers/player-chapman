@@ -106,3 +106,6 @@ Day 259: gathered oak logs east, made 28 planks, built a plank shelter. It is en
 - 06:18 act: {"say":"Bcrusher, Chapman here, health 8, hunger 16. LaForge is weaker at 5.4, so the beef goes to him first. If any is left, I'll take it. I'll trade planks for food too.","intent":{"goal":"wait_for_
 - 06:18 act: {"intent":{"goal":"reach_white_beds_for_beef","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fai
 - 06:18 act: {"say":"Chapman at the white beds, health 8, hunger 16. Jason and LaForge, the beef is yours to split. I have 7 oak planks and logs if anyone has bread or meat to trade.","intent":{"goal":"wait_for_fo
+- 06:21 act: {"say":"Thank you, Bcrusher. I'll eat it now.","actions":[{"do":"eat"}]}
+- 06:21 act: {"say":"Ate the beef, hunger is up to 19. It's night, so I'm going to try the white bed to sleep.","actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 06:21 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
