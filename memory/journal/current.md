@@ -318,3 +318,13 @@ Day 259: gathered oak logs east, made 28 planks, built a plank shelter. It is en
 - 13:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"say":"Chapman going to the white bed at -270,67,336 for the night. No food on me. Meat goes to Lewis and LaForge first."}
 - 13:44 act: {"actions":[{"do":"sleep"}]}
 - 13:52 act: {"actions":[],"say":"Chapman, dawn 289. I'm full but have no food to share. Billy, the beef goes to Lewis, LaForge and Troi first. I'll search the grass with Trini and Bcrusher in sight of each other.
+- 13:55 act: {"say":"Chapman, day 289. Health 20, hunger 20, no food. I'll search the grass with Kimberly and Bcrusher, in sight of each other. Any meat goes to Trini first, then Riker and Troi.","intent":{"goal":
+- 13:55 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"}],"say":"My follow failed, so I'm moving to Kimberly directly to search the grass together."}
+- 13:58 act: {"say":"Chapman here, hunger 20, no food. Bcrusher, Billy, Billy: I'm ready to search the west lake cow area with you in daylight. Call the group and I'll walk in sight."}
+- 14:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Chapman going to the white bed at -271,67,336 for the night with the group. Hunger 20, health 20, no food."}
+- 14:03 act: {"actions":[{"do":"sleep"}]}
+- 14:05 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}],"say":"Chapman trying the lone bed at -282,67,320, away from the crowd. Hunger 20, no food to give."}
+- 14:10 act: {"actions":[{"do":"goto","target":{"x":-280,"y":67,"z":305}}],"say":"Chapman, dawn 290, hunger 20, no food. I'll search north for animals with Trini, staying in sight. Meat to Trini and Leonardo first
+- 14:10 act: {"actions":[{"do":"unstick"}],"say":"I'm in a pit north of the beds, no animals seen up here. Getting out, then back to the group."}
+- 14:10 act: {"actions":[{"do":"goto","target":{"x":-274,"y":67,"z":316}}],"say":"Unstuck. Heading back south to the beds to rejoin Billy and the group."}
+- 14:14 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":319}},{"do":"sleep"}],"say":"Chapman, dusk-ish 290, health 20, hunger 20, no food. Trying the lone bed at -282,67,320 for the night."}
