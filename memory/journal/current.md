@@ -218,3 +218,25 @@ Day 259: gathered oak logs east, made 28 planks, built a plank shelter. It is en
 - 10:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}},{"do":"sleep"}],"say":"Night. No food for me, hunger 15. I'll try the white bed to the south; food for Trini first when I wake."}
 - 10:03 act: {"actions":[{"do":"sleep"}]}
 - 10:11 act: {"actions":[{"do":"goto","target":{"x":-273,"y":66,"z":331}}],"say":"Morning, day 278. Hunger 15, no food on me. Heading to the wheat at -273,66,330 to check if it has ripened."}
+- 10:14 act: {"reasoning":"No food; hunger 15. Wheat here unripe. Scout west-southwest for pigs as before. Data is nearby with no food either.","say":"Chapman, no food, hunger 15. Scouting west-southwest for pigs 
+- 10:14 act: {"reasoning":"Reached the scout point; no animals in sight, only water to the north and drops around. The pig earlier was at -365,63,296, a bit further west.","say":"Chapman at the west edge, no anima
+- 10:14 act: {"reasoning":"No pigs here; a spider and a bee are closing. Pull back east toward the group and the wheat, and check the wheat when it ripens.","say":"No pigs out west, only a spider and a bee coming.
+- 10:19 act: {"reasoning":"LaForge gave me 2 beef. Hunger 15 and health 16. Eat one now. Leonardo is hungrier and far north; keep the other for him or whoever is hungriest in reach.","say":"Thank you LaForge. I'm 
+- 10:19 act: {"actions":[{"do":"note","text":"Ate one beef: hunger 15 to 18. Holding the second beef for Leonardo or whoever is hungriest."}],"say":"I ate one beef and I'm keeping the other for Leonardo or whoever
+- 10:23 act: {"actions":[{"do":"goto","target":{"x":-267,"y":67,"z":323}},{"do":"give","to":"ag_leonardo_01","item":"beef","count":1}],"say":"Leonardo, I'm bringing you the beef. Coming to the north beds now."}
+- 10:23 act: {"actions":[{"do":"note","text":"Gave my beef to Leonardo at the north beds (he was hungriest in reach). Night; no bed free yet."}],"say":"Leonardo, the beef is yours. Eat it. I'm at the north beds to
+- 10:31 act: {"actions":[{"do":"note","text":"Dawn day 279. No food, hunger 17, health 18. Group hunting chicken north at -275,237; Clark got one for Trini. I'll stay at the beds and check the wheat."}],"say":"Cha
+- 10:40 act: {"actions":[{"do":"note","text":"Dusk day 279. Chicken went to Lewis (weaker). Still no food, hunger 17, health 18. Waiting by the north beds for a bed or meat."}],"say":"Lewis, good. I'm still hungry
+- 10:44 act: {"actions":[{"do":"goto","target":{"x":-267,"y":66,"z":322}},{"do":"mine","block":"wheat","count":1}],"say":"The wheat at -266,66,322 is ripe now. I'm picking it. Trini and LaForge are weakest, so I'l
+- 10:44 act: {"actions":[{"do":"note","text":"Harvested 1 ripe wheat and 4 wheat seeds at -266,66,322. Holding the wheat for LaForge (health 2) if he is in reach."}],"say":"I got one ripe wheat and four seeds. LaF
+- 10:48 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":320}},{"do":"give","to":"ag_laforge_01","item":"wheat","count":1}],"say":"LaForge, I'm bringing you the wheat. Health 2 first."}
+- 10:48 act: {"actions":[{"do":"note","text":"My give of the wheat failed (it went to Kimberly instead). Wheat is gone. No food left; hunger 17, health 18."}],"say":"The wheat went to Kimberly, not LaForge, so Kim
+- 10:48 act: {"actions":[{"do":"goto","target":{"x":-267,"y":66,"z":322}},{"do":"mine","block":"wheat","count":1}],"say":"There's ripe wheat again at -266,66,322. I'm picking it, and it goes to LaForge first."}
+- 10:48 act: {"actions":[{"do":"goto","target":{"x":-266,"y":66,"z":321}},{"do":"mine","block":"wheat","count":1}],"say":"Dawn. My last mine gave seeds, not wheat. I'm trying the ripe wheat at -266,66,322 again fo
+- 10:48 act: {"actions":[{"do":"note","text":"Mining the wheat at -266,66,322 gives only seeds, no wheat. It is not food yet."}],"say":"Macdonald, the wheat at -266,66,322 gave me only seeds twice, no food. It may
+- 10:53 act: {"actions":[],"say":"Chapman, midday day 280, no food, hunger 17. I hold 6 wheat seeds. Whoever plants the north beds, say so and I'll give them. Trini and LaForge first for food.","reasoning":"Food i
+- 11:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Dusk, day 280. Trying the white bed at -271,67,318 for the night. No foo
+- 11:01 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"One more try at the other bed; if refused, stop and wait for morning."}
+- 11:09 act: {"actions":[{"do":"goto","target":{"x":-285,"y":66,"z":312}}],"say":"Dawn, day 281. No food, hunger 16. Scouting the north-west grass for animals; meat goes to LaForge, Picard, then Trini.","reasoning
+- 11:09 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-270,"y":67,"z":316}}],"reasoning":"I am trapped in a pit near the north-west. Get out, then return to the group at the beds."}
+- 11:10 act: {"actions":[{"do":"goto","target":{"x":-269,"y":67,"z":316}}],"say":"Chapman, day 281. Scouting turned up nothing. There's a bow drawn somewhere to the west, so I'm going back to the group at the beds
