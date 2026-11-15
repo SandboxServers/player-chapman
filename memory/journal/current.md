@@ -37,3 +37,10 @@
 - 16:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Chapman going to the white bed for the night with the group. No food, 8 
 - 16:23 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
 - 16:31 act: {"intent":{"goal":"follow_worf_west_scout","program":"follow","arguments":{"target":"ag_worf_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400
+- 16:41 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":320}},{"do":"use","at":{"x":-270,"y":67,"z":318}}],"say":"Chapman trying the white bed from the south side, dusk 297. No food, hunger 18.","reaso
+- 16:42 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}}],"reasoning":"Night has fallen. Trying the other bed block from the same south side.","say":"Chapman at the south side of the white bed, trying 
+- 16:42 act: {"actions":[],"intent":{"goal":"hold_at_beds_overnight","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_bloc
+- 16:51 act: {"intent":{"goal":"reach_pig_area_east","program":"travel","arguments":{"target":{"x":-213,"y":69,"z":351}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],
+- 17:01 act: {"intent":{"goal":"return_to_white_beds","program":"travel","arguments":{"target":{"x":-269,"y":67,"z":321}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"]
+- 17:05 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"Phantom right on me, health 18. Fight it with the sword rather than run in the dark."}
+- 17:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":66,"z":316}},{"do":"use","at":{"x":-271,"y":67,"z":318}}],"say":"Night, dim light. I'm trying the white bed from the north side. No food here; Chapman w
