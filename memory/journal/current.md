@@ -19,3 +19,4 @@ Day 259: gathered oak logs east, made 28 planks, built a plank shelter. It is en
 - 04:11 act: {"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-283,"y":69,"z":371}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks"
 - 04:19 act: {"intent":{"goal":"scout_west_for_food","program":"travel","arguments":{"target":{"x":-360,"y":69,"z":372}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],
 - 04:19 act: {"intent":{"goal":"return_to_beds_for_night","program":"travel","arguments":{"target":{"x":-283,"y":69,"z":371}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_fail
+- 04:20 act: {"say":"Chapman here, health 20, hunger 20, no food on me either. Staying at the yellow beds for the night. Billy, tell me if anyone finds food.","intent":{"goal":"rest_at_beds_until_night","program":
