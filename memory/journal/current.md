@@ -160,3 +160,4 @@ Day 259: gathered oak logs east, made 28 planks, built a plank shelter. It is en
 - 07:20 act: {"actions":[],"say":"I have one wheat. Bread needs three at the table, so I'm waiting for the wheat to ripen. Trini, you're hungry, so the next food I make goes to you.","intent":{"goal":"wait_for_rip
 - 07:20 act: {"actions":[],"say":"Chapman here, night falling. Still one wheat, two seeds, no food. Trini, Macdonald, Bcrusher: the next ripe wheat comes to the table for bread."}
 - 07:35 act: {"actions":[{"do":"goto","target":{"x":-268,"y":66,"z":324}}],"say":"Chapman moving north-east to the table, away from the golem to the west. Still waiting on ripe wheat.","reasoning":"Golem four bloc
+- 07:41 act: {"actions":[{"do":"sleep"}],"say":"Chapman at night by the white beds, health 20, hunger 20. I hold one wheat and two seeds, no food yet. Trini, I'll bring you bread once I have three wheat.","intent"
