@@ -96,3 +96,5 @@ Day 259: gathered oak logs east, made 28 planks, built a plank shelter. It is en
 - 06:08 act: {"actions":[{"do":"goto","target":{"x":-297,"y":68,"z":294}},{"do":"sleep"}]}
 - 06:08 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}]}
 - 06:08 act: {"actions":[],"say":"Worf, Lewis, I'm at 8 health and starving. Worf, could I have your rotten flesh? I'll share what I find."}
+- 06:09 act: {"say":"Worf, I'm starving, hunger 16. Could you give me the rotten flesh you're holding? I'll help scout for meat after.","reasoning":"Hunger is low and no food is known. Worf holds rotten flesh and 
+- 06:11 act: {"intent":{"goal":"await_food_from_worf","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operatio
