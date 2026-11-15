@@ -29,4 +29,10 @@ What you hold to be true about the world and the people in it.
 - Iron golems roam north and west of the beds. They have not attacked me, but they stand near the beds and block sleep.
 - Phantoms come at night to anyone not asleep. Keep close to others and carry a sword.
 
+## Day 292 additions
+- Oak logs gathered in a wood patch at about -225 to -238, y 68-73, z 384-406 (worked, 8 logs).
+- Travel from the south-east woods to the white beds (about 60 blocks) worked in one intent.
+- Sleep at the white bed at -270,67,336 with the group worked the night of day 292, though mobs keep failing it for others.
+- No pigs or cows reported anywhere on day 292; the group has no food.
+
 Next: find food reliably, a safe bed, and a wheat field that actually yields wheat.

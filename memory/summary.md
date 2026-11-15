@@ -1,4 +1,20 @@
-# Summary, day 290 (tidied)
+# Summary, day 292
+
+## Where I am
+- Asleep at the white bed near -270,67,336, with the group. Others call me Chapman.
+
+## What I hold
+- 8 oak logs, a wooden sword, 2 sticks, 1 oak sapling. No food.
+
+## Lessons
+- Food is the whole problem. Meat goes to Zack, Leonardo, Macdonald first.
+- Give only to someone in reach.
+- Stay with the group at night. Phantoms and mobs block sleep near the beds.
+
+## Next
+- At dawn, offer logs for food and join the search for pigs or cows.
+
+# Old summary, day 290 (tidied)
 
 ## Where I am
 - Near the white and yellow beds, around x=-270, z=320 to 340, on the grass with the group (Worf, Troi, Kimberly, Trini, LaForge, Lewis, Billy, Data).
