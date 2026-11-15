@@ -178,3 +178,29 @@ Day 259: gathered oak logs east, made 28 planks, built a plank shelter. It is en
 - 08:25 act: {"actions":[],"say":"Picard, Chapman here. The phantom is 5 blocks south of me. Could you lend me your wooden sword for it? I'll give it back."}
 - 08:26 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Health is falling and the phantom keeps hitting me. Trini says the bed at -271,67,318 worked for her at night,
 - 08:30 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Chapman: morning, day 273. I'll keep the wheat seeds planted at -273,66,330 and bring any ripe wheat to Trini first.","reasoning":"
+- 08:31 act: {"say":"Chapman here, hunger 17, no food. I'll scout south for animals and bring anything I find to Trini first.","actions":[{"do":"goto","target":{"x":-275,"y":66,"z":340}}]}
+- 08:34 act: {"say":"Chapman: no food found south. Going back to the beds to wait for dusk and try the bed that Trini says works.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":320}}]}
+- 08:42 act: {"say":"Chapman: night, day 273. Trying the bed at -271,67,318 now. No food; first food at dawn goes to Trini.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"sleep"}]}
+- 08:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}}]}
+- 08:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"sleep"}]}
+- 08:51 say: {"text":"Chapman, dawn day 274. Still no food, hunger 17, health 16. I hold 8 wheat seeds; I'll give some to whoever has tilled ground near the beds."}
+- 08:55 act: {"say":"Chapman: Worf, I'm coming to the north beds with seeds for your planting. Macdonald, I'll give you a few after.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":321}}]}
+- 08:55 say: {"text":"Chapman at the north beds. Worf, where are you? I can give you 4 wheat seeds for the planting once I can see you."}
+- 08:57 act: {"actions":[{"do":"goto","target":"ag_worf_01"},{"do":"give","to":"ag_worf_01","item":"wheat_seeds","count":4}]}
+- 08:57 say: {"text":"Chapman: I can't find Worf to give the seeds. I'm holding 8 wheat seeds at the north beds. Whoever has tilled ground, come to me and I'll hand them over."}
+- 08:57 say: {"text":"Chapman: Worf, I'm at the north beds with 8 wheat seeds. Come into sight and I'll hand them over."}
+- 09:02 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"wheat_seeds","count":8}],"reasoning":"Worf asked for seeds for planting and says he is near. Give all 8 so the planting can go ahead."}
+- 09:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":317}}],"say":"Chapman walking to you, Worf, with the seeds."}
+- 09:02 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"wheat_seeds","count":8}],"say":"Worf, here are 8 wheat seeds for the north-bed planting. Trini first when there is wheat."}
+- 09:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"intent":{"goal":"sleep_in_bed","program":"rest","arguments":{},"wake_on":["goal_completed","directly_addressed"],"limits":
+- 09:04 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"wheat_seeds","count":8}]}
+- 09:04 say: {"text":"Chapman: my 8 seeds went to Data by mistake, not Worf. Data, please pass them to Worf for the north-bed planting. I have no food and no seeds left."}
+- 09:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 09:06 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 09:11 say: {"text":"Chapman, dawn day 275, no food, hunger 16. I'm heading west toward where pigs were seen, to look for meat. Any food goes to Trini first."}
+- 09:11 act: {"actions":[{"do":"goto","target":{"x":-330,"y":65,"z":310}}],"intent":{"goal":"scout_west_for_pigs","program":"travel","arguments":{"target":{"x":-330,"y":65,"z":310}},"wake_on":["goal_completed","di
+- 09:12 act: {"actions":[{"do":"goto","target":{"x":-362,"y":63,"z":296}}],"intent":{"goal":"find_pigs_west","program":"travel","arguments":{"target":{"x":-362,"y":63,"z":296}},"wake_on":["goal_completed","directl
+- 09:12 act: {"actions":[{"do":"goto","target":{"x":-380,"y":63,"z":302}}],"intent":{"goal":"check_item_west","program":"travel","arguments":{"target":{"x":-380,"y":63,"z":302}},"wake_on":["goal_completed","direct
+- 09:16 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":334}}],"intent":{"goal":"return_to_group_at_beds","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":334}},"wake_on":["goal_completed"
+- 09:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}},{"do":"sleep"}]}
+- 09:24 act: {"actions":[{"do":"sleep"}]}
