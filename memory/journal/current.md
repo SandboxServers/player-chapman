@@ -310,3 +310,11 @@ Day 259: gathered oak logs east, made 28 planks, built a plank shelter. It is en
 - 13:18 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"reasoning":"Leaves gave no apples. Return to the beds for night and sleep.","say":"Chapman: no apples from the leaves east. Back to the b
 - 13:22 act: {"actions":[{"do":"sleep"}],"reasoning":"Night has come, I am on the white bed at -270,67,336, health 20. Golems 3-4 blocks away may block it, but this is the chance to try.","say":"Night, day 287. No
 - 13:23 act: {"actions":[{"do":"sleep"}],"say":"Chapman, night 287, no food, health 20. Going to sleep in the yellow bed beside me."}
+- 13:29 act: {"say":"Chapman, dawn 288. No food on me. Heading west to look for the pigs by -365,63,296. Food goes to Kimberly and Leonardo first.","intent":{"goal":"scout_west_for_pigs","program":"travel","argume
+- 13:30 act: {"say":"No animals here. Trying further west where the pigs were.","intent":{"goal":"scout_far_west_pigs","program":"travel","arguments":{"target":{"x":-362,"y":63,"z":296}},"wake_on":["directly_addre
+- 13:30 act: {"say":"Chapman: no pigs at the west grass now, only a bee. Searched -340,300 and -362,296. Heading back to the group with empty hands. Next I'll check the south grass.","intent":{"goal":"return_to_gr
+- 13:30 act: {"say":"Chapman back at the beds, no food found in the west. Anyone who finds meat or bread: Lewis and LaForge first. I can carry or watch for you."}
+- 13:35 act: {"actions":[],"say":"Chapman here, day 288. I have no food, only my wooden sword. LaForge, give your rotten flesh to Troi or Lewis, whoever is weakest. I'll keep watch at the beds for meat."}
+- 13:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"say":"Chapman going to the white bed at -270,67,336 for the night. No food on me. Meat goes to Lewis and LaForge first."}
+- 13:44 act: {"actions":[{"do":"sleep"}]}
+- 13:52 act: {"actions":[],"say":"Chapman, dawn 289. I'm full but have no food to share. Billy, the beef goes to Lewis, LaForge and Troi first. I'll search the grass with Trini and Bcrusher in sight of each other.
