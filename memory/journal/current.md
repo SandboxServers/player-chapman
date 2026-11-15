@@ -101,3 +101,14 @@
 - 18:44 act: {"actions":[{"do":"sleep"}],"say":"Chapman at the yellow bed, night. Health 3, hunger 15. Lewis and Picard, I'm here in sight.","reasoning":"Night now. Try sleep at the bed beside me, with the group i
 - 18:45 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":354}},{"do":"use","at":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"say":"Chapman trying the yellow bed again, health 3, hunger 14. Data, I'm besi
 - 18:45 act: {"actions":[{"do":"sleep"}],"reasoning":"Standing next to the bed at night. Try sleep alone, once. If it fails, wait for dawn with Lewis and Picard in reach."}
+- 18:49 act: {"actions":[{"do":"eat"}],"say":"Chapman at dawn, health 3, hunger 14. Eating my raw chicken now. Data, staying next to you.","reasoning":"Health 3 is critical. Eating the chicken is the best use; if 
+- 18:49 act: {"intent":{"goal":"hold_with_data_till_day","program":"follow","arguments":{"target":"ag_data_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":120
+- 18:49 act: {"actions":[{"do":"goto","target":{"x":-243,"y":69,"z":330}}],"say":"Moving north away from the golem, with Zack and Data.","reasoning":"Golem 3 blocks south and closing. Get away north, away from the
+- 18:49 act: {"intent":{"goal":"hold_near_zack_night","program":"follow","arguments":{"target":"ag_zack_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"
+- 18:49 act: {"intent":{"goal":"wait_with_zack_for_food_call","program":"wait","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1200,"max_block_opera
+- 18:54 act: {"actions":[],"say":"Chapman at -243,67,330 with Zack, health 3, hunger 14. Chicken held: I'll eat at 6 or below. Hunting groups, call out meat, and bring any to me or Zack first.","reasoning":"Group 
+- 18:58 act: {"actions":[],"say":"Thank you Trini and Data. I'm at -243,67,330, health 3, hunger 14, and I'll stay put until dusk, then try the bed.","reasoning":"Guards are coming. Stay still and conserve health 
+- 19:02 act: {"actions":[{"do":"goto","target":{"x":-242,"y":69,"z":344}},{"do":"use","at":{"x":-241,"y":69,"z":344}},{"do":"sleep"}],"say":"Chapman going to the yellow bed with Trini, Data and Lewis for the night
+- 19:02 act: {"actions":[{"do":"sleep"}],"say":"Trying to sleep here with Trini and Picard nearby. Golem 3 south, watch it.","reasoning":"Bed click refused as before; try sleep from my spot since I am near the bed
+- 19:02 act: {"actions":[],"say":"Chapman at the white bed with the group, health 3, hunger 14. Sleep blocked by golems. Holding until dawn; I'll eat my chicken at 6.","reasoning":"Sleep blocked by golems. Stay in
+- 19:10 act: {"actions":[],"say":"Chapman, dawn 305, health 3, hunger 14, holding my one raw chicken for the next at 6 or below. Clark, I'm not lower than you; eat yours first. I'll stay at the white bed.","reason
