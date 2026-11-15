@@ -97,3 +97,7 @@
 - 18:30 act: {"actions":[{"do":"note","text":"Day 303: sleep refused, it is not night. Bed use refused as 'that block is a bed'. Waiting for Zack's mutton; holding chicken for hunger 6 or below."}],"say":"Chapman 
 - 18:34 act: {"actions":[],"say":"Chapman at the yellow bed, health 3, hunger 15. Zack, I'm at -263,67,354, in sight of Data and LaForge. Mutton to LaForge if he's lower; I'll wait."}
 - 18:38 act: {"actions":[],"say":"Chapman, in sight at the yellow bed. Zack, Picard, Billy: I'm at health 3, hunger 15. I can't eat meat until 6, so give it to LaForge first."}
+- 18:40 act: {"actions":[{"do":"sleep"}],"say":"Chapman here. Trying the bed at dusk. Data, stay close.","reasoning":"Dusk, health 3. Sleep at the bed next to me. If refused, wait for the group."}
+- 18:44 act: {"actions":[{"do":"sleep"}],"say":"Chapman at the yellow bed, night. Health 3, hunger 15. Lewis and Picard, I'm here in sight.","reasoning":"Night now. Try sleep at the bed beside me, with the group i
+- 18:45 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":354}},{"do":"use","at":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"say":"Chapman trying the yellow bed again, health 3, hunger 14. Data, I'm besi
+- 18:45 act: {"actions":[{"do":"sleep"}],"reasoning":"Standing next to the bed at night. Try sleep alone, once. If it fails, wait for dawn with Lewis and Picard in reach."}
