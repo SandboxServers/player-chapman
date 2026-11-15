@@ -156,3 +156,7 @@ Day 259: gathered oak logs east, made 28 planks, built a plank shelter. It is en
 - 07:07 act: {"actions":[],"say":"Chapman here. I died last night and lost my pack. Anyone with meat or rotten flesh? I have none. Any sight of cows or pigs?","reasoning":"Rejoined the group near the wheat. I have
 - 07:19 act: {"actions":[{"do":"goto","target":{"x":-265,"y":66,"z":322}},{"do":"mine","block":"wheat","count":1}],"reasoning":"Ripe wheat is at (-265,66,321). Wheat may be the only food near. Harvest one and see 
 - 07:19 act: {"actions":[],"say":"Chapman: I harvested 1 ripe wheat. Bread is unlocked for me: 3 wheat makes bread at a table. I need 2 more wheat. Any wheat, bring it to the table at -268,67,327.","reasoning":"Br
+- 07:20 act: {"actions":[{"do":"mine","block":"wheat","count":1}],"say":"Harvesting the ripe wheat right here. Trini and Billy, bread comes once I have three.","reasoning":"Ripe wheat sits next to me. Taking it ad
+- 07:20 act: {"actions":[],"say":"I have one wheat. Bread needs three at the table, so I'm waiting for the wheat to ripen. Trini, you're hungry, so the next food I make goes to you.","intent":{"goal":"wait_for_rip
+- 07:20 act: {"actions":[],"say":"Chapman here, night falling. Still one wheat, two seeds, no food. Trini, Macdonald, Bcrusher: the next ripe wheat comes to the table for bread."}
+- 07:35 act: {"actions":[{"do":"goto","target":{"x":-268,"y":66,"z":324}}],"say":"Chapman moving north-east to the table, away from the golem to the west. Still waiting on ripe wheat.","reasoning":"Golem four bloc
