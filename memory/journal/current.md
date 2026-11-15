@@ -309,3 +309,4 @@ Day 259: gathered oak logs east, made 28 planks, built a plank shelter. It is en
 - 13:17 act: {"actions":[{"do":"mine","block":"oak_leaves","count":3}],"reasoning":"Break the nearby oak leaves for an apple chance, a different try from the earlier scout."}
 - 13:18 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"reasoning":"Leaves gave no apples. Return to the beds for night and sleep.","say":"Chapman: no apples from the leaves east. Back to the b
 - 13:22 act: {"actions":[{"do":"sleep"}],"reasoning":"Night has come, I am on the white bed at -270,67,336, health 20. Golems 3-4 blocks away may block it, but this is the chance to try.","say":"Night, day 287. No
+- 13:23 act: {"actions":[{"do":"sleep"}],"say":"Chapman, night 287, no food, health 20. Going to sleep in the yellow bed beside me."}
