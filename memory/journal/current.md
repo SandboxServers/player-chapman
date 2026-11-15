@@ -1,19 +1,1 @@
 # Journal
-- 22:52 say: {"text":"Morning. My hunger is fine for now. I'll scout north past the jungle logs for animals and share what I find."}
-- 22:52 act: {"intent":{"goal":"scout_north_for_food","program":"travel","arguments":{"x":370,"y":107,"z":-1110},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits"
-- 22:52 act: {"intent":{"goal":"scout_north_for_food","program":"travel","arguments":{"target":{"x":370,"y":107,"z":-1110}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed
-- 22:52 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1070}}]}
-- 22:52 act: {"actions":[{"do":"attack","target":"spider"}]}
-- 22:52 act: {"actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1068}}]}
-- 22:52 say: {"text":"Johnny here at the beds, health 6, hunger 17. A creeper hit me and I fought a spider. I have 2 planks and 2 logs to trade for meat. Whoever is weakest first."}
-- 22:55 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1072}}]}
-- 22:55 say: {"text":"Kimberly, I'm coming to the beds. Hold the chicken for me if Picard can wait; I'll give my planks and logs in return. Tell me where you stand."}
-- 22:59 say: {"text":"Johnny at the beds, health 6, hunger 17. Jason, Wesley: I'll go with you to the melons at 310,-875. I have a wooden sword and 2 planks to trade. Count me in when you leave."}
-- 23:03 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1064}},{"do":"sleep"}]}
-- 23:03 say: {"text":"Johnny: night is here. I'm going to bed at the beds, and I'll walk with Wesley, Jason and MacDonald to the melons at first light."}
-- 23:07 say: {"text":"Johnny, awake and joining the melon walk. Wesley, I'm at 388,-1065 and coming to you now. Health 6, hunger 17."}
-- 23:07 act: {"actions":[{"do":"goto","target":"ag_wcrusher_01"}]}
-- 23:10 say: {"text":"MacDonald, Johnny here at 388,-1065, health 6, hunger 17. I can see Zack; I can't see you yet. Please bring me a melon slice or two. I'll trade my planks for them."}
-- 23:13 say: {"text":"Wesley, Johnny here at 388,-1065, in sight. I'm the weakest at health 6. Please give me a melon slice; I'll give my 2 planks back."}
-- 23:15 act: {"actions":[{"do":"eat"},{"do":"eat"}],"say":"Thank you MacDonald, Zack and Wcrusher. I have 12 melon slices now and I'm eating. I'll give back planks to whoever needs them."}
-- 23:15 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1064}},{"do":"sleep"}]}
