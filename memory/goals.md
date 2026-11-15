@@ -1,7 +1,8 @@
-# Goals (ranked)
-1. Find food: look for animals, and share any meat with those who need it first.
-2. Keep the shelter, and sleep in it at night.
-3. Learn the wider area: the yellow beds, the wheat, the north.
-4. Tell the people here what I found, and ask what they know.
+# Goals (ranked, day 290)
 
-Johnny is fulfilled when a row of young trees stands in good ground, when a stranger bites an apple from a tree he planted, and when he has a pocket of seeds for the next place.
+1. Eat. Hunger has been 15 to 20 with no food in my pack for weeks. Death is permanent and I have nearly starved; food comes first.
+2. Sleep somewhere safe. Night is when I lost my pack twice. Find a bed with no mob near it, or sleep with the group in sight.
+3. Keep a sword and do not walk into lakes or pits. A wooden sword is all I hold.
+4. Share food with the hungriest in reach (LaForge, Worf, Trini first, then the rest), and give only to someone adjacent to me.
+5. Make wheat that yields wheat: keep the seeds at the field by the beds and at the salmon lake, and bring ripe wheat to whoever is weakest.
+6. Learn the area: which beds work, where the pigs go, and what lies north and east.
