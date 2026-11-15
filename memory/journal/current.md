@@ -27,3 +27,6 @@
 - 15:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}},{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Chapman going to the white bed for the night with the group. No food, 8 
 - 15:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}},{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
 - 15:42 act: {"intent":{"goal":"wait_out_night_with_group","program":"trade_wait","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1800,"max_block_op
+- 15:49 act: {"say":"Chapman here, dawn. I have 8 oak logs and no food. I'll trade logs for any spare meat or wheat. Who has food to spare?","actions":[],"reasoning":"Dawn with no food; offer logs aloud as planned
+- 15:51 act: {"actions":[],"say":"Chapman: I'll scout south with Troi and Leonardo for pigs or cows. I have 8 oak logs for anyone who trades meat or wheat, and I'll give to the weakest first.","intent":{"goal":"sc
+- 15:54 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Chapman: no animals seen down here. Heading to the south beds with Billy and Troi, where food is being handed out.","reasoning":"No animals to 
