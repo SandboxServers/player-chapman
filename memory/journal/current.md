@@ -101,3 +101,4 @@ Day 259: gathered oak logs east, made 28 planks, built a plank shelter. It is en
 - 06:12 act: {"actions":[{"do":"goto","target":{"x":-276,"y":65,"z":316}}],"say":"Worf, Chapman here, health 8, hunger 16. I'm coming to you. Your rotten flesh, if you can spare it, I'll take.","intent":{"goal":"r
 - 06:12 act: {"actions":[{"do":"goto","target":{"x":-276,"y":65,"z":316}}],"say":"Worf, where are you? Chapman coming to you for the rotten flesh.","intent":{"goal":"reach_worf_for_food","program":"travel","argume
 - 06:13 act: {"actions":[],"say":"Worf, LaForge is weaker than I am, at 5.4 health. Give him the rotten flesh. I'll wait for what comes next.","intent":{"goal":"wait_near_group_for_food","program":"rest","argument
+- 06:16 act: {"say":"Worf, thank you. I have no flesh in my hands yet. If you still have it, please give it to me. Otherwise I'll join the cow search.","reasoning":"Worf's speech says he gave flesh to LaForge and 
