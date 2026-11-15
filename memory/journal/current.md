@@ -67,3 +67,11 @@ Day 259: gathered oak logs east, made 28 planks, built a plank shelter. It is en
 - 05:23 act: {"reasoning":"Worf is in sight, 4 blocks away, and needs food. Give him one porkchop. Golems are closing from the southwest.","actions":[{"do":"give","to":"ag_worf_01","item":"porkchop","count":1}],"s
 - 05:23 act: {"reasoning":"The porkchop was dropped on the ground beside Worf. Tell him to pick it up; a second give would only drop it again.","actions":[],"say":"Worf, the porkchop dropped on the ground right be
 - 05:25 act: {"reasoning":"Worf says he's eating and cannot find the porkchop in his pack. It fell on the ground by him. Tell him to look at his feet, then wait out the night with the group.","actions":[],"say":"W
+- 05:28 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"porkchop","count":2}],"say":"Kimberly, dawn. You have hunger 10, so the two porkchops are yours. Worf and Trini are fed or can ask again.","reaso
+- 05:28 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"},{"do":"give","to":"ag_kimberly_01","item":"porkchop","count":2}],"reasoning":"Kimberly at hunger 10 is the hungriest in reach; retry give after movi
+- 05:28 act: {"actions":[{"do":"give","to":"ag_clark_01","item":"porkchop","count":2}],"say":"Clark, you are in reach and hungry, so the two porkchops are yours. Share with Worf and Trini if you can.","reasoning":
+- 05:41 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"Phantom adjacent, hitting me. Fight back."}
+- 05:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"intent":{"goal":"reach_white_bed_sleep","program":"travel","arguments":{"targe
+- 05:46 act: {"actions":[{"do":"sleep"}],"reasoning":"Already at the bed; the use was wrong, so sleep directly."}
+- 05:46 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"sleep"}],"reasoning":"First bed was blocked. Move to the other bed and try sleep there."}
+- 05:47 act: {"actions":[],"intent":{"goal":"rest_with_group_until_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":6000,

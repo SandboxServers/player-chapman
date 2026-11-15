@@ -1,3 +1,5 @@
-Day 263 night. Chapman at (-270,67,334) on grass, with the group near the south white bed. Health 20, hunger 20. Pack: 2 porkchop, 7 oak_planks, 4 oak_log, 4 stripped_oak_log, 1 torch, 5 dirt. No errand running.
+Day 264 night (latest). Chapman at (-272,67,336) with the group at the white beds. Golems block sleep at both white beds ("the way was blocked"). Not asleep; days_since_sleep 4. Health 20, hunger 17, no food. Pack: 7 oak_planks, 4 oak_log, 4 stripped_oak_log, 5 dirt, 1 torch. Nothing running. Next: at dawn look for food with the group, meat to Worf then Trini; try a bed away from golems, or a sealed wall (15 planks).
+
+Earlier: Day 263 night. Chapman at (-270,67,334) on grass, with the group near the south white bed. Health 20, hunger 20. Pack: 2 porkchop, 7 oak_planks, 4 oak_log, 4 stripped_oak_log, 1 torch, 5 dirt. No errand running.
 Worf (in reach, hunger 16) and Trini (at the yellow beds, hunger 11, holding 2 wheat) get meat first. Keep one porkchop for Trini when she is in sight and in reach. Beds refuse sleep near golems; sleep with the group if a bed works.
 Next: at dawn, give Trini porkchop. Offer planks and logs to anyone who needs them.
