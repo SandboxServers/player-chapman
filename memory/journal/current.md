@@ -92,3 +92,8 @@
 - 18:26 act: {"actions":[{"do":"note","text":"Night 302, health 5, hunger 15. Phantom 12 away SE. No one in reach. Jason got the chicken; I am next lowest and asked Data to share at dawn."}],"say":"Chapman, health
 - 18:27 act: {"actions":[{"do":"eat"}],"say":"Thank you, I have the chicken. Health 3 now, so I'm eating it.","reasoning":"Health 3, got chicken from Jason via Data. Try eating; if refused at hunger 15, will hold 
 - 18:27 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantom 5 blocks south-east, health 3. Fighting it with my sword. Eat is refused until hunger 6, so I keep the chicken.","reasoning":"Phantom clo
+- 18:29 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"use","at":{"x":-263,"y":67,"z":354}}],"intent":{"goal":"reach_bed_and_rest","program":"travel","arguments":{"target":{"x":-263,"y":6
+- 18:30 act: {"actions":[{"do":"sleep"}],"say":"Chapman at the yellow bed, health 3, hunger 15. Zack, I'm in reach when you come; take the mutton to whoever is lowest."}
+- 18:30 act: {"actions":[{"do":"note","text":"Day 303: sleep refused, it is not night. Bed use refused as 'that block is a bed'. Waiting for Zack's mutton; holding chicken for hunger 6 or below."}],"say":"Chapman 
+- 18:34 act: {"actions":[],"say":"Chapman at the yellow bed, health 3, hunger 15. Zack, I'm at -263,67,354, in sight of Data and LaForge. Mutton to LaForge if he's lower; I'll wait."}
+- 18:38 act: {"actions":[],"say":"Chapman, in sight at the yellow bed. Zack, Picard, Billy: I'm at health 3, hunger 15. I can't eat meat until 6, so give it to LaForge first."}
