@@ -328,3 +328,20 @@ Day 259: gathered oak logs east, made 28 planks, built a plank shelter. It is en
 - 14:10 act: {"actions":[{"do":"unstick"}],"say":"I'm in a pit north of the beds, no animals seen up here. Getting out, then back to the group."}
 - 14:10 act: {"actions":[{"do":"goto","target":{"x":-274,"y":67,"z":316}}],"say":"Unstuck. Heading back south to the beds to rejoin Billy and the group."}
 - 14:14 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":319}},{"do":"sleep"}],"say":"Chapman, dusk-ish 290, health 20, hunger 20, no food. Trying the lone bed at -282,67,320 for the night."}
+- 14:21 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"say":"Dusk on 290. I'm going to the bed at -282,67,320 to sleep. No food, hunger 20, health 20."}
+- 14:22 act: {"actions":[],"say":"Chapman at the south white beds with Troi and Kimberly, night 290. Sleep at the lone bed was blocked. No food, health 20. I'll stay with the group.","intent":{"goal":"hold_with_gr
+- 14:22 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 14:30 act: {"intent":{"goal":"join_east_pig_hunt","program":"follow","arguments":{"target":"ag_jason_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":24
+- 14:30 act: {"intent":{"goal":"join_pig_hunt_with_trini","program":"follow","arguments":{"target":"ag_trini_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_tic
+- 14:32 act: {"intent":{"goal":"reach_pig_hunt_area","program":"travel","arguments":{"target":{"x":-213,"y":69,"z":351}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"],
+- 14:33 act: {"say":"Chapman at the pig area (-214,69,351). No pigs in sight yet. Anyone who spots one, call it out. Meat goes to Zack and Leonardo first."}
+- 14:41 act: {"intent":{"goal":"reach_white_beds_for_night","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":337}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_compl
+- 14:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}}],"say":"Chapman at the white bed, trying to sleep for the night."}
+- 14:41 act: {"actions":[],"intent":{"goal":"sleep_at_white_bed","program":"rest","arguments":{"bed":{"x":-271,"y":67,"z":336}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_compl
+- 14:41 act: {"actions":[{"do":"sleep"}]}
+- 14:42 act: {"actions":[{"do":"sleep"}]}
+- 14:45 act: {"actions":[{"do":"sleep"}]}
+- 14:50 act: {"intent":{"goal":"follow_worf_for_food","program":"follow","arguments":{"target":"ag_worf_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2
+- 14:50 act: {"intent":{"goal":"reach_east_pig_area","program":"travel","arguments":{"target":{"x":-214,"y":69,"z":351}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"],
+- 14:50 act: {"intent":{"goal":"scout_south_for_animals","program":"travel","arguments":{"target":{"x":-213,"y":68,"z":375}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_complete
+- 14:50 act: {"intent":{"goal":"scout_further_south_for_animals","program":"travel","arguments":{"target":{"x":-235,"y":68,"z":400}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_
