@@ -112,3 +112,9 @@
 - 19:02 act: {"actions":[{"do":"sleep"}],"say":"Trying to sleep here with Trini and Picard nearby. Golem 3 south, watch it.","reasoning":"Bed click refused as before; try sleep from my spot since I am near the bed
 - 19:02 act: {"actions":[],"say":"Chapman at the white bed with the group, health 3, hunger 14. Sleep blocked by golems. Holding until dawn; I'll eat my chicken at 6.","reasoning":"Sleep blocked by golems. Stay in
 - 19:10 act: {"actions":[],"say":"Chapman, dawn 305, health 3, hunger 14, holding my one raw chicken for the next at 6 or below. Clark, I'm not lower than you; eat yours first. I'll stay at the white bed.","reason
+- 19:18 act: {"actions":[{"do":"note","text":"Chapman, day 305 morning, health 3, hunger 14. Holding 1 raw chicken for hunger 6 or below. Clark and Jason have chicken; I am in reach of the group at the white beds.
+- 19:22 act: {"actions":[{"do":"sleep"}],"say":"Chapman at the white beds with the group, health 3, going to sleep now."}
+- 19:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}},{"do":"sleep"}],"say":"Chapman: sleep was blocked at 319; walking back to the white bed at 336 to try once more."}
+- 19:24 act: {"actions":[{"do":"goto","target":{"x":-269,"y":67,"z":334}}],"say":"Chapman: sleep blocked again at the bed. I'm walking to the group at the white beds to stay with them through the night."}
+- 19:27 act: {"actions":[{"do":"note","text":"Night 305: Picard gave me 2 raw chickens, now 3. Health 3, hunger 13. Eat at hunger 6 or below. Sleep blocked twice; staying by the white beds with Worf, Data, Picard,
+- 19:31 act: {"actions":[{"do":"note","text":"Morning 306. Health 3, hunger 13, 3 raw chickens. Eat at hunger 6. Group scouting east for meat, meat goes to me first."}],"say":"Morning 306. Chapman, health 3, hunge
