@@ -240,3 +240,11 @@ Day 259: gathered oak logs east, made 28 planks, built a plank shelter. It is en
 - 11:09 act: {"actions":[{"do":"goto","target":{"x":-285,"y":66,"z":312}}],"say":"Dawn, day 281. No food, hunger 16. Scouting the north-west grass for animals; meat goes to LaForge, Picard, then Trini.","reasoning
 - 11:09 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-270,"y":67,"z":316}}],"reasoning":"I am trapped in a pit near the north-west. Get out, then return to the group at the beds."}
 - 11:10 act: {"actions":[{"do":"goto","target":{"x":-269,"y":67,"z":316}}],"say":"Chapman, day 281. Scouting turned up nothing. There's a bow drawn somewhere to the west, so I'm going back to the group at the beds
+- 11:12 act: {"actions":[{"do":"goto","target":{"x":-267,"y":67,"z":322}},{"do":"mine","block":"wheat","count":1}],"say":"Chapman here. I'm going to the ripe wheat once more to check for wheat, not seeds. Any food
+- 11:13 act: {"actions":[{"do":"note","text":"Mined the ripe wheat at -266,66,322 again: only a seed, no wheat. Ripe wheat does not drop food for me here."}],"say":"The ripe wheat gave only another seed, no wheat.
+- 11:13 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":3},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"
+- 11:14 act: {"actions":[{"do":"craft","item":"wooden_hoe","count":1}],"reasoning":"Craft the hoe straight from logs, one try. A spider is close, so check after."}
+- 11:14 act: {"actions":[{"do":"craft","item":"oak_planks","count":4},{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_hoe","count":1}],"reasoning":"Planks, then sticks, then the hoe. One try e
+- 11:14 act: {"actions":[{"do":"goto","target":{"x":-266,"y":67,"z":316}}],"say":"Chapman: I have a hoe now. I'll till a patch near the beds and plant my seven seeds.","reasoning":"Move back to the grass near the 
+- 11:14 act: {"actions":[{"do":"till","at":{"x":-265,"y":65,"z":316}}],"reasoning":"Try tilling one grass block next to me. If it fails, the reason will say what to change."}
+- 11:14 act: {"actions":[{"do":"till","at":{"x":-267,"y":65,"z":316}}],"reasoning":"Try the west neighbour once. The reason tells me what to change if it fails again."}
