@@ -130,3 +130,9 @@
 - 20:04 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":345}}],"say":"Chapman, health 1, something hit me at night. Moving north away from the golem toward Worf."}
 - 20:04 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":338}}]}
 - 20:09 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"}],"say":"Chapman, morning 308. Health 20 again, I died at night and respawned empty. Picard, if you have my wooden sword and phantom membrane, please
+- 20:13 act: {"actions":[],"say":"Chapman, day 308, health 20, hunger 20, nothing in my pack. Picard, please bring my sword and membrane to me, I'm at the yellow beds. Riker, I have no food; Data and Clark need th
+- 20:21 act: {"actions":[{"do":"sleep"}],"say":"Chapman at the yellow beds, night 308, health 20, hunger 20. Trying sleep with Kimberly and Riker in reach."}
+- 20:22 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":351}}]}
+- 20:22 act: {"actions":[],"say":"Picard, you're in reach. Please give me my wooden sword and phantom membrane now."}
+- 20:23 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}},{"do":"sleep"}],"say":"Chapman, night 308, health 20, hunger 20. Trying the yellow bed at -263,67,353 with the group close."}
+- 20:24 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":350}}],"say":"Sleep was blocked again. I'm going back to the yellow beds to wait for dawn with the group."}
