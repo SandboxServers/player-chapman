@@ -280,3 +280,22 @@ Day 259: gathered oak logs east, made 28 planks, built a plank shelter. It is en
 - 12:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}]}
 - 12:03 act: {"actions":[{"do":"sleep"}]}
 - 12:04 act: {"actions":[{"do":"sleep"}]}
+- 12:07 act: {"say":"Chapman here. I'm taking this bed to sleep. I have no food, but my hunger is full.","actions":[{"do":"sleep"}]}
+- 12:09 act: {"actions":[{"do":"sleep"}]}
+- 12:13 say: {"text":"Chapman here, no weapon and no food, hunger 20. Staying by the golems with the group. Phantoms are out, so I'll keep close."}
+- 12:15 say: {"text":"Macdonald, yes please. I'm Chapman, at the white bed -270,67,336, in sight. Thank you."}
+- 12:21 act: {"actions":[{"do":"sleep"}]}
+- 12:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 12:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 12:25 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 12:42 act: {"actions":[{"do":"sleep"}]}
+- 12:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 12:43 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}]}
+- 12:43 act: {"actions":[{"do":"sleep"}]}
+- 12:48 act: {"actions":[],"say":"Chapman here. I'm full (20) with an empty pack. I'll help look for meat or wheat at first light. Hungriest first: LaForge, then Picard and Trini."}
+- 12:52 act: {"actions":[{"do":"goto","target":{"x":-290,"y":67,"z":345}}],"say":"Chapman scouting south-west for animals. Anything found goes to LaForge first, then Trini."}
+- 12:52 act: {"actions":[{"do":"goto","target":{"x":-310,"y":66,"z":350}}]}
+- 12:52 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":332}}],"say":"Chapman: scouted south-west and far west (to -308,345). No animals, no food. Heading back to the beds."}
+- 12:57 act: {"actions":[],"say":"Thank you, Macdonald, I have the wooden sword. I have no food; Lewis first, then the rest."}
+- 13:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}]}
+- 13:01 act: {"actions":[{"do":"sleep"}]}
