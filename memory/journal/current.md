@@ -110,3 +110,7 @@ Day 259: gathered oak logs east, made 28 planks, built a plank shelter. It is en
 - 06:21 act: {"say":"Ate the beef, hunger is up to 19. It's night, so I'm going to try the white bed to sleep.","actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
 - 06:21 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
 - 06:23 act: {"say":"Chapman here at the white beds, health 11, hunger 16. No food on me. Meat goes to whoever is weakest.","intent":{"goal":"hold_with_group_until_dawn","program":"rest","arguments":{},"wake_on":[
+- 06:29 act: {"intent":{"goal":"scout_north_for_animals","program":"travel","arguments":{"target":{"x":-300,"y":67,"z":290}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_faile
+- 06:30 act: {"say":"Chapman here, health 11, hunger 16, no food. Billy, Lewis, has anyone found meat or wheat? I have 7 oak planks to trade.","intent":{"goal":"find_food_with_billy","program":"follow","arguments"
+- 06:31 act: {"say":"Billy, Lewis: no food in these beds area, I'm out too. Troi is checking leaves for apples. If you find meat or apples, I'll trade planks or logs for it.","intent":{"goal":"wait_for_food_news_n
+- 06:36 act: {"actions":[{"do":"mine","block":"oak_leaves","count":4}],"say":"I'll try breaking oak leaves for apples too. Billy gets any apple first.","reasoning":"Leaves may drop apples. Try a way nobody has tri
