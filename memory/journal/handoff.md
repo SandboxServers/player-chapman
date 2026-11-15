@@ -1,1 +1,3 @@
-Day 261 night. Chapman at the yellow bed (-283,69,371). Health 20, hunger 20, no food; pack holds planks, logs, torch, dirt. No errand running. Food is scarce: Worf and Trini need meat and wheat first. Next morning: join the group for food in daylight, avoid skeleton ground south-west, offer planks and logs to anyone who needs them.
+Day 263 night. Chapman at (-270,67,334) on grass, with the group near the south white bed. Health 20, hunger 20. Pack: 2 porkchop, 7 oak_planks, 4 oak_log, 4 stripped_oak_log, 1 torch, 5 dirt. No errand running.
+Worf (in reach, hunger 16) and Trini (at the yellow beds, hunger 11, holding 2 wheat) get meat first. Keep one porkchop for Trini when she is in sight and in reach. Beds refuse sleep near golems; sleep with the group if a bed works.
+Next: at dawn, give Trini porkchop. Offer planks and logs to anyone who needs them.
