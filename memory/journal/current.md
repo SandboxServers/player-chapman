@@ -161,3 +161,13 @@ Day 259: gathered oak logs east, made 28 planks, built a plank shelter. It is en
 - 07:20 act: {"actions":[],"say":"Chapman here, night falling. Still one wheat, two seeds, no food. Trini, Macdonald, Bcrusher: the next ripe wheat comes to the table for bread."}
 - 07:35 act: {"actions":[{"do":"goto","target":{"x":-268,"y":66,"z":324}}],"say":"Chapman moving north-east to the table, away from the golem to the west. Still waiting on ripe wheat.","reasoning":"Golem four bloc
 - 07:41 act: {"actions":[{"do":"sleep"}],"say":"Chapman at night by the white beds, health 20, hunger 20. I hold one wheat and two seeds, no food yet. Trini, I'll bring you bread once I have three wheat.","intent"
+- 07:48 act: {"say":"Chapman at dawn, day 271. I'm going west toward the pigs near -365, 63, 296 for meat. Anyone who needs food, tell me.","intent":{"goal":"hunt_pigs_west_for_group","program":"travel","arguments
+- 07:48 act: {"intent":{"goal":"hunt_pigs_west_for_group","program":"travel","arguments":{"target":{"x":-345,"y":66,"z":300}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wo
+- 07:49 act: {"say":"Chapman at -345, 66, 300. No pigs in sight here, only water to the north. Heading back to the wheat by the beds.","intent":{"goal":"return_to_wheat_near_beds","program":"travel","arguments":{"
+- 07:53 act: {"actions":[{"do":"give","to":"ag_bcrusher_01","item":"wheat","count":1}],"say":"Bcrusher, here is my one wheat for the bread. Bake it, and the first loaf goes to Trini. I'm keeping my two seeds to pl
+- 07:57 act: {"say":"Chapman: I have 2 wheat seeds for the replanting. Lewis, when you till the field, come near and I'll hand them over. Bread goes to Trini first."}
+- 08:01 act: {"say":"Lewis, I'm standing on open grass at -272, 66, 330 with clear air above, so till the ground right here by my feet. Bcrusher, I have only seeds left, my wheat is already yours."}
+- 08:05 act: {"say":"I have 7 wheat seeds now, from Lewis's 5 and my 2. Lewis, if a tilled spot is ready, tell me where and I'll plant it.","intent":{"goal":"hold_near_group","program":"follow","arguments":{"targe
+- 08:11 act: {"say":"Morning. Lewis, I'm at -272,66,330 on grass with air above. Till the grass under the spot just west of me, at -273,65,330, and I'll plant my 7 seeds on it right away."}
+- 08:14 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":-273,"y":66,"z":329}}],"say":"Thanks Lewis, Clark. I'm planting my seeds on the tilled spot now. I have no spare wheat for Bcrusher, sorry."}
+- 08:14 act: {"say":"Lewis, my place failed: seeds need farmland right below. Which exact block is tilled? I'm at -272,66,330 and the seeds need to go on the farmland block's top."}
