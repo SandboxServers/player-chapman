@@ -248,3 +248,17 @@ Day 259: gathered oak logs east, made 28 planks, built a plank shelter. It is en
 - 11:14 act: {"actions":[{"do":"goto","target":{"x":-266,"y":67,"z":316}}],"say":"Chapman: I have a hoe now. I'll till a patch near the beds and plant my seven seeds.","reasoning":"Move back to the grass near the 
 - 11:14 act: {"actions":[{"do":"till","at":{"x":-265,"y":65,"z":316}}],"reasoning":"Try tilling one grass block next to me. If it fails, the reason will say what to change."}
 - 11:14 act: {"actions":[{"do":"till","at":{"x":-267,"y":65,"z":316}}],"reasoning":"Try the west neighbour once. The reason tells me what to change if it fails again."}
+- 11:15 act: {"actions":[{"do":"till","at":{"x":-266,"y":65,"z":316}}],"intent":{"goal":"till_and_plant_wheat","program":"gather","arguments":{"block":"wheat_seeds","count":7},"wake_on":["goal_completed","directly
+- 11:15 act: {"actions":[{"do":"goto","target":{"x":-267,"y":66,"z":315}},{"do":"till","at":{"x":-266,"y":65,"z":315}},{"do":"place","block":"wheat_seeds","at":{"x":-266,"y":65,"z":315}}],"say":"The till worked, t
+- 11:15 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":-266,"y":65,"z":316}}]}
+- 11:15 act: {"actions":[{"do":"goto","target":{"x":-270,"y":66,"z":318}},{"do":"till","at":{"x":-270,"y":65,"z":319}},{"do":"place","block":"wheat_seeds","at":{"x":-270,"y":65,"z":319}}]}
+- 11:15 act: {"actions":[{"do":"till","at":{"x":-270,"y":65,"z":317}},{"do":"place","block":"wheat_seeds","at":{"x":-270,"y":65,"z":317}}]}
+- 11:15 act: {"intent":{"goal":"wait_for_food_news","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":8}}
+- 11:15 act: {"intent":{"goal":"travel_to_salmon_lake_to_till","program":"travel","arguments":{"target":{"x":-325,"y":64,"z":272}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition
+- 11:16 act: {"actions":[{"do":"till","at":{"x":-326,"y":63,"z":273}},{"do":"place","block":"wheat_seeds","at":{"x":-326,"y":63,"z":273}}]}
+- 11:16 act: {"actions":[{"do":"till","at":{"x":-325,"y":63,"z":274}},{"do":"place","block":"wheat_seeds","at":{"x":-325,"y":63,"z":274}}]}
+- 11:16 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":-325,"y":64,"z":274}}]}
+- 11:16 act: {"actions":[{"do":"till","at":{"x":-324,"y":63,"z":274}},{"do":"place","block":"wheat_seeds","at":{"x":-324,"y":64,"z":274}},{"do":"till","at":{"x":-324,"y":63,"z":275}},{"do":"place","block":"wheat_s
+- 11:16 act: {"actions":[{"do":"note","text":"Planted 2 wheat seeds at -325,64,274 and -324,64,274 on farmland at the salmon lake (-325,63,273 area). Water is 3-4 blocks west. Plant at y+1 of the tilled block."}],
+- 11:20 act: {"actions":[{"do":"goto","target":{"x":-331,"y":63,"z":268}},{"do":"attack","target":"salmon"}],"say":"Salmon in the lake. I'm going after them. Any fish I get goes to Picard first."}
+- 11:21 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-325,"y":64,"z":273}}],"say":"I'm in deep water and the salmon are out of reach. Getting back to the shore first."}
