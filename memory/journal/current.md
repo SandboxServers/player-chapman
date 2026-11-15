@@ -262,3 +262,8 @@ Day 259: gathered oak logs east, made 28 planks, built a plank shelter. It is en
 - 11:16 act: {"actions":[{"do":"note","text":"Planted 2 wheat seeds at -325,64,274 and -324,64,274 on farmland at the salmon lake (-325,63,273 area). Water is 3-4 blocks west. Plant at y+1 of the tilled block."}],
 - 11:20 act: {"actions":[{"do":"goto","target":{"x":-331,"y":63,"z":268}},{"do":"attack","target":"salmon"}],"say":"Salmon in the lake. I'm going after them. Any fish I get goes to Picard first."}
 - 11:21 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-325,"y":64,"z":273}}],"say":"I'm in deep water and the salmon are out of reach. Getting back to the shore first."}
+- 11:22 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"}],"say":"A phantom is on me. Fighting it."}
+- 11:23 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"}]}
+- 11:23 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-326,"y":64,"z":273}},{"do":"place","block":"dirt","at":{"x":-324,"y":64,"z":273}},{"do":"place","block":"dirt","at":{"x":-325,"y":64,"z":272}},{"do"
+- 11:23 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"}],"say":"Health 4. I'm fighting the phantom, anyone near, please help."}
+- 11:23 say: {"text":"Worf, I died at the salmon lake to a phantom and I'm back here with an empty pack. Do you have food or a spare sword?"}
