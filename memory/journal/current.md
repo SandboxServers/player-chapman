@@ -87,3 +87,8 @@
 - 18:23 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"reasoning":"At the yellow bed, phantom 7.7 away. Try to sleep now."}
 - 18:23 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"reasoning":"The first bed refused from this side. Try the second yellow bed."}
 - 18:23 act: {"actions":[],"reasoning":"Both yellow beds refused. Health 5 with no regen. Zack holds mutton 1.8 away. Ask for it.","say":"Chapman, health 5, hunger 15, no food. Zack, if the mutton is spare, I'm ne
+- 18:26 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":356}},{"do":"use","at":{"x":-263,"y":67,"z":354}}],"say":"Chapman, health 5, hunger 15, no food. Jason is lowest, so he gets any meat first. I ho
+- 18:26 act: {"actions":[{"do":"note","text":"Night 302. Bed from south side refused again ('that block is a bed'). Health 5, hunger 15. Holding 8 logs, no food. Waiting near LaForge for food call."}],"say":"Chapm
+- 18:26 act: {"actions":[{"do":"note","text":"Night 302, health 5, hunger 15. Phantom 12 away SE. No one in reach. Jason got the chicken; I am next lowest and asked Data to share at dawn."}],"say":"Chapman, health
+- 18:27 act: {"actions":[{"do":"eat"}],"say":"Thank you, I have the chicken. Health 3 now, so I'm eating it.","reasoning":"Health 3, got chicken from Jason via Data. Try eating; if refused at hunger 15, will hold 
+- 18:27 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantom 5 blocks south-east, health 3. Fighting it with my sword. Eat is refused until hunger 6, so I keep the chicken.","reasoning":"Phantom clo
