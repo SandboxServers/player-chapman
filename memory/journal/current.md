@@ -124,3 +124,9 @@
 - 19:48 act: {"actions":[],"say":"Chapman, dawn 306, health 3, hunger 13. I hold 3 raw chickens for the lowest. I'll eat one at hunger 6.","intent":{"goal":"hold_with_group_until_hunger_6","program":"wait","argume
 - 19:49 act: {"actions":[],"say":"Chapman, dawn 306, health 3, hunger 13. I hold 3 raw chickens for the lowest; I'll eat one at hunger 6.","intent":{"goal":"hold_with_group_until_hunger_6","program":"trade_wait","
 - 19:53 say: {"text":"Chapman, day 307, health 3, hunger 13. Three chickens held. Riker and Leonardo, I'll eat one at hunger 6 and give the next to whoever is lowest in reach."}
+- 19:58 act: {"say":"Chapman, day 307, health 3, hunger 13. Three chickens held; I eat at hunger 6. Riker, Leonardo: next chicken goes to whoever is lowest in reach.","intent":{"goal":"hold_at_yellow_beds","progra
+- 20:03 act: {"actions":[{"do":"sleep"}],"say":"Chapman at the yellow beds, night 307, health 3, hunger 13. Trying sleep with Kimberly and Jason in reach."}
+- 20:04 act: {"say":"Chapman, night 307, health 3, hunger 13, 3 chickens held. Clark, step within reach and I'll give you one now. Sleep failed again, the way was blocked."}
+- 20:04 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":345}}],"say":"Chapman, health 1, something hit me at night. Moving north away from the golem toward Worf."}
+- 20:04 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":338}}]}
+- 20:09 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"}],"say":"Chapman, morning 308. Health 20 again, I died at night and respawned empty. Picard, if you have my wooden sword and phantom membrane, please
