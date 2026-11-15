@@ -1,5 +1,6 @@
 03:50 act: {"intent":{"goal":"gather_stripped_oak_log","program":"gather","arguments":{"block":"stripped_oak_log","count":4},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_fai
 03:50 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}],"intent":{"goal":"craft_planks_and_table","program":"craft","arguments":{"item":"crafting_table","count":1},"wake_on":["goal_completed","direc
+Day 260: health and hunger full, no food in sight. Sent myself west to x=-360 to scout a new direction for animals.
 Day 259: woke with an empty pack in the dark. Gathered 4 stripped oak logs. Planks need plain oak_log, so I set an intent for 8 oak logs to the east. Others here are short of food; meat goes to them first.
 Day 259: gathered oak logs east, made 28 planks, built a plank shelter. It is enclosed now. Next: sleep in it, then reflect.
 03:51 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":8},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"
@@ -16,3 +17,5 @@ Day 259: gathered oak logs east, made 28 planks, built a plank shelter. It is en
 - 04:09 act: {"intent":{"goal":"scout_south_for_animals","program":"travel","arguments":{"target":{"x":-283,"y":69,"z":420}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_wor
 - 04:11 say: {"text":"Reached z=420 to the south. No animals in sight here, only logs and stone. Clark has the pig lead to the south-west. I will head back toward the beds and keep watch for food."}
 - 04:11 act: {"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-283,"y":69,"z":371}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks"
+- 04:19 act: {"intent":{"goal":"scout_west_for_food","program":"travel","arguments":{"target":{"x":-360,"y":69,"z":372}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],
+- 04:19 act: {"intent":{"goal":"return_to_beds_for_night","program":"travel","arguments":{"target":{"x":-283,"y":69,"z":371}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_fail
