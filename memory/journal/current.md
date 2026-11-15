@@ -1,1 +1,23 @@
 # Journal
+- 21:47 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Johnny here, sleeping in the bed by the chest. I have no food to spare right now, sorry, but I'll keep the light n
+- 21:47 act: {"actions":[{"do":"sleep"}]}
+- 21:49 act: {"actions":[{"do":"goto","target":{"x":376,"y":110,"z":-1076}}],"say":"Morning, all. Johnny here, rested. I'm off to the oak trees to the west for logs, to make planks for a shelter. Macdonald, I'd gl
+- 21:54 act: {"actions":[{"do":"mine","block":"oak_log","count":4}],"say":"Johnny here, at the oak trees. I'm not hungry, so I'll share if I find anything. Macdonald, I'm here when you are near with the planks."}
+- 21:54 act: {"actions":[{"do":"craft","item":"oak_planks","count":16}]}
+- 21:54 act: {"actions":[{"do":"mine","block":"oak_log","count":3}],"say":"Riker, I have 16 planks now and I'm getting three more logs for a shelter. Come by the beds later and we'll work on it together."}
+- 21:55 act: {"actions":[{"do":"unstick"}],"say":"Picard, I have no food, only planks and logs. I'm sorry. Bcrusher has the chicken."}
+- 21:55 act: {"actions":[{"do":"craft","item":"oak_planks","count":12}]}
+- 21:55 act: {"actions":[],"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goa
+- 21:59 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1065}}],"say":"Johnny here, heading to the beds to rest with the group. I have planks and logs, no food, and I'll share the planks for walls."}
+- 21:59 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":387,"y":107,"z":-1065}}]}
+- 22:00 act: {"actions":[{"do":"place","block":"dirt","at":{"x":378,"y":88,"z":-1057}}],"say":"Johnny here. The beds are cut off by a drop, so I'm sealing myself in this stone pit for the night. Good night, all."}
+- 22:00 act: {"actions":[{"do":"place","block":"dirt","at":{"x":378,"y":88,"z":-1058}}]}
+- 22:00 act: {"intent":{"goal":"reach_beds_by_crafting_table","program":"travel","arguments":{"target":{"x":389,"y":107,"z":-1063}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_a
+- 22:01 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1063}}],"intent":{"goal":"reach_beds","program":"travel","arguments":{"target":{"x":387,"y":107,"z":-1063}},"wake_on":["goal_completed","precond
+- 22:01 act: {"actions":[{"do":"sleep"}],"say":"Johnny here, back at the beds with Jason. No food yet, going to sleep in the bed. First light, food first."}
+- 22:03 act: {"actions":[],"say":"Johnny here, at the beds, not hungry yet. Picard first with the meat. I have 6 oak planks to trade for food or a wall, and I'll go north with the group at first light."}
+- 22:11 act: {"intent":{"goal":"scout_north_for_animals","program":"travel","arguments":{"target":{"x":390,"y":107,"z":-1100}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addres
+- 22:14 act: {"intent":{"goal":"reach_village_west_for_animals","program":"travel","arguments":{"target":{"x":370,"y":107,"z":-1070}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly
+- 22:15 act: {"actions":[{"do":"unstick"}]}
+- 22:15 act: {"intent":{"goal":"return_to_beds_group","program":"travel","arguments":{"target":{"x":386,"y":107,"z":-1062}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed
+- 22:23 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1064}},{"do":"sleep"}],"say":"Picard, Beverly, Wesley: I have 6 oak planks if anyone needs them. I am going to bed at the white bed near x387."}
