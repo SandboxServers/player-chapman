@@ -50,3 +50,20 @@
 - 17:26 say: {"text":"Chapman at the white beds, hunger 16. Trini, when I drop lower I'll call out. Logs for anyone with food."}
 - 17:31 act: {"actions":[],"say":"Chapman, dawn 300, hunger 16. Picard, Lewis: I'll scout east with you for pigs or cows. Call out any food you find.","intent":{"goal":"scout_east_with_picard","program":"follow","
 - 17:35 say: {"text":"Chapman, hunger 16, no food. Billy, the beef goes to Macdonald and Clark first; I'll call out when I'm lower."}
+- 17:37 act: {"actions":[{"do":"note","text":"Chapman at the north beds, hunger 16, health 19. Asking the group for food; offering oak logs in return."}],"say":"Chapman here, hunger 16, no food. I hold 8 oak logs 
+- 17:40 act: {"intent":{"goal":"reach_white_bed","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":335}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks
+- 17:40 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 17:41 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 17:44 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantom on me at the white beds. Fighting it with my sword."}
+- 17:46 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"}]}
+- 17:52 act: {"actions":[{"do":"note","text":"Dawn 301: hunger 16, health 13, no food. Zack is lowest (8) and holds food, so he gets it first."}],"say":"Chapman, hunger 16, health 13, no food. Zack is lowest, so h
+- 17:52 act: {"intent":{"goal":"follow_jason_to_cow","program":"follow","arguments":{"target":"ag_jason_01"},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"
+- 17:53 act: {"actions":[{"do":"eat"}],"say":"Thank you Jason, I am eating the chicken now. Bcrusher and Zack still have first claim on any more meat."}
+- 17:53 act: {"actions":[{"do":"give","to":"ag_bcrusher_01","item":"chicken","count":1}],"say":"Eat refused at hunger 16, so I am passing Jason's chicken to Bcrusher, who is lower. Zack, come and take it if you ar
+- 17:53 act: {"actions":[{"do":"note","text":"Give failed: Bcrusher out of sight. Keeping the raw chicken; eat only at hunger 6 or below."}],"say":"Bcrusher and Zack are out of my sight, so I am keeping the raw ch
+- 17:53 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":250}}],"say":"I am heading north toward the pigs with LaForge. I hold a raw chicken for whoever is lowest."}
+- 17:53 act: {"actions":[{"do":"note","text":"Reached -262,67,251 north. No pigs seen. LaForge 7 away. Holding raw chicken."}],"say":"At -262,67,251. No pigs in sight. LaForge, which way did you go? I hold a raw c
+- 17:57 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":329}}],"say":"No pigs up here. I am going back to the beds with the group before dusk, holding the chicken for the lowest."}
+- 17:58 act: {"actions":[{"do":"note","text":"Back at the beds -268,66,329 with the group. Hunger 16, holding raw chicken for the lowest."}],"say":"Back at the beds. Hunger 16. I hold one raw chicken; anyone at 8 
+- 18:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":334}}],"say":"Dusk. I am going to the white beds with the group for the night. Chicken stays with me for the lowest."}
+- 18:02 act: {"actions":[{"do":"give","to":"ag_bcrusher_01","item":"chicken","count":1}],"say":"Bcrusher, you asked for the chicken at hunger 8. I'm giving it to you. I'm at 16 and can't eat raw meat yet.","intent
