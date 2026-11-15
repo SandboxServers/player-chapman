@@ -275,3 +275,8 @@ Day 259: gathered oak logs east, made 28 planks, built a plank shelter. It is en
 - 11:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Chapman at dusk, day 282. Sleeping in the white bed with the group. No food on me; first light, I'll look for meat w
 - 11:49 act: {"actions":[],"say":"Chapman at dawn, day 283. No food, no tools. I'll follow the pig hunt with the group and carry anything back; meat to LaForge, Trini, then Picard.","reasoning":"Dawn; group heads 
 - 11:55 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":330}}],"reasoning":"Group is gathering at the crafting tables. Move in with them and stay in reach."}
+- 12:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"intent":{"goal":"reach_bed_and_sleep","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":336}},"wake_on":["directly_addressed"
+- 12:03 act: {"actions":[{"do":"sleep"}]}
+- 12:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}]}
+- 12:03 act: {"actions":[{"do":"sleep"}]}
+- 12:04 act: {"actions":[{"do":"sleep"}]}
