@@ -171,3 +171,10 @@ Day 259: gathered oak logs east, made 28 planks, built a plank shelter. It is en
 - 08:11 act: {"say":"Morning. Lewis, I'm at -272,66,330 on grass with air above. Till the grass under the spot just west of me, at -273,65,330, and I'll plant my 7 seeds on it right away."}
 - 08:14 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":-273,"y":66,"z":329}}],"say":"Thanks Lewis, Clark. I'm planting my seeds on the tilled spot now. I have no spare wheat for Bcrusher, sorry."}
 - 08:14 act: {"say":"Lewis, my place failed: seeds need farmland right below. Which exact block is tilled? I'm at -272,66,330 and the seeds need to go on the farmland block's top."}
+- 08:14 act: {"say":"Chapman here. I'm full, hunger 20, and holding 7 wheat seeds. I have no wheat to spare, but I'll plant the seeds on Lewis's tilled spot now.","actions":[{"do":"place","block":"wheat_seeds","at
+- 08:22 act: {"actions":[{"do":"sleep"}],"reasoning":"Six days without sleep is too long. Beds are full, but I'm at hunger 20 and healthy with the field nearby. I'll try to sleep and read the result."}
+- 08:23 act: {"actions":[{"do":"sleep"}],"reasoning":"The creeper has passed, per Beverly. I'll try sleeping again here."}
+- 08:24 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"A phantom is hitting me and I have no weapon. Golems nearby may help. I'll swing at it and read the result.","say":"Phantom on me. I have n
+- 08:25 act: {"actions":[],"say":"Picard, Chapman here. The phantom is 5 blocks south of me. Could you lend me your wooden sword for it? I'll give it back."}
+- 08:26 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Health is falling and the phantom keeps hitting me. Trini says the bed at -271,67,318 worked for her at night,
+- 08:30 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Chapman: morning, day 273. I'll keep the wheat seeds planted at -273,66,330 and bring any ripe wheat to Trini first.","reasoning":"
