@@ -109,3 +109,4 @@ Day 259: gathered oak logs east, made 28 planks, built a plank shelter. It is en
 - 06:21 act: {"say":"Thank you, Bcrusher. I'll eat it now.","actions":[{"do":"eat"}]}
 - 06:21 act: {"say":"Ate the beef, hunger is up to 19. It's night, so I'm going to try the white bed to sleep.","actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
 - 06:21 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 06:23 act: {"say":"Chapman here at the white beds, health 11, hunger 16. No food on me. Meat goes to whoever is weakest.","intent":{"goal":"hold_with_group_until_dawn","program":"rest","arguments":{},"wake_on":[
