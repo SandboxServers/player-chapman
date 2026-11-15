@@ -23,3 +23,7 @@
 - 15:32 act: {"say":"Iron golem 2 blocks west of me. Stepping east away from it.","intent":{"goal":"step_away_from_golem","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":333}},"wake_on":["directly_ad
 - 15:32 act: {"say":"Golems are closing in. Going back to the group. Data, I am following you.","intent":{"goal":"rejoin_group","program":"follow","arguments":{"target":"ag_data_01"},"wake_on":["directly_addressed
 - 15:33 act: {"say":"Back with the group. Data, where is the ripe wheat? Anyone with food, weakest first. I can trade my 8 logs for food."}
+- 15:34 say: {"text":"Chapman, midday 294. No food, hunger 19. I have 8 oak logs to trade for meat or wheat. Data, I'll follow you to the south farm."}
+- 15:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}},{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Chapman going to the white bed for the night with the group. No food, 8 
+- 15:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}},{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 15:42 act: {"intent":{"goal":"wait_out_night_with_group","program":"trade_wait","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1800,"max_block_op
