@@ -75,3 +75,24 @@ Day 259: gathered oak logs east, made 28 planks, built a plank shelter. It is en
 - 05:46 act: {"actions":[{"do":"sleep"}],"reasoning":"Already at the bed; the use was wrong, so sleep directly."}
 - 05:46 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"sleep"}],"reasoning":"First bed was blocked. Move to the other bed and try sleep there."}
 - 05:47 act: {"actions":[],"intent":{"goal":"rest_with_group_until_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":6000,
+- 05:50 say: {"text":"Chapman, dawn of day 265. Hunger 17, no food. I hold 7 planks and logs; I'll take a look at the wandering trader for food."}
+- 05:50 act: {"actions":[{"do":"goto","target":{"x":-274,"y":67,"z":346}}],"intent":{"goal":"reach_trader_for_food","program":"travel","arguments":{"target":{"x":-274,"y":67,"z":346}},"wake_on":["goal_completed","
+- 05:50 say: {"text":"Trader, I have 7 oak planks and some logs. Do you sell any food? Bread or meat for planks."}
+- 05:51 act: {"actions":[{"do":"goto","target":{"x":-272,"y":66,"z":343}}],"intent":{"goal":"reach_trader_for_food","program":"travel","arguments":{"target":{"x":-272,"y":66,"z":343}},"wake_on":["goal_completed","
+- 05:51 act: {"actions":[{"do":"goto","target":{"x":-267,"y":66,"z":347}},{"do":"use","entity":"wandering_trader"}]}
+- 05:51 say: {"text":"Trader, I offer 7 oak planks for bread or meat. What do you have?"}
+- 05:55 act: {"actions":[{"do":"goto","target":{"x":-276,"y":66,"z":302}}],"intent":{"goal":"join_group_at_sheep","program":"travel","arguments":{"target":{"x":-276,"y":66,"z":302}},"wake_on":["goal_completed","di
+- 05:57 act: {"actions":[{"do":"goto","target":{"x":-266,"y":66,"z":324}}],"intent":{"goal":"return_to_group_at_wheat","program":"travel","arguments":{"target":{"x":-266,"y":66,"z":324}},"wake_on":["goal_completed
+- 06:00 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"goto","target":{"x":-271,"y":67,"z":335}}]}
+- 06:00 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}},{"do":"use","at":{"x":-271,"y":67,"z":336}}]}
+- 06:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}},{"do":"use","at":{"x":-270,"y":67,"z":336},"item":"oak_planks"}]}
+- 06:01 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"hold_position_and_survive_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wo
+- 06:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"use","at":{"x":-271,"y":67,"z":326}}],"say":"Heading to the yellow bed at -271,67,326 to sleep. Health 12, no food.","intent":{"goal
+- 06:01 act: {"actions":[{"do":"sleep"}]}
+- 06:02 act: {"actions":[],"say":"No food; the golems block sleep. I'm staying still in the open until dawn, then I'll look for food with the group.","intent":{"goal":"wait_out_night_still","program":"rest","argum
+- 06:04 act: {"actions":[{"do":"goto","target":{"x":-276,"y":66,"z":300}}],"say":"Morning. No food on me. I'm heading north-west to the sheep spot with Tommy and Wesley.","intent":{"goal":"reach_sheep_spot_for_foo
+- 06:05 act: {"actions":[{"do":"goto","target":{"x":-280,"y":69,"z":293}},{"do":"sleep"}],"say":"No sheep here. Trying the yellow bed to the north-west to sleep."}
+- 06:07 act: {"actions":[{"do":"goto","target":{"x":-280,"y":69,"z":293}},{"do":"sleep"}]}
+- 06:08 act: {"actions":[{"do":"goto","target":{"x":-297,"y":68,"z":294}},{"do":"sleep"}]}
+- 06:08 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}]}
+- 06:08 act: {"actions":[],"say":"Worf, Lewis, I'm at 8 health and starving. Worf, could I have your rotten flesh? I'll share what I find."}
