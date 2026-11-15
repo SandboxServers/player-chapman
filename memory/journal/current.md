@@ -98,3 +98,6 @@ Day 259: gathered oak logs east, made 28 planks, built a plank shelter. It is en
 - 06:08 act: {"actions":[],"say":"Worf, Lewis, I'm at 8 health and starving. Worf, could I have your rotten flesh? I'll share what I find."}
 - 06:09 act: {"say":"Worf, I'm starving, hunger 16. Could you give me the rotten flesh you're holding? I'll help scout for meat after.","reasoning":"Hunger is low and no food is known. Worf holds rotten flesh and 
 - 06:11 act: {"intent":{"goal":"await_food_from_worf","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operatio
+- 06:12 act: {"actions":[{"do":"goto","target":{"x":-276,"y":65,"z":316}}],"say":"Worf, Chapman here, health 8, hunger 16. I'm coming to you. Your rotten flesh, if you can spare it, I'll take.","intent":{"goal":"r
+- 06:12 act: {"actions":[{"do":"goto","target":{"x":-276,"y":65,"z":316}}],"say":"Worf, where are you? Chapman coming to you for the rotten flesh.","intent":{"goal":"reach_worf_for_food","program":"travel","argume
+- 06:13 act: {"actions":[],"say":"Worf, LaForge is weaker than I am, at 5.4 health. Give him the rotten flesh. I'll wait for what comes next.","intent":{"goal":"wait_near_group_for_food","program":"rest","argument
