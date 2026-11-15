@@ -20,3 +20,6 @@ Day 259: gathered oak logs east, made 28 planks, built a plank shelter. It is en
 - 04:19 act: {"intent":{"goal":"scout_west_for_food","program":"travel","arguments":{"target":{"x":-360,"y":69,"z":372}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],
 - 04:19 act: {"intent":{"goal":"return_to_beds_for_night","program":"travel","arguments":{"target":{"x":-283,"y":69,"z":371}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_fail
 - 04:20 act: {"say":"Chapman here, health 20, hunger 20, no food on me either. Staying at the yellow beds for the night. Billy, tell me if anyone finds food.","intent":{"goal":"rest_at_beds_until_night","program":
+- 04:29 act: {"intent":{"goal":"join_group_at_yellow_beds","program":"travel","arguments":{"target":{"x":-275,"y":69,"z":362}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_comple
+- 04:29 act: {"actions":[{"do":"goto","target":{"x":-279,"y":69,"z":366}}],"say":"Chapman here at the yellow beds. Worf, health 4.8 by your word: you need food most now. I have none, but I'm searching for animals 
+- 04:33 act: {"actions":[],"say":"Chapman at the yellow beds, midday day 261. I have no food, only planks, logs and dirt. Tommy, keep the porkchop and beef for Worf and Trini. Skeletons killed Macdonald south-west
