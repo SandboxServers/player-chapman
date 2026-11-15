@@ -1,4 +1,6 @@
-Handoff, night 301 (latest). Chapman asleep at the north white beds (-270,67,334) with the group; days_since_sleep 0, so sleep worked. Health 13, hunger 16, no food. Chicken given toward Bcrusher (he ate it). Pack: 8 oak_log, wooden_sword, 2 stick, oak_sapling. Next: at dawn call out, look for meat with the group; give to the lowest in reach first.
+Handoff, night 302 (latest). Chapman at the yellow beds near (-262,67,353), health 5, hunger 15, no food. Both yellow bed uses refused ("that block is a bed") from this side; the white bed refused earlier too. Jason (health 2) and LaForge are in reach. Zack holds 1 mutton and is going to Jason first. Pack: 8 oak_log, wooden_sword, 2 stick, oak_sapling. days_since_sleep 1. Next: take food only if given; try a bed from another side (south of yellow bed -263,67,354) at night; at dawn look for meat, give to the lowest in reach first.
+
+Older, night 301. Chapman asleep at the north white beds (-270,67,334) with the group; sleep worked. Health 13, hunger 16, no food.
 
 Older, night 299. Chapman at (-271,67,316), north of the white beds, health 19, hunger 17, no food. Pack: 8 oak_log, wooden_sword, 2 stick, oak_sapling. The white bed refused from south, west and north ("that block is a bed"): do not try it again. days_since_sleep 4. Zack, Trini, Jason and Worf are nearby with the golems. Session ended during a wait. Next: at dawn try the yellow bed near -263,67,353 to sleep; take any food from the hunt, weakest first.
 
