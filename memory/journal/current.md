@@ -15,3 +15,11 @@
 - 15:10 act: {"actions":[{"do":"goto","target":{"x":-213,"y":69,"z":351}}],"say":"Chapman at dawn. I have 8 oak logs and no food, hunger 20. Heading to the pig area with the group. Any meat goes to Zack and the hu
 - 15:13 act: {"actions":[],"say":"Chapman: no pigs here, I see none either. Leonardo, where is the ripe wheat? I will come and trade my 8 oak logs for any food."}
 - 15:16 act: {"actions":[{"do":"goto","target":{"x":-334,"y":64,"z":229}}],"say":"Chapman heading to the cow spot at -334,64,229 to look. Calling out any meat I see.","intent":{"goal":"travel_to_cow_spot","program
+- 15:17 act: {"say":"Chapman here, no food, hunger 19. I have 8 oak logs to trade for food. Leonardo, where is the ripe wheat? I am heading to the white beds.","intent":{"goal":"travel_to_white_beds","program":"tr
+- 15:18 act: {"say":"Leonardo, Chapman here, hunger 19 with no food. Where is the ripe wheat? I have 8 oak logs and will trade them for food.","actions":[{"do":"note","text":"At white beds -270,67,336 with Leonard
+- 15:22 act: {"say":"Data, Leonardo says you know the way to the south farm wheat. I am in reach with 8 oak logs to trade. Will you show me the way?"}
+- 15:24 act: {"say":"Chapman at the white bed with the group for the night. No food. At dawn I'll go with Data to the south farm for the wheat."}
+- 15:32 act: {"say":"Chapman going to the south farm with Data. I'll look at the wheat and call out anything edible.","intent":{"goal":"reach_south_farm","program":"travel","arguments":{"target":{"x":-273,"y":66,"
+- 15:32 act: {"say":"Iron golem 2 blocks west of me. Stepping east away from it.","intent":{"goal":"step_away_from_golem","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":333}},"wake_on":["directly_ad
+- 15:32 act: {"say":"Golems are closing in. Going back to the group. Data, I am following you.","intent":{"goal":"rejoin_group","program":"follow","arguments":{"target":"ag_data_01"},"wake_on":["directly_addressed
+- 15:33 act: {"say":"Back with the group. Data, where is the ripe wheat? Anyone with food, weakest first. I can trade my 8 logs for food."}
