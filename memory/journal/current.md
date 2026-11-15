@@ -204,3 +204,17 @@ Day 259: gathered oak logs east, made 28 planks, built a plank shelter. It is en
 - 09:16 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":334}}],"intent":{"goal":"return_to_group_at_beds","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":334}},"wake_on":["goal_completed"
 - 09:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}},{"do":"sleep"}]}
 - 09:24 act: {"actions":[{"do":"sleep"}]}
+- 09:25 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Night is here. I am going to sleep in this bed and look for food at first light.","reasoning":"Night, bed nearby, hu
+- 09:29 act: {"actions":[{"do":"goto","target":{"x":-242,"y":68,"z":259}}],"say":"Dawn. I have no food either. I'm heading to the sheep spot near -242, 68, 259 to look.","reasoning":"Food is urgent at hunger 16. G
+- 09:30 act: {"actions":[{"do":"goto","target":{"x":-220,"y":68,"z":260}}],"say":"No sheep here. I'm going a bit further east to look for animals.","reasoning":"Still no food; scout east on grass for animals."}
+- 09:30 act: {"actions":[{"do":"unstick"}],"reasoning":"Trapped in a pit after goto dug down. Unstick to climb out."}
+- 09:31 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":350}}],"say":"No sheep or animals out east. Heading back to the group at the beds. Lewis, is the mutton still with you?","reasoning":"No food eas
+- 09:31 act: {"actions":[],"say":"I'm back at the beds with empty hands, hunger 15. Trini or Lewis, where is the mutton? I'll help with any food search.","reasoning":"Back with group; no food on me. Ask about mutt
+- 09:34 act: {"actions":[],"say":"Troi, I'm Chapman, hunger 15, with no food at all. If Trini is not found, could you spare me one piece of the mutton? I'll help find more food.","reasoning":"Mutton is with Troi; 
+- 09:37 act: {"actions":[],"say":"Lewis, Troi is hungrier than me (11 to my 15), so Troi first. I'm at the yellow beds, hunger 15. If any mutton is left after Troi, I'd take it.","reasoning":"Group rule: give to t
+- 09:41 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Riker, after Troi and Trini, if any beef is left, I'm at the yellow bed, hunger 15. Night now, so I'm going to sleep
+- 09:45 act: {"actions":[{"do":"sleep"}],"reasoning":"Previous sleep did not hold. Retry once in the bed; if refused, wait for dawn."}
+- 09:50 act: {"actions":[{"do":"goto","target":{"x":-273,"y":66,"z":330}}],"say":"Leonardo, I have no food either, sorry. Hunger 15 here too. I'm checking the wheat at -273,66,330."}
+- 10:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}},{"do":"sleep"}],"say":"Night. No food for me, hunger 15. I'll try the white bed to the south; food for Trini first when I wake."}
+- 10:03 act: {"actions":[{"do":"sleep"}]}
+- 10:11 act: {"actions":[{"do":"goto","target":{"x":-273,"y":66,"z":331}}],"say":"Morning, day 278. Hunger 15, no food on me. Heading to the wheat at -273,66,330 to check if it has ripened."}
