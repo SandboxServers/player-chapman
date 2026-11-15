@@ -118,3 +118,4 @@
 - 19:24 act: {"actions":[{"do":"goto","target":{"x":-269,"y":67,"z":334}}],"say":"Chapman: sleep blocked again at the bed. I'm walking to the group at the white beds to stay with them through the night."}
 - 19:27 act: {"actions":[{"do":"note","text":"Night 305: Picard gave me 2 raw chickens, now 3. Health 3, hunger 13. Eat at hunger 6 or below. Sleep blocked twice; staying by the white beds with Worf, Data, Picard,
 - 19:31 act: {"actions":[{"do":"note","text":"Morning 306. Health 3, hunger 13, 3 raw chickens. Eat at hunger 6. Group scouting east for meat, meat goes to me first."}],"say":"Morning 306. Chapman, health 3, hunge
+- 19:39 act: {"intent":{"goal":"rest_near_group","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operations":1
