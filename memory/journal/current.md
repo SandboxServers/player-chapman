@@ -7,3 +7,11 @@
 - 14:59 act: {"intent":{"goal":"travel_to_group","program":"travel","arguments":{"target":{"x":-270,"y":66,"z":335}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks
 - 14:59 act: {"actions":[{"do":"goto","target":"ag_lewis_01"}],"say":"Chapman here, back from the woods. I'm very hungry and have no food. Does anyone have spare food to share? I have 8 oak logs to trade."}
 - 15:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"say":"No food for me either. I'm going to the white bed to sleep with the group. I have 8 oak logs; call out any meat at dawn."}
+- 15:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"say":"Chapman here. I have 8 oak logs, no food. Going to the white bed with the group. Call out any meat at dawn.","intent":{"goal":"reac
+- 15:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}},{"do":"sleep"}],"intent":{"goal":"sleep_at_white_bed","program":"rest","arguments":{"bed":{"x":-271,"y":67,"z":336}},"wake_on":["directly_a
+- 15:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"use","at":{"x":-271,"y":67,"z":336}}]}
+- 15:04 act: {"actions":[{"do":"sleep"}]}
+- 15:04 act: {"actions":[],"intent":{"goal":"wait_out_night_with_group","program":"trade_wait","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1800,
+- 15:10 act: {"actions":[{"do":"goto","target":{"x":-213,"y":69,"z":351}}],"say":"Chapman at dawn. I have 8 oak logs and no food, hunger 20. Heading to the pig area with the group. Any meat goes to Zack and the hu
+- 15:13 act: {"actions":[],"say":"Chapman: no pigs here, I see none either. Leonardo, where is the ripe wheat? I will come and trade my 8 oak logs for any food."}
+- 15:16 act: {"actions":[{"do":"goto","target":{"x":-334,"y":64,"z":229}}],"say":"Chapman heading to the cow spot at -334,64,229 to look. Calling out any meat I see.","intent":{"goal":"travel_to_cow_spot","program
