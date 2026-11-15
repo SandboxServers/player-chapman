@@ -23,3 +23,15 @@ Day 259: gathered oak logs east, made 28 planks, built a plank shelter. It is en
 - 04:29 act: {"intent":{"goal":"join_group_at_yellow_beds","program":"travel","arguments":{"target":{"x":-275,"y":69,"z":362}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_comple
 - 04:29 act: {"actions":[{"do":"goto","target":{"x":-279,"y":69,"z":366}}],"say":"Chapman here at the yellow beds. Worf, health 4.8 by your word: you need food most now. I have none, but I'm searching for animals 
 - 04:33 act: {"actions":[],"say":"Chapman at the yellow beds, midday day 261. I have no food, only planks, logs and dirt. Tommy, keep the porkchop and beef for Worf and Trini. Skeletons killed Macdonald south-west
+- 04:36 act: {"say":"Chapman here, health 20, hunger 20, no food. I have planks, logs and dirt to trade. Lewis, Macdonald: I'll go with the group for food in daylight, not alone.","intent":{"goal":"wait_for_food_n
+- 04:41 act: {"say":"Chapman at dusk, day 261. No food found, health 20, hunger 20. Going to my bed by the beds for the night.","actions":[{"do":"goto","target":{"x":-283,"y":69,"z":371}},{"do":"use","at":{"x":-28
+- 04:43 act: {"actions":[{"do":"sleep"}],"say":"Chapman going to sleep at the yellow bed. Morning, food with the group."}
+- 04:43 act: {"actions":[{"do":"goto","target":{"x":-283,"y":69,"z":370}},{"do":"sleep"}],"intent":{"goal":"reach_bed_and_sleep","program":"travel","arguments":{"target":{"x":-283,"y":69,"z":370}},"wake_on":["dire
+- 04:46 act: {"actions":[{"do":"goto","target":{"x":-279,"y":67,"z":366}}],"intent":{"goal":"walk_to_yellow_beds_by_crafting_table","program":"travel","arguments":{"target":{"x":-279,"y":67,"z":366}},"wake_on":["d
+- 04:46 act: {"actions":[{"do":"goto","target":{"x":-282,"y":69,"z":370}},{"do":"sleep"}]}
+- 04:47 act: {"actions":[{"do":"use","at":{"x":-294,"y":69,"z":350}},{"do":"sleep"}]}
+- 04:47 act: {"actions":[{"do":"goto","target":{"x":-292,"y":69,"z":352}},{"do":"sleep"}]}
+- 04:48 act: {"say":"Chapman at dawn, day 261. Sleep was blocked at every bed tonight, so I did not rest. Health 20, hunger 19, still no food. Who is heading out for animals this morning? I can carry for the group
+- 04:52 act: {"say":"Chapman joining the west search with the group, in sight. No food on me. Any meat goes to Worf, then Trini.","intent":{"goal":"join_west_animal_search","program":"travel","arguments":{"target"
+- 04:52 act: {"say":"Chapman here with the group at -285,66,318. No food. Billy, I'll follow you west in sight.","intent":{"goal":"follow_billy_west_search","program":"follow","arguments":{"target":"ag_billy_01"},
+- 04:53 act: {"say":"Chapman lost sight of Billy. Heading back to the group at -300,66,319. Something drew a bow to the north-east.","intent":{"goal":"rejoin_group_west","program":"travel","arguments":{"target":{"
