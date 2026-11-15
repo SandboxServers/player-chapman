@@ -119,3 +119,8 @@
 - 19:27 act: {"actions":[{"do":"note","text":"Night 305: Picard gave me 2 raw chickens, now 3. Health 3, hunger 13. Eat at hunger 6 or below. Sleep blocked twice; staying by the white beds with Worf, Data, Picard,
 - 19:31 act: {"actions":[{"do":"note","text":"Morning 306. Health 3, hunger 13, 3 raw chickens. Eat at hunger 6. Group scouting east for meat, meat goes to me first."}],"say":"Morning 306. Chapman, health 3, hunge
 - 19:39 act: {"intent":{"goal":"rest_near_group","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operations":1
+- 19:42 act: {"actions":[{"do":"sleep"}],"say":"Chapman here, night, health 3, hunger 13. Holding 3 chickens for when hunger drops. Trying the bed again.","reasoning":"Health is low and it is night. Stay with the 
+- 19:44 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Chapman at the yellow bed with Jason and Kimberly, health 3, hunger 13. Leonardo, I'll give you a chicken once my hunger 
+- 19:48 act: {"actions":[],"say":"Chapman, dawn 306, health 3, hunger 13. I hold 3 raw chickens for the lowest. I'll eat one at hunger 6.","intent":{"goal":"hold_with_group_until_hunger_6","program":"wait","argume
+- 19:49 act: {"actions":[],"say":"Chapman, dawn 306, health 3, hunger 13. I hold 3 raw chickens for the lowest; I'll eat one at hunger 6.","intent":{"goal":"hold_with_group_until_hunger_6","program":"trade_wait","
+- 19:53 say: {"text":"Chapman, day 307, health 3, hunger 13. Three chickens held. Riker and Leonardo, I'll eat one at hunger 6 and give the next to whoever is lowest in reach."}
