@@ -267,3 +267,7 @@ Day 259: gathered oak logs east, made 28 planks, built a plank shelter. It is en
 - 11:23 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-326,"y":64,"z":273}},{"do":"place","block":"dirt","at":{"x":-324,"y":64,"z":273}},{"do":"place","block":"dirt","at":{"x":-325,"y":64,"z":272}},{"do"
 - 11:23 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"}],"say":"Health 4. I'm fighting the phantom, anyone near, please help."}
 - 11:23 say: {"text":"Worf, I died at the salmon lake to a phantom and I'm back here with an empty pack. Do you have food or a spare sword?"}
+- 11:27 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Data, Jason, Trini: I'm back by the yellow beds with nothing in my pack. I'll sleep here near the group and go for food a
+- 11:28 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"reasoning":"First sleep attempt left no effect. Retry once in the bed beside the group."}
+- 11:28 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"reasoning":"The use on the bed failed. Step onto the bed and try sleep from there."}
+- 11:28 act: {"actions":[],"say":"Dawn. I slept a little by the white beds. I have no food and no tools; if anyone finds ripe wheat or spare food, I'd be grateful, after Trini and Picard.","reasoning":"Dawn, empty
