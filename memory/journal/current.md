@@ -271,3 +271,7 @@ Day 259: gathered oak logs east, made 28 planks, built a plank shelter. It is en
 - 11:28 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"reasoning":"First sleep attempt left no effect. Retry once in the bed beside the group."}
 - 11:28 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"reasoning":"The use on the bed failed. Step onto the bed and try sleep from there."}
 - 11:28 act: {"actions":[],"say":"Dawn. I slept a little by the white beds. I have no food and no tools; if anyone finds ripe wheat or spare food, I'd be grateful, after Trini and Picard.","reasoning":"Dawn, empty
+- 11:28 act: {"actions":[],"say":"Chapman here, day 282, dawn. Still no food and no tools. I'll stay with the group and go out with anyone who is hunting.","reasoning":"Group is out foraging and Trini gets food fi
+- 11:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Chapman at dusk, day 282. Sleeping in the white bed with the group. No food on me; first light, I'll look for meat w
+- 11:49 act: {"actions":[],"say":"Chapman at dawn, day 283. No food, no tools. I'll follow the pig hunt with the group and carry anything back; meat to LaForge, Trini, then Picard.","reasoning":"Dawn; group heads 
+- 11:55 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":330}}],"reasoning":"Group is gathering at the crafting tables. Move in with them and stay in reach."}
