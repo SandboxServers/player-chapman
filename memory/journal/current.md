@@ -299,3 +299,13 @@ Day 259: gathered oak logs east, made 28 planks, built a plank shelter. It is en
 - 12:57 act: {"actions":[],"say":"Thank you, Macdonald, I have the wooden sword. I have no food; Lewis first, then the rest."}
 - 13:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}]}
 - 13:01 act: {"actions":[{"do":"sleep"}]}
+- 13:07 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"reasoning":"Night, 20 days since sleep. Bed is adjacent. Move onto it, then sleep in a separate call."}
+- 13:07 act: {"actions":[{"do":"sleep"}],"reasoning":"I am on the bed at -271,67,336. Try to sleep now.","say":"Chapman on the bed at -271,67,336, trying to sleep. Health 20, hunger 20, no food to share."}
+- 13:09 act: {"actions":[{"do":"note","text":"Dawn day 286: sleep refused by a creeper 10 blocks off. No food in pack. Troi hunger 9 is nearest and hungriest."}],"reasoning":"Dawn. Sleep failed for lack of quiet. 
+- 13:09 act: {"actions":[{"do":"goto","target":{"x":-248,"y":67,"z":336}}],"reasoning":"Scout east, an unexplored direction, for animals or wheat. Food goes to Troi first.","say":"Chapman scouting east for meat or
+- 13:09 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"reasoning":"Dusk. Return to the white beds to try sleep, away from the open grass."}
+- 13:09 act: {"actions":[{"do":"sleep"}],"reasoning":"On the bed at -270,67,336. Try to sleep."}
+- 13:17 act: {"actions":[{"do":"goto","target":{"x":-246,"y":68,"z":337}}],"reasoning":"Try a different way to find food: break oak leaves for an apple chance, away from the golems. Any apple goes to Lewis or LaFo
+- 13:17 act: {"actions":[{"do":"mine","block":"oak_leaves","count":3}],"reasoning":"Break the nearby oak leaves for an apple chance, a different try from the earlier scout."}
+- 13:18 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"reasoning":"Leaves gave no apples. Return to the beds for night and sleep.","say":"Chapman: no apples from the leaves east. Back to the b
+- 13:22 act: {"actions":[{"do":"sleep"}],"reasoning":"Night has come, I am on the white bed at -270,67,336, health 20. Golems 3-4 blocks away may block it, but this is the chance to try.","say":"Night, day 287. No
