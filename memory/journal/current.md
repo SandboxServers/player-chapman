@@ -114,3 +114,45 @@ Day 259: gathered oak logs east, made 28 planks, built a plank shelter. It is en
 - 06:30 act: {"say":"Chapman here, health 11, hunger 16, no food. Billy, Lewis, has anyone found meat or wheat? I have 7 oak planks to trade.","intent":{"goal":"find_food_with_billy","program":"follow","arguments"
 - 06:31 act: {"say":"Billy, Lewis: no food in these beds area, I'm out too. Troi is checking leaves for apples. If you find meat or apples, I'll trade planks or logs for it.","intent":{"goal":"wait_for_food_news_n
 - 06:36 act: {"actions":[{"do":"mine","block":"oak_leaves","count":4}],"say":"I'll try breaking oak leaves for apples too. Billy gets any apple first.","reasoning":"Leaves may drop apples. Try a way nobody has tri
+- 06:39 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}],"say":"Chapman: no food on me either. Going to the white bed with the group for the night. Billy first for any food.","reas
+- 06:41 act: {"actions":[{"do":"use","at":{"x":-298,"y":68,"z":294}},{"do":"sleep"}],"say":"Chapman: phantoms are on us. I'm getting into the bed now.","reasoning":"Phantoms attacking at night; bed one south is th
+- 06:41 act: {"actions":[{"do":"sleep"}],"reasoning":"Bed click failed; try sleeping where I stand beside the bed in case the bed is in reach."}
+- 06:42 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"Health falling under phantom attack with no sword; hit the attacker with the stick I hold."}
+- 06:42 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1},{"do":"attack","target":"phantom"}],"reasoning":"Health 3. A table is three blocks away and I have sticks and planks; a sword is the best ans
+- 06:48 act: {"actions":[{"do":"goto","target":{"x":-298,"y":70,"z":294}}],"say":"Chapman: dawn. I'm going back to the white bed to get my things from where I died.","reasoning":"Daylight now. Retrieve my dropped 
+- 06:48 act: {"actions":[{"do":"goto","target":{"x":-298,"y":70,"z":294}}],"say":"Chapman: my things were at -298,70,294. My inventory is still empty. If anyone sees my planks, dirt or logs there, please tell me."
+- 06:48 act: {"actions":[{"do":"mine","block":"oak_log","count":4}],"say":"Chapman: my dropped things are gone. I'm starting over with wood from the oak logs here, then I'll look for food with the group.","intent"
+- 06:52 act: {"actions":[{"do":"goto","target":{"x":-300,"y":66,"z":319}}],"say":"Chapman, full health, no food, no tools. Joining the group west to look for animals. Any meat: Trini and Kimberly first.","reasonin
+- 06:53 act: {"actions":[{"do":"goto","target":{"x":-288,"y":74,"z":322}},{"do":"mine","block":"oak_log","count":4}],"say":"Chapman with the group. I'm getting wood from the oak logs away from the water, to the ea
+- 06:53 act: {"actions":[{"do":"craft","item":"oak_planks","count":8},{"do":"craft","item":"crafting_table","count":1}],"reasoning":"Four logs in hand. Planks first, then a table to craft tools with."}
+- 06:53 act: {"actions":[{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}],"reasoning":"Table placed; make sticks and a woo
+- 06:53 act: {"actions":[{"do":"goto","target":{"x":-255,"y":66,"z":330}}],"reasoning":"West has been searched with nothing. Try a new direction, east, and call out any animal seen."}
+- 06:53 act: {"actions":[{"do":"goto","target":{"x":-240,"y":66,"z":300}}],"say":"Chapman: a horse is near -262,66,322, and two iron golems to the west at -276,334. No cow or pig seen yet. Scouting north-east.","r
+- 06:54 act: {"actions":[{"do":"goto","target":{"x":-215,"y":68,"z":290}}],"reasoning":"Keep scouting east-north-east for animals, a new direction from the west search."}
+- 06:54 act: {"actions":[{"do":"goto","target":{"x":-190,"y":68,"z":270}}],"say":"Scouting north-east for animals. Will call out anything I find.","reasoning":"No food nearby. Explore an unvisited direction for an
+- 06:54 act: {"actions":[{"do":"attack","target":"zombie"}],"reasoning":"A zombie is attacking me from the north while I stand in water. Fight it with the wooden sword."}
+- 06:55 act: {"actions":[{"do":"goto","target":{"x":-204,"y":68,"z":290}}],"say":"I am being hit by something I cannot see. Moving out of the water to the east.","reasoning":"Health 7 and falling under unseen hits
+- 06:55 act: {"actions":[{"do":"goto","target":{"x":-216,"y":68,"z":290}}],"reasoning":"Still on a small dirt island in water at 7 health. Try the known grass land I came from to the north-east; if it fails, use u
+- 06:55 act: {"actions":[{"do":"goto","target":{"x":-228,"y":68,"z":282}}],"reasoning":"Grass here is below the land I know. Head toward the sign at (-228,69,280), the dry land north-west, away from the water."}
+- 06:55 act: {"actions":[{"do":"unstick"}],"reasoning":"Two gotos failed with the way blocked by water on every side. Use unstick to get free."}
+- 06:55 act: {"actions":[{"do":"goto","target":{"x":-228,"y":68,"z":282}}],"reasoning":"I am now in water, air 19 and falling. Swim toward the dry land to the north-west."}
+- 06:55 act: {"actions":[{"do":"goto","target":{"x":-216,"y":68,"z":290}}],"reasoning":"Enclosed by stone on the west side. Try the land to the south-east where I walked in from earlier."}
+- 06:55 act: {"actions":[{"do":"craft","item":"oak_planks","count":2}],"reasoning":"Land routes keep failing from this island. Make planks so I can bridge over the water if needed."}
+- 06:56 act: {"actions":[{"do":"goto","target":{"x":-201,"y":57,"z":292}}],"reasoning":"I reached dry dirt at (-201,57,292) earlier. Try to get back there across the shallow edge."}
+- 06:58 act: {"actions":[{"do":"goto","target":{"x":-216,"y":68,"z":290}}],"reasoning":"Weather is clear now. Try the grass land at y=68 again."}
+- 06:58 act: {"actions":[{"do":"craft","item":"oak_planks","count":1},{"do":"craft","item":"crafting_table","count":1},{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"wooden_pickaxe","cou
+- 06:58 act: {"actions":[{"do":"mine","block":"stone","count":6}],"reasoning":"The table under my feet raised me a block. Mine the nearby stone to make steps up toward the grass at y=68."}
+- 06:59 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"}],"reasoning":"Standing on diorite in water at y55. Raise a block under feet to climb, then look.","say":"Stuck in the lake. Trying to climb
+- 06:59 act: {"actions":[{"do":"unstick"}],"reasoning":"Place was blocked. Unstick to get free, then look at where I land."}
+- 06:59 act: {"actions":[{"do":"goto","target":{"x":-215,"y":58,"z":286}}],"reasoning":"Table at y57 sits on the island above. Try to reach it to climb out of the water.","say":"Heading for the little table island
+- 06:59 act: {"actions":[{"do":"mine","block":"stone","count":8}],"reasoning":"On the table island at dusk, out of water. Mine stone to wall myself in against the drowned and the dark."}
+- 07:02 act: {"actions":[{"do":"attack","target":"drowned"}],"reasoning":"A drowned is adjacent and attacking. Fight it with the sword."}
+- 07:02 act: {"actions":[{"do":"attack","target":"drowned"},{"do":"attack","target":"drowned"}],"reasoning":"Health 4, the drowned is adjacent NE. Hit it twice; fleeing through water fails."}
+- 07:03 act: {"actions":[{"do":"goto","target":{"x":-283,"y":69,"z":370}}],"reasoning":"I am back in the lake at 20 health with an empty pack. Head to the land by the beds at the respawn point, away from the water
+- 07:03 act: {"actions":[{"do":"goto","target":{"x":-283,"y":69,"z":370}},{"do":"use","at":{"x":-283,"y":69,"z":371}},{"do":"sleep"}],"reasoning":"Night, on land at the beds with full health and hunger. Try the be
+- 07:05 act: {"actions":[{"do":"goto","target":{"x":-276,"y":69,"z":372}}],"intent":{"goal":"get_clear_of_skeleton","program":"travel","arguments":{"target":{"x":-276,"y":69,"z":372}},"wake_on":["directly_addresse
+- 07:05 act: {"actions":[{"do":"goto","target":{"x":-282,"y":69,"z":370}},{"do":"use","at":{"x":-282,"y":69,"z":371}}],"reasoning":"Health is full, the skeleton is southwest. One more try at the bed; if refused, I
+- 07:07 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":330}}],"intent":{"goal":"rejoin_group_north","program":"travel","arguments":{"target":{"x":-268,"y":67,"z":330}},"wake_on":["directly_addressed",
+- 07:07 act: {"actions":[],"say":"Chapman here. I died last night and lost my pack. Anyone with meat or rotten flesh? I have none. Any sight of cows or pigs?","reasoning":"Rejoined the group near the wheat. I have
+- 07:19 act: {"actions":[{"do":"goto","target":{"x":-265,"y":66,"z":322}},{"do":"mine","block":"wheat","count":1}],"reasoning":"Ripe wheat is at (-265,66,321). Wheat may be the only food near. Harvest one and see 
+- 07:19 act: {"actions":[],"say":"Chapman: I harvested 1 ripe wheat. Bread is unlocked for me: 3 wheat makes bread at a table. I need 2 more wheat. Any wheat, bring it to the table at -268,67,327.","reasoning":"Br
