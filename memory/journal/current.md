@@ -67,3 +67,5 @@
 - 17:58 act: {"actions":[{"do":"note","text":"Back at the beds -268,66,329 with the group. Hunger 16, holding raw chicken for the lowest."}],"say":"Back at the beds. Hunger 16. I hold one raw chicken; anyone at 8 
 - 18:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":334}}],"say":"Dusk. I am going to the white beds with the group for the night. Chicken stays with me for the lowest."}
 - 18:02 act: {"actions":[{"do":"give","to":"ag_bcrusher_01","item":"chicken","count":1}],"say":"Bcrusher, you asked for the chicken at hunger 8. I'm giving it to you. I'm at 16 and can't eat raw meat yet.","intent
+- 18:05 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"chicken","count":1}],"say":"LaForge, you're in reach. Here's my chicken. Eat it, you need it more than I do right now.","reasoning":"Night, hunger
+- 18:05 act: {"actions":[],"intent":{"goal":"hold_with_group_till_dawn","program":"trade_wait","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1800,
