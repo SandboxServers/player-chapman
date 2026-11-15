@@ -13,3 +13,6 @@ Day 259: gathered oak logs east, made 28 planks, built a plank shelter. It is en
 - 04:00 act: {"actions":[{"do":"unstick"}]}
 - 04:00 act: {"intent":{"goal":"reach_beds_at_dusk","program":"travel","arguments":{"target":{"x":-283,"y":69,"z":371}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"
 - 04:01 act: {"actions":[{"do":"use","at":{"x":-283,"y":69,"z":371}},{"do":"sleep"}]}
+- 04:09 act: {"intent":{"goal":"scout_south_for_animals","program":"travel","arguments":{"target":{"x":-283,"y":69,"z":420}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_wor
+- 04:11 say: {"text":"Reached z=420 to the south. No animals in sight here, only logs and stone. Clark has the pig lead to the south-west. I will head back toward the beds and keep watch for food."}
+- 04:11 act: {"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-283,"y":69,"z":371}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks"
