@@ -33,3 +33,7 @@
 - 16:11 act: {"actions":[],"say":"Chapman, dawn 296, no food, hunger 19. Wesley is weakest; Laforge, your wheat goes to him. I'm heading west to the old pig area for meat. I'll call out what I find.","intent":{"go
 - 16:12 act: {"say":"Chapman, no food, hunger 19. I have 8 oak logs for anyone with meat or wheat. Heading back to the white beds group.","actions":[{"do":"goto","target":{"x":-272,"y":67,"z":326}}],"intent":{"goa
 - 16:12 act: {"say":"Chapman at the white beds. Hunger 18, no food. I have 8 oak logs to trade for meat or wheat, to whoever is in reach.","actions":[]}
+- 16:19 act: {"say":"Chapman at the white beds, dawn 296, no food, hunger 18. I still have 8 oak logs for anyone who trades meat or wheat. Wesley gets any food first.","intent":{"goal":"wait_for_food_call","progra
+- 16:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Chapman going to the white bed for the night with the group. No food, 8 
+- 16:23 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 16:31 act: {"intent":{"goal":"follow_worf_west_scout","program":"follow","arguments":{"target":"ag_worf_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400
