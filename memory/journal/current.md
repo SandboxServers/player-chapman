@@ -30,3 +30,6 @@
 - 15:49 act: {"say":"Chapman here, dawn. I have 8 oak logs and no food. I'll trade logs for any spare meat or wheat. Who has food to spare?","actions":[],"reasoning":"Dawn with no food; offer logs aloud as planned
 - 15:51 act: {"actions":[],"say":"Chapman: I'll scout south with Troi and Leonardo for pigs or cows. I have 8 oak logs for anyone who trades meat or wheat, and I'll give to the weakest first.","intent":{"goal":"sc
 - 15:54 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Chapman: no animals seen down here. Heading to the south beds with Billy and Troi, where food is being handed out.","reasoning":"No animals to 
+- 16:11 act: {"actions":[],"say":"Chapman, dawn 296, no food, hunger 19. Wesley is weakest; Laforge, your wheat goes to him. I'm heading west to the old pig area for meat. I'll call out what I find.","intent":{"go
+- 16:12 act: {"say":"Chapman, no food, hunger 19. I have 8 oak logs for anyone with meat or wheat. Heading back to the white beds group.","actions":[{"do":"goto","target":{"x":-272,"y":67,"z":326}}],"intent":{"goa
+- 16:12 act: {"say":"Chapman at the white beds. Hunger 18, no food. I have 8 oak logs to trade for meat or wheat, to whoever is in reach.","actions":[]}
