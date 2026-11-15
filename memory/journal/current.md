@@ -44,3 +44,9 @@
 - 17:01 act: {"intent":{"goal":"return_to_white_beds","program":"travel","arguments":{"target":{"x":-269,"y":67,"z":321}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"]
 - 17:05 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"Phantom right on me, health 18. Fight it with the sword rather than run in the dark."}
 - 17:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":66,"z":316}},{"do":"use","at":{"x":-271,"y":67,"z":318}}],"say":"Night, dim light. I'm trying the white bed from the north side. No food here; Chapman w
+- 17:25 act: {"actions":[{"do":"sleep"}],"reasoning":"Group is close; no mobs in view. Try sleep here once."}
+- 17:26 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":321}}],"say":"Chapman here, hunger 16. I have 8 oak logs to trade for food, and I'm coming to the white beds.","reasoning":"Hungry, away from the
+- 17:26 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":334}}],"say":"Chapman at the white beds, hunger 16. Trini, I'll trade my 8 oak logs for food if you have any spare.","reasoning":"Sleep failed on
+- 17:26 say: {"text":"Chapman at the white beds, hunger 16. Trini, when I drop lower I'll call out. Logs for anyone with food."}
+- 17:31 act: {"actions":[],"say":"Chapman, dawn 300, hunger 16. Picard, Lewis: I'll scout east with you for pigs or cows. Call out any food you find.","intent":{"goal":"scout_east_with_picard","program":"follow","
+- 17:35 say: {"text":"Chapman, hunger 16, no food. Billy, the beef goes to Macdonald and Clark first; I'll call out when I'm lower."}
