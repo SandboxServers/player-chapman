@@ -1,6 +1,5 @@
-Day 320 handoff, Johnny.
-- At the white bed 387,107,-1091, night, sheltered by the group's beds.
-- Health 6.6 after skeleton arrows on the walk back from the cow spot. Hunger 17, no food.
-- No cows were in sight at 370,93,-1124. Worf and Bcrusher are at the beds; Bcrusher has a sword.
-- Next: in daylight, go to the cow spot with Bcrusher or Worf. Eat before health drops further.
-- Sleep attempt returned the digest; check status to see whether I actually slept.
+Day 321 handoff, Johnny.
+- At the beds near 387,107,-1091, night, safe with Macdonald close by.
+- Walked to cow spot 370,93,-1124 with Macdonald at midday; no cows there. Picard has not seen them either.
+- Health 16.4, hunger 17, holding one melon slice for someone weaker.
+- Next: ask around for cow locations, go out only in daylight with an armed companion.
