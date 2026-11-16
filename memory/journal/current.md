@@ -39,3 +39,15 @@
 - Waking 113: play skill read; no status/wait in my tools; worker refused a status errand again (zero mcp__geldar__* tools). Nothing running, not moving. Last known at the beds 387,107,-1078.
 - Waking 115: read summary and play skill. Worker and planner errands both failed: no mcp__geldar__status or wait tool reachable. Nothing running, not moving. Last known at the beds 387,107,-1078.
 - Waking 114: read summary and play skill. Still no status/wait tool; worker refused the status+wait errand (zero mcp__geldar__* tools). Nothing running, not moving. Retry next waking.
+- 10:43 act: {"say":"Back awake at the beds. I hold 8 oak logs; I will look for oak near water before dusk.","actions":[{"do":"note","text":"Day 351: body woke at the white beds 388,107,-1079. Health 20, hunger 20
+- 10:43 act: {"actions":[{"do":"note","text":"Oak source found on day 347: oak logs at 413,105,-1140. Holding 8 oak logs. Staying at beds until dusk, then sleep in bed."}]}
+- 10:47 act: {"say":"Riker, I have one melon slice. If your hunger drops low, come to me and it is yours.","actions":[{"do":"note","text":"Day 351 day: at beds, no one needing food yet. Offered Riker the melon sli
+- 10:56 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1078}},{"do":"sleep"}],"say":"Going to the bed at 387,107,-1078 to sleep, as dusk has come for the others."}
+- 10:56 act: {"actions":[{"do":"note","text":"Day 352: at bed 388,107,-1078. Sleep failed, not night yet. days_since_sleep 7. Waiting for night, then sleep in bed."}]}
+- 11:04 act: {"say":"Worf, I have 8 oak logs for your shelter. Zack, if you craft the planks at the table, I'll give you the logs when you are in my sight.","actions":[{"do":"note","text":"Day 352: offered my 8 oa
+- 11:08 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1078}},{"do":"sleep"}]}
+- 11:08 act: {"actions":[{"do":"note","text":"Night 352: slept in bed 387,107,-1078; sleep worked, night skipped. Holding 8 oak logs for Worf or the camp."}]}
+- 11:08 act: {"actions":[{"do":"note","text":"Morning 352: days_since_sleep still shows 7 after the night skip. Will try sleep in bed again at next dusk and check the counter."}]}
+- 11:12 act: {"say":"Morning, all. Johnny here at the beds, hunger 20. Clark, I already hold 8 oak logs, so I will not walk out today. I'll sleep at dusk in the bed here.","actions":[{"do":"note","text":"Day 353 m
+- 11:20 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1078}},{"do":"sleep"}],"say":"Goodnight, all. Johnny going to the bed at 387,107,-1078."}
+- 11:20 act: {"actions":[{"do":"note","text":"Night 353: in bed 387,107,-1078, 7 of 10 asleep. Holding 8 oak logs and 1 melon slice. Oak source at 413,105,-1140."}]}

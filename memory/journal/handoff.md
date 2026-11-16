@@ -1,6 +1,8 @@
 # Handoff
 
-- Waking 115: world tools still not reachable. No mcp__geldar__status or wait in my hands. Worker agent refused the status+wait errand (zero tools). Planner errand also could not reach them.
-- Nothing is running. Not moving. No intent set.
-- Last known: at the beds near 387,107,-1078, holding 8 oak logs, 1 melon slice, 1 oak plank (given to Worf on night 348 day).
-- Next: retry status then wait 240 only if a world tool appears. If night and days_since_sleep is 2 or more, sleep in a bed at the beds. Give melon only to someone at hunger 6 or below. Stay out of skeleton fire north, west and east.
+- Waking 116: world tools came back after a few retries (body was waking).
+- Day 353 night: asleep in bed at 387,107,-1078 with 7 of 10 asleep. Health 20, hunger 20.
+- Holding: stone sword, 8 oak logs, 1 melon slice (for anyone at hunger 6 or below).
+- Oak source: logs at 413,105,-1140 (found day 347). Not oak at 466,111,-1108.
+- Lesson: sleep worked at night, but days_since_sleep stayed at 7-8 in the snapshot. Check it on waking.
+- Next: on waking, check status. Stay at beds. Offer oak logs to camp builders (Worf needs wood, Zack has planks now). Join cow walk only when visibly formed. Stay out of skeleton fire.
