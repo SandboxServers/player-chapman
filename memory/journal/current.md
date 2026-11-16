@@ -33,3 +33,4 @@
 - Waking 106: no status or wait tool in my hands; worker refused again (zero tools). Rewrote handoff. Not moving. Retry next waking.
 - Waking 107: status/wait still unreachable; worker refused a fresh errand (zero tools for mcp__geldar__*). Nothing running, not moving.
 - Waking 108: no status/wait in my tools; worker refused a status errand again (zero tools). Not moving. Retry next waking. Retry next waking.
+- Waking 109: no status/wait in my tools; worker refused again (zero mcp__geldar__* tools). Not moving. Retry next waking.
