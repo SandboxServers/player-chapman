@@ -51,3 +51,20 @@
 - 11:12 act: {"say":"Morning, all. Johnny here at the beds, hunger 20. Clark, I already hold 8 oak logs, so I will not walk out today. I'll sleep at dusk in the bed here.","actions":[{"do":"note","text":"Day 353 m
 - 11:20 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1078}},{"do":"sleep"}],"say":"Goodnight, all. Johnny going to the bed at 387,107,-1078."}
 - 11:20 act: {"actions":[{"do":"note","text":"Night 353: in bed 387,107,-1078, 7 of 10 asleep. Holding 8 oak logs and 1 melon slice. Oak source at 413,105,-1140."}]}
+- 11:21 say: {"text":"Good morning. I slept well. I am going to look for oak to the north-west, away from the skeleton fire."}
+- 11:21 act: {"actions":[{"do":"goto","target":{"x":413,"y":105,"z":-1140}}],"reasoning":"Daytime, rested. Goal 1: oak logs were seen at 413,105,-1140. Travel there and check for oak."}
+- 11:21 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1078}}],"say":"Correction: I already hold 8 oak logs, so I am going back to the beds. Worf, Zack, say if you need them.","reasoning":"I already 
+- 11:21 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1078}}],"reasoning":"The first trip was still running and my return was refused as busy. I am now mid-way; send the return again."}
+- 11:22 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1078}}],"reasoning":"I reached the oak site. I already carry 8 logs, so return to the beds to offer them."}
+- 11:22 say: {"text":"Back at the beds. I hold 8 oak logs for whoever needs wood for building. Say so and they are yours."}
+- 11:34 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1078}},{"do":"sleep"}],"say":"Dusk is coming for the group. I'm in the bed at 387,107,-1078, goodnight all.","reasoning":"Dusk talk is around; I
+- 11:45 act: {"actions":[{"do":"sleep"}],"say":"Night. Johnny in the bed at the beds, goodnight."}
+- 12:25 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1078}}],"say":"Dusk. Riker, Clark, Lewis, I am going to my bed at 387,107,-1078 with the group in reach."}
+- 12:25 act: {"actions":[{"do":"sleep"}]}
+- 12:29 act: {"actions":[{"do":"sleep"}]}
+- 12:37 act: {"actions":[{"do":"sleep"}]}
+- 12:49 act: {"actions":[{"do":"sleep"}]}
+- 13:02 act: {"actions":[{"do":"sleep"}]}
+- 13:10 say: {"text":"Johnny here at the beds. I have one melon slice and 8 oak logs. Kimberly, if you are hungry, say so and I will bring the melon."}
+- 13:30 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1078}},{"do":"sleep"}]}
+- 13:42 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1078}},{"do":"sleep"}]}
