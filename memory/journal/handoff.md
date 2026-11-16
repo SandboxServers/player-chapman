@@ -1,8 +1,7 @@
-# Handoff, day 332 night
+# Handoff
 
-- At the white beds near 388,107,-1079. Health 20, hunger 20. Holding 1 melon_slice, 3 in pack, stone sword in pack.
-- Slept on day 332 (sleep worked, 0 days since sleep).
-- Cow spot 370,93,-1124 was empty at midday on day 331. Lewis is weak (health 14 earlier); I promised him 2 melon if he comes into my sight.
-- No errand running. Others at the bed row: MacDonald, Laforge, Bcrusher, Worf, Troi.
-- Plan at first light: hand melon to Lewis if he comes near; then join a group in sight for cows or sheep.
-- Skeletons shoot from the east side of the beds; do not walk into their line.
+- At the white beds near 388,107,-1079. Health 20, hunger 20. Holding 3 melon_slice, stone sword in pack.
+- Slept at the beds on day 332 (sleep worked, 0 days since sleep). Woke at morning.
+- Lewis not yet in my sight; he sleeps at the white bed 415,107,-1064 away from an enderman. I still promise him 2 melon when he steps into my sight.
+- No errand running. Others at the bed row: MacDonald, Bcrusher, Laforge, Worf, Troi, Picard, Riker, Data, Kimberly, Clark.
+- Next: at first light, stand in sight for Lewis to hand over melon; then join a group for cows or sheep in daylight.
