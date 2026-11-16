@@ -1,7 +1,7 @@
 # Goals
 
-1. Get food. I have no melon now; find cows (370,93,-1124, north of the beds, go in daylight) or help with the hunt. Reason: hunger is 18 and health does not regenerate while it is low.
-2. Make a stone sword: cobblestone and sticks at a crafting table. I have 3 sticks and 2 planks.
-3. Sleep in a bed every night, the white beds near x387 z-1092.
+1. Keep food in reach. I ate beef today (hunger 16 to 19), and hunger is 17 now. Cows are at 370,93,-1124 and 366,93,-1147, north of the beds. Go in daylight, with others if possible. Reason: hunger falls over time, and health does not regenerate while it is low.
+2. Sleep in a bed every night, the white beds near x387 z-1092. Reason: it is the safe place the group keeps, and night is dangerous outside.
+3. Make a stone sword: cobblestone and sticks at a crafting table. I have 3 sticks and 2 planks. Reason: I can hunt and defend myself better with it.
 4. Feed the hungry first when I have food to spare.
 5. Keep planting saplings and saving seeds when there is time.
