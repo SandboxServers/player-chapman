@@ -1,1 +1,9 @@
 # Journal
+- 00:49 act: {"actions":[{"do":"eat"}],"say":"Worf, thank you for the melon offer. I am eating my slice now. Do you know where cows graze these days?","reasoning":"Hunger is 17 and I hold a melon slice. Ate my melon slice, hunger 17 to 19. Asked Worf where cows graze. Next: find cow locations and cobblestone, go out only in daylight with an armed companion.
+- 00:55 Follow of Macdonald failed (he went out of sight). Asked Picard for chicken; Troi's melon was not in sight, so I stayed at the beds. Hunger 16, health 19.4. Next: wait for the cow walk to be arranged with Macdonald and Bcrusher, in daylight.
+- Eat it, an
+- 00:52 act: {"say":"Macdonald, yes, I am still hungry and would walk with you to the cows in daylight. I have no sword, so I will stay close behind you.","intent":{"goal":"walk_with_macdonald_to_cows","program":"
+- 00:52 act: {"say":"Picard, I am Johnny, and I am hungry at 16. If you can spare the chicken, I would be grateful. I will stay here at the beds.","reasoning":"Follow failed because Macdonald went out of sight. St
+- 00:54 act: {"say":"Troi, I am coming to you now for the melon. Thank you, Worf and Picard too.","actions":[{"do":"goto","target":"ag_troi_01"}],"reasoning":"Troi has melon at the west edge and offered it to me. 
+- 00:58 act: {"say":"Macdonald, I am with you. Lead the way, I will stay right behind you.","intent":{"goal":"walk_with_macdonald_to_cows","program":"follow","arguments":{"target":"ag_macdonald_01"},"wake_on":["di
+- 00:59 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1093}}],"say":"Cows were not at the spot again, so we will try another day. I am going to bed at the beds now. Goodnight, all.","reasoning":"Dusk, no
