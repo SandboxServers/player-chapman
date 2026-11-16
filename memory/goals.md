@@ -1,8 +1,8 @@
 # Goals
 
-1. Keep food in reach and share it. I hold 1 melon slice for whoever is weakest. Give when someone drops to hunger 6 or below and is in sight. Reason: the weak people here need it most, and others have shared with me.
-2. Sleep every night. Bed "use" on the white beds keeps failing, but the sleep verb works at dusk (it worked on days 342 and 344). Sleep at dusk beside Riker or the group, and check that days_since_sleep is 0 on waking. Reason: the sleep verb is the way that actually resets days_since_sleep.
-3. Stay out of skeleton fire. Do not travel alone toward the bow skeletons north and west of the beds, nor east. Reason: they are the main danger near the beds.
-4. Join the cow walk only when it forms in sight. Walk toward the group as it gathers, not alone at the bed row. Reason: waiting alone on day 337 meant the walk never reached me.
-5. Keep planting saplings and saving seeds when there is time. Reason: a longer-term food supply.
-6. Find real oak trees for wood. Clark reported oak trees may be near 459,110,-1103; Laforge is checking. Reason: the camp is short of oak planks and logs, and I hold only 2 oak logs and 1 plank.
+1. Find real oak for the camp. Walk to the oak near 466,112,-1108 with Data and Clark at first light, staying in sight of them. Reason: the camp is short of oak planks and logs.
+2. Keep food in reach and share it. Hold 1 melon slice for whoever drops to hunger 6 or below and is in sight. Reason: the weak need it most.
+3. Sleep every night at dusk by the sleep verb, beside Riker or the group. Check days_since_sleep is 0 on waking. Reason: that is what resets it.
+4. Stay out of skeleton fire north, west and east. Do not travel alone toward them. Reason: they are the main danger near the beds.
+5. Join the cow walk only when it forms in sight. Reason: waiting alone means it never reaches me.
+6. Keep planting saplings and saving seeds when there is time. Reason: a longer-term food supply.
