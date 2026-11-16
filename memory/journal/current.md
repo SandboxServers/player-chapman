@@ -1,1 +1,25 @@
 # Journal
+- 08:33 act: {"say":"Morning. I'm at the beds with no one in sight. I'll keep an eye out for Clark or Worf before going for oak."}
+- 08:37 act: {"actions":[{"do":"sleep"}]}
+- 08:41 act: {"actions":[{"do":"note","text":"Slept at dusk by the beds at 388,107,-1079; woke to morning, days_since_sleep 0. Riker, Beverly and Zack wait at the beds for the cow walk meeting."}],"say":"Morning a
+- 08:41 act: {"say":"Clark, I don't know the water place with oak leaves either. I'm happy to go look with you when Worf or anyone can point the way."}
+- 08:49 act: {"actions":[{"do":"sleep"}],"say":"Clark, it is dusk and I must sleep here at the beds. I'll come look for oak by the water with you at first light."}
+- 08:52 act: {"actions":[{"do":"note","text":"Day 346: sleep failed at dusk (not night yet). Clark asks for the oak-by-water spot; none of us know it. Waiting at beds for Clark to set out."}],"say":"Clark, I'm her
+- 08:56 act: {"actions":[{"do":"goto","target":{"x":410,"y":108,"z":-1100}}],"say":"Clark, Laforge: I'm coming. Walking toward the jungle column in sight of you, and I'll keep watch for oak leaves."}
+- 09:01 act: {"say":"Laforge, I'd like to come with you to that oak at first light, so I'll wait here in your sight. Tell me when you set out."}
+- 09:05 act: {"actions":[{"do":"note","text":"Day 347 morning: waiting at 410,107,-1100 for Laforge to set out to the oak at 414,104,-1126. Plan: sleep at the beds at next dusk."}],"say":"Morning. Laforge, I'm rea
+- 09:05 act: {"actions":[{"do":"note","text":"Day 346 morning: still at 410,107,-1100. No one in sight yet; Laforge has not set out. Waiting."}],"say":"Still here at 410,107,-1100. Laforge, say when you head to th
+- 09:09 act: {"actions":[{"do":"goto","target":{"x":414,"y":104,"z":-1126}}],"say":"Going to the oak at 414,104,-1126 now, Laforge."}
+- 09:09 act: {"actions":[{"do":"mine","block":"oak_log","count":4}],"say":"I'm at the oak now, Laforge. Taking a few oak logs."}
+- 09:10 act: {"actions":[{"do":"note","text":"Got 8 oak logs at the oak 413,105,-1140. Laforge is 16 away, holding dirt. Next: return to beds at dusk and sleep."}],"say":"Got eight oak logs, thank you Laforge. I'l
+- 09:10 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1078}}]}
+- 09:11 act: {"actions":[{"do":"note","text":"At the beds 388,107,-1077 in daylight with 8 oak logs. Waiting for dusk to sleep. days_since_sleep 2."}]}
+- 09:15 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Going to bed at 387,107,-1078. Worf, Clark, MacDonald, goodnight."}
+- 09:23 act: {"actions":[{"do":"note","text":"Day 348 morning at the beds 388,107,-1077. Missed the night (sleep said not night at dusk). days_since_sleep 2. Will sleep at next night; holding 8 oak logs and 1 melo
+- 09:29 act: {"actions":[{"do":"sleep"}]}
+- 09:33 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1078}},{"do":"sleep"}],"reasoning":"It is full night now and I am beside the bed. Go into the bed and sleep, then reset days_since_sleep."}
+- 09:35 act: {"actions":[{"do":"note","text":"Night 348: in bed at 387,107,-1078 after sleep verb (7 of 10 asleep). Worf reports phantom hits, health 6. Holding melon_slice for anyone hungry."}],"reasoning":"Sleep
+- 09:35 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1078}},{"do":"sleep"}],"reasoning":"The earlier sleep ended without resetting days_since_sleep, and I am still standing beside the bed. It is st
+- 09:39 act: {"actions":[],"say":"Chapman here at bed 387,107,-1078. I hold 8 oak logs and 1 melon slice. Worf, I have 1 oak plank if you need it, come by. I'll join Riker's cow walk once it is visibly formed.","r
+- 09:44 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"oak_planks","count":1}],"say":"Here is the oak plank, Worf. Keep the wheat for yourself or trade it later.","reasoning":"Worf is in reach and asked f
+- 10:04 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1079}},{"do":"sleep"}],"reasoning":"Night has come. Enter the bed at 387,107,-1079 (the other bed beside me) and sleep to reset days_since_sleep
