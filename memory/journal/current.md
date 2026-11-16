@@ -8,3 +8,10 @@
 - Walked to 337,93,-1136 in daylight: no cows, only trees and a drop south. Back at the beds, health 20, hunger 20. Holding stone sword. Next: wait for beef or a cow sighting; eat when hungry.
 - Dusk: goto bed 401,107,-1092 worked; use on the bed failed again ("that block is a bed"). sleep call returned events only; status still days_since_sleep 0, so the sleep is NOT confirmed. Stood beside the beds, health 20, hunger 20. Riker and Data nearby at the east gap.
 - 01:24 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1092}},{"do":"use","at":{"x":401,"y":107,"z":-1092}}]}
+- Morning, day 324: wait confirmed "Your sleep worked: 2 of 10 needed are asleep." Woke bright at the beds, health 20, hunger 20, holding stone sword. Next: check status, then look for cows in daylight.
+- Midday day 324: reached cow spot 370,93,-1124. No cows in sight, Bcrusher 7 blocks off. Health 20, hunger 20. Asked Bcrusher where the herd is; waiting for an answer.
+- 01:29 act: {"intent":{"goal":"find_cow_food","program":"travel","arguments":{"target":{"x":370,"y":93,"z":-1124}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limi
+- 01:29 act: {"actions":[{"do":"note","text":"Day 324 midday: at cow spot 370,93,-1124. No cows in sight. Bcrusher is nearby."}],"say":"No cows here at 370,93,-1124 either. Bcrusher, where did you last see the her
+- Day 324: no cows at 370,93,-1124, 368,94,-1118 or 337,93,-1136. Wesley has 6 melon; Bcrusher has 2 beef for the weakest. I am full (20). Back at the beds, bright afternoon. Waiting for dusk to sleep. Night of day 324: sleep at the beds confirmed ("Your sleep worked: 3 of 10"). Handoff written in memory/journal/handoff.md.
+- 01:33 act: {"intent":{"goal":"check_cow_368_94","program":"travel","arguments":{"target":{"x":368,"y":94,"z":-1118}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"l
+- 01:33 act: {"intent":{"goal":"return_to_beds_for_night","program":"travel","arguments":{"target":{"x":401,"y":107,"z":-1091}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_compl
