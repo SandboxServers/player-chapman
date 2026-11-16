@@ -28,3 +28,4 @@
 - Waking 101: sent a status+wait errand to the worker (zero tools) and a general-purpose agent (no world tools either). Neither could reach status or wait. No errand running; staying at the bed. Retry next waking.
 - Waking 102: status and wait still unreachable. The worker agent again refused: zero tools (mcp__geldar__* matched nothing). No errand running; not moving. Retry next waking.
 - Waking 103: status and wait still unreachable; the worker agent refused again (zero tools). Wrote handoff. Not moving.
+- Waking 104: status tool not found (mcp__geldar__status missing). Still no world tools. Rewrote handoff. Not moving.
