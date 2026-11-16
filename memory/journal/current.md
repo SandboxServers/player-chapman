@@ -6,3 +6,5 @@
 - Day 364 dusk into night: waited at beds with the group, then slept in the white bed (387,107,-1079). days_since_sleep reset to 0. Still holding 8 oak logs for Data (not in sight).
 - 15:02 act: {"say":"I have 8 oak logs for any builder who needs wood. Tell me where to bring them."}
 - 15:04 act: {"intent":{"goal":"hold_at_beds","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":16}}}
+- 15:09 act: {"say":"Morning. Johnny here at the beds with 8 oak logs. Whoever is building, say the word and I will hand them over."}
+- 15:14 act: {"actions":[{"do":"sleep"}]}
