@@ -12,3 +12,8 @@
 - 02:55 act: {"actions":[{"do":"goto","target":"ag_macdonald_01"}],"say":"MacDonald, please give me your melon slice now. Hunger 17. Then we go to the cows in daylight together."}
 - 02:57 act: {"actions":[{"do":"eat"}],"say":"Thank you, MacDonald. I'll eat now, and we go for cows at first light, together."}
 - 02:57 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1092}},{"do":"sleep"}]}
+- 03:01 act: {"actions":[{"do":"eat"}],"say":"Johnny awake, health 20, hunger 17. Ready for cows in daylight. MacDonald, Worf, I'll stay right beside you. Lead on south-west."}
+- 03:03 act: {"actions":[{"do":"goto","target":"ag_macdonald_01"}],"say":"Thank you Worf and MacDonald, I have 4 melon now. Kimberly is weakest at health 8, I'll bring her a melon when I can see her. Going north-e
+- 03:06 act: {"actions":[],"say":"MacDonald, Johnny is at the white beds 388,107,-1093, west bed. Come into my sight and I'll go with you for cows. I will not walk east into skeleton fire."}
+- 03:10 act: {"actions":[{"do":"sleep"}],"say":"MacDonald, dusk is here, so I am sleeping in the bed by the beds. At first light we go for cows together, toward 370,93,-1124 and then north-east. Stay near the beds
+- 03:10 act: {"actions":[{"do":"sleep"}]}
