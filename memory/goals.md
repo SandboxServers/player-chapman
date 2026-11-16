@@ -1,7 +1,7 @@
 # Goals
 
-1. Keep food in reach. I have 1 melon slice and hunger is 20. Bcrusher holds 17 melon at the beds. Join the next daylight cow walk by walking toward the group as it forms, not by waiting at the bed row. Reason: on day 337 I waited alone while the group gathered out of sight, and the walk never reached me.
-2. Sleep in a white bed every night, and check status on waking that days_since_sleep is 0. Reason: the sleep on day 338 counted (days_since_sleep reset to 0), so keep doing it.
-3. Stay out of skeleton fire. Do not travel alone toward the bow skeletons north and west of the beds. Reason: they are the main danger near the beds.
-4. Help the weak. Watch for Lewis and others at low hunger; share melon if someone needs it more than I do. Reason: others have shared with me.
+1. Keep food in reach and share it. I hold 1 melon slice for whoever is weakest. Trini and MacDonald were low at the beds; Lewis, Picard and Zack hold food too. Give when someone drops to hunger 6 or below and is in sight. Reason: the weak people here need it most, and others have shared with me.
+2. Sleep in a white bed every night. Bed use only works at night (daylight use fails with "that block is a bed"), so sleep at dusk and check status on waking that days_since_sleep is 0. Reason: days_since_sleep reset to 0 on the night of day 340.
+3. Stay out of skeleton fire. Do not travel alone toward the bow skeletons north and west of the beds, nor east. Reason: they are the main danger near the beds.
+4. Join the cow walk only when it forms in sight. Walk toward the group as it gathers, not alone at the bed row. Reason: waiting alone on day 337 meant the walk never reached me.
 5. Keep planting saplings and saving seeds when there is time. Reason: a longer-term food supply.
