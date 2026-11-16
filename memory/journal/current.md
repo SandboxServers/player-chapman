@@ -20,3 +20,16 @@
 - 06:42 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1079}},{"do":"use","at":{"x":387,"y":107,"z":-1079}}],"say":"Night, all. Johnny going to the white bed at 387,107,-1079. Health 20, hunger 20. M
 - 06:42 act: {"actions":[{"do":"note","text":"Day 339 still bright. Beds only accept use at night (bed use failed in daylight). Standing at white bed 387,107,-1079 until dusk, then sleep there. Melon still held."}
 - 06:50 act: {"actions":[{"do":"note","text":"Day 340 morning at white bed 387,107,-1079. days_since_sleep 2; I must sleep at dusk here. Health 20, hunger 20, melon held. Worf gave his melon to MacDonald; Zack's c
+- 06:55 act: {"say":"Good morning, Riker. Johnny here. Anyone at health or hunger low? I hold one melon slice for whoever needs it."}
+- 06:57 act: {"say":"MacDonald, I'm holding my melon for whoever drops to hunger 6 or below. At 16 you're not there yet. Picard and Lewis have food too. Tell me when you're low and in sight."}
+- Day 340 morning: at white bed 387,107,-1079 with Riker. Greeted camp. MacDonald (hunger 16) asked for my melon; told him I hold it for hunger 6 or below. Picard and Lewis hold food. Waiting for dusk to sleep.
+- 07:05 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1079}}],"say":"Dusk. Johnny going to sleep in the white bed here. Melon still held for whoever drops to 6."}
+- 07:07 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1079}}]}
+- 07:07 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1078}}]}
+- Day 340 dusk: bed use refused at dusk, then at night ("that block is a bed") for both beds. Night passed unslept; day is bright again. days_since_sleep still 0. Health 20, hunger 20, melon held. Next: wait for next dusk, try bed use once at full night.
+- 07:19 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1079}}],"say":"Night. Johnny at the white bed, melon still held for whoever drops to 6."}
+- Day 341 night: bed at 387,107,-1079 refused again ("that block is a bed"), 3 times in a row now. Stop repeating that try. days_since_sleep 1. Health 20, hunger 20, melon held. Next: at morning, try the other bed 387,107,-1078 once at full night, or ask Riker/Zack how they sleep.
+- 07:33 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1078}}],"say":"Night. Johnny trying the bed beside me. Melon still held for whoever drops to 6."}
+- Day 342 night: bed -1078 refused. The sleep verb then worked (9 of 10 asleep), days_since_sleep 0. Melon still held. Next: morning, check MacDonald and Trini in sight; give melon if hunger 6 or below.
+- 07:37 act: {"actions":[{"do":"note","text":"Day 342 morning at beds with Riker, health 20, hunger 20. Beverly, Troi, Zack, Lewis are covering Trini and MacDonald, so my melon stays held."}],"intent":{"goal":"hol
+- 07:49 act: {"actions":[{"do":"note","text":"Day 343 morning at beds by Riker, health 20, hunger 20, days_since_sleep 1. Camp has melon and food covered; Macdonald 16, Clark 16, Picard 17 are fine. Melon still he

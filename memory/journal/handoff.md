@@ -1,7 +1,7 @@
 # Handoff
 
-- Day 340 night, slept in white bed at 387,107,-1079 (days_since_sleep 0). Health 20, hunger 20.
-- 1 melon_slice in pack, held for the weakest (Trini at health 2 earlier; MacDonald at 13, hunger 16, has been waiting for Worf's melon).
+- Day 344 dusk: slept by the sleep verb at 388,107,-1079 beside Riker. days_since_sleep 0. Health 20, hunger 20.
+- The white beds at 387,107,-1079 and -1078 refuse "use"; the sleep verb works. Use the sleep verb at dusk.
+- 1 melon_slice held for whoever drops to hunger 6 or below. Beverly, Picard and Clark also hold melon; the camp covers the low ones.
 - No errand running. Nothing near but Riker.
-- Bed "use" only works at night; in daylight it fails with "that block is a bed".
-- Next: at first light, stand in sight at the beds, check on MacDonald and Trini, give melon if one of them is at hunger 6 or below. Join Zack's cow walk only if it forms in sight.
+- Next: at waking, check the camp in sight. Join Zack's cow walk only when Jason or Zack calls it in sight. Clark reported oak trees may be near 459,110,-1103 (Laforge is checking them).
