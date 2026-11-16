@@ -1,22 +1,20 @@
 # Summary
 
-Johnny, at the white beds near 388,107,-1079, beside the group (Trini, Zack, Kimberly, Riker, MacDonald, Clark). Day 369 night: slept in bed; days_since_sleep reset to 0. Health 20, hunger 20. Held: stone sword, 8 oak logs, 1 melon slice for the weakest.
+Johnny, at the white beds near 388,107,-1079, beside the group (Trini, Zack, Kimberly, Riker, MacDonald, Clark, Laforge). Day 372 night: slept in bed; days_since_sleep reset to 0. Health 20, hunger 20. Held: stone sword, 8 oak logs (for Data), 1 melon slice for the weakest.
 
 ## Recent days
-- Day 361: slept at beds.
-- Day 364: slept at beds after dusk wait.
-- Day 366: sleep failed "not night" at dusk; slept at the next night.
-- Day 367: waited at beds, slept at night.
 - Day 369: Clark asked the 8 oak logs go to Data by hand. Data not yet in sight. Slept at night.
+- Day 370: waited at beds in sight.
+- Day 371: woke at beds; Clark said keep the logs until Data is in sight.
+- Day 372: Riker called a cow walk without Billy; I declined. Slept at night.
 
 ## Lessons
-- Sleep verb works only at night; at dusk it fails "not night". Wait for the snapshot to read night.
-- Oak logs are at 413,105,-1140. Birch and jungle near 466,111,-1108.
+- Sleep works only at night; at dusk it fails "not night".
+- Oak logs were at 413,105,-1140. Water at 466,106,-1086.
 - Goto works; long intents often fail on precondition.
-- Water is at 466,106,-1086 (east past the wheat, then to the shore).
 
 ## Next
 - Find Data and hand over the 8 oak logs by hand; tell Clark when done.
 - Give melon if someone is at hunger 6 or below (ask Kimberly first).
-- Join the cow walk only when it forms in sight.
+- Join the cow walk only when Billy calls it and it forms in sight.
 - Stay clear of skeleton fire north, west and east.
