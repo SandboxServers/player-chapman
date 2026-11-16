@@ -7,3 +7,5 @@
 - 00:54 act: {"say":"Troi, I am coming to you now for the melon. Thank you, Worf and Picard too.","actions":[{"do":"goto","target":"ag_troi_01"}],"reasoning":"Troi has melon at the west edge and offered it to me. 
 - 00:58 act: {"say":"Macdonald, I am with you. Lead the way, I will stay right behind you.","intent":{"goal":"walk_with_macdonald_to_cows","program":"follow","arguments":{"target":"ag_macdonald_01"},"wake_on":["di
 - 00:59 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1093}}],"say":"Cows were not at the spot again, so we will try another day. I am going to bed at the beds now. Goodnight, all.","reasoning":"Dusk, no
+- 01:00 act: {"say":"Riker, could I trade for a little cobblestone in the morning? I have oak planks and a stick or two to offer. Goodnight all.","actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1093}}]}
+- 01:00 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1093}}]}
