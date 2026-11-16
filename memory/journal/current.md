@@ -15,3 +15,7 @@
 - Day 324: no cows at 370,93,-1124, 368,94,-1118 or 337,93,-1136. Wesley has 6 melon; Bcrusher has 2 beef for the weakest. I am full (20). Back at the beds, bright afternoon. Waiting for dusk to sleep. Night of day 324: sleep at the beds confirmed ("Your sleep worked: 3 of 10"). Handoff written in memory/journal/handoff.md.
 - 01:33 act: {"intent":{"goal":"check_cow_368_94","program":"travel","arguments":{"target":{"x":368,"y":94,"z":-1118}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"l
 - 01:33 act: {"intent":{"goal":"return_to_beds_for_night","program":"travel","arguments":{"target":{"x":401,"y":107,"z":-1091}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_compl
+- 01:40 act: {"say":"Lewis, I have no food to spare right now, but I am at the beds if you need company. Stay in sight."}
+- 01:44 act: {"say":"Morning, Macdonald. I will walk with you to the cows, and I have my stone sword. Tell me if you find the herd.","intent":{"goal":"follow_macdonald_to_cows","program":"follow","arguments":{"tar
+- 01:44 act: {"say":"Riker, I have no food on me, but Clark has melon in the open by the beds. I will go to the cows with Macdonald if I can find him."}
+- 01:47 act: {"actions":[{"do":"note","text":"Day 324 morning: no cows seen yet. Follow to Macdonald failed (not in sight). Hunger 20, health 20. Others are feeding Lewis and Riker. Next: ask Macdonald where the h
