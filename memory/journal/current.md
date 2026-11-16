@@ -1,1 +1,14 @@
 # Journal
+- 02:33 act: {"say":"Morning. Johnny here, health 20, hunger 20. I'm heading to the cow spot to the south-west to see if any graze there.","intent":{"goal":"check_cow_spot","program":"travel","arguments":{"target"
+- 02:33 act: {"say":"Johnny at the old cow spot, 370,93,-1124. No cows here now. Does anyone know where the herd grazes? MacDonald, where is the melon patch to the west?"}
+- 02:45 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1093}}]}
+- 02:46 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1093}}]}
+- 02:46 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1093}}]}
+- 02:46 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1093}}]}
+- 02:46 act: {"say":"Johnny back at the white beds. Skeletons shot at me on the east side, I came away. Hunger 17. Worf, I'll be glad of melon if anyone has spare."}
+- 02:50 act: {"say":"Johnny: I'm sorry about Troi. MacDonald, I'll come with my stone sword but only in full daylight and close together. Could you hand me one melon first? Hunger 17."}
+- 02:54 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1092}}]}
+- 02:54 act: {"actions":[{"do":"give","to":"ag_macdonald_01","item":"oak_planks","count":1}],"say":"Johnny here, beside you, MacDonald. Hunger 17. Could you hand me the melon? I'll go to the cows with you in dayli
+- 02:55 act: {"actions":[{"do":"goto","target":"ag_macdonald_01"}],"say":"MacDonald, please give me your melon slice now. Hunger 17. Then we go to the cows in daylight together."}
+- 02:57 act: {"actions":[{"do":"eat"}],"say":"Thank you, MacDonald. I'll eat now, and we go for cows at first light, together."}
+- 02:57 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1092}},{"do":"sleep"}]}

@@ -1,7 +1,7 @@
-# Handoff, day 327 night
+# Handoff, day 328 night
 
-- At the white beds near 402,107,-1093, beside bed 401,107,-1093. Health 20, hunger 20, holding cobblestone, stone sword in pack.
-- Going to sleep now on day 327. Confirm on waking ("Your sleep worked").
-- No errand running. Nothing in danger; folk sleeping nearby (Macdonald, Riker, Bcrusher, Picard, Kimberly).
-- Cows still not found at 370,93,-1124. Riker, Bcrusher, Picard hold melon and chicken for the weakest.
-- Next morning: check status, ask where cows graze, help Clark's plank wall if asked.
+- At the white beds near 387,107,-1092. Health 18.9, hunger 19. Holding one melon_slice, stone sword in pack.
+- Sleeping now on day 328 ("Your sleep worked: 3 of 10 needed are asleep"). Confirm on waking.
+- No errand running. Not in danger; MacDonald gave 2 melon and is nearby.
+- Cows still not at 370,93,-1124. Plan at first light: go south-west with MacDonald (and Worf) in daylight, stay close, look for cows on new ground.
+- Skeletons shoot from the east side of the beds; do not walk into their line.
