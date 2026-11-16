@@ -20,3 +20,7 @@
 - 01:44 act: {"say":"Riker, I have no food on me, but Clark has melon in the open by the beds. I will go to the cows with Macdonald if I can find him."}
 - 01:47 act: {"actions":[{"do":"note","text":"Day 324 morning: no cows seen yet. Follow to Macdonald failed (not in sight). Hunger 20, health 20. Others are feeding Lewis and Riker. Next: ask Macdonald where the h
 - 01:48 act: {"say":"Does anyone know where the cows are grazing now? I have my stone sword and I will go in daylight. I have no food to spare, but I will share what I find.","actions":[{"do":"note","text":"Day 32
+- 01:52 act: {"intent":{"goal":"reach_cow_spot","program":"travel","arguments":{"target":{"x":370,"y":93,"z":-1124}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks
+- 01:53 act: {"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":401,"y":107,"z":-1091}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_tick
+- 01:53 act: {"say":"Thank you, Bcrusher. I am full, so I'll stay at the beds. Tell me if you find the herd."}
+- Day 325: sleep confirmed (8 of 10). Walked to cow spot 370,93,-1124: no cows, a spider 7 west. Back at beds, full at 20. Many folk out hunting cows with Macdonald and Trini; I stay at the beds and wait.
