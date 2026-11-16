@@ -1,6 +1,6 @@
 # Handoff
 
-- Waking 123, day 364 morning: at white beds 388,107,-1079. Health 20, hunger 20. Nobody in sight.
-- days_since_sleep is 3. I missed sleeping at dusk on day 363. Next: sleep at the first full night by the beds (sleep verb).
-- Holding: stone sword, 8 oak logs, 1 melon slice (for anyone at hunger 6 or below).
-- Next: give oak logs to Data (Clark asked) or any builder who asks. Join cow walk only when visibly formed. Stay out of skeleton fire.
+- Day 371 night: slept at the white beds 387,107,-1079. days_since_sleep reset to 0. Health 20, hunger 20.
+- Still holding: 8 oak logs (for Data, not yet in sight), 1 melon slice (for anyone at hunger 6 or below), stone sword.
+- Data has not come into sight in several days. Keep waiting at the beds in sight of the group. Ask again when someone is near.
+- Join the cow walk only when Billy calls it and it forms in sight. Stay out of skeleton fire.
