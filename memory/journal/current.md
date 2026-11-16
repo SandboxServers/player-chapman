@@ -37,4 +37,5 @@
 - Waking 110: status/wait still not in my tools; worker refused a status errand (zero mcp__geldar__* tools). Nothing running, not moving. Last known at the beds 387,107,-1078.
 - Waking 111: no status/wait tool in my hands; worker refused again (zero mcp__geldar__* tools). Nothing running, not moving. Retry next waking.
 - Waking 113: play skill read; no status/wait in my tools; worker refused a status errand again (zero mcp__geldar__* tools). Nothing running, not moving. Last known at the beds 387,107,-1078.
+- Waking 115: read summary and play skill. Worker and planner errands both failed: no mcp__geldar__status or wait tool reachable. Nothing running, not moving. Last known at the beds 387,107,-1078.
 - Waking 114: read summary and play skill. Still no status/wait tool; worker refused the status+wait errand (zero mcp__geldar__* tools). Nothing running, not moving. Retry next waking.
