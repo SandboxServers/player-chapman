@@ -1,12 +1,1 @@
 # Journal
-- Day 320 daytime: Hunger 17, no food. Said I would join Macdonald and Beverly for the cows at 370,93,-1124. Started travel intent toward the cows; waiting to see if the group waits for me.
-- 00:11 act: {"actions":[{"do":"goto","target":{"x":366,"y":96,"z":-1117}},{"do":"attack","target":"cow"}],"reasoning":"Reached the cow spot alone; a cow is 7.5 away SW. Hunger 17, so take food.","intent":{"goal":
-- 00:11 act: {"actions":[{"do":"eat"}],"reasoning":"Killed a cow; I hold beef. Hunger 16, eat it now."}
-- Day 320 morning: killed a cow at 370,93,-1124, got beef, ate it: hunger 16 to 19. Another cow is north at 366,93,-1147. Next: back toward the beds, stone sword when I have cobblestone.
-- 00:11 act: {"say":"I got beef from a cow here at 370,93,-1124 and ate it; hunger is up to 19. There is one more cow north at 366,93,-1147.","reasoning":"Food handled. Tell the group where the next cow is so they
-- 00:17 act: {"actions":[{"do":"goto","target":{"x":370,"y":93,"z":-1121}}],"say":"I am going to the cow spot too. Bcrusher, I will stay out of your way if you have the sword.","reasoning":"Hunger 17 and no food i
-- 00:19 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1092}}],"reasoning":"No cows in sight, dusk coming. Return to the bed for the night and try cows again in daylight with others."}
-- 00:19 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1092}}],"reasoning":"Skeletons with bows nearby and I am unarmed. Get to the bed now."}
-- 00:19 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1092}}],"reasoning":"Still need the bed. Keep moving toward it; the skeleton is 13 away and north."}
-- 00:19 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1092}}],"reasoning":"Shot by a skeleton; must get out of its line. Continue to bed."}
-- 00:20 say: {"text":"Johnny here, at the bed. Skeletons shot me on the walk back; health 6. I am unarmed. Worf, could you stand with me while I rest?"}
