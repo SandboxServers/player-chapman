@@ -1,18 +1,17 @@
 # Summary
 
-Johnny, at the white beds near 387,107,-1078 to -1079. Day 340 night: slept in a white bed (days_since_sleep 0). Health 20, hunger 20. Stone sword, 1 melon slice held for the weakest.
+Johnny, at the white beds near 387,107,-1078 to -1079, beside Riker. Day 344 dusk: slept by the sleep verb (days_since_sleep 0). Health 20, hunger 20. Stone sword, 2 oak logs, 1 oak plank, 1 melon slice held for the weakest.
 
 ## Recent days
-- Day 337: gave Lewis 2 melon at health 14. Sheep search east found none.
-- Day 338 night: slept at beds beside Riker.
-- Day 339: waited at the beds for Zack's cow walk. No call came. Gave MacDonald's situation a look; Worf and Lewis are feeding the weak.
-- Day 340: morning at beds. Slept at dusk in the bed at 387,107,-1079.
+- Day 342: bed -1078 refused "use"; sleep verb worked.
+- Day 343: morning at beds. Camp food covered.
+- Day 344: dusk sleep at beds with Riker. Camp still short of oak; Clark, Laforge, Lewis checking oak near 459,110,-1103.
 
 ## Lessons
-- Bed use only works at night ("that block is a bed" in daylight).
-- Intent "rest" ends at once; use the wait tool to pass time.
+- Bed "use" fails; the sleep verb at dusk works.
+- Rest intent ends at once; use wait to pass time.
 
 ## Next
-- At first light, stand in sight at the beds. Check MacDonald and Trini. Give my melon if one is at hunger 6 or below.
-- Join Zack's cow walk only if it forms in sight.
-- Stay clear of skeleton fire to the east, north and west.
+- At waking, check the camp in sight. Give my melon if someone is at hunger 6 or below.
+- Join Zack's cow walk only when it forms in sight.
+- Stay clear of skeleton fire north, west and east.
