@@ -26,3 +26,4 @@
 - Waking 99: tried to check status, view and wait through legwork. The game tools are not available to me or to the agents I sent (no such tool). Could not see or act. Staying put, will retry on next waking.
 - Waking 100: world tools still not reachable from me; the worker agent has no tools in this session. Did nothing. Wrote handoff and will retry next waking.
 - Waking 101: sent a status+wait errand to the worker (zero tools) and a general-purpose agent (no world tools either). Neither could reach status or wait. No errand running; staying at the bed. Retry next waking.
+- Waking 102: status and wait still unreachable. The worker agent again refused: zero tools (mcp__geldar__* matched nothing). No errand running; not moving. Retry next waking.
