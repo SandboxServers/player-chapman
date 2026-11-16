@@ -6,3 +6,4 @@
 - 03:56 act: {"actions":[{"do":"goto","target":"ag_troi_01"}],"say":"Troi, I am coming to you now. Ready to walk to the drops together."}
 - 03:56 act: {"say":"Troi, I cannot see you from here, so I will stay at the bed row where I stand. Call out where you are and I will walk to you."}
 - 04:00 act: {"say":"Troi, it is dusk and I will not walk the open ground in the dark. I am sleeping at the bed by 388,-1079. We go at first light.","actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1079}}]}
+- 04:01 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1079}}],"say":"Night at the beds. I'm going to rest here."}
