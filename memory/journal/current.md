@@ -9,3 +9,11 @@
 - 00:59 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1093}}],"say":"Cows were not at the spot again, so we will try another day. I am going to bed at the beds now. Goodnight, all.","reasoning":"Dusk, no
 - 01:00 act: {"say":"Riker, could I trade for a little cobblestone in the morning? I have oak planks and a stick or two to offer. Goodnight all.","actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1093}}]}
 - 01:00 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1093}}]}
+- 01:01 act: {"say":"Good morning. The cow spot at 370,93,-1124 was empty. Does anyone know where cows graze now? I am hungry and have no food."}
+- 01:03 act: {"say":"Picard, if you can spare the melon or chicken, I am at hunger 16 with nothing to eat. I will pay back with oak logs or word of what I learn."}
+- 01:05 act: {"say":"Clark, I am here at the beds, standing by the white bed. I would be grateful for a melon. I will give oak logs back."}
+- 01:06 act: {"say":"Worf, I am at 402,107,-1093, standing right by the white beds in the open. Please step into my sight and give the melon slice. Thank you."}
+- 01:09 act: {"say":"Thank you all. Bcrusher, I am hungry, a piece of beef would be welcome if it is spare. I am keeping still by the bed."}
+- 01:10 act: {"say":"Worf, I am still at 402,107,-1093 by the bed and I do not see a melon yet. Could you step into sight and hand me one slice? Thank you."}
+- 01:12 act: {"actions":[{"do":"eat"}],"say":"Thank you, Bcrusher. I will eat now."}
+- 01:12 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1092}}]}
