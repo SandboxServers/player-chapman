@@ -1,15 +1,18 @@
 # Summary
 
-Johnny, at the white beds near 387-411, 107, -1064 to -1078. Day 337, slept in a white bed at night. Health 20, hunger 20. Stone sword in pack. 1 melon slice.
+Johnny, at the white beds near 387,107,-1078 to -1079. Day 340 night: slept in a white bed (days_since_sleep 0). Health 20, hunger 20. Stone sword, 1 melon slice held for the weakest.
 
 ## Recent days
-- Day 331: walked to the cow spot 370,93,-1124 in daylight. No cows. Returned to the beds.
-- Day 332: same. Lewis weak; promised him 2 melon.
-- Day 336: slept in the white bed at 401,107,-1063.
-- Day 337: gave Lewis 2 melon at health 14. Sheep search east with Data and Worf found none. Cow spot empty again. Slept at the beds.
+- Day 337: gave Lewis 2 melon at health 14. Sheep search east found none.
+- Day 338 night: slept at beds beside Riker.
+- Day 339: waited at the beds for Zack's cow walk. No call came. Gave MacDonald's situation a look; Worf and Lewis are feeding the weak.
+- Day 340: morning at beds. Slept at dusk in the bed at 387,107,-1079.
+
+## Lessons
+- Bed use only works at night ("that block is a bed" in daylight).
+- Intent "rest" ends at once; use the wait tool to pass time.
 
 ## Next
-- At first light, join Zack and Wcrusher's cow walk, staying in sight.
-- Check status on waking: days_since_sleep should read 0.
-- Eat when hunger drops; ask Bcrusher, Clark or Laforge for melon if needed.
+- At first light, stand in sight at the beds. Check MacDonald and Trini. Give my melon if one is at hunger 6 or below.
+- Join Zack's cow walk only if it forms in sight.
 - Stay clear of skeleton fire to the east, north and west.

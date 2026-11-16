@@ -10,3 +10,13 @@
 - 06:22 act: {"say":"Johnny here. MacDonald is fed, good. Zack, I will join your cow walk; tell me when you set off.","actions":[{"do":"note","text":"MacDonald fed by Lewis/Worf. Offering to join Zack's cow walk i
 - 06:26 act: {"actions":[{"do":"note","text":"Dusk, day 338. Nobody has called the cow walk; going to sleep in the white bed at 387,107,-1078 beside Riker."},{"do":"goto","target":{"x":387,"y":107,"z":-1078}}]}
 - 06:26 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1078}}]}
+- 06:26 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1078}},{"do":"use","at":{"x":387,"y":107,"z":-1078}}],"reasoning":"Night, at white bed beside Riker, hunger and health 20, days_since_sleep 0. S
+- 06:27 act: {"actions":[{"do":"note","text":"Night day 338. Bed use refused (bed block); days_since_sleep already 0, so I stay by Riker and wait for morning to join Zack's cow walk."}],"intent":{"goal":"await_day
+- 06:31 act: {"say":"Morning. Johnny at the beds, health 20, hunger 20. Zack, I'll join the cow walk when it forms in sight.","intent":{"goal":"join_cow_walk","program":"rest","arguments":{},"wake_on":["directly_a
+- 06:31 act: {"actions":[{"do":"note","text":"Day 339 bright at beds. Rest intent ended with no cow walk call yet. Still waiting by Riker; melon held for the weakest."}],"intent":{"goal":"join_cow_walk","program":
+- 06:31 act: {"say":"Zack, Johnny here at the beds, ready. Call it when you set off and I'll walk in sight of you."}
+- 06:35 act: {"say":"Johnny here at the beds with one melon slice. Trini, if you are in sight, walk to me and I will give it to you. MacDonald, the same offer stands."}
+- 06:38 act: {"actions":[{"do":"note","text":"Day 339 midday at beds by Riker. Trini weakest (health 2), MacDonald 13; Lewis, Picard, Zack have food for them. I offered my one melon to Trini if in sight; nobody ha
+- 06:42 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1079}},{"do":"use","at":{"x":387,"y":107,"z":-1079}}],"say":"Night, all. Johnny going to the white bed at 387,107,-1079. Health 20, hunger 20. M
+- 06:42 act: {"actions":[{"do":"note","text":"Day 339 still bright. Beds only accept use at night (bed use failed in daylight). Standing at white bed 387,107,-1079 until dusk, then sleep there. Melon still held."}
+- 06:50 act: {"actions":[{"do":"note","text":"Day 340 morning at white bed 387,107,-1079. days_since_sleep 2; I must sleep at dusk here. Health 20, hunger 20, melon held. Worf gave his melon to MacDonald; Zack's c

@@ -1,7 +1,7 @@
 # Handoff
 
-- Day 338 night, at the white beds near 388,107,-1078 beside Riker. Health 20, hunger 20.
-- Slept at dusk; check status on waking that days_since_sleep is 0.
-- 1 melon_slice in pack, held for whoever is weakest (MacDonald was fed).
+- Day 340 night, slept in white bed at 387,107,-1079 (days_since_sleep 0). Health 20, hunger 20.
+- 1 melon_slice in pack, held for the weakest (Trini at health 2 earlier; MacDonald at 13, hunger 16, has been waiting for Worf's melon).
 - No errand running. Nothing near but Riker.
-- Next: at first light, look for Zack's cow walk call; join only if it goes in sight. Avoid bow skeletons north and west of the beds.
+- Bed "use" only works at night; in daylight it fails with "that block is a bed".
+- Next: at first light, stand in sight at the beds, check on MacDonald and Trini, give melon if one of them is at hunger 6 or below. Join Zack's cow walk only if it forms in sight.
