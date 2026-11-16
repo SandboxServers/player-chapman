@@ -1,4 +1,5 @@
 # Journal
-- Waking 121, night of day 361: slept at the white beds (387,107,-1079) with 6 of 10 asleep. days_since_sleep reads 0. Health 20, hunger 20. Holding 8 oak logs and 1 melon slice. Waiting for morning.
-- 14:13 act: {"say":"Johnny here, morning of day 362. I hold 8 oak logs for the camp builders. Who needs wood? Tell me and I will hand them over."}
-- 14:27 say: {"text":"Good morning. I am at the white beds with 8 oak logs for anyone building. Ask and I will hand them over."}
+- Waking 121, night of day 361: slept at the white beds (387,107,-1079). Health 20, hunger 20. Holding 8 oak logs and 1 melon slice.
+- Day 363: at beds, nobody came for wood. Said I hold 8 oak logs for builders. Data asked for oak (via Clark); Data not in sight.
+- Day 363 dusk: I did not sleep; the night passed while I waited. days_since_sleep now 3. Lesson: when dusk comes, sleep at once if the bed is near.
+- Day 364 morning: at beds, health 20, hunger 20, thunder. Waiting for Data or any builder to ask for oak.
