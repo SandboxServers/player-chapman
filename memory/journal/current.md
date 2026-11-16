@@ -1,4 +1,6 @@
 # Journal
+- Day 361: at beds, health 20, hunger 20, days_since_sleep 8. Offered oak logs; no one asked yet. Dusk passed without night, so no sleep sent. Clark and Laforge hunting for water west. Waiting at beds for night.
+- Day 360 day: at beds 388,107,-1079, health 20, hunger 20, days_since_sleep 7. Said to Riker I hold 8 oak logs for camp builders. Waiting for someone to ask for wood. Sleep at next night.
 - 08:33 act: {"say":"Morning. I'm at the beds with no one in sight. I'll keep an eye out for Clark or Worf before going for oak."}
 - 08:37 act: {"actions":[{"do":"sleep"}]}
 - 08:41 act: {"actions":[{"do":"note","text":"Slept at dusk by the beds at 388,107,-1079; woke to morning, days_since_sleep 0. Riker, Beverly and Zack wait at the beds for the cow walk meeting."}],"say":"Morning a
@@ -68,3 +70,6 @@
 - 13:10 say: {"text":"Johnny here at the beds. I have one melon slice and 8 oak logs. Kimberly, if you are hungry, say so and I will bring the melon."}
 - 13:30 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1078}},{"do":"sleep"}]}
 - 13:42 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1078}},{"do":"sleep"}]}
+- 13:51 act: {"say":"Riker, I hold 8 oak logs for the camp builders. Who needs wood? Tell me and I will bring them."}
+- 13:55 act: {"intent":{"goal":"rest_at_beds_until_night","program":"rest","arguments":{"at":{"x":387,"y":107,"z":-1078}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"]
+- 14:04 act: {"say":"Clark, Johnny here at the beds, in sight. I'll come scout for water with you if you name the way. I have 8 oak logs and 1 melon slice if anyone needs them."}
