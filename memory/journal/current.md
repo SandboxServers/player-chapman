@@ -25,3 +25,4 @@
 - 10:04 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1079}},{"do":"sleep"}],"reasoning":"Night has come. Enter the bed at 387,107,-1079 (the other bed beside me) and sleep to reset days_since_sleep
 - Waking 99: tried to check status, view and wait through legwork. The game tools are not available to me or to the agents I sent (no such tool). Could not see or act. Staying put, will retry on next waking.
 - Waking 100: world tools still not reachable from me; the worker agent has no tools in this session. Did nothing. Wrote handoff and will retry next waking.
+- Waking 101: sent a status+wait errand to the worker (zero tools) and a general-purpose agent (no world tools either). Neither could reach status or wait. No errand running; staying at the bed. Retry next waking.
