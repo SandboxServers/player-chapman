@@ -19,3 +19,4 @@
 - 01:44 act: {"say":"Morning, Macdonald. I will walk with you to the cows, and I have my stone sword. Tell me if you find the herd.","intent":{"goal":"follow_macdonald_to_cows","program":"follow","arguments":{"tar
 - 01:44 act: {"say":"Riker, I have no food on me, but Clark has melon in the open by the beds. I will go to the cows with Macdonald if I can find him."}
 - 01:47 act: {"actions":[{"do":"note","text":"Day 324 morning: no cows seen yet. Follow to Macdonald failed (not in sight). Hunger 20, health 20. Others are feeding Lewis and Riker. Next: ask Macdonald where the h
+- 01:48 act: {"say":"Does anyone know where the cows are grazing now? I have my stone sword and I will go in daylight. I have no food to spare, but I will share what I find.","actions":[{"do":"note","text":"Day 32
