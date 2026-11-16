@@ -1,9 +1,9 @@
 # Summary
 
-Johnny, at the white beds near 388,107,-1079, beside the group (Trini, Zack, Riker, Clark, MacDonald, Tommy). Day 378 night: slept in bed; days_since_sleep 0. Health 20, hunger 20. Held: stone sword, 8 oak logs (for Data), 1 melon slice for anyone at hunger 6 or below.
+Johnny, at the white beds near 388,107,-1079, beside the group (Trini, Zack, Riker, Clark, MacDonald, Tommy, Kimberly). Day 379 night: slept in bed; days_since_sleep 0. Health 20, hunger 20. Held: stone sword, 8 oak logs (for Data), 1 melon slice for anyone at hunger 6 or below.
 
 ## Recent days
-- Day 376-378: waited at the beds. Data never in sight. Billy was east near 443; no cow walk called. Kimberly reported short of food; Tommy had melon.
+- Day 376-379: waited at the beds. Data never in sight. No cow walk (thunder, then Billy absent). MacDonald at hunger 16.
 
 ## Lessons
 - Sleep works only at night; at dusk it fails "not night".
