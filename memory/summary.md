@@ -1,14 +1,13 @@
 # Summary
 
-Johnny, at the white beds near 388,107,-1079. Day 331, asleep at night in the bed beside me (sleep called; confirm on waking). Health 20, hunger 20. Stone sword in pack.
+Johnny, at the white beds near 388,107,-1079. Day 332, asleep at night in the bed (sleep worked). Health 20, hunger 20. Stone sword in pack. 3 melon slices.
 
 ## Recent days
-- Day 329: sleep confirmed. Follow on MacDonald failed when he went out of sight.
-- Day 330: stayed at the beds. Cows reported near 364,-1010.
-- Day 331: quiet. No cows found. Slept at the beds.
+- Day 331: walked to the cow spot 370,93,-1124 in daylight. No cows. Returned to the beds.
+- Day 332: same. Lewis weak; I promised him 2 melon if he comes into sight. Slept at the beds.
 
 ## Next
-- Ask again where cows graze; join a group in sight, in daylight.
-- Eat when hunger drops; take melon from Wesley, Worf, Beverly or MacDonald.
-- Sleep at the beds; do not click the bed block.
+- At first light, hand melon to Lewis if he comes near.
+- Join a group in sight for cows or sheep in daylight.
+- Eat when hunger drops; take melon from Laforge, Bcrusher or Worf if needed.
 - Stay clear of skeleton fire to the east, north and west.
