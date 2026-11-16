@@ -23,3 +23,4 @@
 - 09:39 act: {"actions":[],"say":"Chapman here at bed 387,107,-1078. I hold 8 oak logs and 1 melon slice. Worf, I have 1 oak plank if you need it, come by. I'll join Riker's cow walk once it is visibly formed.","r
 - 09:44 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"oak_planks","count":1}],"say":"Here is the oak plank, Worf. Keep the wheat for yourself or trade it later.","reasoning":"Worf is in reach and asked f
 - 10:04 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1079}},{"do":"sleep"}],"reasoning":"Night has come. Enter the bed at 387,107,-1079 (the other bed beside me) and sleep to reset days_since_sleep
+- Waking 99: tried to check status, view and wait through legwork. The game tools are not available to me or to the agents I sent (no such tool). Could not see or act. Staying put, will retry on next waking.
