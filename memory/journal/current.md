@@ -5,3 +5,8 @@
 - 06:12 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1051}},{"do":"use","at":{"x":401,"y":107,"z":-1051}}]}
 - 06:13 act: {"reasoning":"Night, health and hunger full, days_since_sleep 0. Nothing near. Wait for morning, then join a daylight cow walk.","intent":{"goal":"await_daylight","program":"rest","arguments":{},"wake
 - 06:17 act: {"say":"Johnny here at the white beds. MacDonald, I have one melon slice. Where are you? I will come to you.","actions":[{"do":"note","text":"Woke day 338 at beds, days_since_sleep 0. MacDonald weak (
+- 06:17 act: {"say":"Heading to Riker's spot at the beds to find MacDonald. I carry one melon.","actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1079}}]}
+- 06:17 act: {"say":"Johnny at the beds with Riker. MacDonald, Picard has chicken for you; I keep my melon ready if you need it. Where are you?","actions":[{"do":"note","text":"Reached Riker at beds 388,107,-1078.
+- 06:22 act: {"say":"Johnny here. MacDonald is fed, good. Zack, I will join your cow walk; tell me when you set off.","actions":[{"do":"note","text":"MacDonald fed by Lewis/Worf. Offering to join Zack's cow walk i
+- 06:26 act: {"actions":[{"do":"note","text":"Dusk, day 338. Nobody has called the cow walk; going to sleep in the white bed at 387,107,-1078 beside Riker."},{"do":"goto","target":{"x":387,"y":107,"z":-1078}}]}
+- 06:26 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1078}}]}
