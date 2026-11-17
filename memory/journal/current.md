@@ -7,3 +7,5 @@
 - 17:09 act: {"say":"Johnny drifted to 412,107,-1041, alone. Holding still in the dark; walking to Billy's row at first light.","intent":{"goal":"hold_until_dawn_then_row","program":"rest","arguments":{},"wake_on"
 - 17:11 act: {"say":"Johnny lies down in the bed here, alone, until first light.","actions":[{"do":"sleep"}]}
 - 17:15 act: {"say":"Johnny walks back to Billy's row in daylight.","intent":{"goal":"walk_back_to_row","program":"travel","arguments":{"target":{"x":388,"y":107,"z":-1037}},"wake_on":["directly_addressed","precon
+- 17:24 say: {"text":"Chapman at the row, 389,-1031, in the group's sight. Holding still through the night with rotten flesh for anyone at hunger 6 or below."}
+- 17:24 act: {"intent":{"goal":"return_to_row","program":"travel","arguments":{"target":{"x":389,"y":107,"z":-1033}},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":600,"max_block_oper
