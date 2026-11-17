@@ -1,6 +1,6 @@
 # Summary
 
-Johnny, at the white beds near 388,107,-1079. Slept there the night of day 391; days_since_sleep 0. Health 20, hunger 20.
+Johnny, at the white beds near 388,107,-1079. Slept there the night of day 392; days_since_sleep 0. Health 20, hunger 20.
 
 Held: stone sword, 8 oak logs (for Data, still not in sight), 1 melon slice (for anyone at hunger 6 or below), 3 cobblestone, 2 dirt, 3 bones, arrow, leather, 2 sticks.
 
