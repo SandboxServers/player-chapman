@@ -25,3 +25,7 @@
 - 18:21 act: {"actions":[{"do":"note","text":"Give of 2 jungle planks went to Jason, not Leonardo. I still hold 2 planks. Not retrying blind."}],"say":"Billy, I did not pick up Trini's sword or flesh. Chapman stil
 - 18:29 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Chapman going to bed at Billy's bed 387,-1036, in the group's sight. Holding 10 rotten flesh for hunger 6 or below
 - 18:46 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Going to bed at the row beside Billy. Holding my rotten flesh for anyone at hunger 6 or below."}
+- 18:46 act: {"actions":[{"do":"note","text":"Day 447 night: asleep. Sleep drifted me to 416,107,-1037, east of the row. Return to 388,107,-1037 at first light, in daylight only."}]}
+- 18:50 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1037}}],"say":"Morning, day 448. Chapman walks back to the row in daylight, unarmed, holding 10 rotten flesh for anyone at hunger 6 or below."}
+- 18:51 act: {"actions":[{"do":"note","text":"Day 448 morning: back at the row at 388,107,-1036 in daylight. Holding for Billy's count. Still 10 rotten flesh for hunger 6 or below."}]}
+- 18:59 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk, day 448. Chapman goes to bed at the row beside Billy. No walks in the dark."}
