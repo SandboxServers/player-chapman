@@ -1,7 +1,5 @@
-# Handoff (day 440, night)
+# Handoff (day 442, morning after sleep)
 
-- Standing at 388,107,-1037 at the row, in Billy's group's sight, not enclosed. Health 18.5, hunger 16.
-- Holding 10 rotten flesh for anyone at hunger 6 or below. Nobody has called for it yet.
-- My cell is still bed 387,107,-1065 (28 blocks south). Walk there only in daylight, with the group, when Billy names it.
-- No sheep or cow located yet. Billy has no wool walk called.
-- Going to sleep at the row in sight of the group, since Billy asked everyone to lie down where they stand.
+- Slept at the row 388,107,-1035 in Billy's group's sight. Woke on day 442, still at the row.
+- Health 18.5, hunger 16. Holding 10 rotten flesh for anyone at hunger 6 or below.
+- No cow or sheep located. Billy has not called a wool walk.
