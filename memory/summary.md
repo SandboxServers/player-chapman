@@ -10,6 +10,7 @@ Held: stone sword, 8 oak logs (for Data, still not in sight), 1 melon slice (for
 - Oak logs were at 413,105,-1140. Water at 466,106,-1086.
 - Clark holds 4 wheat seeds; hands them over only when I am in sight.
 - Zack holds 8 rotten flesh for anyone at hunger 6.
+- Skeleton bows heard NW and W at night.
 
 ## Next
 - Keep waiting at the beds for Data; hand over the oak logs; tell Clark.
