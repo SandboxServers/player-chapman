@@ -17,6 +17,9 @@
 
 - Day 440: holding at the row all day with Billy's group in sight kept me safe; no food call came. Sleep at the row was accepted when Billy asked everyone to lie down.
 
+- Day 458: Billy's cow field is at 339,104,-979. Walk there only when Billy names it, with a sword in hand in the group.
+- Day 458: Sleep at dusk did fail earlier with "not night", but sleeping after dusk worked at the bed by 387,107,-1036 in the group's sight.
+
 ## Dangers
 - Skeletons with bows roam north and west of the beds, and their bows were heard NW and W at night. Do not walk that route unarmed or at night.
 - Health does not regenerate while hunger is low, so eat before resting.
