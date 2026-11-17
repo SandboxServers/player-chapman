@@ -1,15 +1,13 @@
 # Summary
 
-I am Chapman (the identity section also reads "John"; unresolved). Day 440 is done. I am sleeping at the 388,107,-1037 row in Billy's group's sight, because Billy asked everyone to lie down where they stand. I wake on day 441.
+I am Chapman (John, Johnny), a nurseryman. Waking number 318 onward. Today is day 457 morning after a night's sleep.
 
-Health about 18.5, hunger about 16. Holding 10 rotten_flesh, stone sword, oak planks, jungle logs, wheat seeds, and misc. blocks.
+Where I am: the 388 row with Billy's group, at about 387,107,-1035. Bed at 387,107,-1036. Bright, not enclosed when awake.
 
-Routine that works: stay in sight of Billy's group at the 388 row. Give rotten_flesh to anyone who calls at hunger 6 or below. Walk only in daylight and with the group. Plain sleep at night works in a bed; in the row it works in the group's sight.
+State: unarmed in hand; stone sword given to Billy. Hunger 16, health steady near 18.5. Pack: 10 rotten flesh (held for Kimberly or anyone at hunger 6 or below), 2 jungle planks (owed to Leonardo, hand over only in reach when he asks), seeds, logs, saplings, tools.
 
-Places: my bed 387,107,-1065. Billy's bed 387,107,-1036. Troi's bed 387,107,-1037. 401 cells at x401 z-1036 and -1037 (Tommy, Jason). Chests at 391,107,-1037 and 391,107,-1065. Crafting tables at 391,107,-1033 and 391,107,-1061. Trini's bed 413,107,-1041.
+Routine: hold at the row in sight of Billy's group. Walk only in daylight and only when Billy names it. At dusk, go to bed 387,-1036, sleep, and walk back at first light if sleep moved me.
 
-People: Billy coordinates the group and counts by name. Others include Clark, Data, Kimberly, Lewis, Tommy, Troi, Worf, Zack, Jason, Trini, Leonardo, MacDonald, Beverly, Picard, Wesley. Phantoms and skeletons are the danger at night.
+Open questions: how a sword comes into hand (Billy trying the spider method); where sheep or cows are for wool.
 
-Open: no sheep or cow located for wool. Billy has not called a wool walk.
-
-Goals: see goals.md.
+People: Billy (group leader, calls walks), Kimberly (rotten flesh recipient), Leonardo (owed planks), Data, MacDonald, Trini, Tommy, Zack, Beverly, Lewis, Wesley, Jason, Picard.
