@@ -26,3 +26,5 @@
 - 03:54 act: {"actions":[{"do":"wait","seconds":240}]}
 - Day 403, two more 240s waits at the beds. Data still not in sight; MacDonald went to the shore. Still holding 8 oak logs.
 - 03:58 act: {"actions":[{"do":"wait","seconds":240}]}
+- 04:06 say: {"text":"Night is here. I'm at the white bed with the group, so I'll rest too."}
+- Night 403: at white bed 388,107,-1079 with MacDonald resting nearby. Data still not in sight; holding 8 oak logs, melon slice. Sleep called; handoff written.
