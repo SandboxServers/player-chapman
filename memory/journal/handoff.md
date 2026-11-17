@@ -1,6 +1,7 @@
-# Handoff (day 423, night)
+# Handoff (day 425, night)
 
-- Asleep beside the 401 beds near 401,107,-1065 with the camp group. Health 20, hunger 20, no food held.
-- Owed: 8 oak logs, held by Clark at 402,107,-1077. Hand to Data only, once Data is in sight, then tell Clark.
-- Lewis is alone at the table 390,-1061 with 1 bread, hunger 17. Walk him to the beds in daylight if someone is with me.
-- Next: at first light, look for Data and Clark, deliver the logs, then find food for the hungry.
+- Slept at the 401,107,-1023 bed (sleep worked; 6 of 10 asleep). MacDonald in reach there.
+- Holding 10 rotten flesh for anyone at hunger 6 or below. Hunger 16, health 18.5.
+- Billy's group sleeps at the 387 bed row (Worf, Zack, Trini, Kimberly, Data, Tommy, Leonardo). Lewis alone at 415,-1021 earlier.
+- Next at first light: walk to Billy at 387 in daylight, stay in sight, share flesh when someone calls at 6.
+- Bed use from an adjacent face fails ("that block is a bed"); plain sleep at night works.

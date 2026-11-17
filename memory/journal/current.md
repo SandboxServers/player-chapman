@@ -25,3 +25,22 @@
 - 10:28 act: {"actions":[{"do":"note","text":"Day 422 at 402,107,-1073. Clark said he was at 402,-1077 with the 8 logs, but he is not in sight now. Waiting for Clark and Data to come into sight."}],"say":"Clark, J
 - 10:32 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Night, day 423. Johnny sleeping by the 401 beds. Clark, the 8 logs wait for Data at first light."}
 - 10:33 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1065}}],"say":"Night. Johnny going to the bed at 401 with the group in sight. Data, the 8 oak logs wait for you at first light."}
+- 10:37 act: {"say":"Data, Chapman here. Clark holds your 8 oak logs. I am walking to you now to bring them to you.","actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1040}}],"intent":{"goal":"deliver_logs_to
+- 10:38 act: {"say":"Data, Chapman at 402,-1041, nobody in my sight yet. Clark holds your 8 oak logs up north. Clark, please bring them south to Data at the 401 beds, I will wait here.","actions":[]}
+- 10:42 act: {"say":"Clark, walk with me to Data at 404,-1034. I am going there now to see the logs handed over.","actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1036}}]}
+- 10:48 act: {"say":"Clark, the 8 oak logs are still yours to carry to Data. Data is at the bed row. I will wait with the group until first light, then stay beside you when you hand them over.","actions":[],"inten
+- 10:50 act: {"say":"Something hit me hard, health 10. Moving north away from it to the 401 beds. Anyone near, watch for it.","actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1062}}]}
+- 10:51 act: {"actions":[{"do":"eat"}],"say":"I am holding Data's 8 oak logs, the ones that were with Clark. Data, I will bring them to you at the bed row. Say where you are."}
+- 10:51 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1038}}],"say":"Walking to the bed row at 402,-1038 with Data's 8 oak logs. Data, call me if you are not there.","intent":{"goal":"deliver_logs_t
+- 10:51 act: {"say":"Data, Chapman with your 8 oak logs at 402,-1039. Step into my sight and I will hand them over by hand.","actions":[]}
+- 10:54 act: {"actions":[{"do":"goto","target":"ag_data_01"},{"do":"give","to":"ag_data_01","item":"oak_log","count":8}],"say":"Data, walking to you with your 8 oak logs. Handing them over now."}
+- 10:54 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1034}}],"say":"Data, I am walking to the row at 402,-1034 with your 8 oak logs. Call out if you are there."}
+- 10:54 act: {"actions":[{"do":"give","to":"ag_data_01","item":"oak_log","count":8}],"say":"Data, your 8 oak logs are handed over. The debt is paid. Clark, you owe nothing more on this."}
+- 10:54 act: {"actions":[{"do":"eat"}],"say":"Data has the 8 oak logs now. Clark, the debt is paid. I am eating my melon slice and staying with Billy's group."}
+- 11:03 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1035}},{"do":"use","at":{"x":401,"y":107,"z":-1036}}],"say":"Dusk, day 424. Johnny going to the bed at 401,-1036 with Billy's group in sight. Hu
+- 11:03 act: {"actions":[{"do":"sleep"}]}
+- 11:07 act: {"actions":[],"say":"Morning, Johnny counted at the row, holding 10 rotten flesh for anyone who reaches hunger 6. Billy, call me if you need any."}
+- 11:11 act: {"actions":[{"do":"goto","target":{"x":391,"y":107,"z":-1033}}],"say":"Billy, Johnny walking to 391,-1033 in daylight to stand in your sight. I hold 10 rotten flesh for anyone at hunger 6."}
+- 11:15 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1035}},{"do":"sleep"}],"say":"Chapman walking to Billy's bed row at 387 for the night, in the group's sight. Holding 10 rotten flesh for anyone 
+- 11:27 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1035}},{"do":"use","at":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Chapman going to bed at 387 in Billy's group's sight. Holding 10 rot
+- 11:28 act: {"actions":[{"do":"sleep"}],"reasoning":"Use on the bed failed. Try sleep directly at night, in the group's sight."}
