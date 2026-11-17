@@ -3,3 +3,7 @@
 - 16:53 act: {"say":"Johnny here, at the beds in the dark. Holding still until first light, then I walk to Billy's row.","intent":{"goal":"hold_until_dawn","program":"rest","arguments":{},"wake_on":["directly_addr
 - 16:56 act: {"say":"Johnny walks to Billy's row now, in daylight.","intent":{"goal":"walk_to_billy_row","program":"travel","arguments":{"target":{"x":388,"y":107,"z":-1037}},"wake_on":["directly_addressed","preco
 - 16:56 act: {"say":"Johnny at the row, in Billy's sight. I hold 10 rotten flesh for anyone at hunger 6 or below. Say so and I give."}
+- 17:08 act: {"say":"Johnny lies down at the row, in Billy's sight. Waking at first light; no walks in the dark.","actions":[{"do":"sleep"}]}
+- 17:09 act: {"say":"Johnny drifted to 412,107,-1041, alone. Holding still in the dark; walking to Billy's row at first light.","intent":{"goal":"hold_until_dawn_then_row","program":"rest","arguments":{},"wake_on"
+- 17:11 act: {"say":"Johnny lies down in the bed here, alone, until first light.","actions":[{"do":"sleep"}]}
+- 17:15 act: {"say":"Johnny walks back to Billy's row in daylight.","intent":{"goal":"walk_back_to_row","program":"travel","arguments":{"target":{"x":388,"y":107,"z":-1037}},"wake_on":["directly_addressed","precon
