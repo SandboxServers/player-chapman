@@ -44,3 +44,8 @@
 - 11:15 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1035}},{"do":"sleep"}],"say":"Chapman walking to Billy's bed row at 387 for the night, in the group's sight. Holding 10 rotten flesh for anyone 
 - 11:27 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1035}},{"do":"use","at":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Chapman going to bed at 387 in Billy's group's sight. Holding 10 rot
 - 11:28 act: {"actions":[{"do":"sleep"}],"reasoning":"Use on the bed failed. Try sleep directly at night, in the group's sight."}
+- 11:32 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1034}}],"say":"Chapman walking to Billy's group at 389,-1034 in daylight, to stand in his sight. Holding 10 rotten flesh for hunger 6.","reasoni
+- 11:40 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1035}},{"do":"sleep"}],"say":"Chapman going to the 387 bed row for the night, in Billy's group's sight. Holding 10 rotten flesh for hunger 6.","
+- 11:44 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1034}}],"say":"Chapman walking back to Billy's row at 389,-1034 for the count. Holding 10 rotten flesh for hunger 6.","reasoning":"Morning; rejo
+- 11:53 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1035}},{"do":"sleep"}],"say":"Dusk. Chapman going to the 387 bed row to sleep with Billy's group. Holding 10 rotten flesh for anyone at hunger 6
+- 11:54 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, group sheltered at 387 beds. Sleep now."}
