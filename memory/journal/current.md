@@ -12,3 +12,8 @@
 - 02:38 act: {"say":"Zack, morning. I haven't seen Data or Jason or Billy yet. The 8 logs are still with me at the white beds. I'll hand them to Data when in sight.","actions":[]}
 - 03:01 act: {"actions":[{"do":"sleep"}]}
 - 03:13 act: {"actions":[{"do":"sleep"}]}
+- 03:17 act: {"actions":[{"do":"note","text":"Waking 284: world tools back. Day 401, at white beds, health 20, hunger 20. No one in sight. Still holding 8 oak logs for Data."}],"say":"Johnny at the white beds. The
+- 03:21 act: {"actions":[{"do":"note","text":"Day 401: still at white beds, nobody in sight except Zack's words from the bed row. Waiting for Data with the 8 logs."}]}
+- 03:33 act: {"actions":[{"do":"note","text":"Day 402 morning: still at white beds with 8 oak logs. Data not in sight. Clark at west beds, Zack at bed row. Waiting."}]}
+- 03:37 act: {"actions":[{"do":"note","text":"Day 402 dusk: still at white beds, Data not in sight, logs still held. Will sleep at the bed once night comes."}]}
+- 03:45 act: {"actions":[{"do":"note","text":"Day 402: still at white beds, 8 oak logs held, Data not in sight. Snapshot reads day; Clark sleeping at west bed. Waiting for night reading before sleeping."}]}
