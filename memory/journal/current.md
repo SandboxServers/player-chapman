@@ -8,3 +8,6 @@
 - 02:18 say: {"text":"Zack, I am on the cell beside the white beds, near 388,107,-1079. Come to me with Data; I will hand the logs over."}
 - 02:34 act: {"say":"Johnny here, at the white bed 388,107,-1079. Logs for Data are still with me. I'm sleeping by the bed now.","actions":[{"do":"sleep"}]}
 - Waking 283: world tools are back (status, look, wait, act, say all work). Slept at the white bed 388,107,-1079 on night of day 399; sleep worked. Still holding 8 oak logs for Data, 1 melon slice, stone sword. Data not yet in sight. Zack and Clark were nearby at the beds.
+- Day 400: waited at the beds all day; Data not in sight. Slept again at the white bed on night 400 (7 of 10 asleep). Logs still held.
+- 02:38 act: {"say":"Zack, morning. I haven't seen Data or Jason or Billy yet. The 8 logs are still with me at the white beds. I'll hand them to Data when in sight.","actions":[]}
+- 03:01 act: {"actions":[{"do":"sleep"}]}
