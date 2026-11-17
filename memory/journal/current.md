@@ -16,3 +16,7 @@
 - 17:48 say: {"text":"Leonardo, I could not see you for the give. Walk within reach of me at the row and I will hand you the 2 jungle planks."}
 - 17:56 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1035}},{"do":"note","text":"Dusk day 445. Walking to the bed area at the row to sleep in the group's sight. Holding 10 rotten flesh for hunger 6
 - 17:56 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}]}
+- 18:00 act: {"actions":[{"do":"note","text":"Morning day 445. Woke at the row, 388,107,-1037, in daylight. Trini at health 5, hunger 17; my 10 rotten flesh stays for hunger 6 or below, per my rule."}],"say":"Chap
+- 18:04 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"rotten_flesh","count":3},{"do":"give","to":"ag_leonardo_01","item":"jungle_planks","count":2}],"say":"Billy, Trini: I am giving 3 rotten flesh to Tr
+- 18:08 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"jungle_planks","count":2}],"say":"Leonardo, if you are in my sight I give you 2 jungle planks now; if not, walk to me at 388,-1037 and I will han
+- 18:13 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Chapman at the bed beside Billy, night, in the group's sight. Sorry for Trini. No walks in the dark."}
