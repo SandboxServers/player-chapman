@@ -21,3 +21,8 @@
 - 03:52 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1079}},{"do":"sleep"}]}
 - 03:52 act: {"actions":[{"do":"sleep"}]}
 - 03:52 act: {"actions":[{"do":"sleep"}]}
+- 03:54 act: {"say":"Johnny here at the beds. I'm holding 8 oak logs for Data; I'll hand them over when Data is in sight.","intent":{"goal":"wait_for_data_at_beds","program":"rest","arguments":{},"wake_on":["direc
+- Day 403 (day, bright, health 20, hunger 20, days_since_sleep 4): world tools work. At white beds 388,107,-1079, nobody in sight except Zack's distant hail. Said I hold 8 oak logs for Data. Set rest intent to wait for Data; still holding logs, melon slice, stone sword.
+- 03:54 act: {"actions":[{"do":"wait","seconds":240}]}
+- Day 403, two more 240s waits at the beds. Data still not in sight; MacDonald went to the shore. Still holding 8 oak logs.
+- 03:58 act: {"actions":[{"do":"wait","seconds":240}]}
