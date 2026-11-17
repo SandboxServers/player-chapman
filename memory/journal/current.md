@@ -5,3 +5,8 @@
 - Held at the row all morning; Trini walked to her bed 413 with Crusher, Data and Kimberly in sight. Nobody has called for food. Still holding, no one at hunger 6.
 - 13:45 act: {"say":"Johnny here at the row, in sight of the group. I hold 10 rotten flesh for anyone at hunger 6 or below.","intent":{"goal":"hold_in_group_sight","program":"follow","arguments":{"target":"ag_bill
 - 13:46 act: {"say":"Holding at the row with Clark, Data and Kimberly in sight. Billy walked on to Trini's bed, so I stay here.","intent":{"goal":"hold_at_row_with_group","program":"rest","arguments":{},"wake_on":
+- Night 433: phantoms hit people near the row. I held at 387,-1035 beside Billy's bed, in Data, Jason and Leonardo's sight. No bed of mine here; mine is 387,107,-1065. Hunger 16, 10 rotten flesh.
+- Dawn 433: phantoms kept sleep refused all night; no one fell to hunger 6. Trini lost her gear to phantoms. I held at 388,-1037 with Billy. Hunger 16, 10 rotten flesh.
+- 13:55 act: {"say":"Chapman at the row, holding with Data, MacDonald and Jason in sight. I have no bed here; I will stay put and not walk the dark alone.","intent":{"goal":"hold_at_row_overnight","program":"rest"
+- 13:57 act: {"say":"Chapman at 387,-1035, next to the row beds, with Data, Jason and Leonardo in sight. No named cell for me; I hold until morning.","intent":{"goal":"hold_until_morning_in_group","program":"rest"
+- 14:06 act: {"say":"Morning, day 433. Chapman at the row with Billy, Trini and Jason in sight. Still holding 10 rotten flesh for anyone at hunger 6 or below.","intent":{"goal":"hold_at_row_day","program":"rest","
