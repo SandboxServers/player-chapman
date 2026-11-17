@@ -24,3 +24,4 @@
 - 10:28 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1074}}],"say":"Clark, I am coming to you at 402,-1074 for the logs. Data, if you are in sight, please come there."}
 - 10:28 act: {"actions":[{"do":"note","text":"Day 422 at 402,107,-1073. Clark said he was at 402,-1077 with the 8 logs, but he is not in sight now. Waiting for Clark and Data to come into sight."}],"say":"Clark, J
 - 10:32 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Night, day 423. Johnny sleeping by the 401 beds. Clark, the 8 logs wait for Data at first light."}
+- 10:33 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1065}}],"say":"Night. Johnny going to the bed at 401 with the group in sight. Data, the 8 oak logs wait for you at first light."}
