@@ -52,3 +52,6 @@
 - 20:34 act: {"actions":[],"say":"Billy, I am at 388,107,-1034, in the open by the crafting table, holding the stone sword. Walk to me and I will give it."}
 - 20:37 act: {"actions":[],"say":"Morning, Billy. Chapman at the row, 388,107,-1034, holding the stone sword for you. Say when you are in reach and I will give it."}
 - 20:40 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"stone_sword","count":1}],"say":"Billy, stone sword given. Kimberly's 10 rotten flesh stays with me until she is in reach."}
+- 20:47 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1035}}],"say":"Going to bed beside 387,107,-1036 with the group. Still holding Kimberly's 10 rotten flesh."}
+- 20:59 act: {"actions":[],"say":"Billy, I do not know. I never had a sword in hand; mine was only in pack, and I gave it to you. Holding the flesh for Kimberly."}
+- 21:03 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1035}}],"say":"Night, day 454. Going to my bed at 387,107,-1036 in sight of the row. Holding 10 flesh for Kimberly."}
