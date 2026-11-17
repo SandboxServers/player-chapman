@@ -3,3 +3,5 @@
 - 08:15 say: {"text":"John here, by the beds, health 8 and hungry-ish, holding 3 wheat. I hear Billy's count. Tell me if you need it."}
 - 08:19 act: {"actions":[{"do":"eat"}],"say":"Thank you, Laforge. I am eating the bread now. Going to bed here at dusk."}
 - 08:19 say: {"text":"Good night, camp. Thank you, Laforge, for the bread. I am sleeping at the bed by 415,-1079."}
+- 08:19 act: {"say":"Laforge, are you hungry? I have 3 wheat for whoever needs it most."}
+- 08:20 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1079}}]}
