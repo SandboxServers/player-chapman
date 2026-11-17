@@ -7,3 +7,6 @@
 - 06:26 act: {"say":"Clark, the 8 oak logs are yours now, for Data. I have 3 wheat left; the wheat seeds for Laforge are with you, right?","actions":[{"do":"note","text":"Gave 8 oak_log to Clark (ag_clark_01) for 
 - 06:42 act: {"say":"MacDonald, I'm walking back to the white bed to meet you.","actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1081}}]}
 - 06:46 act: {"say":"Night. I'm going to the white bed to sleep. MacDonald, the wheat can wait until morning.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1079}},{"do":"sleep"}]}
+- 06:47 act: {"say":"Johnny here at the white bed, 416,107,-1079. Clark, MacDonald: I am waiting here for the 4 wheat. Walk to me and I will come to you if you are close.","intent":{"goal":"await_wheat_and_group",
+- 06:55 act: {"say":"MacDonald, I am at the white bed 416,107,-1079, in the open, and I can see no one. Walk into my sight and hand me the 4 wheat. Clark, William is at 11 health: I can give a meal from my wheat i
+- 06:59 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1079}},{"do":"sleep"}],"say":"Night. Johnny sleeping at the white bed. MacDonald, the wheat can wait for first light."}
