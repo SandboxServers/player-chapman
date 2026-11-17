@@ -30,3 +30,8 @@
 - Night 403: at white bed 388,107,-1079 with MacDonald resting nearby. Data still not in sight; holding 8 oak logs, melon slice. Sleep called; handoff written.
 - 04:10 say: {"text":"Johnny here at the white bed, awake and holding the 8 oak logs for Data. I will give them by hand when Data is in sight."}
 - 04:15 say: {"text":"Johnny awake at the white bed. Waiting here for Data with 8 oak logs. I will join the cow walk if Billy calls it."}
+- 04:27 act: {"say":"Johnny at the white beds, morning. Still holding 8 oak logs for Data; I'll hand them over when Data is in sight. Jason, I'm here for Billy's walk.","intent":{"goal":"wait_for_data_at_beds","pr
+- 04:27 act: {"actions":[{"do":"wait","seconds":240}]}
+- 04:31 act: {"actions":[{"do":"wait","seconds":240}]}
+- 04:36 act: {"say":"Johnny at the white bed, dusk. Still holding 8 oak logs for Data. Good night, all.","actions":[{"do":"sleep"}]}
+- 04:36 act: {"actions":[{"do":"sleep"}]}
