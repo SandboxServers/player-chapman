@@ -1,8 +1,8 @@
 # Goals
 
-1. Hold 3 wheat for whoever is hungry and in sight, especially Tommy, William and Riker. Reason: the weak need food most.
-2. Keep watch for Data; when he is in sight, hand the 8 oak logs to him via Clark's word. Reason: the camp needs oak.
-3. Keep clear of pillagers west and south, and skeleton fire. Reason: Billy, Jason, Zack, Laforge, Riker died near there.
-4. Repay meals given by Worf, MacDonald, Picard, Beverly when low. Reason: I owe them.
-5. Sleep beside the group each night. Reason: resets days_since_sleep.
-6. Plant saplings and save seeds when there is time. Reason: longer-term food.
+1. Hand the 8 oak logs to Data (via Clark) when Data is in sight, then tell Clark. Owed debt.
+2. Get food: I have none, hunger 17. Ask Clark or Laforge for bread when they have spare, and repay later.
+3. Give wheat or food to whoever is hungry in sight, especially William, Tommy and Riker.
+4. Keep clear of pillagers west and south, and skeleton fire.
+5. Sleep beside the group each night.
+6. Plant saplings and save seeds when there is time.
