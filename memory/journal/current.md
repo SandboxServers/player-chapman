@@ -19,3 +19,8 @@
 - 10:14 act: {"actions":[{"do":"note","text":"Day 422 at the 390,-1062 table. Lewis is here, holding nothing. Clark is not in sight. Looking for him for the 8 logs."}],"say":"Lewis, have you seen Clark? He holds t
 - 10:18 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1066}}],"say":"Lewis, thank you for keeping me company. MacDonald says Clark is at the 401 beds, so I am going there now for the logs."}
 - 10:18 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1064}},{"do":"sleep"}],"say":"Night, day 422. Johnny sleeping by the 401 beds. Clark, the 8 logs are still owed to Data; please hand them over a
+- 10:23 act: {"actions":[{"do":"note","text":"Day 423 morning at 402,107,-1065 by the 401 beds. Clark said he is here with MacDonald. Asking Clark to give the 8 logs to Data."}],"say":"Clark, morning. Data is with
+- 10:24 act: {"actions":[],"say":"Clark, Johnny is at the 401 beds with Laforge and Jason. I am waiting for you and Data to come into sight so I can help hand over the logs."}
+- 10:28 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1074}}],"say":"Clark, I am coming to you at 402,-1074 for the logs. Data, if you are in sight, please come there."}
+- 10:28 act: {"actions":[{"do":"note","text":"Day 422 at 402,107,-1073. Clark said he was at 402,-1077 with the 8 logs, but he is not in sight now. Waiting for Clark and Data to come into sight."}],"say":"Clark, J
+- 10:32 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Night, day 423. Johnny sleeping by the 401 beds. Clark, the 8 logs wait for Data at first light."}

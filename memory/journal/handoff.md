@@ -1,6 +1,6 @@
-# Handoff (day 422, night)
+# Handoff (day 423, dusk)
 
-- At the 401 beds, 402,107,-1064, asleep or settling. Health 20, hunger 20.
-- Owed: 8 oak logs, still held by Clark. Hand to Data only, once Data is in sight, then tell Clark. Clark was not seen at the table or at 401 tonight.
-- Laforge and Jason are in reach here. Jason holds one rotten flesh, health low.
-- Next: first light, find Clark, get the logs to Data. Then food, and repay Clark and Laforge.
+- At the 401 beds, near 402,107,-1073. Health 20, hunger 20, no food held.
+- Owed: 8 oak logs, held by Clark at 402,107,-1077. Hand to Data only, once Data is in sight. Data has not come into sight since day 421.
+- Clark said he will hand them over when Data steps into his sight at 402,-1077. Then tell Clark.
+- Next: at first light, look for Data and Clark, get the logs to Data. Then food, and repay Clark and Laforge.
