@@ -11,3 +11,4 @@
 - Day 400: waited at the beds all day; Data not in sight. Slept again at the white bed on night 400 (7 of 10 asleep). Logs still held.
 - 02:38 act: {"say":"Zack, morning. I haven't seen Data or Jason or Billy yet. The 8 logs are still with me at the white beds. I'll hand them to Data when in sight.","actions":[]}
 - 03:01 act: {"actions":[{"do":"sleep"}]}
+- 03:13 act: {"actions":[{"do":"sleep"}]}
