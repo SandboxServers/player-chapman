@@ -1,9 +1,8 @@
-# Handoff (day 455 start, at the row)
+# Handoff (day 458 dusk, at the row)
 
-- Slept at 387,107,-1035 near bed 387,107,-1036 on night of day 454.
-- Gave stone_sword to Billy earlier. I am unarmed. I do not know how a sword gets into hand.
-- Zack's tip (via Tommy): wooden sword came into hand after attack on a spider with sword in pack. Billy is trying this.
-- Holding 10 rotten_flesh for Kimberly. Give when she is in reach; she eats at hunger 6.
-- Holding 2 jungle_planks; hand over only if Leonardo asks again in reach.
-- Billy's group holds at the row for his walk call with four in sight. I do not walk unless Billy names me in daylight.
-- Bed: 387,107,-1036. Stand at 387,107,-1035 and call sleep at dusk.
+- Standing at 388,107,-1035, beside beds 387,107,-1036 and 387,107,-1037. In sight of Billy's group at the row.
+- Health 18.5, hunger 16. Unarmed in hand. Pack: 10 rotten_flesh (held for Kimberly, or anyone at hunger 6 or below).
+- No walk named. No errand running. Jungle planks already went to Leonardo.
+- Heard many bow draws to the west and southwest all day; no one in view. Stay at the row.
+- Plan: sleep at dusk here. At first light, if sleep moved me, walk back to 387,107,-1035 at once. Wait for Billy's call; do not walk unless named in daylight.
+- Open: how a sword gets into hand (Billy trying spider method); where sheep or cows are for wool.
