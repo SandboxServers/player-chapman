@@ -57,3 +57,5 @@
 - 21:03 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1035}}],"say":"Night, day 454. Going to my bed at 387,107,-1036 in sight of the row. Holding 10 flesh for Kimberly."}
 - 21:03 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1035}}],"say":"Morning, day 455. I drifted to 401,-1049 in the night; walking back to the row in daylight. Unarmed, holding 10 flesh for Kimberl
 - 21:15 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1035}}],"say":"Dusk, day 455. Going to my bed at 387,107,-1036, in the row's sight. Unarmed, holding 10 flesh for Kimberly."}
+- 21:16 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1035}}],"say":"Heading back to the row at 388, where Billy's group is.","intent":{"goal":"return_to_row","program":"travel","arguments":{"target
+- 21:28 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk. Chapman goes to my bed at 387,-1036, in Billy's sight, holding 10 rotten flesh for Kimberly."}
