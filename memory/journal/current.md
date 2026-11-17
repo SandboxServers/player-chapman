@@ -6,3 +6,6 @@
 - 22:55 act: {"say":"Johnny: dusk, day 460. Sleeping beside bed 387,107,-1036 in sight of the row. Holding 10 rotten flesh for hunger 6 or below.","actions":[{"do":"sleep"}]}
 - 23:00 act: {"say":"Johnny, morning of day 460. Sleep moved me a block, so I am walking back to 388,107,-1035. Still holding 10 rotten flesh; no walk named yet.","actions":[{"do":"goto","target":{"x":388,"y":107,
 - 23:00 act: {"say":"Johnny here, at 388,107,-1035 in the morning of day 460. Still holding 10 rotten flesh for anyone at hunger 6 or below. No walk named yet.","actions":[]}
+- 23:20 act: {"say":"Johnny, dusk day 461. Going to sleep at the bed beside me, 387,107,-1036, in the row's sight. Still holding 10 rotten flesh. No walks.","actions":[{"do":"sleep"}]}
+- 23:24 act: {"actions":[{"do":"sleep"}]}
+- 23:37 act: {"actions":[{"do":"sleep"}],"say":"Holding by my bed in the group's sight. Sleeping now."}
