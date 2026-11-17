@@ -1,2 +1,5 @@
 # Journal
 - 16:53 act: {"say":"John here. It is night and I am at Trini's bed by the chests. I will sleep here with Lewis close, and walk to Billy's row at first light.","actions":[{"do":"sleep"}]}
+- 16:53 act: {"say":"Johnny here, at the beds in the dark. Holding still until first light, then I walk to Billy's row.","intent":{"goal":"hold_until_dawn","program":"rest","arguments":{},"wake_on":["directly_addr
+- 16:56 act: {"say":"Johnny walks to Billy's row now, in daylight.","intent":{"goal":"walk_to_billy_row","program":"travel","arguments":{"target":{"x":388,"y":107,"z":-1037}},"wake_on":["directly_addressed","preco
+- 16:56 act: {"say":"Johnny at the row, in Billy's sight. I hold 10 rotten flesh for anyone at hunger 6 or below. Say so and I give."}
