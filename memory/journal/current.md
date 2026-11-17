@@ -17,3 +17,7 @@
 - 03:33 act: {"actions":[{"do":"note","text":"Day 402 morning: still at white beds with 8 oak logs. Data not in sight. Clark at west beds, Zack at bed row. Waiting."}]}
 - 03:37 act: {"actions":[{"do":"note","text":"Day 402 dusk: still at white beds, Data not in sight, logs still held. Will sleep at the bed once night comes."}]}
 - 03:45 act: {"actions":[{"do":"note","text":"Day 402: still at white beds, 8 oak logs held, Data not in sight. Snapshot reads day; Clark sleeping at west bed. Waiting for night reading before sleeping."}]}
+- 03:48 act: {"actions":[{"do":"note","text":"Day 402: at white beds, 8 oak logs held for Data, Data not in sight. Waiting."}],"say":"Johnny at the white beds, still holding 8 oak logs for Data. Holler when Data i
+- 03:52 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1079}},{"do":"sleep"}]}
+- 03:52 act: {"actions":[{"do":"sleep"}]}
+- 03:52 act: {"actions":[{"do":"sleep"}]}
