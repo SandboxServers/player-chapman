@@ -1,7 +1,7 @@
-# Handoff (day 427, night)
+# Handoff (day 429, night)
 
-- Asleep (or going to sleep) in the 387 bed row at about 388,107,-1035, in Billy's group's sight.
+- At 388,107,-1065 in the 387 bed row, in Billy's group's sight. Sleeping here by plain sleep.
 - Holding 10 rotten flesh for anyone at hunger 6 or below. Hunger 16, health 18.5.
-- Group at the 387 row: Billy's count (Worf, Jason, Zack, Clark, Leonardo, Data, Beverly, Troi, Tommy, Kimberly, Trini, MacDonald, Wesley). Lewis reported alone at the 416 bed.
+- Nobody has called at hunger 6 or below yet. Lewis reported health 7, hunger 17.
 - Next at first light: stay in the row's sight, give rotten flesh to anyone who calls at hunger 6 or below.
 - Plain sleep at night works; use on a bed from an adjacent face fails.
