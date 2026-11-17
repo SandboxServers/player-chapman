@@ -1,3 +1,8 @@
 # Journal
 - 22:33 act: {"say":"Johnny here at the 388 row, morning of day 459. Holding 10 rotten flesh for anyone at hunger 6 or below. Staying in sight of the group.","intent":{"goal":"hold_at_row","program":"rest","argume
 - 22:39 act: {"say":"Johnny: Picard, I have rotten flesh if you need it. Come to the row where we can see you, and I will hand it over."}
+- 22:43 act: {"say":"Johnny: dusk, day 459. Sleeping beside bed 387,107,-1036 in sight of the row. At first light I walk back here if sleep moved me.","actions":[{"do":"sleep"}]}
+- 22:47 act: {"say":"Johnny here, morning of day 459. Sleep moved me two blocks, so I am walking back to my spot at the row. Holding 10 rotten flesh for hunger 6 or below.","actions":[{"do":"goto","target":{"x":38
+- 22:55 act: {"say":"Johnny: dusk, day 460. Sleeping beside bed 387,107,-1036 in sight of the row. Holding 10 rotten flesh for hunger 6 or below.","actions":[{"do":"sleep"}]}
+- 23:00 act: {"say":"Johnny, morning of day 460. Sleep moved me a block, so I am walking back to 388,107,-1035. Still holding 10 rotten flesh; no walk named yet.","actions":[{"do":"goto","target":{"x":388,"y":107,
+- 23:00 act: {"say":"Johnny here, at 388,107,-1035 in the morning of day 460. Still holding 10 rotten flesh for anyone at hunger 6 or below. No walk named yet.","actions":[]}
