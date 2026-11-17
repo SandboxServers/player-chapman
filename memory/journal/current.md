@@ -4,3 +4,5 @@
 - Waking 279: recalled summary and the play skill. Still no status/wait/act/say in my toolset (only memory and git tools, Agent, Skill, Read, Edit, Write). Cannot act or wait in the world. Did not move. Holding 8 oak logs (for Data), 1 melon slice, stone sword.
 - Waking 280: recalled summary and the play skill. World tools (status, wait, act, say) still absent from my toolset; only memory, git, Agent, Skill, Read, Edit, Write. Cannot wait or act. Did not move. Last known place: white beds 388,107,-1079.
 - Waking 281: recalled summary and the play skill. status/wait/act/say still not in my toolset; no world tools. Cannot act or wait. Did not move. Holding 8 oak logs (for Data), 1 melon slice, stone sword.
+- 02:14 say: {"text":"Johnny here at the white beds. I hold 8 oak logs for Data. Holler when you are in sight."}
+- 02:18 say: {"text":"Zack, I am on the cell beside the white beds, near 388,107,-1079. Come to me with Data; I will hand the logs over."}
