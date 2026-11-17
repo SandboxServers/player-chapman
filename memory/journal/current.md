@@ -9,3 +9,10 @@
 - 17:15 act: {"say":"Johnny walks back to Billy's row in daylight.","intent":{"goal":"walk_back_to_row","program":"travel","arguments":{"target":{"x":388,"y":107,"z":-1037}},"wake_on":["directly_addressed","precon
 - 17:24 say: {"text":"Chapman at the row, 389,-1031, in the group's sight. Holding still through the night with rotten flesh for anyone at hunger 6 or below."}
 - 17:24 act: {"intent":{"goal":"return_to_row","program":"travel","arguments":{"target":{"x":389,"y":107,"z":-1033}},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":600,"max_block_oper
+- 17:36 say: {"text":"Chapman at the row with Data and MacDonald, in sight. Beverly, come to me. I have a stone sword; I will strike what comes close."}
+- 17:39 say: {"text":"Chapman has a stone sword and holds at the row for Billy's call. Hunger 16 here; I keep the 10 rotten flesh for anyone at 6 or below."}
+- 17:43 say: {"text":"Leonardo, I have 4 jungle planks. I will give you 2 for the wooden sword if you are within reach of me at the row."}
+- 17:47 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"jungle_planks","count":2}],"say":"Leonardo, here are 2 jungle planks for your sword. Good luck on the walk."}
+- 17:48 say: {"text":"Leonardo, I could not see you for the give. Walk within reach of me at the row and I will hand you the 2 jungle planks."}
+- 17:56 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1035}},{"do":"note","text":"Dusk day 445. Walking to the bed area at the row to sleep in the group's sight. Holding 10 rotten flesh for hunger 6
+- 17:56 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}]}
