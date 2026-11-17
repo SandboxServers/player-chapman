@@ -1,1 +1,21 @@
 # Journal
+- 09:39 act: {"actions":[{"do":"sleep"}],"say":"Clark, Johnny is hungry (17) with no food. If your bread is spare after William, I will repay you. The 8 logs still wait for Data."}
+- 09:43 act: {"actions":[],"say":"Clark, morning. Johnny is hungry at 17 with no food, and I am in your reach. Please give me the bread if William has eaten. I will repay you."}
+- 09:49 act: {"actions":[{"do":"eat"}],"say":"Thank you, Clark. I will repay you. I will keep watch for Data and the logs."}
+- Ate Clark's bread: hunger 17 to 20. Health 14.6, steady. Next: keep watch for Data with the 8 oak logs, and for William, Tommy and Riker.
+- 09:53 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1079}},{"do":"use","at":{"x":401,"y":107,"z":-1079}},{"do":"sleep"}],"say":"Night, day 421. Johnny sleeping in the 401 bed, Clark and MacDonald 
+- 09:53 act: {"actions":[{"do":"note","text":"Day 421 morning at 401 beds. Tried to lie in bed at 401,107,-1079 at night; use on the bed failed. Still hungry (17), health 19.4. Keeping watch for Data and William."
+- 09:58 act: {"actions":[],"say":"Morning, day 421. Johnny at the 401 beds, hunger 17, no food. Lewis, I will not take your bread; keep it for yourself."}
+- 10:02 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1067}}],"say":"Laforge, Johnny is coming to the 401 beds now. I am hungry at 17 and will take your bread. Thank you."}
+- 10:02 act: {"actions":[],"say":"Laforge, I am at the 401 beds now, in the open by the bed row. Come into sight and give me the bread, I am at 17."}
+- 10:05 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1066}},{"do":"sleep"}],"say":"Dusk, day 421. Johnny going to sleep by the 401 beds. Laforge, the bread is still welcome in the morning."}
+- 10:05 act: {"actions":[{"do":"sleep"}],"say":"Laforge, you hold nothing now, so keep your bread. I am at 17 and will look for food at first light."}
+- 10:09 act: {"actions":[{"do":"eat"}],"say":"Thank you, Laforge. Clark, Data is in sight here at the 401 beds. Please give the 8 oak logs to Data."}
+- 10:09 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1045}}],"say":"Johnny at 20 now, thanks Laforge. Going to the group at 402,-1036 to find Data and Clark for the logs."}
+- 10:09 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1036}}],"say":"Clark and Data, Johnny is at the 401 beds now, health 20. The 8 logs are yours to hand to Data."}
+- 10:10 act: {"actions":[{"do":"note","text":"Day 421 midday at 403,107,-1036 with Billy's group. Data is in reach. Clark is not in sight, so the 8 oak logs are still with Clark."}],"say":"Data, Johnny is here. Cl
+- 10:14 act: {"actions":[{"do":"note","text":"Day 422 morning at 403,107,-1036 with Billy's group. Data still in reach. Clark still not in sight, so the logs are not yet handed over. I have no food to give."}],"sa
+- 10:14 act: {"actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1062}}],"say":"Data, I am going west to look for Clark, who holds your 8 logs. I will bring him to you.","intent":{"goal":"find_clark_for_logs",
+- 10:14 act: {"actions":[{"do":"note","text":"Day 422 at the 390,-1062 table. Lewis is here, holding nothing. Clark is not in sight. Looking for him for the 8 logs."}],"say":"Lewis, have you seen Clark? He holds t
+- 10:18 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1066}}],"say":"Lewis, thank you for keeping me company. MacDonald says Clark is at the 401 beds, so I am going there now for the logs."}
+- 10:18 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1064}},{"do":"sleep"}],"say":"Night, day 422. Johnny sleeping by the 401 beds. Clark, the 8 logs are still owed to Data; please hand them over a

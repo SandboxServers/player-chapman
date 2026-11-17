@@ -1,7 +1,6 @@
-# Handoff (day 419, night)
+# Handoff (day 422, night)
 
-- At the bed 387,107,-1064, going to sleep. Health ~13.6, hunger 17.
-- Gave my 3 wheat to Lewis (done). He made bread and will eat at hunger 6.
-- Owed: 8 oak logs, held by Clark for Data. Hand to Data only, then tell Clark.
-- Zack at bed 388,-1051. Laforge has 1 bread at 401,-1065. William last at west bed with Clark.
-- Next: at first light, look for Data and the oak logs; keep watch.
+- At the 401 beds, 402,107,-1064, asleep or settling. Health 20, hunger 20.
+- Owed: 8 oak logs, still held by Clark. Hand to Data only, once Data is in sight, then tell Clark. Clark was not seen at the table or at 401 tonight.
+- Laforge and Jason are in reach here. Jason holds one rotten flesh, health low.
+- Next: first light, find Clark, get the logs to Data. Then food, and repay Clark and Laforge.
