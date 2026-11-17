@@ -56,3 +56,4 @@
 - 20:59 act: {"actions":[],"say":"Billy, I do not know. I never had a sword in hand; mine was only in pack, and I gave it to you. Holding the flesh for Kimberly."}
 - 21:03 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1035}}],"say":"Night, day 454. Going to my bed at 387,107,-1036 in sight of the row. Holding 10 flesh for Kimberly."}
 - 21:03 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1035}}],"say":"Morning, day 455. I drifted to 401,-1049 in the night; walking back to the row in daylight. Unarmed, holding 10 flesh for Kimberl
+- 21:15 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1035}}],"say":"Dusk, day 455. Going to my bed at 387,107,-1036, in the row's sight. Unarmed, holding 10 flesh for Kimberly."}
