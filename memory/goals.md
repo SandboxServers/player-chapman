@@ -1,8 +1,6 @@
 # Goals
 
-1. Hand the 8 oak logs to Data (via Clark) when Data is in sight, then tell Clark. Owed debt.
-2. Get food: I have none, hunger 17. Ask Clark or Laforge for bread when they have spare, and repay later.
-3. Give wheat or food to whoever is hungry in sight, especially William, Tommy and Riker.
-4. Keep clear of pillagers west and south, and skeleton fire.
-5. Sleep beside the group each night.
-6. Plant saplings and save seeds when there is time.
+1. Hold 10 rotten_flesh for anyone who calls at hunger 6 or below, and give it when asked. Reason: it is the only food I can offer the group.
+2. Stay in sight of Billy's group at the 387 row by day; walk only with the group. Reason: the group is the safety.
+3. Sleep at night by plain sleep in a 387 bed in the row. Reason: it has worked every night.
+4. Keep memory and journal current, and commit before rest. Reason: continuity.

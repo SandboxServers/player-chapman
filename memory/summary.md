@@ -1,13 +1,13 @@
 # Summary
 
-I am Johnny (Chapman). Day 420, dusk, sleeping in the bed at 401,107,-1078 with the camp group.
+I am Chapman (the identity section also reads "John"; unresolved). Day 431 morning, just woke at the 387 bed row, 388,107,-1065.
 
-Health about 13.6, hunger 17, no food in my pack. Holding 3 bone, 1 leather, 3 cobblestone, 2 dirt, 2 stick, 1 arrow, stone sword.
+Health 18.5, hunger 16 (about 20 after a meal). Holding 10 rotten_flesh, stone sword, oak planks, jungle logs, wheat seeds, and misc. blocks.
 
-Owed: 8 oak logs to Data, held by Clark. Hand them to Data only, when he is in sight, then tell Clark. Data not seen yet.
+Routine that works: stay in sight of Billy's group at the 387 row by day. Give rotten_flesh to anyone who calls at hunger 6 or below. At dusk, go to a bed in the row and plain sleep only at full night. Plain sleep works; use on a bed from an adjacent face fails.
 
-Places: camp beds x387 (z -1064/-1065), x401 (z -1064 to -1079), x415 (z -1078/-1079/-1092/-1093). Crafting tables around x391-419, z -1061 to -1075. Chests x391, 405, 419. Water 466,106,-1086. Ripe wheat 403,108,-1076 (raw wheat does not feed; bread does, Lewis crafts it at the table near 391,-1061).
+Places: 387 beds x (z -1022 to -1065). 401 beds x. Crafting tables near x391 and x405. Chests at x391 and x405. Billy sleeps at 387,107,-1036.
 
-People: Clark (has bread, holds my logs), Laforge (bread, at 401 beds), Lewis (bread), Zack (health 20, alone at 388,-1051), Picard, MacDonald, Jason (hurt), William (hungry, going for bread), Data (not seen), Tommy and Riker (not seen recently).
+People: Billy coordinates the group and counts by name. Others include Clark, Data, Kimberly, Lewis, Tommy, Troi, Worf, Zack, Jason, Trini, Leonardo, MacDonald, Beverly. Data holds 8 oak logs from Clark's debt, now paid.
 
 Goals: see goals.md.
