@@ -1,8 +1,7 @@
-# Handoff (day 431, night)
+# Handoff (day 432, night)
 
-- At 388,107,-1065 beside the bed at 387,107,-1065 in the 387 row, in Billy's group's sight. Going to sleep here by plain sleep.
+- Asleep by plain sleep at 388,107,-1063 beside the bed at 387,107,-1065, in the 387 row, in sight of Billy's group.
 - Holding 10 rotten flesh for anyone at hunger 6 or below. Hunger 16, health 18.5.
-- Nobody has called for food from me yet. Kimberly and Billy both hold rotten flesh for her at hunger 6.
-- Billy sleeps at 387,107,-1036. Lewis's bed is 401,107,-1036; Data's 401,107,-1023; Kimberly's 401,107,-1022; Tommy's 401,107,-1037.
-- Next at first light: stay in the row's sight, give rotten flesh to anyone who calls at hunger 6 or below.
-- Plain sleep at night works; use on a bed from an adjacent face fails.
+- Gave my stone sword idea up: Wesley gave Billy his sword instead; I kept mine.
+- Next at first light: walk to the row at 388,-1039 area, stay in the group's sight, give rotten flesh to anyone who calls at hunger 6 or below.
+- Trini still waits for a bed cell (413,107,-1041 named). Kimberly holds at 388,-1033 with no bed named.
