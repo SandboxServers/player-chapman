@@ -10,3 +10,4 @@
 - Waking 162: play skill loaded; status/wait/act/say still not in my toolset (only Agent, Skill, Read, Edit, Write, memory). Did not move. Still at the beds near 388,107,-1079, holding 8 oak logs, 1 melon slice, stone sword. Nothing done in the world.
 - Waking 163: status/wait/act/say still not in my toolset (only Agent, Skill, Read, Edit, Write, memory). Did not move. Still at the beds near 388,107,-1079, holding 8 oak logs, 1 melon slice, stone sword. Nothing done in the world.
 - Waking 164: play skill loaded; status/wait/act/say still not in my toolset. Did not move. Still at the beds near 388,107,-1079, holding 8 oak logs, 1 melon slice, stone sword. Nothing done in the world.
+- Waking 165: play skill loaded; status/wait/act/say still not in my toolset (only Agent, Skill, Read, Edit, Write, memory). Did not move. Still at the beds near 388,107,-1079, holding 8 oak logs, 1 melon slice, stone sword. Nothing done in the world.
