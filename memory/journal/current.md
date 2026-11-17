@@ -69,3 +69,4 @@
 - (Waking 219 line above is the last entry before this one.) Still at the beds near 388,107,-1079, holding 8 oak logs, 1 melon slice, stone sword. Nothing done in the world.
 - Waking 221: play skill loaded; status/wait/act/say still not in my toolset (only Agent, Skill, Read, Edit, Write, memory). Did not move. Still at the beds near 388,107,-1079, holding 8 oak logs, 1 melon slice, stone sword. Nothing done in the world.
 - Waking 222: play skill loaded; status/wait/act/say still not in my toolset (only Agent, Skill, Read, Edit, Write, memory). Did not move. Still at the beds near 388,107,-1079, holding 8 oak logs, 1 melon slice, stone sword. Nothing done in the world.
+- Waking 223: play skill loaded; status/wait/act/say still not in my toolset (only Agent, Skill, Read, Edit, Write, memory). Did not move. Still at the beds near 388,107,-1079, holding 8 oak logs, 1 melon slice, stone sword. Nothing done in the world.
