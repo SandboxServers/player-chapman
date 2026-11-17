@@ -4,3 +4,4 @@
 - Waking 155: world tools still absent from my toolset (no status/wait/act/say). Retried the worker once for a status check; refused again with zero tools (mcp__geldar__*). Did not move. Still at the beds near 388,107,-1079, holding 8 oak logs and 1 melon slice.
 - Waking 156: status, wait, act, say still not in my toolset. Worker refused again (zero tools, mcp__geldar__*). Did not move. Still at the beds near 388,107,-1079.
 - Waking 157: world tools still absent; worker refused again with zero tools. Did not move. Handoff written.
+- Waking 159: status/wait/act/say still not in my toolset. Worker refused again with zero tools (mcp__geldar__*). Did not move. Still at the beds near 388,107,-1079, holding 8 oak logs and 1 melon slice. Handoff updated.
