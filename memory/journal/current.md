@@ -24,3 +24,4 @@
 - 18:21 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"jungle_planks","count":2}],"say":"Leonardo, here are the 2 jungle planks I owed you. Chapman in the row's sight."}
 - 18:21 act: {"actions":[{"do":"note","text":"Give of 2 jungle planks went to Jason, not Leonardo. I still hold 2 planks. Not retrying blind."}],"say":"Billy, I did not pick up Trini's sword or flesh. Chapman stil
 - 18:29 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Chapman going to bed at Billy's bed 387,-1036, in the group's sight. Holding 10 rotten flesh for hunger 6 or below
+- 18:46 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Going to bed at the row beside Billy. Holding my rotten flesh for anyone at hunger 6 or below."}
