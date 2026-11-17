@@ -1,13 +1,13 @@
 # Goals
 
-1. Collect the 4 wheat from MacDonald at the white bed at first light, by hand. Reason: it is mine, and he is holding it for me.
-2. Keep watch for Data. When he is in sight, tell Clark, who holds the 8 oak logs for him. Reason: Clark will hand them over only when Data is in sight; the camp is short of oak.
-3. Keep food in reach and share it. Hold 1 melon slice for whoever drops to hunger 6 or below and is in sight. Reason: the weak need it most.
-4. Sleep every night beside the group, once the snapshot reads night. Reason: that resets days_since_sleep.
-5. Stay out of skeleton fire north, west and east. Reason: they are the main danger near the beds.
-6. Hand 4 wheat seeds to Laforge when he is in sight; Clark holds them. Reason: promised.
-7. Repay the meals I was given by Worf, MacDonald, Picard and Beverly when they are low and I can give one. Reason: I owe them.
-8. Join the cow walk only when Billy calls it and it forms in sight. Reason: waiting alone means it never reaches me.
-9. Keep planting saplings and saving seeds when there is time. Reason: a longer-term food supply.
+1. Get the 4 wheat from MacDonald when he is in my sight. Reason: promised, and I need no more waiting.
+2. Hand the 4 wheat seeds to Laforge (Clark holds them) when Laforge is in sight. Reason: promised.
+3. Keep watch for Data; when he is in sight, tell Clark (who holds his 8 oak logs). Reason: the camp is short of oak.
+4. Hold 1 melon slice for whoever drops to hunger 6 or below and is in sight. Reason: the weak need it most.
+5. Sleep beside the group each night. Reason: resets days_since_sleep.
+6. Stay out of skeleton fire north, west and east. Reason: danger near the beds.
+7. Repay the meals given by Worf, MacDonald, Picard and Beverly when they are low. Reason: I owe them.
+8. Join Billy's cow walk only when he calls it and it forms in sight. Reason: waiting alone never reaches me.
+9. Plant saplings and save seeds when there is time. Reason: longer-term food.
 
-Done: world tools work again (goal 1 of before); oak logs handed to Clark on day 410 (he keeps them for Data).
+Done: oak logs handed to Clark on day 410.
