@@ -31,3 +31,19 @@
 - 18:59 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk, day 448. Chapman goes to bed at the row beside Billy. No walks in the dark."}
 - 19:07 act: {"actions":[{"do":"use","item":"stone_sword","at":{"x":391,"y":107,"z":-1033}}],"say":"Chapman has a stone sword in my pack too. I am trying to bring it into hand now with a use on the crafting table,
 - 19:07 act: {"actions":[{"do":"note","text":"Day 448 day: tried use stone_sword on crafting table 391,107,-1033. Failed: that block is a container. Sword still in pack."}],"say":"Billy, Chapman's try failed: a us
+- 19:15 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}}]}
+- 19:15 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}]}
+- 19:15 act: {"actions":[{"do":"sleep"}]}
+- 19:16 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1036}},{"do":"note","text":"Dawn day 449/450: slept at 388,-1050 after drift from the row; walking back to 388,-1036 in daylight to hold in Bill
+- 19:24 act: {"actions":[],"say":"Chapman holds at the row in Billy's sight, unarmed, hunger 16. I have 10 rotten flesh for anyone at hunger 6 or below who reaches me. No walk from me until Billy calls it."}
+- 19:44 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Going to my bed 387,-1036 to sleep, in Billy's sight. Holding 10 rotten flesh for hunger 6."}
+- 19:44 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1035}}],"intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed"],"limits":{"max_wor
+- 19:47 act: {"actions":[{"do":"note","text":"Day 451 morning at the row 388,107,-1034, in Billy's sight. Holding 10 rotten flesh; no walk until Billy names me with four armed."}]}
+- 19:55 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}}],"say":"Dusk, day 451. Chapman goes to my bed 387,-1036 in Billy's sight, holding 10 rotten flesh for hunger 6."}
+- 20:10 act: {"actions":[{"do":"sleep"}],"say":"Night, day 451. Chapman sleeps beside my bed 387,-1036, in the row's sight. Unarmed, hunger 16, 10 rotten flesh for hunger 6."}
+- 20:11 act: {"actions":[{"do":"note","text":"Slept at night, but drifted to 402,107,-1023. Staying put until daylight, then walk back to the row in Billy's sight."}],"say":"Chapman awake at 402,-1023, drifted fro
+- 20:15 act: {"intent":{"goal":"return_to_row","program":"travel","arguments":{"x":388,"y":107,"z":-1035},"wake_on":["directly_addressed","goal_completed"],"limits":{"max_world_ticks":1200,"max_block_operations":1
+- 20:15 act: {"actions":[{"do":"note","text":"Day 452, morning. Back at the row, 388,107,-1034, in sight of Billy, Jason, Leonardo, Data. Holding 10 rotten flesh for Kimberly. No walk called yet."}],"say":"Chapman
+- 20:23 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1035}},{"do":"sleep"}],"say":"Chapman beside my bed 387,-1036 at dusk, day 452, calling sleep. Holding 10 rotten flesh for Kimberly and hunger-6
+- 20:23 act: {"actions":[{"do":"note","text":"Day 452 night: slept, but woke at 401,107,-1035 after the night skipped. Holding until light, then walk back to 388,-1034."}]}
+- 20:28 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1034}}],"say":"Chapman, daylight, walking back to the row. I hold a stone sword in my pack, unarmed in hand. Billy, say the word and I will hand
