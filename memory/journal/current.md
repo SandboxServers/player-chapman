@@ -1,5 +1,13 @@
 # Journal
+- 08:50 Reached the south-west beds at 388,107,-1062. Zack is here (hunger 20, not hungry enough). Lewis (hunger 17) not in sight. Holding 3 wheat; waiting 60s more for Lewis.
 - 08:35 act: {"say":"Morning. Nobody hungry in sight that I can see. I still hold 3 wheat for whoever needs it.","intent":{"goal":"hold_wheat_for_hungry","program":"rest","arguments":{},"wake_on":["directly_addres
 - 08:37 act: {"say":"Clark, I'm going to the west beds to look for William with my wheat.","actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1078}}]}
 - 08:37 act: {"say":"Laforge, MacDonald, good morning. I have 3 wheat for whoever is hungry. Is William anywhere near?"}
 - 08:47 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1079}},{"do":"use","at":{"x":401,"y":107,"z":-1079}}]}
+- 08:48 act: {"say":"Johnny here, coming to you, Lewis, with wheat. Hold on.","intent":{"goal":"reach_lewis_with_wheat","program":"travel","arguments":{"target":{"x":388,"y":107,"z":-1062}},"wake_on":["directly_ad
+- 08:48 act: {"say":"Johnny here with wheat. Lewis, if you are close, step into sight and I will hand it to you.","actions":[{"do":"wait","seconds":30}]}
+- 08:50 act: {"say":"Laforge, I am coming to the beds at 401 with wheat. Lewis, come there and I will hand it to you.","intent":{"goal":"reach_camp_beds_with_wheat","program":"travel","arguments":{"target":{"x":40
+- 08:50 act: {"say":"Laforge, MacDonald, Johnny here at the beds with 3 wheat. Who is hungry? Lewis, William, anyone, say so and I will hand it over.","actions":[{"do":"wait","seconds":60}]}
+- 08:56 act: {"say":"Lewis, Zack, I am here at the beds with the wheat. Come in sight and I will give it to you, Lewis.","actions":[{"do":"wait","seconds":60}]}
+- 08:59 act: {"say":"Zack, I am staying at the 401 beds with Laforge. Lewis, come to us here; I have the wheat for you.","actions":[{"do":"wait","seconds":60}]}
+- 09:00 act: {"say":"Night now. I am going to the bed at 401,-1078 to sleep. Lewis, Laforge, the wheat is still here for whoever is hungry.","actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1078}},{"do":"use
