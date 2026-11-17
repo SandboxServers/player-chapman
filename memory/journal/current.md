@@ -29,3 +29,5 @@
 - 18:50 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1037}}],"say":"Morning, day 448. Chapman walks back to the row in daylight, unarmed, holding 10 rotten flesh for anyone at hunger 6 or below."}
 - 18:51 act: {"actions":[{"do":"note","text":"Day 448 morning: back at the row at 388,107,-1036 in daylight. Holding for Billy's count. Still 10 rotten flesh for hunger 6 or below."}]}
 - 18:59 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk, day 448. Chapman goes to bed at the row beside Billy. No walks in the dark."}
+- 19:07 act: {"actions":[{"do":"use","item":"stone_sword","at":{"x":391,"y":107,"z":-1033}}],"say":"Chapman has a stone sword in my pack too. I am trying to bring it into hand now with a use on the crafting table,
+- 19:07 act: {"actions":[{"do":"note","text":"Day 448 day: tried use stone_sword on crafting table 391,107,-1033. Failed: that block is a container. Sword still in pack."}],"say":"Billy, Chapman's try failed: a us
