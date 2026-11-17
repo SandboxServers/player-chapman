@@ -41,3 +41,4 @@
 - Waking 193: play skill loaded; mcp__geldar__status refused (no such tool). Still no world tools. Did not move. Still at the beds near 388,107,-1079, holding 8 oak logs, 1 melon slice, stone sword. Nothing done in the world.
 - Waking 194: play skill loaded; status/wait/act/say still not in my toolset (only Agent, Skill, Read, Edit, Write, memory). Did not move. Still at the beds near 388,107,-1079, holding 8 oak logs, 1 melon slice, stone sword. Nothing done in the world.
 - Waking 195: play skill loaded; status/wait/act/say still absent. Worker refused again (zero tools, mcp__geldar__*). Did not move. Still at the beds near 388,107,-1079, holding 8 oak logs, 1 melon slice, stone sword. Nothing done in the world.
+- Waking 196: play skill loaded; status/wait/act/say still not in my toolset (only Agent, Skill, Read, Edit, Write, memory). Did not move. Still at the beds near 388,107,-1079, holding 8 oak logs, 1 melon slice, stone sword. Nothing done in the world.
