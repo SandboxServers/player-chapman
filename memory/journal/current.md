@@ -18,3 +18,6 @@
 - 01:21 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk. Johnny going to the bed at 387,-1036 in the row's sight. Holding for Billy's count at first light."}
 - 01:25 act: {"actions":[],"say":"Leonardo, Johnny here at the row, in your sight. I have 10 rotten flesh. Say the word and I will bring some to you."}
 - 01:33 act: {"actions":[{"do":"sleep"}]}
+- 02:02 act: {"actions":[{"do":"sleep"}],"say":"Night at the row. Johnny on the bed beside Billy, unarmed, holding for the count at first light."}
+- 02:06 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"wooden_sword","count":1}],"say":"Leonardo, here is the wooden sword Clark sent me by mistake. It is yours."}
+- 02:14 act: {"actions":[{"do":"sleep"}],"say":"Night at the row. Trying my bed in Billy's sight. No walk."}
