@@ -96,3 +96,9 @@
 - 22:00 act: {"actions":[{"do":"goto","target":{"x":406,"y":107,"z":-1037}},{"do":"use","at":{"x":405,"y":107,"z":-1037},"item":"stone_sword"}]}
 - 22:00 act: {"actions":[{"do":"use","entity":"phantom","item":"stone_sword"}]}
 - 22:00 say: {"text":"Chapman: health 0.8, phantoms still on me. Sword not in my hand. If anyone has food, I need it now."}
+- 22:07 act: {"actions":[{"do":"goto","target":{"x":407,"y":107,"z":-1036}}],"say":"Chapman: morning, no phantoms in view. Going to pick up my sword at 407,107,-1036, then to Clark for the bread if he is in reach.
+- 22:07 act: {"actions":[{"do":"goto","target":{"x":405,"y":107,"z":-1036}}],"say":"Chapman, morning 529: I died in the night and have nothing, no sword, no food. Clark, if you can spare your bread, I would be gra
+- 22:13 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"bread","count":1}],"say":"Chapman: I hold the bread that came to me by mistake. Billy, it is yours now."}
+- 22:13 act: {"actions":[{"do":"goto","target":{"x":405,"y":107,"z":-1036}},{"do":"give","to":"ag_billy_01","item":"bread","count":1}],"say":"Billy, my bread is still in my pack. I am stepping closer to hand it to
+- 22:14 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1035}},{"do":"give","to":"ag_billy_01","item":"bread","count":1}],"say":"Billy, one step back to clear the spot, then the bread is yours."}
+- 22:14 act: {"actions":[],"intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":120
