@@ -49,3 +49,7 @@
 - 14:37 act: {"say":"Chapman here at spawn, awake, no food and nothing in hand. Holding for Billy's call.","intent":{"goal":"hold_at_spawn","program":"rest","arguments":{},"wake_on":["directly_addressed","precondi
 - 15:22 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantom to the north-west, unarmed. Swinging at it while I hold at spawn."}
 - 15:24 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 15:30 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"use","at":{"x":413,"y":107,"z":-1041}}],"reasoning":"Daylight, nothing in view. Try the second bed in a new way before deciding it
+- 15:34 act: {"actions":[{"do":"note","text":"Day 510 midday-to-dusk: both beds at 413,107,-1041/-1042 answer 'that block is a bed' to use. Holding at spawn, no food, nothing in hand."}],"intent":{"goal":"hold_at_
+- 15:34 act: {"actions":[],"intent":{"goal":"hold_at_spawn_for_billy","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_worl
+- 15:35 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"Phantom adjacent and attacking. Fleeing failed before. Swing at it."}
