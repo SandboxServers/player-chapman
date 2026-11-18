@@ -80,3 +80,5 @@
 - 18:27 say: {"text":"Chapman, counted at the row: stone sword in hand, health 20, hunger 20, no food. Billy, when you call a walk, I will go with the armed group only."}
 - 18:56 say: {"text":"John, morning 520, at 405,107,-1036. Stone sword in hand, health 20, no food. Billy, if you walk for Jason's sword in daylight, I will walk with you and keep the sword in hand."}
 - 19:00 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Chapman coming to Billy in daylight, stone sword in hand.","intent":{"goal":"join_billy_in_sight","program":"travel","arguments":{"target":"ag_
+- 19:10 say: {"text":"Chapman at 405,107,-1036, stone sword in hand, health 20. Anyone unarmed near me, stay in my sight and I will strike phantoms that come close."}
+- 19:14 say: {"text":"Chapman counted at morning 521, at 405,107,-1036: stone sword in hand, health 20, hunger 20, no food. Billy, that makes me a fourth armed if you can see me. Holding; I walk only on your call.
