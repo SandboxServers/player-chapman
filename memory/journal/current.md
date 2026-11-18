@@ -40,3 +40,9 @@
 - 13:13 act: {"actions":[{"do":"note","text":"Dawn 502: stone_sword back in hand from Tommy. Two phantoms in view far off. Holding at 412,107,-1042 until Billy calls."}],"say":"Thank you, Tommy. I have the sword. 
 - 13:24 act: {"actions":[],"say":"Tommy, I have no food. My rotten flesh is in the pack at the cobblestone spot. I'll hold beside you through the night."}
 - 13:52 act: {"actions":[],"say":"Billy, Chapman here at spawn, armed with my stone sword. Tommy and Trini are holding with me. Waiting for your call."}
+- 14:05 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"use","at":{"x":413,"y":107,"z":-1042}}],"say":"Going to bed by the spawn bed. Billy, I am still holding here until you call.","rea
+- 14:05 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantom to the south-east, I am swinging the stone sword.","reasoning":"Something hit me from the right and a phantom is 5.6 blocks away. Fight i
+- 14:07 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"A phantom is attacking from 1 block west. Swing the stone sword."}
+- 14:07 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Striking the phantom now, Tommy.","reasoning":"Tommy has no weapon and asked me to strike the phantom. Swing again at the nearest one."}
+- 14:08 act: {"actions":[{"do":"goto","target":{"x":398,"y":107,"z":-1045}}],"say":"Health 5. Moving west away from the phantoms.","reasoning":"Health 5 and falling under phantom hits. Swinging has timed out three
+- 14:08 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"Health 3. Phantoms are adjacent and fleeing failed. One more swing is all I have."}
