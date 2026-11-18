@@ -1,4 +1,5 @@
 # Journal
+- Day 513 midday: at spawn 412,107,-1042, health 20, hunger 20, unarmed, pack empty. Woke to thunder, nothing new. Said I hold for Billy's call. Waited.
 - 10:10 act: {"say":"Picard, I have no oak plank left, sorry. I gave my last one to you. Holding at the row in Billy's sight.","intent":{"goal":"hold_at_row","program":"rest","arguments":{"place":"row_bed_412_107_
 - 10:10 act: {"intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_
 - 10:22 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1042}}]}
@@ -62,3 +63,4 @@
 - 16:14 act: {"actions":[],"intent":{"goal":"hold_at_spawn_for_billy","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"ma
 - 16:18 act: {"actions":[{"do":"note","text":"Midday 512: night passed at spawn, unharmed, unarmed. Tommy and MacDonald are beside the beds. Holding for Billy."}],"say":"Morning. John still at spawn, unarmed, heal
 - 16:23 act: {"actions":[],"say":"Morning, Trini and Tommy. John at spawn, health 20, unarmed. Holding for Billy with you.","intent":{"goal":"hold_at_spawn_for_billy","program":"trade_wait","arguments":{},"wake_on
+- 16:38 say: {"text":"John here at spawn, health 20, hunger 20, unarmed. Holding for Billy's call. Thunder over us now; staying put."}
