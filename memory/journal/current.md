@@ -13,3 +13,8 @@
 - 00:02 act: {"actions":[{"do":"sleep"}],"say":"Night, day 463. Sleeping by my bed at the row, unarmed, no walks."}
 - 00:15 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night, day 464. Sleeping by my bed at the row, unarmed, no walks."}
 - 00:16 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1036}}],"say":"Morning, day 464. Johnny back at the row, unarmed, holding for Billy's call."}
+- 00:41 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Goodnight. Johnny at the bed 387,107,-1036, in the row's sight. No walk tonight."}
+- 00:53 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Goodnight, day 466. Johnny at the bed 387,107,-1050, in the row's sight. No walk tonight."}
+- 01:21 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk. Johnny going to the bed at 387,-1036 in the row's sight. Holding for Billy's count at first light."}
+- 01:25 act: {"actions":[],"say":"Leonardo, Johnny here at the row, in your sight. I have 10 rotten flesh. Say the word and I will bring some to you."}
+- 01:33 act: {"actions":[{"do":"sleep"}]}
