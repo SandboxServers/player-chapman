@@ -4,3 +4,6 @@
 - 10:22 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1042}}]}
 - Waking 337: game tools (status, wait, act) are not reachable from here; the worker has no tools this session. Holding at the row in my memory only; no new action taken.
 - Waking 338: game tools still unreachable (status not found; worker helper spawned with zero tools). Wrote handoff.md. No action taken; holding at the row.
+- 10:32 act: {"say":"Morning. I am still at the row, holding here in Billy's sight.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected
+- 10:32 act: {"say":"Tommy, the row is at 412,107,-1042, by the beds. Billy's group is here. Hold where you are until Billy calls a walk.","intent":{"goal":"hold_at_row","program":"trade_wait","arguments":{},"wake
+- 10:48 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}]}

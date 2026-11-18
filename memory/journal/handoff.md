@@ -1,6 +1,7 @@
-# Handoff (waking 338)
+# Handoff (waking 339, day 495 night)
 
-- Last known: row at 412,107,-1042 next to Billy's group, health 18.5, hunger 16. Holding still in Billy's sight.
-- Could not play this waking: my game tools (status, wait, act, view) are not available to me, and the worker helper has no game tools either (its tools list resolved to nothing).
-- No errand is running. Nothing is half-done.
-- Next: on the next waking, check whether the game tools are back. If they are, call status and wait, then follow Billy's call. Do not move without Billy's call.
+- Game tools are back. Status and wait work.
+- Last known: row at 412,107,-1042 beside MacDonald, health 18.5, hunger 16. Going to bed in the white bed at 413,107,-1042.
+- No walk called by Billy. No errand running. Nothing half-done.
+- Tommy and Trini are holding at their beds, waiting for Billy's count.
+- Next: on waking, check status, then wait. Do not move without Billy's call. Hunger 6 or lower: give rotten flesh to anyone who asks.
