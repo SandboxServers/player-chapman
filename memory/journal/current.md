@@ -25,3 +25,11 @@
 - 02:33 act: {"say":"Chapman here at the row, holding still in Billy's sight. No walk tonight. I have 10 rotten flesh for anyone who drops to hunger 6.","intent":{"goal":"hold_at_row_night","program":"rest","argum
 - 02:49 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Johnny: night of day 471, sleeping in the bed beside me at 387,107,-1036, in the row's sight. No walk.","reasoning
 - 02:52 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1036}}],"say":"Johnny: morning, day 472. Sleep moved me to 402, so I am walking back to the row at 388,-1036. Unarmed; 10 rotten flesh held for 
+- 03:04 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Johnny: dusk, day 472. Sleeping at bed 387,107,-1050 in the row's sight. No walk tonight.","reasoning":"Night, gro
+- 03:16 act: {"actions":[{"do":"sleep"}],"say":"Johnny: dusk, day 473. Trying to sleep beside bed 387,107,-1036, in the row's sight. No walk.","intent":{"goal":"sleep_at_row_night","program":"rest","arguments":{},
+- 03:20 act: {"say":"Johnny at the row, 387,107,-1037. Unarmed, holding. No walk. 10 rotten flesh for anyone at hunger 6 or below.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["direct
+- 03:30 act: {"actions":[{"do":"sleep"}],"say":"Johnny: dusk, day 473. Sleeping by the bed at the row, in Billy's sight. No walk.","intent":{"goal":"sleep_at_row_night","program":"rest","arguments":{},"wake_on":["
+- 04:15 act: {"actions":[{"do":"sleep"}],"say":"Good night, Billy. Johnny at the bed here, in your sight."}
+- 04:27 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 476. Chapman at the bed here, in Billy's sight. Unarmed, no walk."}
+- 04:56 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 478. Chapman at the bed, in Billy's sight. Unarmed, no walk."}
+- 04:58 act: {"actions":[{"do":"sleep"}]}

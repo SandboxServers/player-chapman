@@ -1,7 +1,7 @@
-# Handoff (day 470 morning, at the row)
+# Handoff (day 479 night, at the row)
 
-- Standing at 388,107,-1037, by the bed at 387,107,-1036, in Billy's sight with Clark, Zack, Leonardo, Tommy and Data.
+- Standing at bed 387,107,-1037 in Billy's sight. Group holds at the row, no walk.
 - Health 18.5, hunger 16. Unarmed, nothing in hand. Pack: 10 rotten_flesh.
-- Night of 470: sleep refused (pillager 10 blocks away). Trini was at health 3 and got Billy's flesh; she is healthy now.
-- Morning of 470: Billy counts two armed in hand (Laforge, Trini). No walk named. Picard got his wooden sword back from Jason and is trying it into hand.
-- Plan: stay at the row. Walk only when Billy names a daylight walk. Give rotten_flesh to anyone at hunger 6 or below who asks. Try sleep at next dusk only with a change of bed (e.g. 387,107,-1050).
+- Sleep has failed 7 times in a row (monsters near or not night). Entities list was empty at the latest check, so one new try is being made.
+- Billy's count: no one armed in hand. Data and Picard asked for food, at hunger 19 and 17, so no give is due.
+- Plan: if sleep is refused again, stay awake in sight until morning. Walk only when Billy names a daylight walk. Give rotten_flesh to anyone at hunger 6 or below who asks.
