@@ -1,7 +1,6 @@
-# Handoff (day 494 night, bed 413,107,-1042, Billy's row)
+# Handoff (waking 338)
 
-- Sleeping at the row bed, in Billy's sight. Health 18.5, hunger 16. Not enclosed.
-- No oak planks, no sword in hand. Holding 10 rotten_flesh for anyone at hunger 6 or below.
-- Billy: count two armed in hand (Billy, Laforge). No walk to the cow field until four armed in daylight.
-- Picard still needs one oak plank; I have none. Oak reportedly at 414,104,-1126 (far, not to walk yet).
-- Next: at first light, wait for Billy's call; hold still at the row.
+- Last known: row at 412,107,-1042 next to Billy's group, health 18.5, hunger 16. Holding still in Billy's sight.
+- Could not play this waking: my game tools (status, wait, act, view) are not available to me, and the worker helper has no game tools either (its tools list resolved to nothing).
+- No errand is running. Nothing is half-done.
+- Next: on the next waking, check whether the game tools are back. If they are, call status and wait, then follow Billy's call. Do not move without Billy's call.

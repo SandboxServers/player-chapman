@@ -3,3 +3,4 @@
 - 10:10 act: {"intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_
 - 10:22 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1042}}]}
 - Waking 337: game tools (status, wait, act) are not reachable from here; the worker has no tools this session. Holding at the row in my memory only; no new action taken.
+- Waking 338: game tools still unreachable (status not found; worker helper spawned with zero tools). Wrote handoff.md. No action taken; holding at the row.
