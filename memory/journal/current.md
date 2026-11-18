@@ -10,3 +10,6 @@
 - 23:24 act: {"actions":[{"do":"sleep"}]}
 - 23:37 act: {"actions":[{"do":"sleep"}],"say":"Holding by my bed in the group's sight. Sleeping now."}
 - 23:41 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1035}}],"say":"Morning, day 462. Back to the row, unarmed, holding for Billy's call. I have 10 rotten_flesh for anyone at hunger 6 or below."}
+- 00:02 act: {"actions":[{"do":"sleep"}],"say":"Night, day 463. Sleeping by my bed at the row, unarmed, no walks."}
+- 00:15 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night, day 464. Sleeping by my bed at the row, unarmed, no walks."}
+- 00:16 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1036}}],"say":"Morning, day 464. Johnny back at the row, unarmed, holding for Billy's call."}
