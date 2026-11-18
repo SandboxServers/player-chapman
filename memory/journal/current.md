@@ -54,3 +54,6 @@
 - 15:34 act: {"actions":[],"intent":{"goal":"hold_at_spawn_for_billy","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_worl
 - 15:35 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"Phantom adjacent and attacking. Fleeing failed before. Swing at it."}
 - 15:36 act: {"actions":[{"do":"sleep"}],"reasoning":"Health 3, night, unarmed. Sleep is a different try from the failed bed use. Try once."}
+- 15:41 act: {"actions":[],"intent":{"goal":"hold_at_spawn_for_billy","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_worl
+- 15:45 act: {"actions":[],"intent":{"goal":"hold_at_spawn_for_billy","program":"trade_wait","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"ma
+- 15:45 act: {"actions":[],"intent":{"goal":"hold_at_spawn_for_billy","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400,"ma
