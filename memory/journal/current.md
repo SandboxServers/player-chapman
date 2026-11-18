@@ -53,3 +53,4 @@
 - 15:34 act: {"actions":[{"do":"note","text":"Day 510 midday-to-dusk: both beds at 413,107,-1041/-1042 answer 'that block is a bed' to use. Holding at spawn, no food, nothing in hand."}],"intent":{"goal":"hold_at_
 - 15:34 act: {"actions":[],"intent":{"goal":"hold_at_spawn_for_billy","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_worl
 - 15:35 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"Phantom adjacent and attacking. Fleeing failed before. Swing at it."}
+- 15:36 act: {"actions":[{"do":"sleep"}],"reasoning":"Health 3, night, unarmed. Sleep is a different try from the failed bed use. Try once."}
