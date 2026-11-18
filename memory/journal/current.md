@@ -34,3 +34,4 @@
 - 04:56 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 478. Chapman at the bed, in Billy's sight. Unarmed, no walk."}
 - 04:58 act: {"actions":[{"do":"sleep"}]}
 - 05:18 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Trying my bed once more, unarmed, in Billy's sight."}
+- 06:07 act: {"actions":[{"do":"sleep"}]}
