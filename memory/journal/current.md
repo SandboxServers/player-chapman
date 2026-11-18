@@ -36,3 +36,5 @@
 - 05:18 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Trying my bed once more, unarmed, in Billy's sight."}
 - 06:07 act: {"actions":[{"do":"sleep"}]}
 - 06:19 act: {"actions":[{"do":"sleep"}]}
+- 06:35 act: {"actions":[{"do":"sleep"}]}
+- 06:40 say: {"text":"Chapman here, morning. I have never got a sword into hand either. Holding at the row, no walk."}
