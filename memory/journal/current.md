@@ -19,3 +19,13 @@
 - 11:34 act: {"actions":[{"do":"use","entity":"ag_macdonald_01","item":"stone_sword"}],"say":"Something keeps hitting me and my sword is still in my pack. Health 10.5."}
 - 11:34 act: {"say":"Phantoms circle overhead. I cannot get my stone sword into hand, so I stay beside MacDonald and wait for the light. Health 10.5."}
 - 11:35 act: {"say":"I am at half a heart. Phantoms keep hitting me and I cannot get my sword into hand.","actions":[{"do":"eat"}]}
+- 11:39 act: {"actions":[{"do":"goto","target":{"x":411,"y":107,"z":-1043}}],"say":"Tommy, I am glad you are at the row. I am going one block to pick up my pack from where I died, in daylight, and then I come stra
+- 11:39 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1042}}],"say":"Correction: I should not have gone for the pack without Billy's call. I am returning to the row and holding here."}
+- 11:51 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":410,"y":108,"z":-1042}},{"do":"place","block":"cobblestone","at":{"x":412,"y":108,"z":-1042}},{"do":"place","block":"cobblestone","at":{"x":41
+- 11:52 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":411,"y":109,"z":-1042}}]}
+- 11:52 act: {"actions":[],"say":"Blocks will not place overhead, so I stop trying. I am unarmed. Tommy, I need a sword in hand. Please give me your wooden sword if you can spare it."}
+- 11:53 act: {"actions":[],"say":"MacDonald, you hold the wooden sword now. Please give it to me. I am the one unarmed here."}
+- 11:55 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Thank you, MacDonald. I have the wooden sword and am putting it in hand. Holding at the row."}
+- 11:55 act: {"actions":[],"say":"The wooden sword will not come into my hand; use does not take it. I am still holding cobblestone in hand. I will keep watch with Tommy and MacDonald."}
+- 11:58 act: {"actions":[],"say":"Tommy, yes, please give me the stone sword. I am unarmed and need it at the row. Thank you."}
+- 12:00 act: {"actions":[{"do":"use","item":"stone_sword"}],"say":"I have Tommy's stone sword in my pack. Trying to put it in hand."}
