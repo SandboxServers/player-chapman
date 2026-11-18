@@ -21,3 +21,4 @@
 - 02:02 act: {"actions":[{"do":"sleep"}],"say":"Night at the row. Johnny on the bed beside Billy, unarmed, holding for the count at first light."}
 - 02:06 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"wooden_sword","count":1}],"say":"Leonardo, here is the wooden sword Clark sent me by mistake. It is yours."}
 - 02:14 act: {"actions":[{"do":"sleep"}],"say":"Night at the row. Trying my bed in Billy's sight. No walk."}
+- 02:19 act: {"actions":[],"say":"Trini, I have 10 rotten flesh. I am at 388,-1037, too far to hand it over. Come within reach of me and I will give it at once."}
