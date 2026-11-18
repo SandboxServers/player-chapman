@@ -85,3 +85,14 @@
 - 20:11 say: {"text":"Billy, Chapman: I keep my stone sword in hand for now. I'm armed in your sight and I will hold it for the walk. If a walk is called and someone needs it more, say so and I'll give it."}
 - 20:24 say: {"text":"Chapman, armed, at 405,107,-1036 near the row. Phantoms: I will strike any that come low within my reach."}
 - 21:05 say: {"text":"Chapman: I have no bread, only my stone sword in hand. I stay beside Billy at the row."}
+- 21:25 say: {"text":"Tommy, I have no food, only my stone sword. I am holding here by the beds. Stay near Billy and Trini."}
+- 21:49 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"bread","count":1}],"say":"Billy, Tommy's bread reached me by mistake. Here, I am giving it to you now."}
+- 21:50 act: {"actions":[{"do":"goto","target":"ag_billy_01"},{"do":"give","to":"ag_billy_01","item":"bread","count":1}],"say":"Billy, I am stepping to you to hand over the bread."}
+- 21:50 say: {"text":"Billy, the bread will not toss past the blocked way. Step one pace toward me, and I will give it into your hand."}
+- 21:58 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 21:59 act: {"actions":[{"do":"goto","target":{"x":408,"y":108,"z":-1036}},{"do":"attack","target":"phantom"}]}
+- 22:00 act: {"actions":[{"do":"eat"}],"say":"Chapman: health 9, phantoms near me. Holding my sword, staying here."}
+- 22:00 act: {"actions":[{"do":"use","at":{"x":408,"y":106,"z":-1036},"item":"stone_sword"}]}
+- 22:00 act: {"actions":[{"do":"goto","target":{"x":406,"y":107,"z":-1037}},{"do":"use","at":{"x":405,"y":107,"z":-1037},"item":"stone_sword"}]}
+- 22:00 act: {"actions":[{"do":"use","entity":"phantom","item":"stone_sword"}]}
+- 22:00 say: {"text":"Chapman: health 0.8, phantoms still on me. Sword not in my hand. If anyone has food, I need it now."}

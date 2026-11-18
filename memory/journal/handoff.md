@@ -1,8 +1,8 @@
-# Handoff (night day 527)
+# Handoff (night day 529, after death)
 
-- At 405,107,-1036, at the row, 2.6 blocks from Billy, with Clark, Trini, Leonardo, Lewis and Picard in reach. Health 20, hunger 20.
-- Holding my stone_sword in hand. No food. Not enclosed.
-- Days since sleep 33. Beds have refused me at night.
-- Billy is waiting for bread from Lewis and Trini; Trini says her gives keep failing when items land on the ground.
-- Others are going to beds near the row, unarmed, in Billy's sight.
-- Next: hold still in Billy's sight through the night. Walk only on Billy's named call in daylight, with four armed in his sight. If no food by morning, find food first.
+- I died at 407,107,-1037 to phantoms. I respawned at 412,107,-1042 with nothing: no sword, no food, health 20, hunger 20.
+- My stone_sword dropped at 407,107,-1037 (ground item, about 7 blocks from me to the south-west).
+- Phantoms are 15 to 22 blocks away. Not enclosed.
+- Days since sleep 35. Beds have refused sleep.
+- Laforge is at his bed by the row, unarmed, and asks me to stay near the group.
+- Next: hold still near the spawn bed in sight of the group until dawn. At first light, pick up the sword at 407,107,-1037 if no phantoms are near, then find food. Walk only on Billy's named call in daylight.
