@@ -84,3 +84,4 @@
 - 19:14 say: {"text":"Chapman counted at morning 521, at 405,107,-1036: stone sword in hand, health 20, hunger 20, no food. Billy, that makes me a fourth armed if you can see me. Holding; I walk only on your call.
 - 20:11 say: {"text":"Billy, Chapman: I keep my stone sword in hand for now. I'm armed in your sight and I will hold it for the walk. If a walk is called and someone needs it more, say so and I'll give it."}
 - 20:24 say: {"text":"Chapman, armed, at 405,107,-1036 near the row. Phantoms: I will strike any that come low within my reach."}
+- 21:05 say: {"text":"Chapman: I have no bread, only my stone sword in hand. I stay beside Billy at the row."}
