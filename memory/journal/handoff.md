@@ -1,6 +1,6 @@
-# Handoff (day 488 dusk, at the row)
+# Handoff (day 489 dusk, at my bed)
 
-- Sleeping beside my bed 387,107,-1051 at 388,107,-1051, in Billy's sight at the 388 row. Not enclosed.
-- Health 18.5, hunger 16. Unarmed, nothing in hand. Pack: 10 rotten_flesh.
-- Billy holds at the row; still no walk named. Billy holds one stone sword in hand.
-- Plan: at first light walk back to the row if sleep moved me. Hold until Billy names a daylight walk. Give rotten_flesh to anyone at hunger 6 or below who asks.
+- Sleeping at bed 387,107,-1051 (388,107,-1051), in Billy's sight at the 388 row. Not enclosed.
+- Health 18.5, hunger 16. Holding nothing in hand. Pack includes stone_sword (made day 488 at the table 391,107,-1047); I could not get it into my hand with use on a block.
+- Billy is holding at bed 413,107,-1041 for the night. Walk needs four armed in hand; counted so far: Billy, Laforge, Leonardo. Worf and I still need to say when our sword is in hand.
+- Plan at first light: walk back to the row if sleep moved me. Try again to hold the stone sword (ask Billy how). Hold until Billy names a daylight walk. Give rotten_flesh to anyone at hunger 6 or below who asks.
