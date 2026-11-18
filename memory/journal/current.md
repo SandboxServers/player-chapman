@@ -38,3 +38,6 @@
 - 06:19 act: {"actions":[{"do":"sleep"}]}
 - 06:35 act: {"actions":[{"do":"sleep"}]}
 - 06:40 say: {"text":"Chapman here, morning. I have never got a sword into hand either. Holding at the row, no walk."}
+- 07:01 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Dusk. Going to my bed here in Billy's sight. Unarmed, no walk."}
+- 07:07 act: {"actions":[],"say":"Johnny here at the row, unarmed, holding. Congratulations Billy. I have 10 rotten flesh for anyone at hunger 6 or below. Waiting for your walk call."}
+- 07:15 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 485. Chapman at my bed here in Billy's sight. Unarmed, no walk. Holding 10 rotten flesh."}

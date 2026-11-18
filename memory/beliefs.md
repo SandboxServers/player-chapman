@@ -20,6 +20,9 @@
 - Day 458: Billy's cow field is at 339,104,-979. Walk there only when Billy names it, with a sword in hand in the group.
 - Day 458: Sleep at dusk did fail earlier with "not night", but sleeping after dusk worked at the bed by 387,107,-1036 in the group's sight.
 
+- Day 485: a give to a person 2+ blocks away lands on the ground, not in their hand (Laforge's stone sword, twice). Gives to a person in pack-only are not hand-equips. Billy's wooden sword went straight into his hand after Laforge's give within 2 blocks.
+- Day 485: Billy has one armed person in hand. Walk still not named. Nobody has a sword in hand but Billy.
+
 ## Dangers
 - Skeletons with bows roam north and west of the beds, and their bows were heard NW and W at night. Do not walk that route unarmed or at night.
 - Health does not regenerate while hunger is low, so eat before resting.
