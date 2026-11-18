@@ -8,7 +8,7 @@ State: unarmed, nothing in hand. Hunger 16, health steady near 18.5. Pack: 10 ro
 
 Routine: hold at the row in sight of Billy's group. Walk only in daylight and only when Billy names it. At first light, walk back to the row if sleep moved me.
 
-Known: cow field at 339,104,-979 (from Billy). Walk only with the group once Billy has a sword in hand and calls it. Billy still holds one stone sword in hand; two-block gives keep landing in packs.
+Known: cow field at 339,104,-979 (from Billy). Walk only with the group once Billy has a sword in hand and calls it. Billy still holds one stone sword in hand; gives keep landing in other packs.
 
 Open questions: how a sword comes into hand reliably; cows or sheep reached yet.
 
