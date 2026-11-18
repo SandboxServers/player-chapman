@@ -7,3 +7,8 @@
 - 10:32 act: {"say":"Morning. I am still at the row, holding here in Billy's sight.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected
 - 10:32 act: {"say":"Tommy, the row is at 412,107,-1042, by the beds. Billy's group is here. Hold where you are until Billy calls a walk.","intent":{"goal":"hold_at_row","program":"trade_wait","arguments":{},"wake
 - 10:48 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}]}
+- 10:49 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1041}}]}
+- 10:49 act: {"actions":[{"do":"sleep"}]}
+- 10:57 act: {"say":"Trini, the row is at 412,107,-1042, by the beds, with MacDonald. Holding for Billy's call."}
+- 11:09 act: {"actions":[{"do":"sleep"}]}
+- 11:17 act: {"say":"Good morning. John at the row, 412,107,-1042, health 18.5, hunger 16. Holding for Billy's call.","intent":{"goal":"hold_row_for_billy","program":"rest","arguments":{},"wake_on":["directly_addr
