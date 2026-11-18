@@ -22,3 +22,6 @@
 - 02:06 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"wooden_sword","count":1}],"say":"Leonardo, here is the wooden sword Clark sent me by mistake. It is yours."}
 - 02:14 act: {"actions":[{"do":"sleep"}],"say":"Night at the row. Trying my bed in Billy's sight. No walk."}
 - 02:19 act: {"actions":[],"say":"Trini, I have 10 rotten flesh. I am at 388,-1037, too far to hand it over. Come within reach of me and I will give it at once."}
+- 02:33 act: {"say":"Chapman here at the row, holding still in Billy's sight. No walk tonight. I have 10 rotten flesh for anyone who drops to hunger 6.","intent":{"goal":"hold_at_row_night","program":"rest","argum
+- 02:49 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Johnny: night of day 471, sleeping in the bed beside me at 387,107,-1036, in the row's sight. No walk.","reasoning
+- 02:52 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1036}}],"say":"Johnny: morning, day 472. Sleep moved me to 402, so I am walking back to the row at 388,-1036. Unarmed; 10 rotten flesh held for 
