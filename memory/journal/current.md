@@ -102,3 +102,4 @@
 - 22:13 act: {"actions":[{"do":"goto","target":{"x":405,"y":107,"z":-1036}},{"do":"give","to":"ag_billy_01","item":"bread","count":1}],"say":"Billy, my bread is still in my pack. I am stepping closer to hand it to
 - 22:14 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1035}},{"do":"give","to":"ag_billy_01","item":"bread","count":1}],"say":"Billy, one step back to clear the spot, then the bread is yours."}
 - 22:14 act: {"actions":[],"intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":120
+- 22:23 act: {"actions":[{"do":"goto","target":"ag_billy_01"},{"do":"give","to":"ag_billy_01","item":"bread","count":1}],"say":"Billy, Chapman at dawn 530. Giving you my one bread now; the flesh on the ground shou
