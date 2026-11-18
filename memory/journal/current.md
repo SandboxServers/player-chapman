@@ -29,3 +29,6 @@
 - 11:55 act: {"actions":[],"say":"The wooden sword will not come into my hand; use does not take it. I am still holding cobblestone in hand. I will keep watch with Tommy and MacDonald."}
 - 11:58 act: {"actions":[],"say":"Tommy, yes, please give me the stone sword. I am unarmed and need it at the row. Thank you."}
 - 12:00 act: {"actions":[{"do":"use","item":"stone_sword"}],"say":"I have Tommy's stone sword in my pack. Trying to put it in hand."}
+- 12:04 act: {"actions":[],"say":"Tommy, I still cannot get the stone sword into my hand. If you can hold a weapon, I will give it back to you. Tell me."}
+- 12:25 act: {"actions":[{"do":"note","text":"Afternoon count: Chapman at the row, health 20, hunger 20, sword in pack not in hand. Holding for Billy."}],"say":"Afternoon count: Chapman at the row, health 20, hung
+- 12:29 act: {"actions":[{"do":"note","text":"Dusk day 500. No food in my hands to give Tommy; the rotten flesh is at the death site. Holding at the row, cobblestone in hand."}],"say":"Tommy, I have no food on me.
