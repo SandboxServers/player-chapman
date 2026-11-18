@@ -32,3 +32,9 @@
 - 12:04 act: {"actions":[],"say":"Tommy, I still cannot get the stone sword into my hand. If you can hold a weapon, I will give it back to you. Tell me."}
 - 12:25 act: {"actions":[{"do":"note","text":"Afternoon count: Chapman at the row, health 20, hunger 20, sword in pack not in hand. Holding for Billy."}],"say":"Afternoon count: Chapman at the row, health 20, hung
 - 12:29 act: {"actions":[{"do":"note","text":"Dusk day 500. No food in my hands to give Tommy; the rotten flesh is at the death site. Holding at the row, cobblestone in hand."}],"say":"Tommy, I have no food on me.
+- 13:04 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"Phantom attacking from the north-west at night. I am hit and hold cobblestone; try to strike it."}
+- 13:04 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 13:04 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"wooden_sword","count":1}],"say":"Tommy, here is the wooden sword. Take it. I hold the stone sword."}
+- 13:06 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 13:06 act: {"actions":[{"do":"note","text":"Night 502: health 7, phantom 7.7 NW, Tommy in reach. Holding position, stone_sword in hand. Swing only when in reach."}],"say":"Tommy, stay close. I'll strike the phan
+- 13:13 act: {"actions":[{"do":"note","text":"Dawn 502: stone_sword back in hand from Tommy. Two phantoms in view far off. Holding at 412,107,-1042 until Billy calls."}],"say":"Thank you, Tommy. I have the sword. 

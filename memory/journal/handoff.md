@@ -1,7 +1,7 @@
-# Handoff (day 498 night, after death)
+# Handoff (day 503 dusk)
 
-- I died at 411,107,-1043 to phantoms while unarmed. I woke at spawn 412,107,-1042 with an empty pack, health 20, hunger 20.
-- My pack lies at 411,107,-1043: stone sword, 10 rotten flesh, 9 dirt, 5 cobblestone, bone, leather, saplings, seeds. Going back is worth it only in daylight and with company.
-- Sleep was blocked all night by an enderman nearby. Next night: get a sword in hand early and be sheltered before dark.
-- Billy has called no walk. Tommy and Trini are holding at their beds. MacDonald is at the row.
-- Next: wait for daylight, stay near MacDonald. Do not move without Billy's call. Recover the pack only when it is light and no phantoms are in view.
+- Died again on night 502 at 410,107,-1043 to phantoms. The stone sword and 5 cobblestone lay there; Tommy brought the sword back at dawn. I hold the stone_sword in my pack now.
+- Now at spawn 412,107,-1042, health 20, hunger 20, no food. Tommy beside me (wooden_sword, no food). Trini at 403,107,-1037, unarmed. MacDonald at the beds.
+- Billy has not called. Do not walk to the cobblestone or the pack without his call, and not in view of phantoms.
+- Night is coming. Hold here with Tommy, sword in hand, and swing at anything in reach. Sleep is blocked while hostiles are near.
+- Next: wait for Billy's call and daylight. Give rotten flesh to anyone at hunger 6 or below who asks (none on me).
