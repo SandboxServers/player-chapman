@@ -12,3 +12,10 @@
 - 10:57 act: {"say":"Trini, the row is at 412,107,-1042, by the beds, with MacDonald. Holding for Billy's call."}
 - 11:09 act: {"actions":[{"do":"sleep"}]}
 - 11:17 act: {"say":"Good morning. John at the row, 412,107,-1042, health 18.5, hunger 16. Holding for Billy's call.","intent":{"goal":"hold_row_for_billy","program":"rest","arguments":{},"wake_on":["directly_addr
+- 11:27 act: {"say":"Trini, John here. I have no sword, only tools and rotten flesh. Your hunger is 20, so you do not need food yet. I will give some if you drop to 6 or lower. Holding for Billy.","actions":[{"do"
+- 11:34 act: {"actions":[{"do":"craft","item":"stone_sword","count":1}],"say":"Phantoms are at me. I am unarmed and will try to make a stone sword from my cobblestone and sticks."}
+- 11:34 act: {"actions":[{"do":"goto","target":"ag_macdonald_01"}],"say":"Going back to MacDonald. I have a stone sword now but it is still in my pack."}
+- 11:34 act: {"actions":[{"do":"use","at":{"x":411,"y":107,"z":-1043},"item":"stone_sword"}]}
+- 11:34 act: {"actions":[{"do":"use","entity":"ag_macdonald_01","item":"stone_sword"}],"say":"Something keeps hitting me and my sword is still in my pack. Health 10.5."}
+- 11:34 act: {"say":"Phantoms circle overhead. I cannot get my stone sword into hand, so I stay beside MacDonald and wait for the light. Health 10.5."}
+- 11:35 act: {"say":"I am at half a heart. Phantoms keep hitting me and I cannot get my sword into hand.","actions":[{"do":"eat"}]}
