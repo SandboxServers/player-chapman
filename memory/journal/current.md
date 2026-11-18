@@ -64,3 +64,19 @@
 - 16:18 act: {"actions":[{"do":"note","text":"Midday 512: night passed at spawn, unharmed, unarmed. Tommy and MacDonald are beside the beds. Holding for Billy."}],"say":"Morning. John still at spawn, unarmed, heal
 - 16:23 act: {"actions":[],"say":"Morning, Trini and Tommy. John at spawn, health 20, unarmed. Holding for Billy with you.","intent":{"goal":"hold_at_spawn_for_billy","program":"trade_wait","arguments":{},"wake_on
 - 16:38 say: {"text":"John here at spawn, health 20, hunger 20, unarmed. Holding for Billy's call. Thunder over us now; staying put."}
+- 16:49 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1042}}],"reasoning":"Daylight, no threats in view. Goal 4: try the bed once more to see why it refuses.","say":"Midday, quiet here. I'm trying the be
+- 16:55 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, phantoms 4 blocks south, unarmed. Fleeing failed before. Try sleep in the bed once; if it refuses, hold still.","say":"Phantoms are close to the south. 
+- 16:55 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"Phantoms are hitting me and I am unarmed. Health is falling. Strike whatever phantom is in reach; no weapon, but staying still is losing he
+- 16:56 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"Health 11, falling. Bare hands only. Strike the phantom attacking me from north-west, which is the one thing I can try now.","say":"Health 
+- 16:57 say: {"text":"John here at spawn, unarmed, health 20. Phantoms are close. Holding still until dawn or until Billy calls."}
+- 17:01 say: {"text":"Morning. John at spawn, health 20, no weapon and nothing in pack. Billy, could someone spare a sword for me to hold? I will stay in your sight."}
+- 17:01 act: {"actions":[{"do":"goto","target":{"x":403,"y":107,"z":-1037}}],"reasoning":"Died again at spawn in daylight to unseen attackers, hitting for 6-7 each. Staying here is death. Move to the group at 403,
+- 17:02 act: {"actions":[{"do":"note","text":"Death cause at spawn was an unseen attacker from behind. Stay within reach of Trini and Tommy in daylight."}],"say":"Trini, Tommy, Leonardo, I'm with you at 404,107,-1
+- 17:06 act: {"actions":[{"do":"note","text":"Holding Trini's stone_sword in hand, confirmed by held_item. Holding at 404,107,-1037 for Billy's call."}],"say":"Billy, I have Trini's stone sword in my hand now, hel
+- 17:14 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"wooden_sword","count":1}],"say":"Leonardo, the wooden sword that came to me by mistake is going to you now. I keep my stone sword in hand. Night 
+- 17:18 act: {"actions":[],"say":"Billy, Chapman here. Stone sword in hand, health 20, hunger 20. Holding at 405,107,-1036 for your call."}
+- 17:38 act: {"actions":[],"say":"Billy, Chapman: my stone sword came into my hand straight from Trini's give. I did not use it from my pack. Still holding at 405,107,-1036, no walk."}
+- 17:51 say: {"text":"Chapman here, dawn, at the row with my stone sword in hand. No food. Billy, I wait for your morning count and call."}
+- 18:27 say: {"text":"Chapman, counted at the row: stone sword in hand, health 20, hunger 20, no food. Billy, when you call a walk, I will go with the armed group only."}
+- 18:56 say: {"text":"John, morning 520, at 405,107,-1036. Stone sword in hand, health 20, no food. Billy, if you walk for Jason's sword in daylight, I will walk with you and keep the sword in hand."}
+- 19:00 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Chapman coming to Billy in daylight, stone sword in hand.","intent":{"goal":"join_billy_in_sight","program":"travel","arguments":{"target":"ag_
