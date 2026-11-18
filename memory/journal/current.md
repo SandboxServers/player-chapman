@@ -47,3 +47,5 @@
 - 14:08 act: {"actions":[{"do":"goto","target":{"x":398,"y":107,"z":-1045}}],"say":"Health 5. Moving west away from the phantoms.","reasoning":"Health 5 and falling under phantom hits. Swinging has timed out three
 - 14:08 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"Health 3. Phantoms are adjacent and fleeing failed. One more swing is all I have."}
 - 14:37 act: {"say":"Chapman here at spawn, awake, no food and nothing in hand. Holding for Billy's call.","intent":{"goal":"hold_at_spawn","program":"rest","arguments":{},"wake_on":["directly_addressed","precondi
+- 15:22 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantom to the north-west, unarmed. Swinging at it while I hold at spawn."}
+- 15:24 act: {"actions":[{"do":"attack","target":"phantom"}]}

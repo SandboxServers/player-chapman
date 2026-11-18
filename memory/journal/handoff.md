@@ -1,8 +1,8 @@
-# Handoff (night 505)
+# Handoff (morning, day 509)
 
-- Died again on night 505 at 399,107,-1045 while fleeing phantoms west at health 5. The stone_sword lies there, 13 blocks west of spawn.
-- Woke at spawn 412,107,-1042 with nothing in hand, health 20, hunger 20.
-- Phantoms hunt the spawn area at night. Swinging at them timed out three times. Running does not escape them.
-- Tommy is near spawn, dying, with no weapon. Trini and MacDonald are unarmed.
-- Do not walk to the sword without Billy's call, daylight, and no phantoms in view.
-- Next: hold by the beds with the others until light. Give rotten flesh to anyone at hunger 6 or below who asks (none on me).
+- Survived night 509 at spawn 412,107,-1042 after phantom hits. Health 7, hunger 17, nothing in hand, days since sleep 15.
+- Swings at phantoms failed (out of reach, then too long). Do not flee phantoms at night.
+- The stone_sword lies at 399,107,-1045 and cobblestone at 410,107,-1043. Recover only with Billy's call, daylight, and no phantoms in view.
+- Beds at 413,107,-1042 and 413,107,-1041: sleep has not worked yet ("that block is a bed").
+- Give rotten flesh to anyone at hunger 6 or below who asks (none on me).
+- Next: hold at spawn until Billy calls; then find food and a working bed or sealed shelter.
