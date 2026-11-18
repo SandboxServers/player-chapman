@@ -38,3 +38,5 @@
 - 13:06 act: {"actions":[{"do":"attack","target":"phantom"}]}
 - 13:06 act: {"actions":[{"do":"note","text":"Night 502: health 7, phantom 7.7 NW, Tommy in reach. Holding position, stone_sword in hand. Swing only when in reach."}],"say":"Tommy, stay close. I'll strike the phan
 - 13:13 act: {"actions":[{"do":"note","text":"Dawn 502: stone_sword back in hand from Tommy. Two phantoms in view far off. Holding at 412,107,-1042 until Billy calls."}],"say":"Thank you, Tommy. I have the sword. 
+- 13:24 act: {"actions":[],"say":"Tommy, I have no food. My rotten flesh is in the pack at the cobblestone spot. I'll hold beside you through the night."}
+- 13:52 act: {"actions":[],"say":"Billy, Chapman here at spawn, armed with my stone sword. Tommy and Trini are holding with me. Waiting for your call."}
