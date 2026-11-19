@@ -107,3 +107,7 @@
 - 01:04 act: {"reasoning":"Dusk, no walk named, group sheltered at row. Hold and wait for Billy's call.","say":"John, dusk 538, holding at the row in Billy's sight. Unarmed, health 20, hunger 20. Waiting for Billy
 - 01:13 say: {"text":"Billy, John here at the row, morning 539. Unarmed, health 20, hunger 20. When you can spare a sword, I will hold it. No walk from me until you name it."}
 - 02:42 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1036}},{"do":"use","at":{"x":401,"y":107,"z":-1036}}],"intent":{"goal":"rest_in_bed","program":"rest","arguments":{},"wake_on":["directly_addres
+- 02:57 say: {"text":"John, day 544, at the row, unarmed, health 20, hunger 20. Holding in Billy's sight. No walk."}
+- 03:01 say: {"text":"Riker, I am also unarmed. How did the wooden sword come into your hand? Worf, tell me what happens with your use try. Holding at the row."}
+- 03:05 act: {"actions":[{"do":"note","text":"Day 544 dusk: at row 403,107,-1036, unarmed, health 20, hunger 20. Asked Riker how he got a wooden sword into hand; Billy says use with no target. I have no sword to t
+- 03:13 say: {"text":"Meriwether, Chapman here. I do not know where the trader is, and I have not been past the ridge. Dawn 545, I hold at the row, unarmed. No walk."}
