@@ -29,3 +29,5 @@
 - 18:44 act: {"say":"Night, row. John lying down here in Billy's sight. No walk.","actions":[{"do":"sleep"}]}
 - 18:52 act: {"actions":[{"do":"note","text":"Day 591, day. Holding at 430,107,-1023 in Billy's sight. No walk named. Health 20, hunger 20."}],"say":"John here, holding at my bed in Billy's sight. Health 20, hunge
 - 18:57 act: {"actions":[{"do":"sleep"}],"say":"Night, row. John lying down here in Billy's sight. No walk."}
+- 19:01 act: {"actions":[{"do":"note","text":"Day 592 morning. Woke at 430,107,-1023 in Billy's sight. Health 20, hunger 20. No walk named; holding."}],"say":"Morning, row. John awake at 430,107,-1023, health 20, 
+- 19:17 act: {"actions":[{"do":"note","text":"Day 593 morning. At 430,107,-1023 in Billy's sight, health 20, hunger 20. No west route named by anyone; holding."}],"say":"Morning, Billy. John here, health 20, hunge
