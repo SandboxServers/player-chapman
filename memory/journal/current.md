@@ -104,3 +104,5 @@
 - 22:14 act: {"actions":[],"intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":120
 - 22:23 act: {"actions":[{"do":"goto","target":"ag_billy_01"},{"do":"give","to":"ag_billy_01","item":"bread","count":1}],"say":"Billy, Chapman at dawn 530. Giving you my one bread now; the flesh on the ground shou
 - 00:23 act: {"actions":[{"do":"give","to":"ag_macdonald_01","item":"wooden_sword","count":1}],"say":"Chapman: I hold the wooden sword from Data, passing it to MacDonald on Billy's name, in sight."}
+- 01:04 act: {"reasoning":"Dusk, no walk named, group sheltered at row. Hold and wait for Billy's call.","say":"John, dusk 538, holding at the row in Billy's sight. Unarmed, health 20, hunger 20. Waiting for Billy
+- 01:13 say: {"text":"Billy, John here at the row, morning 539. Unarmed, health 20, hunger 20. When you can spare a sword, I will hold it. No walk from me until you name it."}
