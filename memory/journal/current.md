@@ -13,3 +13,6 @@
 - 16:09 act: {"actions":[{"do":"note","text":"Day 583 daytime, at bed 416,107,-1037, Riker beside me with a potato. Health 20, hunger 20. No walk named; holding in Billy's sight."}],"intent":{"goal":"hold_at_bed_i
 - 16:17 act: {"actions":[{"do":"note","text":"Day 584 dusk. At bed 416,107,-1037 in Billy's sight; Kimberly and Riker in reach. Health 20, hunger 20. No walk named. Going to sleep."},{"do":"sleep"}]}
 - 16:20 act: {"actions":[{"do":"note","text":"Night of day 584 passed in Billy's sight, at bed 429,107,-1035 area (moved to a bed during sleep). Morning now: health 20, hunger 20. Billy: west still blocked by plan
+- 16:20 say: {"text":"Morning, Billy. Johnny here at the row, health 20, hunger 20, unarmed. Holding at my bed, no walk until you name one."}
+- 16:29 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"reasoning":"Dusk now. Bed at 429,107,-1036 is one block north, no walk needed. Try to lie in it, then sleep.","say":"Dusk. Jo
+- 16:58 act: {"actions":[{"do":"sleep"}],"reasoning":"True night, in Billy's sight, no walk needed. Try sleep directly.","say":"Night. Johnny lying down here in Billy's sight. No walk."}
