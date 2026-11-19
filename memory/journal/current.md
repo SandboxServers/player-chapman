@@ -7,3 +7,5 @@
 - 15:50 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1037}},{"do":"sleep"}]}
 - 15:51 act: {"actions":[{"do":"note","text":"Night. Use on bed 415,107,-1037 refused again. Trying sleep alone this time, no use."},{"do":"sleep"}]}
 - 15:55 act: {"actions":[{"do":"note","text":"Woke day 583 at my bed 416,107,-1037, health 20, hunger 20. Sleep worked with sleep alone (use on bed refused). No walk named by Billy; holding in sight."}]}
+- 16:03 act: {"actions":[{"do":"note","text":"Dusk day 583. No walk named all day; holding at bed 416,107,-1037 in Billy's sight. Going to sleep."},{"do":"sleep"}]}
+- 16:07 act: {"actions":[{"do":"note","text":"Day 583 morning again. Billy: still no verified route, planks block west. Holding at bed 416,107,-1037, health 20, hunger 20. Troi at health 12 with potatoes; no food 
