@@ -60,3 +60,6 @@
 - 12:35 act: {"intent":{"goal":"hold_at_row_for_night","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"
 - 12:35 act: {"intent":{"goal":"hold_at_row_through_night_573","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":12000,"max_bloc
 - 12:39 say: {"text":"Billy, John at the row, unarmed, health 20, hunger 20. No walk for me; holding in your sight until named."}
+- 12:52 say: {"text":"John here at the row, health 20, hunger 20, unarmed. Holding in Billy's sight for his named call."}
+- Day 573 (status: day 573, days since sleep 23): at the row 402,107,-1037, health 20, hunger 20, unarmed, empty pack. Said so aloud. No walk named for me; holding in sight. Still no working bed.
+- Day 574: Troi at health 8 (Clark has 5 potatoes, Leonardo no food). Dusk 574 passed; morning 575 now. Billy names no walk for me; I hold at the row, health 20, hunger 20, unarmed. Not named.
