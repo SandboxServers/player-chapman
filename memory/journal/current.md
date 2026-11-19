@@ -16,3 +16,5 @@
 - 16:20 say: {"text":"Morning, Billy. Johnny here at the row, health 20, hunger 20, unarmed. Holding at my bed, no walk until you name one."}
 - 16:29 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"reasoning":"Dusk now. Bed at 429,107,-1036 is one block north, no walk needed. Try to lie in it, then sleep.","say":"Dusk. Jo
 - 16:58 act: {"actions":[{"do":"sleep"}],"reasoning":"True night, in Billy's sight, no walk needed. Try sleep directly.","say":"Night. Johnny lying down here in Billy's sight. No walk."}
+- 17:03 act: {"say":"Morning, all. John holding at the row, unarmed, health 20, hunger 20. Waiting for Billy's word on the walk.","intent":{"goal":"hold_in_row","program":"rest","arguments":{},"wake_on":["directly
+- 17:11 act: {"say":"Night. John lying down here at the row, in Billy's sight. No walk.","actions":[{"do":"sleep"}]}
