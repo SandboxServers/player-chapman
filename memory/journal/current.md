@@ -21,3 +21,5 @@
 - 17:16 say: {"text":"Morning. John here at the row, holding in Billy's sight, no walk from me until Billy names one."}
 - 17:24 say: {"text":"Dusk. John holding here in Billy's sight, no walk. I will try my bed at true night."}
 - 17:36 say: {"text":"Billy, John, a nurseryman. I have seen nothing of the west; I have only stood at the row. Holding in your sight, no walk."}
+- 17:53 act: {"say":"Morning, Billy. (day 588, daytime, thunder) health 20, hunger 20, no walk named, holding at the row in Billy's sight; 6 days since sleep. Day 589 now: Billy says still no verified west route; everyone holds. I hold in sight, health 20, hunger 20. Said to Billy I have no west route; he will not walk until one is named aloud. Tommy reports planks still block west. John here at the row, health 20, hunger 20, holding in your sight. Waiting for your word on any walk.","intent":{"goal":"hold_in_billys_sight","program":"rest","arguments":{},"
+- 18:01 say: {"text":"Billy, John here. I have no route west; I have only stood at the row and seen nothing of the planks. I hold in your sight until you name a walk."}
