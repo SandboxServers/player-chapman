@@ -10,3 +10,5 @@
 - 05:50 act: {"say":"John at the row, 402,107,-1037, unarmed, health and hunger 20. Holding in Billy's sight through the night. Walk only on Billy's named call at dawn.","intent":{"goal":"hold_at_row_through_night
 - 05:54 act: {"say":"John at the row, morning 553. Health and hunger 20, unarmed. Not hungry, so the potatoes go to Wesley, Lewis, Riker and Clark. Holding in Billy's sight."}
 - 06:02 act: {"intent":{"goal":"hold_at_row_through_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":12000,"max_block_op
+- 06:45 say: {"text":"Billy, John at the row, unarmed, health 20, hunger 20. Not hungry, so the potatoes go to Wesley and Lewis. Holding for your named call."}
+- 06:52 say: {"text":"Trini, John here. No sword, empty hands. Holding at the row for Billy's call."}
