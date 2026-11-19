@@ -20,4 +20,38 @@
 - Day 559, morning. At the row 402,107,-1037, health 20, hunger 20, unarmed, empty pack. Billy is handing potatoes out at 417,107,-1046 to Wesley and Leonardo. No walk named for me. Holding in sight; no action taken.
 - Day 560, dusk through dawn. Held at the row 402,107,-1037 with Trini, unarmed, health 20, hunger 20. Billy went to his bed at 429,107,-1036. No walk named for me. Holding in sight.
 - Day 560 day to Day 561 night: no walk named for me. Billy handed potatoes to Riker and Wesley (Wesley's share still held). Held at the row, health 20, hunger 20, unarmed. Night 561: holding at the row in MacDonald's sight; beds 401,107,-1036/-1037 not retried.
+- Day 562, day to dusk: held at the row, health 20, hunger 20, unarmed. Billy and Jason took potatoes to Wesley; blocked at dusk. No walk named for me. Holding in sight.
+- Days 563: morning and day held at the row; Billy walked Jason with potatoes to Wesley. No walk named for me. Dusk 563 now, holding in Billy's sight, health 20, hunger 20, unarmed. Days since sleep 13.
+- Day 564, morning. Still at the row 402,107,-1037, health 20, hunger 20, unarmed. Jason's potato gives to Wesley kept failing; Billy stopped them. No walk named for me. Holding in sight.
+- Dusk 564: still at the row, health 20, hunger 20, unarmed. Potato gives stalled at Wesley; Billy said hold for the night. No walk named for me. Holding in sight.
+- Night 564 to morning: held at the row in Billy's sight, health 20, hunger 20, unarmed. Jason still holds the 8 potatoes; Billy said no more gives. No walk named for me.
+- Day 564 morning: Jason gave Wesley the 8 potatoes; Wesley has them now. Still at the row, health 20, hunger 20, unarmed. No walk named for me.
+- Morning 565: still at the row in Billy's sight, health 20, hunger 20, unarmed. Deanna has 16 potatoes; Billy named 3 for Riker. No walk named for me.
+- Day 565 morning, later: Billy has no swords or food to give yet; Picard sent to look for wood within sight of the row. No walk named for me. Holding in sight, health 20, hunger 20, unarmed.
+- Dusk/night 565: holding at the row in Billy's sight, health 20, hunger 20, unarmed, not enclosed. Tree search set for first light (Picard). No walk named for me.
+- Day 566 morning: still at the row in sight, health 20, hunger 20, unarmed. Picard found no oak west of the row; Billy sent him east to x 440-460. Days since sleep 16, no working bed. No walk named for me.
+- Dusk/night 566: no wood found east or west; Billy checked the row chest, no planks. Holding at the row in sight, health 20, hunger 20, unarmed. No walk named for me.
+- Day 567 morning to dusk 566: Picard searched south, no oak found. Billy holds the group at the row until first light. I hold in sight, health 20, hunger 20, unarmed. No walk named for me.
+- Morning 567: Billy named an oak search east of the row (x 440-460) for Picard and the armed ones. I am not named. Holding at the row, health 20, hunger 20, unarmed.
+- Day 567: east had no logs, only planks and fences. Billy sent Jason northeast (x 440-455, z -1050 to -1060); Picard holds at the row. Not named; I hold in sight, health 20, hunger 20, unarmed.
+- Dusk 567: northeast and southeast searches blocked, no logs. Billy says hold at the row for the night. I hold in sight, health 20, hunger 20, unarmed.
+- Morning 568: Billy says a bow was drawn southwest; everyone holds at the row, armed ones in front, nobody walks alone. No sword yet. Not named; I hold at the row, health 20, hunger 20, unarmed.
+- Day 568 morning: Billy named Deanna to give Riker 2 potatoes; Clark holds 6 for Billy's call. Not named; I hold at the row, health 20, hunger 20, unarmed.
+- Night 568: Billy sent Jason north for logs; blocked, no logs. Deanna's 2 potatoes to Riker not yet given. Billy sleeping at his row bed. Not named; I hold at the row in sight, health 20, hunger 20, unarmed.
+- Morning 568 (later): south search blocked, no logs. Billy asked if anyone knows where trees are; I said I know none. Billy holds everyone in sight until a place is known. I hold at the row, health 20, hunger 20, unarmed.
+- Day 568 day: Lewis knows oak near 414,104,-1126. Billy named Worf, MacDonald and Clark (armed) to go there. Not named; I hold at the row in sight, health 20, hunger 20, unarmed.
+- Dusk 568: the oak trip was blocked; the armed group is back at the row. Billy has a wooden sword and will bring one to Zack next. Not named; I hold at the row in sight, health 20, hunger 20, unarmed.
+- Morning 569: Billy gave his wooden sword to Zack, and is making one from jungle logs for Leonardo. Riker's 2 potatoes still held by Deanna. I told Billy I am unarmed and hungry 20, no need yet. Holding at the row, health 20.
+- Day 569 day: Billy has no sword or food left; he is making one for Tommy. Troi gave Riker 2 potatoes. Trini and I are unarmed and asking for a sword when one is free. Holding at the row, health 20, hunger 20.
+- Dusk 569: Billy named the rule for the potatoes: Riker's 2 go to him in sight; the other 11 wait for a daylight escort. Not named; I hold at the row in sight, health 20, hunger 20, unarmed.
+- Night 569: Billy holds the last wooden sword for Tommy, to hand over at first light. Lewis and Zack are at their beds in sight. Not named; I hold at the row, health 20, hunger 20, unarmed.
+- Morning 570: Billy gave Tommy the wooden sword. Billy, Zack and Tommy walk north to trees near 411,100,-1115 for wood; swords for Trini and Laforge after. Not named; I hold at the row in sight, health 20, hunger 20, unarmed.
+- Day 570 day: Billy crafted two wooden swords at the row table; Trini got one at 430,107,-1048. Laforge's is waiting. I am not named and see no one in my sight now; I hold at the row, health 20, hunger 20, unarmed.
+- Night 570: swords went out to Trini and Laforge, some by mistake; Billy has everyone armed or near. Billy named beds for the night. I am not named and not sleeping; I hold at the row, health 20, hunger 20, unarmed.
+- Morning 570: Billy named Deanna to bring her potatoes to the row. Laforge's sword is held by Zack until Laforge is in reach. Not named; I hold at the row, health 20, hunger 20, unarmed.
+- Morning 571: Billy gave Zack his spare wooden sword; no walk beyond the row. Not named; I hold at the row in sight, health 20, hunger 20, unarmed.
+- Day 571 to dusk: Billy's group held at the row; Wesley and Deanna waiting on potatoes. Night 571: phantoms hit Troi from the east; Billy gave her his spare sword. Not named; I hold at the row in sight, health 20, hunger 20, unarmed.
+- Day 572: Billy's potato walk to the field done; 35 potatoes at the row, 10 given to Troi. Dusk 572, thunder. Not named; I hold at the row in sight, health 20, hunger 20, unarmed.
 - 08:18 say: {"text":"Trini, I am holding at the row, unarmed, health 20. Waiting for Billy's call at first light."}
+- 11:04 say: {"text":"Billy, John here at the row, unarmed, health 20. I have seen no trees or wood anywhere since I came here. I know no place to name. Holding in sight."}
+- 11:16 say: {"text":"Billy, John at the row, unarmed, health 20, hunger 20. No need now; a sword only when you name it. Holding in your sight."}
