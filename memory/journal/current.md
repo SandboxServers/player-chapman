@@ -18,3 +18,6 @@
 - 16:58 act: {"actions":[{"do":"sleep"}],"reasoning":"True night, in Billy's sight, no walk needed. Try sleep directly.","say":"Night. Johnny lying down here in Billy's sight. No walk."}
 - 17:03 act: {"say":"Morning, all. John holding at the row, unarmed, health 20, hunger 20. Waiting for Billy's word on the walk.","intent":{"goal":"hold_in_row","program":"rest","arguments":{},"wake_on":["directly
 - 17:11 act: {"say":"Night. John lying down here at the row, in Billy's sight. No walk.","actions":[{"do":"sleep"}]}
+- 17:16 say: {"text":"Morning. John here at the row, holding in Billy's sight, no walk from me until Billy names one."}
+- 17:24 say: {"text":"Dusk. John holding here in Billy's sight, no walk. I will try my bed at true night."}
+- 17:36 say: {"text":"Billy, John, a nurseryman. I have seen nothing of the west; I have only stood at the row. Holding in your sight, no walk."}
