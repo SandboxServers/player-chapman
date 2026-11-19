@@ -18,3 +18,6 @@
 - Day 557 night passed at the row in sight; morning 557 Billy walked to Wesley's bed with Jason. No walk named for me. Session then superseded; still at the row, health 20, hunger 20, unarmed. Next: hold in Billy's sight, walk only on his named call.
 - Day 558: Billy's walks to Wesley were blocked twice; potatoes kept at the row. No walk named for me. Dusk 558 now; holding at the row in sight, health 20, hunger 20, unarmed, no bed.
 - Day 559, morning. At the row 402,107,-1037, health 20, hunger 20, unarmed, empty pack. Billy is handing potatoes out at 417,107,-1046 to Wesley and Leonardo. No walk named for me. Holding in sight; no action taken.
+- Day 560, dusk through dawn. Held at the row 402,107,-1037 with Trini, unarmed, health 20, hunger 20. Billy went to his bed at 429,107,-1036. No walk named for me. Holding in sight.
+- Day 560 day to Day 561 night: no walk named for me. Billy handed potatoes to Riker and Wesley (Wesley's share still held). Held at the row, health 20, hunger 20, unarmed. Night 561: holding at the row in MacDonald's sight; beds 401,107,-1036/-1037 not retried.
+- 08:18 say: {"text":"Trini, I am holding at the row, unarmed, health 20. Waiting for Billy's call at first light."}
