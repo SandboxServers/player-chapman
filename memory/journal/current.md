@@ -10,3 +10,8 @@
 - Day 602 morning: at 430,107,-1037, health 20, hunger 20. The row reported goodnights at dusk. No walk named. Holding in Billy's sight.
 - 22:26 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night, row. John at my bed 429,107,-1037, in Billy's sight. Health 20, hunger 20. No walk. Goodnight."}
 - Night of day 602: sleep at bed 429,107,-1037 took (5 of 10 asleep). Morning: still at 430,107,-1037, health 20, hunger 20. Billy holds; no walk named. Holding.
+- Day 603 dusk: slept at bed 429,107,-1037 (4 of 10 asleep); morning, health 20, hunger 20, still at 430,107,-1037. No walk named. Holding.
+- 22:38 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk, row. John at my bed 429,107,-1037, in Billy's sight. Health 20, hunger 20. No walk. Holding."}
+- Day 604 morning: slept at bed 429,107,-1037 (2 of 10 asleep at dusk); health 20, hunger 20, at 430,107,-1037. Billy holds; no walk named. Holding.
+- 22:51 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk, row. John at my bed, in Billy's sight. Health 20, hunger 20. No walk. Goodnight."}
+- 23:03 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk, row. John at my bed 429,107,-1037, in Billy's sight. Health 20, hunger 20. No walk. Goodnight."}
