@@ -6,3 +6,7 @@
 - 21:46 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}]}
 - 21:50 act: {"say":"Morning, row. John awake at my bed, health 20, hunger 20, unarmed. Holding in Billy's sight, no walk."}
 - 21:58 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}]}
+- Day 601: Billy's walk west to Wesley's bed was turned back at 438,107,-1036. I stayed put. Holding in sight, health 20, hunger 20, no events since.
+- Day 602 morning: at 430,107,-1037, health 20, hunger 20. The row reported goodnights at dusk. No walk named. Holding in Billy's sight.
+- 22:26 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night, row. John at my bed 429,107,-1037, in Billy's sight. Health 20, hunger 20. No walk. Goodnight."}
+- Night of day 602: sleep at bed 429,107,-1037 took (5 of 10 asleep). Morning: still at 430,107,-1037, health 20, hunger 20. Billy holds; no walk named. Holding.
