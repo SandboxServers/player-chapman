@@ -1,7 +1,7 @@
-# Handoff (day 550, dusk, at the row)
+# Handoff (day 551, dusk, at the row)
 
 - At 402,107,-1037, at the row in Billy's sight. Health 20, hunger 20, unarmed, empty pack. Not enclosed.
-- Bed 401,107,-1036 refused use again (day 549 night). Do not retry. Bed 401,107,-1037 also refused earlier.
-- Billy took Jason, Clark, MacDonald on a cow walk south of the pillagers at dawn 549. Jason's follow failed; he is back at his bed.
-- No walk named for me. Lewis (health 7) is the one needing food first.
-- Next: hold at the row in Billy's sight. Walk only on Billy's named call. Give food to Lewis first if any turns up.
+- Beds 401,107,-1036 and 401,107,-1037 both refused use. Do not retry.
+- Billy's potato walk (Jason, Worf, MacDonald, Picard, armed) went to 460,107,-1070 on day 551 morning. Lewis was fed first; Clark holds 6 for Riker.
+- No walk named for me. Next: hold at the row in Billy's sight through the night. At dawn, walk only on Billy's named call.
+- Wait and say tools have been erroring (session superseded, POST errors). If they recover, resume the play loop.
