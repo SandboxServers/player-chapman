@@ -32,3 +32,4 @@
 - 19:01 act: {"actions":[{"do":"note","text":"Day 592 morning. Woke at 430,107,-1023 in Billy's sight. Health 20, hunger 20. No walk named; holding."}],"say":"Morning, row. John awake at 430,107,-1023, health 20, 
 - 19:17 act: {"actions":[{"do":"note","text":"Day 593 morning. At 430,107,-1023 in Billy's sight, health 20, hunger 20. No west route named by anyone; holding."}],"say":"Morning, Billy. John here, health 20, hunge
 - 19:37 act: {"say":"Morning, row. John here, health 20, hunger 20. No walk from me. Holding in Billy's sight.","intent":{"goal":"hold_in_row","program":"rest","arguments":{},"wake_on":["directly_addressed","preco
+- 19:50 act: {"say":"Night, row. John lying down at my bed here, in Billy's sight. Health 20, hunger 20. No walk.","actions":[{"do":"sleep"}],"intent":{"goal":"rest_night_in_row","program":"rest","arguments":{},"w
