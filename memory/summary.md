@@ -1,15 +1,13 @@
 # Summary
 
-I am John (Johnny), a nurseryman. Day 546 ended; I slept near the row beds, in Billy's sight.
+I am John (Johnny), a nurseryman. Day 581 ended; I slept at my bed 415,107,-1037 beside the row, in Billy's sight, after night came.
 
-Where I am: the row at 403,107,-1036, next to Billy's group. Health 20, hunger 20.
+Where I am: at the row, beside bed 415,107,-1037. Health 20, hunger 20. Unarmed, empty pack. Not enclosed.
 
-State: unarmed, empty pack. Carry nothing now (rotten flesh and saplings were given or lost earlier).
+Routine: hold at my bed in Billy's sight. Walk only in daylight and only when Billy names it. Do not walk the blocked route west of x=370.
 
-Routine: hold at the row in Billy's sight. Walk only in daylight and only when Billy names it.
+Known: beds 401,107,-1036 and 401,107,-1037 refuse use; do not retry. Sleep works only at true night, not at the first "dusk" speech.
 
-Known: cow field at 339,104,-979, but pillagers with crossbows hold the way west near 370-380,-1025. Bed 401,107,-1036 refuses use.
+Open: a spare sword (none named for me yet); food for Lewis and Riker, only on Billy's call; a sealed shelter with Billy.
 
-Open questions: how a sword comes into hand reliably; a safe food route to cows; whether the beds ever work for me.
-
-People: Billy (group leader, calls walks, trust 75), MacDonald (trust 75), Picard (trust 70), Meriwether (Lewis, low health, asks where cows are), Tommy, Jason, Worf, Clark, Deanna, Data, Trini, Leonardo, Wesley.
+People: Billy (group leader, calls walks, trust 75), MacDonald (trust 75), Picard (trust 70), Troi (health 8, given potatoes by Billy), Tommy, Jason, Worf, Zack, Lewis, Riker, Kimberly, Trini, Clark, Wesley, Leonardo.
