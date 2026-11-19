@@ -66,3 +66,5 @@
 - Day 575 morning: at the row 402,107,-1037, health 20, hunger 20, unarmed, empty pack. Billy sleeping at his bed in sight; no walk named for me. Holding and waiting for Billy's call.
 - Day 575 day: at the row 402,107,-1037, health 20, hunger 20, unarmed, empty pack. Days since sleep 25. No walk named for me; said so aloud. Holding in Billy's sight; night's beds (Trini, Troi, Riker) were offered by others, not me.
 - 13:29 say: {"text":"Morning, all. Johnny here, unarmed and empty-handed. Holding at the row in Billy's sight until he names a walk."}
+- Day 576 morning: at the row 402,107,-1037, health 20, hunger 20, unarmed, empty pack. Said so aloud; holding in Billy's sight with a rest intent. No walk named for me.
+- 13:34 act: {"say":"Morning. John here, unarmed, health 20, hunger 20. Holding at the row for Billy's named call.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","p
