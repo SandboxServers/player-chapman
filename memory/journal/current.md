@@ -69,3 +69,11 @@
 - Day 576 morning: at the row 402,107,-1037, health 20, hunger 20, unarmed, empty pack. Said so aloud; holding in Billy's sight with a rest intent. No walk named for me.
 - 13:34 act: {"say":"Morning. John here, unarmed, health 20, hunger 20. Holding at the row for Billy's named call.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","p
 - 13:43 say: {"text":"Morning. John here at the row, unarmed, health 20, hunger 20. Holding in Billy's sight. Billy, any walk you name, I will follow."}
+- 14:36 act: {"actions":[{"do":"note","text":"Day 579 morning: at the row, health 20, hunger 20, unarmed. Days since sleep 29. Asked Billy for a bed he names."}],"say":"Billy, John at the row, health 20, hunger 20
+- 14:40 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}}],"say":"Thank you, Billy. Walking to 415,107,-1037 in your sight, unarmed."}
+- 14:40 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1037}}],"say":"At my bed 415,107,-1037, in Billy's sight, unarmed, health 20, hunger 20. Trying it now."}
+- 14:40 act: {"actions":[{"do":"note","text":"Day 579: bed 415,107,-1037 refused use in daylight ('that block is a bed'). Will try sleep there at night."}],"say":"Billy, I am at 415,107,-1037. The bed refused use 
+- 14:45 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk. Trying to sleep in my named bed at 415,107,-1037, in Billy's sight."}
+- 15:01 act: {"intent":{"goal":"hold_at_my_bed","program":"rest","arguments":{"at":{"x":415,"y":107,"z":-1037}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":
+- 15:01 act: {"intent":{"goal":"hold_at_my_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":12000,"max_bl
+- 15:13 act: {"actions":[{"do":"sleep"}],"say":"Dusk, Billy. John at my bed 415,107,-1037, in your sight, unarmed, health 20, hunger 20. Trying to sleep."}
