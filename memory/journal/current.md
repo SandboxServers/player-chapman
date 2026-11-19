@@ -55,3 +55,8 @@
 - 08:18 say: {"text":"Trini, I am holding at the row, unarmed, health 20. Waiting for Billy's call at first light."}
 - 11:04 say: {"text":"Billy, John here at the row, unarmed, health 20. I have seen no trees or wood anywhere since I came here. I know no place to name. Holding in sight."}
 - 11:16 say: {"text":"Billy, John at the row, unarmed, health 20, hunger 20. No need now; a sword only when you name it. Holding in your sight."}
+- Day 573, dusk: at the row 402,107,-1037, health 20, hunger 20, unarmed, not enclosed. Billy walking to the bed row at 430,107,-1034 for the night; Riker's 2 potatoes to be given in sight. No walk named for me. Holding at the row; said so aloud. Days since sleep 23.
+- Day 573 night to morning: held at the row; rest intent ended early twice. Billy named the potato walk for Trini only; I was not named. Morning 573: no walk named for me; said so aloud. Holding in Billy's sight, health 20, hunger 20, unarmed.
+- 12:35 act: {"intent":{"goal":"hold_at_row_for_night","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"
+- 12:35 act: {"intent":{"goal":"hold_at_row_through_night_573","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":12000,"max_bloc
+- 12:39 say: {"text":"Billy, John at the row, unarmed, health 20, hunger 20. No walk for me; holding in your sight until named."}
