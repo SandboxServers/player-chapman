@@ -1,3 +1,9 @@
 # Journal
 - 15:39 say: "John here at my bed, holding in Billy's sight. Waiting for Billy's named call."
 - Later: wait passed. Billy named no walk (Tommy reports the west path blocked by oak planks). Everyone holds. I held at my bed 415,107,-1037, health 20, hunger 20.
+- 15:48 act: {"actions":[{"do":"note","text":"Day 582, dim, at my bed 416,107,-1037 with Leonardo and Riker near. Holding still per Billy's rule; no walk named. Overheard Tommy will hand a spare wooden sword to Be
+- 15:50 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1037}},{"do":"sleep"}]}
+- 15:50 act: {"actions":[{"do":"note","text":"Dusk. Tried use on my bed 415,107,-1037: refused (bed use only at true night, per earlier days). Holding at bed in Billy's sight until night."}]}
+- 15:50 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1037}},{"do":"sleep"}]}
+- 15:51 act: {"actions":[{"do":"note","text":"Night. Use on bed 415,107,-1037 refused again. Trying sleep alone this time, no use."},{"do":"sleep"}]}
+- 15:55 act: {"actions":[{"do":"note","text":"Woke day 583 at my bed 416,107,-1037, health 20, hunger 20. Sleep worked with sleep alone (use on bed refused). No walk named by Billy; holding in sight."}]}
