@@ -9,3 +9,7 @@
 - 15:55 act: {"actions":[{"do":"note","text":"Woke day 583 at my bed 416,107,-1037, health 20, hunger 20. Sleep worked with sleep alone (use on bed refused). No walk named by Billy; holding in sight."}]}
 - 16:03 act: {"actions":[{"do":"note","text":"Dusk day 583. No walk named all day; holding at bed 416,107,-1037 in Billy's sight. Going to sleep."},{"do":"sleep"}]}
 - 16:07 act: {"actions":[{"do":"note","text":"Day 583 morning again. Billy: still no verified route, planks block west. Holding at bed 416,107,-1037, health 20, hunger 20. Troi at health 12 with potatoes; no food 
+- 16:09 act: {"say":"Morning, Riker. Any news from Billy's group?","intent":{"goal":"hold_at_bed_in_sight","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage",
+- 16:09 act: {"actions":[{"do":"note","text":"Day 583 daytime, at bed 416,107,-1037, Riker beside me with a potato. Health 20, hunger 20. No walk named; holding in Billy's sight."}],"intent":{"goal":"hold_at_bed_i
+- 16:17 act: {"actions":[{"do":"note","text":"Day 584 dusk. At bed 416,107,-1037 in Billy's sight; Kimberly and Riker in reach. Health 20, hunger 20. No walk named. Going to sleep."},{"do":"sleep"}]}
+- 16:20 act: {"actions":[{"do":"note","text":"Night of day 584 passed in Billy's sight, at bed 429,107,-1035 area (moved to a bed during sleep). Morning now: health 20, hunger 20. Billy: west still blocked by plan
