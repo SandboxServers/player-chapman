@@ -1,6 +1,6 @@
-# Handoff (day 543, night, at the row)
+# Handoff (day 549, dusk, at the row)
 
-- At 404,107,-1035, in Billy's sight, at the row. Health 20, hunger 20, unarmed, empty pack.
-- Billy's armed count: Billy, Jason, Picard, Worf, MacDonald (five). No walk named yet.
-- Days since sleep 49. Beds have refused sleep before.
-- Next: attempt the bed 3 west. Hold in sight. Walk only on Billy's named daylight call. Ask for a sword when a spare exists.
+- At 402,107,-1037, at the row in Billy's sight. Health 20, hunger 20, unarmed, empty pack. Not enclosed.
+- Beds at 401,107,-1037 and 401,107,-1036 refused use (day 546, 547, dusk). Do not retry those. Billy sleeps at 429,107,-1037; Data at 401,107,-1023.
+- No walk named. Wheat by water near 462,107,-1073 and cows at 339,104,-979 both on hold; pillagers at 370-380,-1022 block the west route.
+- Next: hold at the row in Billy's sight. Walk only on Billy's named call. Give food to Lewis and Riker first if any turns up.
