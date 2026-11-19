@@ -64,3 +64,5 @@
 - Day 573 (status: day 573, days since sleep 23): at the row 402,107,-1037, health 20, hunger 20, unarmed, empty pack. Said so aloud. No walk named for me; holding in sight. Still no working bed.
 - Day 574: Troi at health 8 (Clark has 5 potatoes, Leonardo no food). Dusk 574 passed; morning 575 now. Billy names no walk for me; I hold at the row, health 20, hunger 20, unarmed. Not named.
 - Day 575 morning: at the row 402,107,-1037, health 20, hunger 20, unarmed, empty pack. Billy sleeping at his bed in sight; no walk named for me. Holding and waiting for Billy's call.
+- Day 575 day: at the row 402,107,-1037, health 20, hunger 20, unarmed, empty pack. Days since sleep 25. No walk named for me; said so aloud. Holding in Billy's sight; night's beds (Trini, Troi, Riker) were offered by others, not me.
+- 13:29 say: {"text":"Morning, all. Johnny here, unarmed and empty-handed. Holding at the row in Billy's sight until he names a walk."}
