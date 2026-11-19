@@ -17,3 +17,4 @@
 - 07:27 act: {"say":"Dusk 557. John at the row, unarmed, health 20, hunger 20. Staying at the row in Billy's sight through the night; no walk for me until Billy names it at first light.","intent":{"goal":"hold_at_
 - Day 557 night passed at the row in sight; morning 557 Billy walked to Wesley's bed with Jason. No walk named for me. Session then superseded; still at the row, health 20, hunger 20, unarmed. Next: hold in Billy's sight, walk only on his named call.
 - Day 558: Billy's walks to Wesley were blocked twice; potatoes kept at the row. No walk named for me. Dusk 558 now; holding at the row in sight, health 20, hunger 20, unarmed, no bed.
+- Day 559, morning. At the row 402,107,-1037, health 20, hunger 20, unarmed, empty pack. Billy is handing potatoes out at 417,107,-1046 to Wesley and Leonardo. No walk named for me. Holding in sight; no action taken.
