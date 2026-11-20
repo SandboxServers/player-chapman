@@ -51,3 +51,4 @@
 - Day 655 day: waited at bed 429,107,-1037 in Billy's row. Health 20, hunger 20, empty pack. Heard Picard, Worf, Leonardo, Data, Kimberly, MacDonald all holding; no walk named. Still holding.
 - 16:17 act: {"say":"Dusk, row. John at my bed 429,107,-1037 in Billy's sight, health 20, hunger 20. No walk named. Holding for night.","intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{},"wake_
 - 16:21 act: {"say":"Morning, row. John at my bed 429,107,-1037, health 20, hunger 20. Nothing to give, Troi and Tommy. Holding for Billy's named call."}
+- 16:34 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night, row. John at my bed 429,107,-1037 in Billy's sight, health 20, hunger 20. No walk named. Sleeping."}
