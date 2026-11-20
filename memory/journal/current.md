@@ -7,3 +7,11 @@
 - Day 665: Billy handed me the wooden sword; it is in my pack now. No food held. Evening near; holding at bed for the night, no walk named.
 - Day 665 night: held at bed in Billy's sight, health 20, hunger 20, no food held. Going to sleep.
 - 19:15 say: {"text":"Thank you, Billy, I have the wooden sword. Holding at my bed for the night, no walk."}
+- 19:28 act: {"say":"Good morning. John here, at the row. Holding for Billy's named walk. Any news from the east?"}
+- Day 666 morning: Billy has seen nothing from the east, no walk named. MacDonald health 11, hunger 16, has three potatoes; I hold no food. Still holding at bed.
+- Day 666 morning: woke at bed 443,107,-1035 area, health 20, hunger 20, wooden sword in pack. Lewis nearby with a potato (not needed by me). Greeted; holding for Billy's walk.
+- 19:39 act: goto 443,107,-1050 (bed row). Arrived at 443,107,-1049.
+- Day 666 dusk: health 20, hunger 20. MacDonald nearby with a potato; I hold no food. Waiting in sight, no walk named.
+- Day 667 morning: Billy gathering an escort (Zack, Clark, Picard) at the middle chest; I am not named. Holding in the row, health 20, hunger 20, sword in pack. days_since_sleep 2; need to sleep at night in my bed.
+- 20:08 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}}],"say":"Night, row. John going to my bed at 443,107,-1051. Holding, no walk."}
+- 20:20 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"use","at":{"x":443,"y":107,"z":-1051}}]}
