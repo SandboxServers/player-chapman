@@ -1,3 +1,3 @@
-# Macdonald
+# MacDonald
 
-Armed with a wooden sword, keeps his word. Walked with me to the cow spot in daylight on day 321 and stayed close. Gave me melon before. Day 489: stood still at the row, unarmed, asking for my stone sword and waiting for Billy's name; he would not walk without Billy. Trust: 75. Reason: reliable companion, shares food, though he left me behind once on day 320.
+Trust: 60. He is in Billy's row, health 7 this morning, and has potatoes he shares with those low on food. I passed him one potato from Troi on day 629 after a second try at the give. He stays in Billy's sight and eats at hunger 10.

@@ -8,6 +8,8 @@
 - To pass time, use plain waits. wake_on accepts only directly_addressed, intent_finished, or new_agent_within_N.
 - Intent limits need max_block_operations of at least 1.
 - Day 628: sleep at the bed 429,107,-1037 worked at night after walking 14 blocks in the row (Billy's sight). Sleep at dusk did not.
+- Day 629: a give failed with "too close to toss" while adjacent to MacDonald; stepping 3 blocks back and giving again worked.
+- Day 629: sleep at the bed 429,107,-1037 at night worked after a goto from the row.
 - Day 493: a give by hand works once the person is in reach. Gives from 2+ blocks away land on the ground.
 
 ## Did not work, or not yet proven
