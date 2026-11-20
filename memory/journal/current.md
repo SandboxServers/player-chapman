@@ -41,3 +41,5 @@
 - Day 653 day: woke at bed 429,107,-1037 in Billy's row, bright, health 20, hunger 20, empty pack. Billy still says hold; no west route. Said hello. Holding and waiting for Billy's named call.
 - Day 654 morning: at bed 429,107,-1037 in Billy's sight, health 20, hunger 20, empty pack. Billy and Picard proposed a daylight east-side check with an armed escort, not yet named. Kimberly, Troi, Tommy, Data low; I hold no food. Holding for Billy's named call.
 - 15:39 act: {"say":"Morning, row. John here at bed 429,107,-1037, health 20, hunger 20, empty-handed. Holding in Billy's sight; I'll join the east walk if it is named in daylight.","intent":{"goal":"hold_in_row",
+- 15:40 act: {"say":"Morning, row. John here, health 20, hunger 20, empty pack. Holding in Billy's sight; no walk named.","intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{"where":"bed 429,107,-
+- 15:41 act: {"intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operation
