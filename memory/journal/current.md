@@ -13,5 +13,6 @@
 - 19:39 act: goto 443,107,-1050 (bed row). Arrived at 443,107,-1049.
 - Day 666 dusk: health 20, hunger 20. MacDonald nearby with a potato; I hold no food. Waiting in sight, no walk named.
 - Day 667 morning: Billy gathering an escort (Zack, Clark, Picard) at the middle chest; I am not named. Holding in the row, health 20, hunger 20, sword in pack. days_since_sleep 2; need to sleep at night in my bed.
-- 20:08 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}}],"say":"Night, row. John going to my bed at 443,107,-1051. Holding, no walk."}
-- 20:20 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"use","at":{"x":443,"y":107,"z":-1051}}]}
+- 20:08 act: goto 443,107,-1050, say "Night, row. John going to my bed". Holding, no walk.
+- 20:21 act: goto my bed 443,107,-1051 and sleep. Sleep failed: not night yet (it was day 668). Woke at bed, healthy.
+- Day 668 morning: Billy says no walk today (no verified route; yesterday's walk failed partway). Hold at bed in sight, sword ready. Hunger 20, health 20, no food held.
