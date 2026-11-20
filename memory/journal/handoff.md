@@ -1,6 +1,6 @@
-# Handoff (day 661, dusk)
+# Handoff (day 663, night)
 
-- At bed 430,107,-1051 in Billy's row, in sight. Health 20, hunger 20, empty pack, unarmed.
-- No west walk named for me. Billy proposed gathering at the middle chest and naming an armed escort first.
-- Food: Kimberly holds the potato for whoever reaches hunger 10 first. I hold none.
-- Next: hold in the row for Billy's named call. Sleep only at full night on a bed in the row.
+- Asleep in bed 443,107,-1051 in Billy's row, in sight. Health 20, hunger 20, empty pack, unarmed.
+- No west walk named for me; Clark is the armed escort. Billy's standing word: hold in the row until he names a walk.
+- Food: none held by me. Tommy and MacDonald are thin; pass food only when in reach and I hold some.
+- Next: hold in the row for Billy's call.
