@@ -16,3 +16,5 @@
 - 09:19 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"use","at":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk, row. John trying the other bed, 429,107,-1037, in Billy's sigh
 - 09:33 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night, row. John going to bed 429,107,-1037 in Billy's sight. No walk.","reasoning":"Night has come per the row's 
 - 09:46 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night, row. John sleeping at bed 429,107,-1037 in Billy's sight. No walk.","reasoning":"Night has come. One sleep 
+- 09:55 act: {"actions":[],"say":"John here, holding at 429,107,-1021, health 20, hunger 20, empty-handed. No food to give, so I hold. Billy, I will go when you name a walk."}
+- 10:01 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night, row. John going to bed 429,107,-1023 in Billy's sight. No walk, holding."}

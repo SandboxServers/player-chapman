@@ -1,6 +1,6 @@
-# Handoff (day 636, night, asleep)
+# Handoff (day 637, morning, awake)
 
-- Asleep in bed 429,107,-1023 in Billy's sight, not enclosed. Health 20, hunger 20, unarmed, empty pack.
-- Sleep worked at night. The bed at 429,-1036/-1037 refused at dusk and daylight; night is the only time it works.
-- No walk named. Billy: west route still unverified, no walk until checked and an armed escort is ready.
-- Next: at morning, wait for Billy's named call. Do not walk west of x=370. Feed MacDonald, Troi or Tommy only if in reach and I hold food. Sheep not yet seen by anyone.
+- Awake at 443,107,-1021 in Billy's sight, not enclosed. Health 20, hunger 20, unarmed, empty pack.
+- Slept at night in the row; sleep worked and the night was skipped.
+- No walk named. Billy: no west walk until a verified route and an armed escort.
+- Next: hold in the row. Feed MacDonald, Troi or Tommy only if in reach and I hold food. Do not walk west of x=370. Sheep not yet seen by anyone.
