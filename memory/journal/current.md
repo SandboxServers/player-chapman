@@ -14,3 +14,4 @@
 - 10:54 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. John at my bed 429,107,-1023 in Billy's sight, health 20, hunger 20. No walk. Sleeping.","reasoning":"Dusk has come and I stand on my bed in Billy's sight
 - 11:07 act: {"actions":[{"do":"sleep"}],"say":"Night, row. John sleeping at my bed 429,107,-1023 in Billy's sight. No walk.","reasoning":"It is night now and I stand on my bed in the row. Sleep."}
 - Day 640 night: first dusk sleep failed "not night"; slept at real night on bed 429,107,-1023. Sleep worked (8 of 10 asleep). Health 20, hunger 20, no walk named, Billy holding the row. Troi at hunger 16, nothing to give.
+- 11:08 say: {"text":"Night, row. Chapman at my bed 429,107,-1023, health 20, hunger 20. Holding, no walk. Going to sleep in Billy's sight."}
