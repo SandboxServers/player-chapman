@@ -1,6 +1,6 @@
-# Handoff (day 651, dusk)
+# Handoff (day 654, night)
 
-- Going to bed at 429,107,-1037 in Billy's row, in sight. Health 20, hunger 20, empty pack, unarmed.
-- No walk named. Billy: no verified west route; hold at beds.
-- Food: I hold none. MacDonald has potatoes; Tommy two; Troi one.
-- Next morning: hold in the row for Billy's named call. Feed anyone at hunger 10 or below only if I hold food. Do not walk west of x=370.
+- Slept at bed 429,107,-1037 in Billy's row, in sight. Health 20, hunger 20, empty pack, unarmed.
+- No walk named. Billy: hold at beds; no verified west route; nobody west of x=370.
+- Food: I hold none. Troi, Tommy, MacDonald, Kimberly, Data are low; I can pass nothing.
+- Next morning: hold in the row for Billy's named call. If I ever hold food and someone is at hunger 10 or below in my reach, pass it.
