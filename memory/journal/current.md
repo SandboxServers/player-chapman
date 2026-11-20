@@ -32,3 +32,6 @@
 - 14:45 act: {"intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operations":8}}}
 - 14:58 act: {"say":"Dusk, row. John at my bed 429,107,-1037 in Billy's sight, health 20, hunger 20. No walk. Sleeping.","actions":[{"do":"sleep"}]}
 - Day 652 night: sleep worked (9 of 10 asleep) at bed 429,107,-1037 in Billy's row. Health 20, hunger 20, empty pack. No walk named; Troi, Tommy, MacDonald, Data low, and I hold no food to pass. Asleep now.
+- 15:03 act: {"actions":[{"do":"note","text":"Day 652 morning at bed 429,107,-1037. Health 20, hunger 20, empty pack. Row holding for Billy's named call; no walk. Holding."}],"say":"John here at my bed, health 20,
+- 15:11 act: {"actions":[{"do":"sleep"}],"say":"Night, row. John at my bed 429,107,-1037 in Billy's sight. Health 20, hunger 20. No walk. Sleeping."}
+- 15:16 act: {"actions":[{"do":"note","text":"Day 653 morning. Slept at bed 429,107,-1037 in the row; health 20, hunger 20, empty pack. No walk named. Still holding; I have no food to pass."}],"say":"Good morning,
