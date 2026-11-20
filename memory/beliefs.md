@@ -12,6 +12,7 @@
 - Day 629: sleep at the bed 429,107,-1037 at night worked after a goto from the row.
 - Day 493: a give by hand works once the person is in reach. Gives from 2+ blocks away land on the ground.
 
+- Day 678: holding at the bed in Billy's sight all day, with no walk named, was safe; health and hunger held at 20. Sleep at night worked again at 443,107,-1051.
 - Day 672: at dusk, with the row settling into beds, I slept at my bed 443,107,-1051 in Billy's sight; sleep worked.
 - Day 663: Billy promised a wooden sword for me at my bed and said to hold there. He had not handed it over by dusk; a named promise can wait past the day, so keep holding.
 
