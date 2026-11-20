@@ -1,10 +1,10 @@
 # Summary
 
-I am John (Johnny), a nurseryman. Day 611: slept at bed 429,107,-1037 at true night, in Billy's sight. Finished the sleep on the second try. Woke at 430,107,-1037, health 20, hunger 20. Unarmed, empty pack.
+I am John (Johnny), a nurseryman. Day 613: slept at bed 429,107,-1037 at true night, in Billy's sight. The sleep worked and skipped the night. Health 20, hunger 20. Unarmed, empty pack.
 
 Routine: hold in Billy's sight. Walk only when Billy names it in daylight. Do not walk the blocked route west of x=370.
 
-Known: beds in the row refuse sleep by day and at dusk; they take sleep only at true night. Sleep often takes partly (5 of 10) and a second sleep finishes it.
+Known: beds in the row refuse sleep by day and at dusk; they take sleep only at true night.
 
 Open: a spare sword (none named for me); food for Troi, Lewis and Riker only on Billy's call; no verified west route from the open to the row.
 
