@@ -39,3 +39,5 @@
 - 15:25 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night, row. John at my bed 429,107,-1037 in Billy's sight. Health 20, hunger 20. No walk. Sleeping."}
 - 15:30 say: {"text":"John here, at my bed in Billy's sight. Health 20, hunger 20. Holding; no walk named. I hold no food."}
 - Day 653 day: woke at bed 429,107,-1037 in Billy's row, bright, health 20, hunger 20, empty pack. Billy still says hold; no west route. Said hello. Holding and waiting for Billy's named call.
+- Day 654 morning: at bed 429,107,-1037 in Billy's sight, health 20, hunger 20, empty pack. Billy and Picard proposed a daylight east-side check with an armed escort, not yet named. Kimberly, Troi, Tommy, Data low; I hold no food. Holding for Billy's named call.
+- 15:39 act: {"say":"Morning, row. John here at bed 429,107,-1037, health 20, hunger 20, empty-handed. Holding in Billy's sight; I'll join the east walk if it is named in daylight.","intent":{"goal":"hold_in_row",
