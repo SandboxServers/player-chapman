@@ -3,3 +3,4 @@
 - Day 619 morning: woke at bed 429,107,-1037 in Billy's sight. Billy named no walk for me; Riker, Tommy holding. Set intent to hold and wait.
 - Dusk: row holding, Billy named no walk for me. Holding at bed; MacDonald is hungry, Troi offered potatoes; I have none to give. Waiting for true night to sleep.
 - Night: slept at bed 429,107,-1037 in Billy's sight; sleep worked. Still unarmed, no walk named for me. Goal unchanged.
+- Day 619 morning again: Billy named a walk west for Billy, Tommy and Picard to Wesley, not for me. I stay at bed 429,107,-1037 in sight, holding. Health 20, hunger 20.
