@@ -16,3 +16,9 @@
 - 20:08 act: goto 443,107,-1050, say "Night, row. John going to my bed". Holding, no walk.
 - 20:21 act: goto my bed 443,107,-1051 and sleep. Sleep failed: not night yet (it was day 668). Woke at bed, healthy.
 - Day 668 morning: Billy says no walk today (no verified route; yesterday's walk failed partway). Hold at bed in sight, sword ready. Hunger 20, health 20, no food held.
+- 20:34 act: {"say":"Morning. John here. Health 20, hunger 20, I hold a wooden sword and no food. MacDonald, how are you?"}
+- Day 669 morning: MacDonald health 11, hunger 16, holding a potato in reach. I hold no food, so I cannot pass any. Holding at bed in sight, no walk named.
+- 20:47 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Night, row. John going to my bed 443,107,-1051, in Billy's sight. No walk."}
+- 20:47 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}}]}
+- Day 669: sleep failed in daylight (not night). Back at bed 443,107,-1051, holding in Billy's sight until dusk. Troi holds a potato for hunger 10.
+- 20:59 act: {"actions":[{"do":"sleep"}],"say":"Night, row. John in my bed, in Billy's sight. No walk."}
