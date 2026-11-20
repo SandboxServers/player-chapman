@@ -22,3 +22,5 @@
 - 20:47 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}}]}
 - Day 669: sleep failed in daylight (not night). Back at bed 443,107,-1051, holding in Billy's sight until dusk. Troi holds a potato for hunger 10.
 - 20:59 act: {"actions":[{"do":"sleep"}],"say":"Night, row. John in my bed, in Billy's sight. No walk."}
+- 21:02 act: {"say":"Morning, row. John at my bed 443,107,-1051, health 20, hunger 20, sword in pack, no food. Holding for Billy's named walk.","intent":{"goal":"hold_at_bed_for_billy","program":"rest","arguments"
+- Day 670 morning: woke at bed 443,107,-1051, health 20, hunger 20, wooden sword in pack, no food. Greeted row, holding at bed for Billy's named walk.
