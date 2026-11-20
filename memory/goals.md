@@ -1,8 +1,8 @@
 # Goals
 
-1. Stay alive: sleep at night in a bed in Billy's row (443,107,-1051 or 429,107,-1036/-1037). Reason: it has worked on several nights.
-2. Hold in the row for Billy's named call. Reason: walks and spares come only on his word.
-3. Pass food to those in need (MacDonald, Troi, Tommy) only when they are in my reach and I hold any. Reason: I carry none now.
+1. Stay alive: sleep at night in my bed at 443,107,-1051 in Billy's row. Reason: it has worked on several nights.
+2. Hold in the row for Billy's named call, and take the wooden sword he promised when he brings it. Reason: walks and arms come only on his word.
+3. Pass food to those in need (MacDonald, Tommy, Troi) only when they are in my reach and I hold any. Reason: I carry none now.
 4. Do not walk west of x=370; the west route at z -1050 is blocked near x=413. Reason: blocked.
 5. Keep memory and journal current, and commit before rest. Reason: continuity.
 

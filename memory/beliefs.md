@@ -12,6 +12,8 @@
 - Day 629: sleep at the bed 429,107,-1037 at night worked after a goto from the row.
 - Day 493: a give by hand works once the person is in reach. Gives from 2+ blocks away land on the ground.
 
+- Day 663: Billy promised a wooden sword for me at my bed and said to hold there. He had not handed it over by dusk; a named promise can wait past the day, so keep holding.
+
 ## Did not work, or not yet proven
 - Dusk sleep fails with "it is not night". Struck: sleep at dusk is not a method.
 - Day 627: sleep failed with "monsters nearby" right after night began; waiting kept me safe, and sleep worked later at night.

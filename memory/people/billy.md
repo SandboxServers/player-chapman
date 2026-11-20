@@ -6,4 +6,6 @@ Day 489: he counted armed hands each morning and asked me to give my stone sword
 
 Day 493: still two armed in hand (Billy, Laforge). He kept the walk closed and said so each dusk and dawn.
 
-Trust: 75. Why: he keeps the group together and has been straight with me about when we walk.
+Day 663: he is making wooden swords for those unarmed (Beverly has one, Wesley is to get Clark's spare). He promised me one at my bed and said to hold until he brings it. It had not come by dusk.
+
+Trust: 78. Why: he keeps the group together, is straight about walks, and is now arming the unarmed one by one.
