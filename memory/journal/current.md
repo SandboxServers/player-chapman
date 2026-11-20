@@ -16,3 +16,7 @@
 - Day 604 dusk: walked to bed 429,107,-1037, but sleep refused ("not night" yet). Billy went to bed. Waiting in sight for true night, health 20, hunger 20.
 - 22:51 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk, row. John at my bed, in Billy's sight. Health 20, hunger 20. No walk. Goodnight."}
 - 23:03 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk, row. John at my bed 429,107,-1037, in Billy's sight. Health 20, hunger 20. No walk. Goodnight."}
+- 00:36 act: {"say":"Morning. John here, at the row by my bed, holding. Unarmed and empty-handed. Waiting for Billy's call.","intent":{"goal":"hold_in_billys_sight","program":"rest","arguments":{"note":"hold at th
+- 00:38 act: {"intent":{"goal":"hold_then_sleep_at_true_night","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks
+- 01:06 act: {"actions":[{"do":"sleep"}]}
+- 01:06 act: {"actions":[{"do":"sleep"}]}
