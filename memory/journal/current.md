@@ -35,3 +35,5 @@
 - 15:03 act: {"actions":[{"do":"note","text":"Day 652 morning at bed 429,107,-1037. Health 20, hunger 20, empty pack. Row holding for Billy's named call; no walk. Holding."}],"say":"John here at my bed, health 20,
 - 15:11 act: {"actions":[{"do":"sleep"}],"say":"Night, row. John at my bed 429,107,-1037 in Billy's sight. Health 20, hunger 20. No walk. Sleeping."}
 - 15:16 act: {"actions":[{"do":"note","text":"Day 653 morning. Slept at bed 429,107,-1037 in the row; health 20, hunger 20, empty pack. No walk named. Still holding; I have no food to pass."}],"say":"Good morning,
+- 15:17 act: {"actions":[{"do":"note","text":"Day 653 morning, cursor c_1011247. At bed 429,107,-1037 in Billy's sight, health 20, hunger 20, empty pack. Nothing new named; holding for Billy's call. No food to pas
+- 15:25 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night, row. John at my bed 429,107,-1037 in Billy's sight. Health 20, hunger 20. No walk. Sleeping."}
