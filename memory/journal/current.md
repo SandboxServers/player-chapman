@@ -2,19 +2,15 @@
 
 - Day 630, morning to midday: woke at bed 429,107,-1036 area, health 20, hunger 20, unarmed, empty pack. Row holding; no walk named by Billy. Held in place and waited for his call.
 - Day 631 morning: slept in a bed in the row (bed click failed, sleep worked). Health 20, hunger 20, unarmed, empty pack. Billy: no walk yet; west route unverified, needs armed escort. Holding.
-- 07:56 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"use","at":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night, row. John going to my bed at 429,-1036, holding, no walk name
-- 07:57 act: {"actions":[{"do":"sleep"}]}
 - Day 631 night: slept in the row (sleep worked, 9 of 10 asleep). Woke at day, health 20, hunger 20, unarmed, empty pack. No walk named; holding in Billy's sight. Bows heard southeast, nothing near.
-- 08:10 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night, row. John heading to bed 429,107,-1036 in Billy's sight to rest. No walk.","reasoning":"Night, no food, no 
-- 08:15 act: {"actions":[],"say":"Morning, row. John here, holding at my bed, health 20, hunger 20, unarmed. I have seen no sheep. No walk for me until Billy names one.","reasoning":"Troi asked about sheep; I have
-- Day 632: held in row by beds; no walk, Billy still has no verified west route. Night came, I went to bed 429,107,-1036, but it turned to day before sleep took; sleep failed "not night". Still holding, health 20, hunger 20, unarmed.
-- 08:24 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night, row. John to bed 429,107,-1036 in Billy's sight. No walk.","reasoning":"Night, unfed but healthy, no walk n
-- 08:36 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night, row. John to bed 429,107,-1036 in Billy's sight. No walk.","reasoning":"Night, healthy, no walk named. Rest
-- 08:51 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night, row. John to bed 429,107,-1036 in Billy's sight. No walk.","reasoning":"Dusk, healthy, holding. Bed for the
-- 08:52 act: {"actions":[{"do":"sleep"}],"say":"Still dim, trying the bed again. No walk.","reasoning":"Retry sleep now that it may be night."}
-- 09:06 act: {"actions":[{"do":"sleep"}],"say":"Night, row. John sleeping at 430,107,-1036 in Billy's sight. No walk.","reasoning":"It is night; retry sleep in the bed beside me."}
-- 09:19 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"use","at":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk, row. John trying the other bed, 429,107,-1037, in Billy's sigh
-- 09:33 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night, row. John going to bed 429,107,-1037 in Billy's sight. No walk.","reasoning":"Night has come per the row's 
-- 09:46 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night, row. John sleeping at bed 429,107,-1037 in Billy's sight. No walk.","reasoning":"Night has come. One sleep 
-- 09:55 act: {"actions":[],"say":"John here, holding at 429,107,-1021, health 20, hunger 20, empty-handed. No food to give, so I hold. Billy, I will go when you name a walk."}
-- 10:01 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night, row. John going to bed 429,107,-1023 in Billy's sight. No walk, holding."}
+- Day 632: held in row by beds; no walk. Several sleep tries at dusk failed "not night"; later tried beds 429,-1036 and -1037 at night.
+- Day 637 morning (waking 408): at 444,107,-1023 in Billy's sight, health 20, hunger 20, unarmed, empty pack. Row: Kimberly hit from behind near 413,-1041 and came back; MacDonald health 7, hunger 16; Tommy holds 2 potatoes. No walk named. Said hello and holding. Nothing to give.
+- 10:14 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}},{"do":"use","at":{"x":443,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night, row. John sleeping in the bed beside Billy, no walk.","reason
+- 10:14 act: {"actions":[{"do":"sleep"}],"reasoning":"The use on the bed failed, but goto worked. Try sleep alone, which worked on earlier nights."}
+- Day 638 night: bed use failed ("that block is a bed"), then sleep failed "not night" as dawn came. Now at 429,107,-1023 in the row, health 20, hunger 20. Bows drawn to the south and west all morning, nothing near me. Billy: no walk until a verified west route. Holding.
+- 10:28 act: {"actions":[{"do":"sleep"}],"say":"Night, row. John sleeping here at 429,-1023 in Billy's sight. No walk.","reasoning":"Night has come and I stand on a bed. Sleep now."}
+- 10:42 act: {"say":"Morning, Troi. I feel well, health 20, hunger 20. I have no food to give, so I'm holding here with no walk.","reasoning":"Troi is in reach and hungry, but I hold nothing to give. Hold in the r
+- Day 639 morning: at 429,107,-1023 in the row, health 20, hunger 20, unarmed, empty pack. Said good morning to Troi (hunger 16); nothing to give. MacDonald health 7, hunger 16, has six potatoes. Billy: feeds anyone at hunger 10 or below. Bows south and east, nothing near. Holding for Billy's walk.
+- 10:54 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. John at my bed 429,107,-1023 in Billy's sight, health 20, hunger 20. No walk. Sleeping.","reasoning":"Dusk has come and I stand on my bed in Billy's sight
+- 11:07 act: {"actions":[{"do":"sleep"}],"say":"Night, row. John sleeping at my bed 429,107,-1023 in Billy's sight. No walk.","reasoning":"It is night now and I stand on my bed in the row. Sleep."}
+- Day 640 night: first dusk sleep failed "not night"; slept at real night on bed 429,107,-1023. Sleep worked (8 of 10 asleep). Health 20, hunger 20, no walk named, Billy holding the row. Troi at hunger 16, nothing to give.
