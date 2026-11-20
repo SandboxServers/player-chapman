@@ -20,3 +20,6 @@
 - 00:38 act: {"intent":{"goal":"hold_then_sleep_at_true_night","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks
 - 01:06 act: {"actions":[{"do":"sleep"}]}
 - 01:06 act: {"actions":[{"do":"sleep"}]}
+- Day 611 day: at 430,107,-1037, health 20, hunger 20, unarmed. Billy named no walk for me; Jason walks to his bed in Billy's sight. Holding and waiting.
+- 01:19 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk, row. John at my bed 429,107,-1037, in Billy's sight. Health 20, hunger 20. No walk. Holding."}
+- 01:19 act: {"actions":[{"do":"sleep"}]}
