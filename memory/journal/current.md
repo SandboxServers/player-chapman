@@ -52,3 +52,6 @@
 - 16:17 act: {"say":"Dusk, row. John at my bed 429,107,-1037 in Billy's sight, health 20, hunger 20. No walk named. Holding for night.","intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{},"wake_
 - 16:21 act: {"say":"Morning, row. John at my bed 429,107,-1037, health 20, hunger 20. Nothing to give, Troi and Tommy. Holding for Billy's named call."}
 - 16:34 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night, row. John at my bed 429,107,-1037 in Billy's sight, health 20, hunger 20. No walk named. Sleeping."}
+- 16:37 act: {"say":"Morning, row. John here, health 20, hunger 20, empty pack. Holding in sight; no walk named.","intent":{"goal":"hold_in_row","program":"rest","arguments":{},"wake_on":["directly_addressed","pre
+- 16:45 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}}],"say":"Dusk, row. John moving to the bed at 429,107,-1051 in Billy's sight. Health 20, hunger 20. No walk named.","intent":{"goal":"rest
+- 16:49 act: {"say":"Morning, row. John at bed 429,107,-1051, health 20, hunger 20. MacDonald, I hold no food, sorry. Holding in sight; no walk named.","intent":{"goal":"hold_in_row","program":"rest","arguments":{
