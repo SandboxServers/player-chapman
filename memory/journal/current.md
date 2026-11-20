@@ -24,3 +24,4 @@
 - 13:48 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Johnny at my bed in Billy's sight. Staying put, no walk. Bows to the southwest, I am not moving.","reasoning":"Nig
 - 14:18 act: {"say":"Morning, row. John at my bed, health 20, hunger 20. Holding for Billy's named call.","reasoning":"Morning in the row, no walk named. Hold at bed per goal 2."}
 - Day 650 morning: at bed 429,107,-1037 in Billy's sight, health 20, hunger 20, empty pack. Row holding; Billy still wants a verified west route and an armed escort first. Nobody at hunger 10 or below. Holding.
+- 14:44 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"use","at":{"x":429,"y":107,"z":-1037}}],"say":"Night, row. Johnny in my bed, health 20, hunger 20. Holding in Billy's sight; no wa
