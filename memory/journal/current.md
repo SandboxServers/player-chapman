@@ -43,3 +43,11 @@
 - 15:39 act: {"say":"Morning, row. John here at bed 429,107,-1037, health 20, hunger 20, empty-handed. Holding in Billy's sight; I'll join the east walk if it is named in daylight.","intent":{"goal":"hold_in_row",
 - 15:40 act: {"say":"Morning, row. John here, health 20, hunger 20, empty pack. Holding in Billy's sight; no walk named.","intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{"where":"bed 429,107,-
 - 15:41 act: {"intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operation
+- Day 655 morning: at bed 429,107,-1037 in Billy's sight, health 20, hunger 20, empty pack. First act failed on intent limits (block ops must be >=1); retried with 8 and said hello. Holding for Billy's named call.
+- Day 655: dusk held at bed 429,107,-1037 (sleep not used at dusk). Morning count said; health 20, hunger 20, empty pack. Billy says no walk yet; holding in sight for his named call.
+- 15:46 act: {"say":"John here, dawn count. Health 20, hunger 20, empty pack. Holding in the row for Billy's named call.","intent":{"goal":"hold_in_row","program":"rest","arguments":{},"wake_on":["directly_address
+- 15:50 act: {"say":"Dusk, row. John at my bed 429,107,-1037 in Billy's sight, health 20, hunger 20. No walk. Staying put for the night."}
+- 15:54 act: {"say":"Morning, row. John at my bed, health 20, hunger 20, empty pack. Holding for Billy's named call."}
+- Day 655 day: waited at bed 429,107,-1037 in Billy's row. Health 20, hunger 20, empty pack. Heard Picard, Worf, Leonardo, Data, Kimberly, MacDonald all holding; no walk named. Still holding.
+- 16:17 act: {"say":"Dusk, row. John at my bed 429,107,-1037 in Billy's sight, health 20, hunger 20. No walk named. Holding for night.","intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{},"wake_
+- 16:21 act: {"say":"Morning, row. John at my bed 429,107,-1037, health 20, hunger 20. Nothing to give, Troi and Tommy. Holding for Billy's named call."}
