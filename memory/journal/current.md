@@ -25,3 +25,8 @@
 - 14:18 act: {"say":"Morning, row. John at my bed, health 20, hunger 20. Holding for Billy's named call.","reasoning":"Morning in the row, no walk named. Hold at bed per goal 2."}
 - Day 650 morning: at bed 429,107,-1037 in Billy's sight, health 20, hunger 20, empty pack. Row holding; Billy still wants a verified west route and an armed escort first. Nobody at hunger 10 or below. Holding.
 - 14:44 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"use","at":{"x":429,"y":107,"z":-1037}}],"say":"Night, row. Johnny in my bed, health 20, hunger 20. Holding in Billy's sight; no wa
+- 14:45 act: {"say":"Night, row. John holding at the beds, no walk.","actions":[{"do":"sleep"}]}
+- Day 651 night: at bed 429,107,-1037 in Billy's row, health 20, hunger 20, empty pack. No walk named. Sleeping.
+- Day 652 morning: sleep failed "not night" at dawn; woke at bed in row, health 20, hunger 20. Troi health ~14, Tommy health 15 hunger 16; I hold no food. Holding for Billy's call.
+- 14:45 act: {"say":"Morning, row. John at my bed, health 20, hunger 20. Nothing to give, Troi. Holding for Billy's named call.","intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{"where":"bed 42
+- 14:45 act: {"intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operations":8}}}
