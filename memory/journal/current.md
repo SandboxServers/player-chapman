@@ -10,3 +10,8 @@
 - Day 632: held in row by beds; no walk, Billy still has no verified west route. Night came, I went to bed 429,107,-1036, but it turned to day before sleep took; sleep failed "not night". Still holding, health 20, hunger 20, unarmed.
 - 08:24 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night, row. John to bed 429,107,-1036 in Billy's sight. No walk.","reasoning":"Night, unfed but healthy, no walk n
 - 08:36 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night, row. John to bed 429,107,-1036 in Billy's sight. No walk.","reasoning":"Night, healthy, no walk named. Rest
+- 08:51 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night, row. John to bed 429,107,-1036 in Billy's sight. No walk.","reasoning":"Dusk, healthy, holding. Bed for the
+- 08:52 act: {"actions":[{"do":"sleep"}],"say":"Still dim, trying the bed again. No walk.","reasoning":"Retry sleep now that it may be night."}
+- 09:06 act: {"actions":[{"do":"sleep"}],"say":"Night, row. John sleeping at 430,107,-1036 in Billy's sight. No walk.","reasoning":"It is night; retry sleep in the bed beside me."}
+- 09:19 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"use","at":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk, row. John trying the other bed, 429,107,-1037, in Billy's sigh
+- 09:33 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night, row. John going to bed 429,107,-1037 in Billy's sight. No walk.","reasoning":"Night has come per the row's 
