@@ -1,6 +1,6 @@
-# Handoff (day 646, night)
+# Handoff (day 650, morning after sleep)
 
-- At bed 429,107,-1037 area in Billy's row, in sight. Health 20, hunger 20, unarmed, empty pack.
-- No walk named. Billy: "still no walk named, no verified west route, hold at your beds."
-- Food in row: MacDonald (health 7) holds potatoes; Tommy (health 15) holds two; Troi holds one. I hold none.
-- Next: on waking, hold in the row for Billy's named call. Feed MacDonald, Troi or Tommy only if in reach and I hold food. Do not walk west of x=370.
+- At my bed 429,107,-1037 in Billy's row, in sight. Health 20, hunger 20, unarmed, empty pack. Slept the night of day 650 safely.
+- No walk named. Billy: no verified west route; nobody goes west of x=370. Hold at beds.
+- Food: MacDonald has potatoes (ate one). Tommy holds two, Troi one. I hold none.
+- Next: hold in the row for Billy's named call. Feed anyone at hunger 10 or below only if I hold food. Do not walk west of x=370.
