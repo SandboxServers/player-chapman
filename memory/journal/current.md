@@ -17,3 +17,4 @@
 - 11:08 say: {"text":"Night, row. Chapman at my bed 429,107,-1023, health 20, hunger 20. Holding, no walk. Going to sleep in Billy's sight."}
 - 11:09 act: {"say":"Morning, row. John at my bed, health 20, hunger 20, unarmed. Holding in Billy's sight. No walk until Billy calls.","intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{"where":
 - 11:21 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1023}},{"do":"sleep"}]}
+- 11:34 act: {"actions":[{"do":"sleep"}]}
