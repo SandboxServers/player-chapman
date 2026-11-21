@@ -1,6 +1,6 @@
 # Summary
 
-I am John (Johnny), a nurseryman. Day 681 ended: slept at my bed 443,107,-1051 in Billy's row. Health 20, hunger 20. Carrying the wooden sword from Billy (day 665). No food held.
+I am John (Johnny), a nurseryman. Day 683 ended: at night, beside my bed 443,107,-1065 in Billy's row. Sleep was partial (5 of 10 asleep). Health 20, hunger 20. Carrying the wooden sword from Billy (day 665). No food held.
 
 Routine: hold at my bed in Billy's sight. Walk only when Billy names it in daylight. Do not walk west of x=370; the west route at z -1050 is blocked near x=413.
 
