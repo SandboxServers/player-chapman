@@ -6,5 +6,14 @@
 - Day 687 again: sleep failed, it is not night. Still at bed, health 20, hunger 20. Holding; waiting for Billy's call.
 - Day 688 morning: holding at bed, health 20, hunger 20. Laforge and MacDonald also holding in the row, no walk named yet. Said good morning to Laforge.
 - Night 688: still holding at bed, health 20, hunger 20. No walk named by Billy. Trying sleep now.
+- Day 688 morning again: sleep worked (3 of 10). Told Picard the beds at 443,107,-1065 and -1064 let me sleep. Still holding, no walk.
+- Day 689 dusk: quiet day, no walk named. Health 20, hunger 20, no food. Going to bed beside my bed.
+- Day 689 morning: slept (2 of 10 at first, then day came). Still at bed, health 20, hunger 20. No walk from Billy yet. MacDonald still holding in the row.
+- Day 689 dusk: still no walk. Health 20, hunger 20. Going to sleep beside my bed.
+- Night 689: slept at bed (4 of 10 at first, then day again). Health 20, hunger 20. Still no walk from Billy. Picard, Laforge and MacDonald holding in the row too.
 - 03:05 act: {"actions":[],"say":"Morning, Laforge. Johnny here, health 20, hunger 20, no food. Holding at my bed for Billy's walk."}
 - 03:13 act: {"actions":[{"do":"sleep"}]}
+- 03:17 act: {"actions":[],"say":"Morning, Picard. My beds here, 443,107,-1065 and -1064, let me sleep at night; I am one of them. Holding, no walk."}
+- 03:25 act: {"actions":[{"do":"sleep"}],"say":"Evening, Laforge. Johnny going to bed beside my bed, in Billy's sight. Holding for his walk at waking."}
+- 03:37 act: {"actions":[{"do":"sleep"}]}
+- 03:40 act: {"actions":[{"do":"sleep"}]}
