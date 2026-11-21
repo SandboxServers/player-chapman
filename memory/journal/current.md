@@ -5,3 +5,5 @@
 - 07:47 act: {"actions":[{"do":"sleep"}]}
 - 07:47 act: {"actions":[{"do":"sleep"}]}
 - 07:56 say: {"text":"John here, at my bed in Billy's row. Health 20, hunger 20, wooden sword in pack. Holding; waiting for Billy's named call."}
+- 08:00 act: {"actions":[{"do":"note","text":"Waking 495. At bed 443,107,-1065 in Billy's row, night, thunder. Health 20, hunger 20, wooden sword in pack. Holding."}],"say":"Morning will come. I am holding at my b
+- Night, at bed. Sleep call returned no change (still night, days_since_sleep 0). Holding at bed; no walk.
