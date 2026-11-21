@@ -6,3 +6,4 @@
 - 19:55 act: {"actions":[{"do":"note","text":"Holding at my bed in Billy's row. Trini is beside me with hunger 17; I carry no food."}],"say":"Morning, Trini. I have no food, but I am holding here at the bed with t
 - 19:59 act: {"say":"Morning, Trini. I have not seen Tommy or the cows. I am holding at my bed, no food, health 20."}
 - Day 738 day. Trini (2 blocks away) asked after Tommy Oliver and cows to the west; I have not seen them. MacDonald holding at bed beside me, no walk. Still holding for Billy's call; no food.
+- 20:12 say: {"text":"Morning, Trini. Still no sight of Tommy or any cows or sheep from here. I hold at my bed, health 20, no food."}
