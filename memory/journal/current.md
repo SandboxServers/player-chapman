@@ -1,2 +1,1 @@
-# Journal
-- 10:26 say: {"text":"John here, awake at my bed 443,107,-1065 in Billy's row. Health 20, hunger 20, sword in pack, no food. Holding for Billy's named call."}
+Day 711. Woke at bed 443,107,-1065. Health 20, hunger 20, wooden sword in pack, no food. Laforge is in the row, holds no food, holding still for Billy. I said good morning and held at bed. No named call from Billy yet. Dusk now; going to sleep at my bed.
