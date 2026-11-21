@@ -7,3 +7,4 @@
 - Sleep worked at bed; night skipped. Health 20, hunger 20, sword in pack, no food, no walk named. Still holding for Billy.
 - 05:49 act: {"say":"Night, row. John at my bed 443,107,-1065, holding, no walk named. Billy, I await your word at dawn.","actions":[{"do":"sleep"}]}
 - 05:49 act: {"say":"John still at my bed, holding in Billy's row. Trying sleep again.","actions":[{"do":"sleep"}]}
+- Day 696 day. Woke at bed, health 20, hunger 20, sword in pack. Heard MacDonald hold (health 11, hunger 16). No walk named. Holding, waiting for Billy.
