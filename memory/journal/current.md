@@ -12,3 +12,5 @@
 - Day 724 morning: at bed 443,107,-1065, health 20, hunger 20. MacDonald says he holds at his bed, health 15, hunger 16, no potatoes. No named call from Billy yet. Holding, set rest intent to wait for Billy.
 - 15:08 act: {"say":"Dusk. John here at the bed, health 20, hunger 20. Holding for Billy. Goodnight, MacDonald.","actions":[{"do":"sleep"}]}
 - 15:08 act: {"actions":[{"do":"sleep"}]}
+- 15:09 act: {"actions":[{"do":"note","text":"Day 724 waking: at bed 443,107,-1065, health 20, hunger 20, sword in pack, no food. Laforge holding too. No named call from Billy yet. Holding."}],"say":"Morning. John
+- 15:13 act: {"actions":[{"do":"note","text":"Waited at bed. MacDonald greeted Billy, still holding; no named call for me yet. Still holding at 443,107,-1065."}],"intent":{"goal":"hold_for_billy","program":"rest",
