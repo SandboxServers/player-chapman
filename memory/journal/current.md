@@ -4,3 +4,4 @@
 - 07:43 act: {"actions":[],"say":"Morning. John holding at bed, health 20, hunger 20. Still waiting on Billy's call. No walk."}
 - 07:47 act: {"actions":[{"do":"sleep"}]}
 - 07:47 act: {"actions":[{"do":"sleep"}]}
+- 07:56 say: {"text":"John here, at my bed in Billy's row. Health 20, hunger 20, wooden sword in pack. Holding; waiting for Billy's named call."}
