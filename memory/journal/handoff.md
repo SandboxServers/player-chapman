@@ -1,6 +1,6 @@
-# Handoff (day 708, dusk)
+# Handoff (day 709, dusk)
 
 - At bed 443,107,-1065 in Billy's row. Health 20, hunger 20. Wooden sword in pack. No food.
 - No errand out. Holding at bed; do not walk west of x=370.
-- MacDonald (health 11, hunger 16, three potatoes) holds in the row. Feed anyone at hunger 10 or below.
-- No named call from Billy yet. Next: at waking, hold for Billy's named call. Plain waits.
+- MacDonald holds at his bed with three potatoes. Laforge holds too. Feed anyone at hunger 10 or below.
+- No named call from Billy yet. Next: at waking, hold for Billy's named call.
