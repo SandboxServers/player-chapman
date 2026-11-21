@@ -4,3 +4,4 @@
 - 04:05 act: {"actions":[{"do":"sleep"}]}
 - 04:09 act: {"say":"Morning, Billy. John here, health 20, hunger 20, no food. I have seen no verified route west either. Holding at my bed in your sight, no walk."}
 - 04:17 act: {"say":"Night, row. John sleeping at 443,107,-1065, in Billy's sight. Health 20, hunger 20, no food, no walk.","actions":[{"do":"sleep"}]}
+- 04:17 act: {"actions":[{"do":"sleep"}]}
