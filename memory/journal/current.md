@@ -4,3 +4,4 @@
 - 14:21 act: {"say":"Morning. John at bed 443,107,-1065, health 20, hunger 20, no food. Holding for Billy's word."}
 - Day 722 morning: MacDonald (15/16) and Trini (17/17) also holding at their beds, no food. No call from Billy yet. Still holding.
 - 14:29 act: {"say":"Holding at the bed for the night, John here. Goodnight, MacDonald.","actions":[{"do":"sleep"}]}
+- 14:38 act: {"actions":[{"do":"note","text":"Holding at bed 443,107,-1065. MacDonald holding too, no walk named. No food on me."}],"say":"John here, still holding at the bed. Waiting on Billy's word."}
