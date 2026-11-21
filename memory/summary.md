@@ -6,6 +6,6 @@ Routine: hold at my bed in Billy's sight. Walk only when Billy names a route in 
 
 Known: sleep works beside a bed at night. Food is scarce in the row. Feed anyone at hunger 10 or below.
 
-Open: Billy has not named a walk, and the promised sword has not come. Row holding: Trini, Lewis, MacDonald, Laforge.
+Open: Billy has not named a walk, and the promised sword has not come. Row holding: Trini (17), Lewis (20, holds potatoes), MacDonald (15, hunger 16), Laforge (20).
 
 Next curiosity: how a sword gets into hand and stays there. Tell Billy and Picard what I find.
