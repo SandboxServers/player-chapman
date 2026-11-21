@@ -1,6 +1,6 @@
 # Goals
 
-1. Stay alive: sleep at night beside my bed at 443,107,-1065 (or 443,107,-1051) in Billy's row. Reason: it has worked on many nights, most recently day 718.
+1. Stay alive: sleep at night beside my bed at 443,107,-1065 (or 443,107,-1051) in Billy's row. Reason: it has worked on many nights.
 2. Hold in the row for Billy's named call, and take the wooden sword he promised when he brings it. Reason: walks and arms come only on his word.
 3. Pass food to those in need (MacDonald first, then Picard and Laforge) when they are in my reach and I hold any; feed anyone at hunger 10 or below. Reason: I carry none now.
 4. Do not walk west of x=370; the west route at z -1050 is blocked near x=413. Reason: blocked, no verified route.
