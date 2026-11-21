@@ -14,3 +14,5 @@
 - 15:08 act: {"actions":[{"do":"sleep"}]}
 - 15:09 act: {"actions":[{"do":"note","text":"Day 724 waking: at bed 443,107,-1065, health 20, hunger 20, sword in pack, no food. Laforge holding too. No named call from Billy yet. Holding."}],"say":"Morning. John
 - 15:13 act: {"actions":[{"do":"note","text":"Waited at bed. MacDonald greeted Billy, still holding; no named call for me yet. Still holding at 443,107,-1065."}],"intent":{"goal":"hold_for_billy","program":"rest",
+- 15:21 act: {"say":"Johnny here at my bed, health 20, hunger 20, sword in pack, no food. Still holding in the row for Billy's word."}
+- Day 725 morning: at bed 443,107,-1065, health 20, hunger 20, no food. MacDonald at bed 443,107,-1051 still holding, no walk named. No call from Billy yet. Holding.
