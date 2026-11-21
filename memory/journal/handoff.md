@@ -1,4 +1,4 @@
-# Handoff (day 723, night, sleeping)
+# Handoff (day 724, dusk, sleeping)
 
 - Sleeping beside bed 443,107,-1065 in Billy's row. Health 20, hunger 20. Wooden sword in pack. No food.
 - No errand out. Do not walk west of x=370.

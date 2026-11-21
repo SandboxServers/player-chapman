@@ -8,3 +8,6 @@
 - 14:43 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, beside my bed in Billy's row, no one near, health 20. Rest here per routine."}
 - 14:47 act: {"actions":[{"do":"note","text":"Day 723 morning: at bed 443,107,-1065, health 20, hunger 20. Sleep refused in daylight. MacDonald holding, no walk named. No food. Still holding for Billy."}],"say":"J
 - 14:55 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Night 723: at bed 443,107,-1065, health 20, hunger 20, no food. No named call from Billy. Sleeping beside bed."}],"say":"Goodnight. John at the bed, hol
+- 15:00 act: {"say":"Morning, MacDonald. Health 20, hunger 20, no food, sword in pack. Still holding at my bed for Billy.","intent":{"goal":"hold_for_billy","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"]}}
+- Day 724 morning: at bed 443,107,-1065, health 20, hunger 20. MacDonald says he holds at his bed, health 15, hunger 16, no potatoes. No named call from Billy yet. Holding, set rest intent to wait for Billy.
+- 15:08 act: {"say":"Dusk. John here at the bed, health 20, hunger 20. Holding for Billy. Goodnight, MacDonald.","actions":[{"do":"sleep"}]}
