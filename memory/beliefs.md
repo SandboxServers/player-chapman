@@ -16,6 +16,8 @@
 - Day 672: at dusk, with the row settling into beds, I slept at my bed 443,107,-1051 in Billy's sight; sleep worked.
 - Day 663: Billy promised a wooden sword for me at my bed and said to hold there. He had not handed it over by dusk; a named promise can wait past the day, so keep holding.
 
+- Day 681: holding at the bed 443,107,-1051 all day with no walk named was safe; sleep at night worked again (9 of 10 asleep).
+
 ## Did not work, or not yet proven
 - Dusk sleep fails with "it is not night". Struck: sleep at dusk is not a method.
 - Day 627: sleep failed with "monsters nearby" right after night began; waiting kept me safe, and sleep worked later at night.
