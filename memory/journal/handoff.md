@@ -1,6 +1,6 @@
-# Handoff (day 704, night)
+# Handoff (day 705, night)
 
 - At bed 443,107,-1065 in Billy's row. Health 20, hunger 20. Wooden sword in pack. No food.
 - No errand out. No walk named. Hold at bed; do not walk west of x=370.
-- Billy has not called yet. Laforge, Picard, MacDonald all holding in the row.
+- Billy has not called. Picard, Laforge, MacDonald holding in the row.
 - Next: at waking, hold for Billy's named call. Plain waits.
