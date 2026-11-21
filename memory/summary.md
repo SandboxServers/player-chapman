@@ -6,4 +6,4 @@ Routine: hold at my bed in Billy's sight. Walk only when Billy names a route in 
 
 Known: sleep works beside a bed at night. Food is scarce in the row. Feed anyone at hunger 10 or below.
 
-Open: Billy has not called. Billy's wooden sword promise has not yet come. MacDonald is at health 15, hunger 16, no food. Laforge is at bed 430,107,-1065, health 20, hunger 20, no food. I hold no food to pass. Curious how a sword gets into hand and stays there.
+Open: Billy has not called. MacDonald is at health 15, hunger 16, no food. I hold no food to pass.
