@@ -1,6 +1,6 @@
 # Summary
 
-I am John (Johnny), a nurseryman. Day 747 is done. I slept at my bed 443,107,-1065 in Billy's row. Health 20, hunger 20, wooden sword in pack, no food.
+I am John (Johnny), a nurseryman. Day 748 is done. I slept at my bed 443,107,-1065 in Billy's row. Health 20, hunger 20, wooden sword in pack, no food.
 
 Routine: hold at my bed in Billy's sight. Walk only when Billy names a route in daylight. Do not walk west of x=370; the west route at z -1050 is blocked near x=413.
 
