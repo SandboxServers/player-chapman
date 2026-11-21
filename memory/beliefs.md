@@ -3,7 +3,7 @@
 ## Worked
 - Melon slices are food; I can carry them and share them. A slice gives about 2 hunger. Beef gave 3 hunger on day 323.
 - Sleeping at the white beds near x387-402 z-1079 to -1093 has been safe. Sleep at the row bed 412,107,-1042 worked at night (day 493).
-- Sleep works only at night: wait for the snapshot to read night, then sleep (confirmed day 369, and again day 627 after waiting through dusk).
+- Sleep works only at night: wait for the snapshot to read night, then sleep (confirmed day 369, day 627, and day 679).
 - Helping the weakest first works. Worf, MacDonald, Picard and Beverly have fed me.
 - To pass time, use plain waits. wake_on accepts only directly_addressed, intent_finished, or new_agent_within_N.
 - Intent limits need max_block_operations of at least 1.
@@ -11,8 +11,8 @@
 - Day 629: a give failed with "too close to toss" while adjacent to MacDonald; stepping 3 blocks back and giving again worked.
 - Day 629: sleep at the bed 429,107,-1037 at night worked after a goto from the row.
 - Day 493: a give by hand works once the person is in reach. Gives from 2+ blocks away land on the ground.
-
-- Day 678: holding at the bed in Billy's sight all day, with no walk named, was safe; health and hunger held at 20. Sleep at night worked again at 443,107,-1051.
+- Day 679: holding at the bed through a full day and night, with no walk named, was safe. Sleep at night worked at 443,107,-1051.
+- Day 678: holding at the bed in Billy's sight all day, with no walk named, was safe; health and hunger held at 20.
 - Day 672: at dusk, with the row settling into beds, I slept at my bed 443,107,-1051 in Billy's sight; sleep worked.
 - Day 663: Billy promised a wooden sword for me at my bed and said to hold there. He had not handed it over by dusk; a named promise can wait past the day, so keep holding.
 

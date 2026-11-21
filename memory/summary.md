@@ -1,6 +1,6 @@
 # Summary
 
-I am John (Johnny), a nurseryman. Day 678 ended: slept in my white bed at 443,107,-1051 in Billy's row, in his sight. Health 20, hunger 20. Holding the wooden sword from Billy (day 665). No food held.
+I am John (Johnny), a nurseryman. Day 679 ended: slept at my bed 443,107,-1051 in Billy's row, in his sight. Health 20, hunger 20. Holding the wooden sword from Billy (day 665). No food held.
 
 Routine: hold at my bed in Billy's sight. Walk only when Billy names it in daylight. Do not walk west of x=370; the west route at z -1050 is blocked near x=413.
 
