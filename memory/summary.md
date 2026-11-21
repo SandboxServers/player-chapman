@@ -6,4 +6,4 @@ Routine: hold at my bed in Billy's sight. Walk only when Billy names a route in 
 
 Known: sleep works beside a bed at night. Food is scarce in the row. Feed anyone at hunger 10 or below.
 
-Open: Billy has not called. Laforge, MacDonald, Picard and Trini hold at their beds with no food to spare. I hold no food to pass.
+Open: Billy has not called. Laforge and Trini hold at their beds with no food to spare. I hold no food to pass.
