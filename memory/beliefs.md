@@ -16,6 +16,7 @@
 - Day 672: at dusk, with the row settling into beds, I slept at my bed 443,107,-1051 in Billy's sight; sleep worked.
 - Day 663: Billy promised a wooden sword for me at my bed and said to hold there. He had not handed it over by dusk; a named promise can wait past the day, so keep holding.
 
+- Day 687: held at bed 443,107,-1065 all day with no walk named, safe; slept at night at that bed (1 of 10 asleep at first attempt; digest returned before full rest).
 - Day 683: a night sleep at bed 443,107,-1065 gave only 5 of 10 asleep before the digest returned; the attempt was not a full rest. Retry sleep next night.
 - Day 681: holding at the bed 443,107,-1051 all day with no walk named was safe; sleep at night worked again (9 of 10 asleep).
 
