@@ -4,6 +4,8 @@
 - Melon slices are food; I can carry them and share them. A slice gives about 2 hunger. Beef gave 3 hunger on day 323.
 - Sleep works only at night: wait for the snapshot to read night, then sleep. Confirmed on many nights, including day 806 at bed 429,107,-1022.
 - Holding at my bed in Billy's row all day with no walk named is safe.
+- Day 813: use on a bed failed again; sleep at night worked from beside the bed.
+- Day 813: a pillager at dusk killed Bcrusher in the row. Sword lies at 412,107,-1051. Stay at the bed, do not walk into the shooting.
 - Helping the weakest first works. Worf, MacDonald, Picard and Beverly have fed me.
 - To pass time, use plain waits. wake_on accepts only directly_addressed, intent_finished, or new_agent_within_N.
 - Intent limits need max_block_operations of at least 1.

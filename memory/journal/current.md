@@ -1,12 +1,1 @@
 # Journal
-- Day 810 morning, at bed 429,107,-1023 in Billy's row. Health 11.3, hunger 17, pack empty. Said good morning. Held at bed; bow sounds to the south all day, no walk called.
-- Day 811 dusk, still at bed in Billy's row. Health 11.3, hunger 17. Trini greeted me, offered a potato if I am weakest; I am not yet at 10. Going to sleep in my bed for the night.
-- 20:09 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}}],"say":"Good night, Billy's row. I'll hold here."}
-- 20:09 act: {"say":"Good night, Billy's row. I'll hold here by the bed.","actions":[{"do":"use","at":{"x":429,"y":107,"z":-1022}}]}
-- 20:11 act: {"say":"Good morning, row. John at 430,107,-1023, health steady, hunger 17. Holding at my bed till Billy calls."}
-- Day 811 morning: woke at bed in Billy's row, health 11.3, hunger 17. Said good morning. Billy asked after Worf; holding, no walk called.
-- 20:23 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1022}}],"say":"Good night, row. John holding at my bed."}
-- 20:23 act: {"say":"Good morning, row. John here at my bed, health 11, hunger 17. Holding for Billy's word."}
-- Day 812 morning: at bed, health 11.3, hunger 17. Bow sounds to the south all morning, no walk called. Trini offered a potato; I told her my spot and am holding.
-- 20:27 act: {"say":"Trini, thank you. I am at 430,107,-1023, beside the white bed at 429,107,-1022. Health 11, hunger 17. I will hold here.","actions":[]}
-- 20:32 act: {"say":"Trini, thank you. I will not walk without Billy's call either. I am still at 430,107,-1023 by the bed. If you can come to me, I will take the potato here."}
