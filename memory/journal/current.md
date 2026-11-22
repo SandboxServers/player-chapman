@@ -3,3 +3,4 @@
 - 09:18 say: {"text":"Morning, row. John here at my bed, health 11, hunger 17, no food. Holding for Billy's call."}
 - 09:22 wait: quiet morning. Row holding at beds, no walk named, Kimberly in reach. Health steady 11.3, hunger 17. Holding at bed for Billy's call; no food yet.
 - 09:27 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night at the row. I am at my bed, holding here for Billy's call."}
+- Waking 648: status ok, health 11.3, hunger 17, pack empty. Row holding at beds, no walk named, Kimberly in reach. Waiting at bed for Billy's call; no food.
