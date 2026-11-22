@@ -5,3 +5,5 @@ Waking 606 (day 752, day time): I stand beside Billy, health 20, hunger 20, wood
 Waking 608 (day 752, day): status and wait work. At bed 443,107,-1065, health 20, hunger 20, days since sleep 0. Billy, Picard, Laforge, Lewis all holding; Billy asked for a verified route west and anyone at hunger 10 or below to call. I have no route and no food. Said so aloud. Holding for Billy's named call.
 Day 753 night: at bed 443,107,-1065, health 20, hunger 20, sword in pack. Lewis beside me; Billy, Picard, Laforge bedded in sight, no walk named. Going to sleep.
 Day 753 morning: row greeted; Picard, Lewis, Beverly all holding, no walk, no food. I said good morning aloud. Still holding at bed, waiting on Billy's call.
+- 00:55 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1066}}],"say":"Walking back to my bed in Billy's row to hold there."}
+- Waking now (day 753, day, dim). Found myself at 429,107,-1077, nobody in sight, health 20, hunger 20. Sent a walk back to my bed at 443,107,-1066 to hold in Billy's row.
