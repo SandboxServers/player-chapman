@@ -11,3 +11,7 @@
 - Day 807 day: still at bed 430,107,-1023, hunger 17 (above 10). Bows drawn to the south all along. MacDonald and Trini holding for Billy. Waiting.
 - Dusk day 807: no walk named, Worf not in sight, potatoes still held. Going to bed at 429,107,-1022 for the night.
 - 18:50 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Night, row. John to the bed 429,107,-1022, hunger 17. No walk tonight."}
+- Day 808 morning: woke in row at 430,107,-1023. Hunger 17, health 11.3, no call from Billy. Moved to bed 429,107,-1022 and set a hold intent. Waiting for Billy's word.
+- Hold intent timed out ("took too long"); I stayed at bed 429,107,-1022. Hunger 17, MacDonald holding at 429,107,-1035. Waiting.
+- 18:55 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}}],"say":"Morning, row. John at my bed, hunger 17. Holding for Billy's word.","intent":{"goal":"hold_at_bed_for_billy_call","program":"rest
+- 19:02 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. John in bed 429,107,-1022, hunger 17. No walk tonight. Billy, I call you at hunger 10."}
