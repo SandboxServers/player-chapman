@@ -4,8 +4,8 @@ Leader of the group at the 388 row. Calm and careful; holds the group until he h
 
 Day 489: he counted armed hands each morning and asked me to give my stone sword to MacDonald at the row. He kept the walk closed until four were armed.
 
-Day 493: still two armed in hand (Billy, Laforge). He kept the walk closed and said so each dusk and dawn.
+Day 663: he is making wooden swords for those unarmed. He promised me one at my bed and said to hold until he brings it.
 
-Day 663: he is making wooden swords for those unarmed (Beverly has one, Wesley is to get Clark's spare). He promised me one at my bed and said to hold until he brings it. It had not come by dusk.
+Day 759: he said he had made a sword for me, but I could not see him to take it. I said I already hold mine and he may give his to someone who needs it. He agreed and is still holding at the beds.
 
-Trust: 78. Why: he keeps the group together, is straight about walks, and is now arming the unarmed one by one.
+Trust: 78. Why: he keeps the group together, is straight about walks, and is arming the unarmed. The sword has not reached me in hand.
