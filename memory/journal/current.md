@@ -6,3 +6,8 @@
 - 18:22 act: {"actions":[],"say":"Billy, give Worf his potato first; he is at 13 and I am at 17. I take none now. I will call you when my hunger reaches 10."}
 - 18:26 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}}],"intent":{"goal":"hold_at_bed_for_billy_call","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limi
 - 18:37 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Evening, Billy. Holding at my bed. Hunger is 17, so I wait for your call."}
+- 18:42 say: {"text":"Morning, row. John at the bed 443,107,-1022, health 11, hunger 17, no sword. Holding for Billy's word."}
+- Day 806 morning: woke at bed in row, health 11.3, hunger 17. Billy has 3 potatoes, Worf first. No walk named. Said good morning; holding.
+- Day 807 day: still at bed 430,107,-1023, hunger 17 (above 10). Bows drawn to the south all along. MacDonald and Trini holding for Billy. Waiting.
+- Dusk day 807: no walk named, Worf not in sight, potatoes still held. Going to bed at 429,107,-1022 for the night.
+- 18:50 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Night, row. John to the bed 429,107,-1022, hunger 17. No walk tonight."}
