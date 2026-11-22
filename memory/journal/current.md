@@ -19,3 +19,6 @@
 - 19:10 act: {"actions":[],"say":"Morning, Billy. John here, hunger 17, health 11. No walk from me. I hold at the bed until you call."}
 - Day 808 dusk: no call from Billy all day, hunger 17, Worf still not in sight. Going to bed 429,107,-1022.
 - 19:14 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Dusk, row. John to bed 429,107,-1022, hunger 17. No walk tonight. Billy, I call at 10."}
+- 19:16 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}}],"say":"Good night, Billy. I'll hold at the bed until your call."}
+- 19:16 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}]}
+- 19:28 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Johnny holds at the bed, hunger 17."}
