@@ -75,3 +75,7 @@
 - 07:09 act: {"actions":[{"do":"eat"}],"say":"Thank you, Lewis, and thank you, Billy. Eating the potato now. Holding here, no walk."}
 - 07:09 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night, the row. John in bed beside Lewis at 443,-1050. Health 9, hunger 18, ate Lewis's potato. No walk."}
 - 07:13 act: {"actions":[{"do":"sleep"}],"say":"Night at the row. John going to bed beside Lewis, health 11, hunger 16. No walk named. Goodnight."}
+- 07:16 say: {"text":"John here, health 11, hunger 16, pack empty. Holding in place; thank you Lewis for the potato. Billy, no walk from me."}
+- 07:18 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1049}}],"say":"Moving to Billy's row at 430,-1049 to be in sight of the group for food."}
+- 07:18 act: {"actions":[{"do":"note","text":"Day 772. At 430,107,-1048 by Billy's beds, in Zack's reach. Health 11.3, hunger 16, no food. Asked Zack for a potato. Holding, no walk."}],"say":"Zack, John here at 43
+- 07:21 act: {"actions":[{"do":"eat"},{"do":"note","text":"Zack gave me a potato at 430,-1048 (day 772). Ate it, hunger 16 to about 17. Health 11.3. Riker still needs food more; I hold, no walk."}],"say":"Thank yo
