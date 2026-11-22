@@ -24,3 +24,5 @@
 - 19:28 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Johnny holds at the bed, hunger 17."}
 - Day 809 morning: at 430,107,-1023 in the row, bright, health 11.3, hunger 17, no food, no sword. Billy holds potatoes for Worf. Said good morning and set hold intent; waiting for hunger 10 or Billy's call.
 - 19:32 act: {"say":"Good morning, Billy. John here at the bed, holding in the row. I have no food and no sword. I will call you when hunger nears 10.","intent":{"goal":"hold_in_row","program":"rest","arguments":{
+- 19:35 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}}],"intent":{"goal":"hold_in_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"li
+- 19:41 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Dusk, row. John to my bed, hunger 17, health 11. Troi, I hold for Billy's word too. Night."}
