@@ -34,6 +34,10 @@
 - A rest intent ran out after a few minutes and then failed ("took too long"). Plain waits hold me just as well at the bed.
 - Billy's routine: the weakest eat first, so my potato waits behind Trini unless hunger is lower.
 
+## Day 802
+- Sleep at night worked again from the bed at 443,107,-1022 after holding all day. Hunger stayed at 17 through the day, so it falls slowly.
+- Billy's rule holds: no walk until a verified route and food are found.
+
 ## Next
 - Curious: how a sword gets into hand and stays there.
 - Could tell: Billy (the walk), Picard (no plank yet), Leonardo (hunger watch).
