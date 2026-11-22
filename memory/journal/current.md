@@ -1,4 +1,5 @@
 # Journal
+- Day 771 (latest, at top): woke at 443,107,-1035 beside beds, health 9.3, hunger 17, no food. Row holding, no walk named. Riker needed food (Zack/Lewis gave). Said my hunger and held with intent hold_at_row (rest). Waiting for Lewis's potato or Billy's word.
 - Day 764 morning: woke at bed in row, health 20, hunger 20. Billy: no walk today. Said to the row I am asking Worf how he holds his sword. Holding and waiting.
 - 04:27 act: {"say":"Good morning, the row. John holding at my bed 429,107,-1051. Worf, when you are near, how do you hold your sword in hand? I have a wooden sword in my pack and want to hold it too.","actions":[
 - 04:31 act: asked Jason and Worf how their swords got in hand. Jason: already there when he woke. Worf: never put it back in pack, no method given. Beverly: bed use fails. No new way learned; holding at bed, no walk.
@@ -67,3 +68,10 @@
 - 06:51 act: {"actions":[{"do":"note","text":"Health rising to 9.3, hunger 17. Riker at health 4.3 needs food more than I do, so I do not ask again. Holding at 444,-1051. No walk named; no verified route west."}]}
 - 06:59 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}}],"say":"Night, the row. John going to bed at 443,-1050 beside Lewis. Health 9, hunger 17. No walk."}
 - 06:59 act: {"actions":[{"do":"sleep"}],"say":"Night, the row. John in bed beside Lewis at 443,-1050. Health 9, hunger 17. No walk."}
+- 07:04 act: {"say":"Morning. John here, health 9, hunger 17, no food. Holding by the beds, no walk named. Lewis, if you can spare a potato, I would take it when my hunger falls.","intent":{"goal":"hold_at_row","p
+- 07:04 act: {"intent":{"goal":"reach_lewis_for_potato","program":"travel","arguments":{"target":{"x":444,"y":107,"z":-1051}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_wo
+- 07:04 act: {"actions":[{"do":"use","entity":"ag_lewis_01"}],"say":"Lewis, I am in reach at 444,-1050. Billy asked you for a potato for me, hunger 17. Please hand it over now."}
+- 07:05 act: {"say":"Lewis, John at 444,-1050, hunger 17. I am holding still here. Step into my sight and hand me the potato Billy asked for."}
+- 07:09 act: {"actions":[{"do":"eat"}],"say":"Thank you, Lewis, and thank you, Billy. Eating the potato now. Holding here, no walk."}
+- 07:09 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night, the row. John in bed beside Lewis at 443,-1050. Health 9, hunger 18, ate Lewis's potato. No walk."}
+- 07:13 act: {"actions":[{"do":"sleep"}],"say":"Night at the row. John going to bed beside Lewis, health 11, hunger 16. No walk named. Goodnight."}
