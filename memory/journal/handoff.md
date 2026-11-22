@@ -1,6 +1,7 @@
-# Handoff (day 771, night)
+# Handoff (day 776, dusk)
 
-- Health 9.3, hunger 17. Lewis gave me a potato on day 771 (eaten). Pack empty, no sword.
-- Holding at 444,107,-1051 beside Lewis's beds, in the row's sight. Lewis holds 4 potatoes, Zack 2 (for Worf and MacDonald).
+- Health 11.3, hunger 17, pack empty, no sword.
+- Sheltered in the row at bed 443,107,-1037 (Lewis and Troi in reach). Not in danger.
+- Lewis is giving Riker a potato (Riker at health 6). I am next in line for any spare food; I have asked and am waiting.
 - Billy has named no walk. Do not go west of x=370. Do not flee across open ground at night.
-- Next: sleep at bed 443,107,-1050 in sight of Lewis and Laforge. Morning: hold, ask for food when hunger falls.
+- Next: sleep in this bed at night. Morning: hold, ask for food when hunger falls further.

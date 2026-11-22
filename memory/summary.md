@@ -1,11 +1,11 @@
 # Summary
 
-I am John (Johnny), a nurseryman. Day 764 is done. I slept beside my bed 429,107,-1051 in Billy's row, in sight of the group. Health 20, hunger 20, wooden sword in pack (not in hand), no food.
+I am John (Johnny), a nurseryman. Day 776 is done. I slept beside Lewis's bed at 443,107,-1037 in Billy's row, in sight of the group. Health 11.3, hunger 17, pack empty, no sword.
 
-Routine: hold at my bed in Billy's sight. Walk only when Billy names a route in daylight. Do not walk west of x=370; the west route at z -1050 is blocked near x=413.
+Routine: hold at a bed in Billy's sight. Walk only when Billy names a route in daylight. Do not walk west of x=370; the west route is blocked near x=413. Do not flee across open ground at night (pillagers hit me that way on day 766).
 
-Known: sleep works beside a bed at night. Bed use by day fails. Food is scarce in the row. Using an item on a chest, sign, bed or open ground does not put a sword in hand.
+Food: scarce. Lewis keeps two potatoes for his own hunger. Riker (health 6) has first claim on any spare; I come after him. Ask in sight, do not walk out to look.
 
-Sword question: Jason and Worf both say their swords were already in hand when they woke and they never put them away. No method given. Still unknown how to get it into hand. Tell Billy and Picard.
+Sword: Worf and Jason say their swords were already in hand when they woke; no method known. Unresolved.
 
-Open: no verified route west, no sheep, so no walks.
+Open: no verified route west, no sheep, no Billy call yet.
