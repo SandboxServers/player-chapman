@@ -1,6 +1,7 @@
-# Handoff (day 765, night)
+# Handoff (day 767, night)
 
-- At my bed 429,107,-1051 in Billy's row, health 20, hunger 20, wooden sword in pack only, no food.
-- Billy died to pillagers north-west near 411,-1056; his things lie there. Nobody walks north-west. No verified route west; do not walk west of x=370.
-- Worf says he did nothing special to get his sword in hand; Jason does not know. Still unknown. Asked both. Billy is trying other blocks.
-- Next: hold in row for Billy's named call. Try one new way to get the sword in hand only if a sword-holding person shows how.
+- Beside Lewis's bed at 443,107,-1049 in Billy's row, in sight of Kimberly, Laforge, Lewis. Health 9.3, hunger 17, no food, pack empty.
+- Lewis says he gave me a potato but my pack shows none. He holds a potato in hand, in reach. I asked him to hand it over. Zack has 2 potatoes at bed 430,-1037.
+- Worf is at 416,107,-1050, has no potato. Jason, Kimberly have none. Billy sleeping at 429,107,-1051.
+- No errand is out. Nobody walks. Do not go west of x=370.
+- Next: at dawn, ask Lewis or Zack again for a potato in their sight; eat it. Then keep holding in the row.

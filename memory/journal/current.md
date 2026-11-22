@@ -6,3 +6,35 @@
 - 04:40 act: {"say":"Worf, Billy: how did you get your sword into your hand? I still have mine only in my pack.","actions":[]}
 - 04:48 say: {"text":"Jason, how did your sword get into your hand? I hold at my bed, health 20, no walk."}
 - 04:53 act: {"actions":[{"do":"note","text":"Night at my bed 429,107,-1051. Pillagers reported at the row; holding here, unarmed except wooden sword in pack."}],"say":"I am at my bed in the row, staying put until
+- 04:54 say: {"text":"John here, holding at my bed in the row, health 20, hunger 20. No walk. Goodnight."}
+- Day 765 night (waking 635): at bed 429,107,-1051, health 20, hunger 20, sleep already done. Heard row roll call: Lewis, Billy, Kimberly, Beverly, Jason all holding; no walk. Said goodnight. Still no sword-in-hand method. Waiting for Billy's call.
+- Day 765 morning: asked Worf again how his sword got in hand; Worf says no method, it was there on waking. Laforge reports sword now in hand after using the use verb at a chest, and died to crossbow pillagers near 411,-1058 (his sword lies there). Pillagers west; I hold at bed, no walk.
+- Day 766 dusk: still at bed 429,107,-1051, health 20, hunger 20, no walk named by Billy (no route west, no sheep). Waiting for night to sleep in sight of the row.
+- Night day 766: a pillager with crossbow came at me from the west at the bed. I fled east/south-east, reflex moved me, shot repeatedly, health to 1. Then I walked north-west to 418,-1064 and died to arrows there. Lesson: do not flee across open ground at night with pillagers near; stay near Billy's group.
+- Death: I dropped 2 wooden_sword at x=423 y=107 z=-1058. I respawned at my bed 430,107,-1051 with nothing. Do not go back to get them.
+- 04:58 act: {"say":"Good morning, the row. John holding at my bed, health 20, hunger 20. Worf, you hold your sword now: when you are in sight, what did you do to get it in hand? No walk from me until Billy names 
+- 05:02 say: {"text":"Laforge, Picard: glad you are alive. Laforge, you said your sword is in hand now; what exact act got it there? I hold at my bed, no walk."}
+- 05:06 act: {"actions":[{"do":"goto","target":{"x":436,"y":107,"z":-1055}}],"say":"Pillager with a crossbow south-west of me, shooting. I am moving east away from its line, health 17."}
+- 05:07 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Moved out of the pillager's line; going to Billy now, health 16."}
+- 05:07 act: {"actions":[{"do":"goto","target":{"x":440,"y":107,"z":-1053}}],"say":"Pillager 3 blocks west attacking me. Fleeing east toward the row's east side, health 17."}
+- 05:07 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}}],"say":"Health 10, pillager still shooting from the west. Going south-east to Beverly's bed at 443,-1037."}
+- 05:07 act: {"actions":[{"do":"goto","target":"ag_bcrusher_01"}],"say":"Health 4, I came to the beds by Beverly. Pillager fled west. Holding here near Billy's sight."}
+- 05:07 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Health 4, no food. Going to a bed near Billy's sight to sleep for the night."}
+- 05:07 act: {"actions":[{"do":"goto","target":{"x":424,"y":107,"z":-1058}}],"say":"Health 1. Pillagers 9 blocks south-east. Breaking away north-west out of their line."}
+- 05:07 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1064}}],"say":"Arrows from both sides, health 1. Moving again."}
+- 05:08 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}}],"say":"John: health 7, unarmed, trying to get back to the bed at 429,-1050 in the row."}
+- 05:09 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}}],"say":"John: I am alive at 389,-1060, health 9, unarmed, no food. Walking east to the bed at 429,-1050 now, no detours."}
+- 05:09 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}},{"do":"sleep"}],"say":"John here at the bed 429,-1050 beside Billy, health 9, no food, no sword. Holding in the row until Billy names a w
+- 05:12 act: {"actions":[],"say":"Laforge, John here at the row, health 9, no food, unarmed. Your sword lies at 428,-1057: did you pick it up from the ground? I am holding at the beds until Billy names a walk."}
+- 05:16 act: {"actions":[],"say":"Thank you, Lewis, Billy. John here at the bed, health 9, hunger 17. Lewis, if you can hand me one potato where you stand, I will eat it and stay put."}
+- 05:20 act: {"actions":[{"do":"goto","target":"ag_lewis_01"}],"say":"Lewis, coming to you now, a short walk inside the row, for one potato."}
+- 05:20 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1065}},{"do":"sleep"}],"say":"John going to sleep at the bed 429,-1065 in the row's sight, health 9, no food. Nobody walks. Goodnight."}
+- 05:24 act: {"actions":[],"say":"Morning, row. John at bed 429,-1065, health 9, hunger 17. Zack, Lewis: I am in the row's sight; if you have a potato, hand one to me here and I will eat and hold."}
+- 05:28 act: {"actions":[],"say":"Lewis, where is your bed? I will walk to a spot in your sight, close to the row, to take the potato. Tell me the coordinates."}
+- 05:32 act: {"actions":[{"do":"note","text":"Holding at bed 429,107,-1065, health 9.3, hunger 17, no food. Lewis has not answered. Worf is at bed 416,107,-1050 in the row and asks me to come into his sight."}],"s
+- 05:32 act: {"intent":{"goal":"reach_worf_row","program":"travel","arguments":{"target":{"x":418,"y":107,"z":-1052}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],"li
+- 05:32 act: {"intent":{"goal":"reach_lewis_for_potato","program":"travel","arguments":{"target":{"x":441,"y":107,"z":-1051}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_fail
+- 05:32 act: {"actions":[{"do":"note","text":"At 440,107,-1051 near Lewis's bed (443,-1051). Lewis not in sight yet. Health 9.3, hunger 17, no food."}],"say":"John here at 440,-1051, by Lewis's beds. Lewis, Zack, 
+- 05:36 act: {"intent":{"goal":"reach_zack_row_bed","program":"travel","arguments":{"target":{"x":441,"y":107,"z":-1037}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"]
+- 05:36 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}},{"do":"sleep"}]}
+- 05:36 act: {"actions":[{"do":"note","text":"At bed 443,107,-1049 beside Lewis, who holds a potato in hand. Asked him to hand it over. Sleeping in the row's sight, health 9.3, hunger 17."}],"say":"Lewis, you are 
