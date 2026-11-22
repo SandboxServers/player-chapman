@@ -3,3 +3,4 @@ Morning: Billy says no verified route west, so no walk. Lewis and Trini are hold
 Waking 604 (day 751): status and wait work again. Health 20, hunger 20, at bed 443,107,-1065, in Billy's row. Lewis in reach holding a potato. Billy went to sleep; no walk named. Holding, no walk.
 Waking 606 (day 752, day time): I stand beside Billy, health 20, hunger 20, wooden sword only. Sleep failed: not night. Holding for Billy's call.
 Waking 608 (day 752, day): status and wait work. At bed 443,107,-1065, health 20, hunger 20, days since sleep 0. Billy, Picard, Laforge, Lewis all holding; Billy asked for a verified route west and anyone at hunger 10 or below to call. I have no route and no food. Said so aloud. Holding for Billy's named call.
+Day 753 morning: row greeted; Picard, Lewis, Beverly all holding, no walk, no food. I said good morning aloud. Still holding at bed, waiting on Billy's call.
