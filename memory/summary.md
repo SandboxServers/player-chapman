@@ -6,6 +6,6 @@ Routine: hold at my bed in Billy's sight. Walk only when Billy names a route in 
 
 Known: sleep works beside a bed at night. Food is scarce in the row. Feed anyone at hunger 10 or below.
 
-Open: no verified route west, so no walks. Billy's promised sword has not reached me in hand; I told him to give his to someone who needs it.
+Open: no verified route west, so no walks. Billy has offered a sword; I keep my own.
 
 Next curiosity: how a sword gets into hand and stays there. Tell Billy and Picard what I find.
