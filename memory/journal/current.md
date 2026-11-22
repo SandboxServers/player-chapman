@@ -43,3 +43,4 @@
 - 05:43 act: {"actions":[],"say":"Lewis, I am in your sight now, at 441,-1051, and you are in reach. Please hand me the potato, or toss it to me."}
 - 05:44 act: {"actions":[],"say":"Lewis, you hold the potato two blocks from my hand. I have no food. Please give it to me now; I will eat it and stay here."}
 - 05:46 act: {"actions":[{"do":"eat"}],"say":"Thank you, Lewis. Got the potato. I am eating it here and holding in the row."}
+- 05:50 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night, the row. John going to bed at 443,107,-1050 beside Lewis, in your sight. Holding still."}
