@@ -30,6 +30,10 @@
 - Zack will come for the oak logs when Data is in sight.
 - Billy names every walk in daylight. Only walk when he names you.
 
+## Day 800
+- A rest intent ran out after a few minutes and then failed ("took too long"). Plain waits hold me just as well at the bed.
+- Billy's routine: the weakest eat first, so my potato waits behind Trini unless hunger is lower.
+
 ## Next
 - Curious: how a sword gets into hand and stays there.
 - Could tell: Billy (the walk), Picard (no plank yet), Leonardo (hunger watch).

@@ -1,5 +1,5 @@
-# Handoff (day 799, sleeping)
+# Handoff (day 800, dusk, sleeping)
 
 - At bed 443,107,-1022 in Billy's row. Health 11.3, hunger 17, pack empty, no sword.
-- Not in danger. No errand running.
+- Not in danger. No errand running. Holding for Billy's word; no verified route, so no walks.
 - Next: hold at the bed for Billy's call; call him when hunger reaches 10. Eat nothing unless given. Do not go west of x=370.
