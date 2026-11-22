@@ -6,3 +6,4 @@ Waking 603: my game tools are not in my hands, and the worker has no tools this 
 - 00:23 act: say "Morning, Lewis. Still holding here by my bed, waiting on Billy's word. Anything new in the row?"
 - 00:27 say: "Morning, row. John here, health 20, hunger 20, holding with Billy. No food on me. Waiting for Billy's named call."
 - Waking 606 (day 752, day time): status and wait work. I stand at 430,107,-1051 beside Billy (in reach), health 20, hunger 20, wooden sword only. Billy and Lewis, Trini report no walk. Sleep failed: not night. Said morning greeting. Holding for Billy's call.
+- 00:40 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1065}}],"say":"Night, row. John heading to my bed at 443,107,-1065 to sleep in sight of Billy. Health 20, hunger 20."}
