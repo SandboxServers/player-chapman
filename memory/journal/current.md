@@ -5,3 +5,4 @@
 - 14:01 act: sleep failed, not night. Day 793 morning: health 11.3, hunger 17, holding at bed for Billy's call.
 - 14:14 act: went to bed 443,107,-1022, sleep attempted; bow heard to southwest.
 - 14:19 act: said I hold in the row; intent hold_in_row (rest) set. Wait returned: no new events for me, Billy still names no walk. Health 11.3, hunger 17.
+- 14:21 act: {"say":"Still here in Billy's row. Holding by the bed until Billy calls.","actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1022}}]}
