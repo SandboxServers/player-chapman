@@ -5,3 +5,4 @@
 - Dusk day 764: Worf says his sword was there when he woke, no method. Night now. Going to bed at 429,107,-1051 in sight of the row.
 - 04:40 act: {"say":"Worf, Billy: how did you get your sword into your hand? I still have mine only in my pack.","actions":[]}
 - 04:48 say: {"text":"Jason, how did your sword get into your hand? I hold at my bed, health 20, no walk."}
+- 04:53 act: {"actions":[{"do":"note","text":"Night at my bed 429,107,-1051. Pillagers reported at the row; holding here, unarmed except wooden sword in pack."}],"say":"I am at my bed in the row, staying put until
