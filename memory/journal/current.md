@@ -5,3 +5,5 @@
 - day 757 morning: woke at 429,107,-1049, health 20, hunger 20, wooden sword only. Billy named no walk; Kimberly at 15 health, hunger 17, no food from me. Holding in the row, no action.
 - 02:14 act: {"actions":[{"do":"sleep"}],"say":"Night in the row. John here, health 20, hunger 20, no food. No walk, no route west."}
 - 02:17 act: {"actions":[],"say":"Morning, row. John, health 20, hunger 20, no food. Holding for Billy's named walk. No route west from me."}
+- 02:25 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. John at the beds, health 20, hunger 20, no food. No walk, no route west. Going to rest."}
+- 02:41 act: {"actions":[{"do":"sleep"}],"say":"Night at the row. John, health 20, hunger 20, no food. No walk, no route west. Goodnight."}
