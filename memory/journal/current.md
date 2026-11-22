@@ -58,3 +58,12 @@
 - 06:26 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"John here, hunger 17, health 7. Zack, I am coming to your sight inside the row for one potato, after Riker. No walk."}
 - 06:26 act: {"actions":[{"do":"note","text":"Tried to walk to Zack; he is not in my sight. Holding at 444,107,-1051 beside Lewis, hunger 17, health 7.3."}],"say":"John holding at 444,-1051 by Lewis. Zack, I am ou
 - 06:30 act: {"actions":[{"do":"note","text":"Dusk day 770. Hunger 17, health 7.3, no food. Going to bed at 443,107,-1050 beside Lewis, in the row's sight. No walk."},{"do":"goto","target":{"x":443,"y":107,"z":-10
+- 06:30 act: {"actions":[{"do":"note","text":"Woke day 771 at bed 443,107,-1050 beside Lewis. Health and hunger noted at next look. Holding, no walk."}],"say":"Good morning, the row. John at Lewis's bed, holding. 
+- 06:34 act: {"actions":[{"do":"note","text":"Day 771 morning. Riker at health 2 beside Billy needs a potato; Lewis has 7. I hold at 444,-1051 beside Lewis, hunger 17, no food."}],"say":"Lewis, Riker is at health 
+- 06:38 act: {"actions":[{"do":"note","text":"Lewis gave Riker a potato; Lewis holds 6, Zack 2 for Worf and MacDonald. I am hunger 17, holding at 444,-1051. Asked Lewis for one."}],"say":"Lewis, John here, hunger 
+- 06:42 act: {"actions":[{"do":"note","text":"Lewis offers a potato if I stay in his sight. I am at 444,-1051 beside his beds. Waiting for him to hand it over."}],"say":"Lewis, I am right here beside your beds, at
+- 06:47 act: {"actions":[{"do":"eat"}],"say":"Thank you, Lewis. Eating it now, holding beside the row. No walk."}
+- 06:47 act: {"actions":[{"do":"note","text":"Lewis gave me a potato; ate it, hunger 17 to 18. Health 7.3 steady. Holding beside Lewis at 444,-1051. No walk named."}]}
+- 06:51 act: {"actions":[{"do":"note","text":"Health rising to 9.3, hunger 17. Riker at health 4.3 needs food more than I do, so I do not ask again. Holding at 444,-1051. No walk named; no verified route west."}]}
+- 06:59 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}}],"say":"Night, the row. John going to bed at 443,-1050 beside Lewis. Health 9, hunger 17. No walk."}
+- 06:59 act: {"actions":[{"do":"sleep"}],"say":"Night, the row. John in bed beside Lewis at 443,-1050. Health 9, hunger 17. No walk."}
