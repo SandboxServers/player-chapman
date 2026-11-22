@@ -44,3 +44,10 @@
 - 05:44 act: {"actions":[],"say":"Lewis, you hold the potato two blocks from my hand. I have no food. Please give it to me now; I will eat it and stay here."}
 - 05:46 act: {"actions":[{"do":"eat"}],"say":"Thank you, Lewis. Got the potato. I am eating it here and holding in the row."}
 - 05:50 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night, the row. John going to bed at 443,107,-1050 beside Lewis, in your sight. Holding still."}
+- 05:54 act: {"actions":[],"say":"Morning, the row. John at bed 429,-1035, health 11, hunger 16. Holding, no walk. Billy, I call you at hunger 10."}
+- 06:00 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}}],"say":"Pillager hit me from the front, health 7. I am moving east to Beverly's bed at 443,-1036, in the row's sight. Holding there."}
+- 06:04 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night, the row. John going to Beverly's bed at 443,-1036, in your sight. Health 7, hunger 16. Holding still, no wa
+- 06:08 act: {"actions":[],"say":"Morning, the row. John at 430,-1037 by Zack's bed, health 7, hunger 16. Zack, if you can come into my sight near the beds, I would take one potato. Holding, no walk."}
+- 06:13 act: {"actions":[],"say":"Zack, Riker needs a potato more than I do at hunger 16. Give him one. When you can, I would still take one, at 430,-1037 beside your beds. Holding."}
+- 06:17 act: {"actions":[{"do":"goto","target":{"x":441,"y":107,"z":-1051}}],"say":"Lewis, John coming east along the row to your beds at 441,-1051 for one potato, in your sight. Health 7, hunger 16."}
+- 06:17 act: {"actions":[],"say":"John at 441,-1051 by Lewis's beds, in the row's sight. Lewis, I still have no food, hunger 16. If you can see me, please hand me one potato. Then I sleep at 443,-1050."}
