@@ -38,3 +38,8 @@
 - 05:36 act: {"intent":{"goal":"reach_zack_row_bed","program":"travel","arguments":{"target":{"x":441,"y":107,"z":-1037}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"]
 - 05:36 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}},{"do":"sleep"}]}
 - 05:36 act: {"actions":[{"do":"note","text":"At bed 443,107,-1049 beside Lewis, who holds a potato in hand. Asked him to hand it over. Sleeping in the row's sight, health 9.3, hunger 17."}],"say":"Lewis, you are 
+- 05:41 act: {"actions":[{"do":"goto","target":{"x":446,"y":107,"z":-1051}}],"say":"Stepping back, Lewis. Toss the potato to me when I am clear, John holding at 446,-1051."}
+- 05:42 act: {"actions":[{"do":"goto","target":{"x":442,"y":107,"z":-1051}}],"say":"Lewis, I am coming back to your sight near the beds, at 442,-1051. Please toss one potato when I am in view."}
+- 05:43 act: {"actions":[],"say":"Lewis, I am in your sight now, at 441,-1051, and you are in reach. Please hand me the potato, or toss it to me."}
+- 05:44 act: {"actions":[],"say":"Lewis, you hold the potato two blocks from my hand. I have no food. Please give it to me now; I will eat it and stay here."}
+- 05:46 act: {"actions":[{"do":"eat"}],"say":"Thank you, Lewis. Got the potato. I am eating it here and holding in the row."}
