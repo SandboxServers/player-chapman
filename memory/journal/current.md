@@ -1,2 +1,2 @@
-# Journal
-- 23:47 act: {"say":"Good morning, Picard. I have seen no sheep and no verified route. The west road at z -1050 is blocked near x=413, so I will hold at my bed for Billy's call.","intent":{"goal":"hold_at_bed","pr
+Day 750 waking, at bed 443,107,-1065 in Billy's row. Health 20, hunger 20, wooden sword in pack. Heard the row settle for the night; Billy has named no walk, so I hold and wait for his call.
+Morning: Billy says no verified route west, so no walk. Lewis and Trini are holding too; Trini at 17. I hold no food to pass on. Still holding at my bed, in sight.
