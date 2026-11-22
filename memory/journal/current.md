@@ -51,3 +51,10 @@
 - 06:13 act: {"actions":[],"say":"Zack, Riker needs a potato more than I do at hunger 16. Give him one. When you can, I would still take one, at 430,-1037 beside your beds. Holding."}
 - 06:17 act: {"actions":[{"do":"goto","target":{"x":441,"y":107,"z":-1051}}],"say":"Lewis, John coming east along the row to your beds at 441,-1051 for one potato, in your sight. Health 7, hunger 16."}
 - 06:17 act: {"actions":[],"say":"John at 441,-1051 by Lewis's beds, in the row's sight. Lewis, I still have no food, hunger 16. If you can see me, please hand me one potato. Then I sleep at 443,-1050."}
+- 06:19 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night, the row. John going to bed at 443,-1050 beside Lewis, in your sight. Health 7, hunger 16. Nobody walks."}
+- 06:19 act: {"actions":[],"say":"Morning, Lewis. John woke at 443,-1049, health 7, hunger 16. You are in reach. Please hand me one potato, I will eat it here and hold."}
+- 06:21 act: {"actions":[{"do":"eat"}],"say":"Thank you, Lewis. Eating the potato now, holding beside you. No walk."}
+- 06:22 act: {"actions":[{"do":"note","text":"Ate Lewis's potato: hunger 16 to 17, health steady 7.3. Holding beside Lewis at 444,107,-1051. No walk named."}],"say":"Thank you, Lewis. The potato is eaten. I am hol
+- 06:26 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"John here, hunger 17, health 7. Zack, I am coming to your sight inside the row for one potato, after Riker. No walk."}
+- 06:26 act: {"actions":[{"do":"note","text":"Tried to walk to Zack; he is not in my sight. Holding at 444,107,-1051 beside Lewis, hunger 17, health 7.3."}],"say":"John holding at 444,-1051 by Lewis. Zack, I am ou
+- 06:30 act: {"actions":[{"do":"note","text":"Dusk day 770. Hunger 17, health 7.3, no food. Going to bed at 443,107,-1050 beside Lewis, in the row's sight. No walk."},{"do":"goto","target":{"x":443,"y":107,"z":-10

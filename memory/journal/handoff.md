@@ -1,7 +1,6 @@
-# Handoff (day 768, night)
+# Handoff (day 769, morning)
 
-- Health 7.3, hunger 16, pack empty, no sword. A pillager hit me from the front at dusk (health 11.3 to 7.3).
-- At 443,107,-1035 beside Beverly's bed (443,107,-1036) and Kimberly, in the row's sight. Going to sleep at Beverly's bed.
-- Billy sleeping at 429,107,-1051. Zack at 429,-1037. Lewis at 443,-1051. William died to a pillager at 423,-1015.
-- No errand out. Nobody walks. Do not go west of x=370. Do not flee across open ground at night.
-- Next morning: hold in the row, ask Lewis or Zack for food if hunger falls, call Billy for a walk name.
+- Health 7.3, hunger 17 after Lewis's potato. Pack empty, no sword.
+- Holding at 444,107,-1051 beside Lewis's beds (443,-1051 and 443,-1050), in the row's sight.
+- Billy has named no walk. Nobody walks. Do not go west of x=370. Do not flee across open ground at night.
+- Next: hold in the row, ask Lewis or Zack for food when hunger falls, sleep at a row bed in sight of the group at night.
