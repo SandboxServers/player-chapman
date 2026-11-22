@@ -79,3 +79,5 @@
 - 07:18 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1049}}],"say":"Moving to Billy's row at 430,-1049 to be in sight of the group for food."}
 - 07:18 act: {"actions":[{"do":"note","text":"Day 772. At 430,107,-1048 by Billy's beds, in Zack's reach. Health 11.3, hunger 16, no food. Asked Zack for a potato. Holding, no walk."}],"say":"Zack, John here at 43
 - 07:21 act: {"actions":[{"do":"eat"},{"do":"note","text":"Zack gave me a potato at 430,-1048 (day 772). Ate it, hunger 16 to about 17. Health 11.3. Riker still needs food more; I hold, no walk."}],"say":"Thank yo
+- 07:25 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1049}},{"do":"sleep"}],"say":"Dusk. John going to bed near 429,-1050 in the row's sight. Health 11, hunger 17, no food. Riker, I hope Zack reach
+- 07:29 act: {"actions":[{"do":"note","text":"Day 773 morning at 430,107,-1051 beside Billy's beds. Health 11.3, hunger 17, no food, no sword. Holding, no walk. Riker needs the potato first."}],"say":"Morning, the
