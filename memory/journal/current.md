@@ -14,4 +14,8 @@
 - Day 808 morning: woke in row at 430,107,-1023. Hunger 17, health 11.3, no call from Billy. Moved to bed 429,107,-1022 and set a hold intent. Waiting for Billy's word.
 - Hold intent timed out ("took too long"); I stayed at bed 429,107,-1022. Hunger 17, MacDonald holding at 429,107,-1035. Waiting.
 - 18:55 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}}],"say":"Morning, row. John at my bed, hunger 17. Holding for Billy's word.","intent":{"goal":"hold_at_bed_for_billy_call","program":"rest
+- Day 808 morning: slept at bed 429,107,-1022, woke in row, health 11.3, hunger 17. No call from Billy; Zack and Troi holding potatoes for Worf. Waiting.
 - 19:02 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. John in bed 429,107,-1022, hunger 17. No walk tonight. Billy, I call you at hunger 10."}
+- 19:10 act: {"actions":[],"say":"Morning, Billy. John here, hunger 17, health 11. No walk from me. I hold at the bed until you call."}
+- Day 808 dusk: no call from Billy all day, hunger 17, Worf still not in sight. Going to bed 429,107,-1022.
+- 19:14 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Dusk, row. John to bed 429,107,-1022, hunger 17. No walk tonight. Billy, I call at 10."}
