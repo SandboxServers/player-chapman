@@ -7,3 +7,5 @@
 - Day 848 morning: still at bed, health 20, hunger 20. No walk named by Billy; bows heard far southwest only. Holding.
 - 08:26 act: {"say":"Morning, row. Johnny at the white bed, health 20, hunger 20, pack empty. Holding for Billy's walk. Trini and Leonardo first for any food."}
 - Night of day 848: at bed 443,107,-1023, health 20, hunger 20, pack empty. Slept at the bed; no walk named by Billy. Holding.
+- 08:40 say: {"text":"Morning, row. John at the white bed, health 20, hunger 20, empty pack. Holding for Billy's named walk."}
+- Day 849 morning: woke at bed 443,107,-1023, health 20, hunger 20, pack empty. Rain falling, no walk named by Billy. Said morning to the row. Holding at the bed.
