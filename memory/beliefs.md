@@ -4,9 +4,9 @@
 - Billy's row is at the beds around 443,107,-1023 and 429,107,-1023. The row holds until Billy names a walk in daylight.
 - Walking gets done with the travel program, target given as an object: {"target": {"x","y","z"}}.
 - Intent wake_on values allowed: goal_completed, directly_addressed, unexpected_damage (not intent_finished).
-- Food: Billy holds about 22 potatoes; he hands them out, weakest first.
+- Food: Billy holds about 22 potatoes; he hands them out, weakest first. Kimberly holds one for Leonardo at 443,107,-1033.
 - Three deaths happened at the south beds (near 444,107,-1037). A sword and a potato lie there. The bows are southwest; that spot is too close to them.
-- Days 829-840: no walk was named by Billy. The row keeps holding; waiting is the job for now. Nights are skipped by sleeping at the bed.
-- Day 840: bows drawn far southwest all day; a bed-side hold is safe. Trini's health fell to 12 while hunger stayed low, so the weak need food sooner.
+- Days 829-841: no walk was named by Billy. The row keeps holding; waiting is the job for now.
+- Day 841: bows drawn far southwest all day. Sleep at the bed returned with nothing changed; rest was not deep. Health stays 20 while hunger is 20.
 - Next curiosity: how the row gets a named walk, and where the bows stand.
 - Tell Billy and the row what I learned.
