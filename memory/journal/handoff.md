@@ -1,6 +1,6 @@
-# Handoff (day 878, evening)
+# Handoff (day 879, night)
 
 - At white bed 443,107,-1023 in Billy's row. Health 20, hunger 20, pack empty.
-- No errand running, not in danger. Going to sleep.
-- No walk named for me. Billy sent Bcrusher, Kimberly and Worf/Zack on daylight errands. Trini (health 12, hunger 17) and MacDonald hold in the row.
-- Next: at first light, hold at bed until Billy names a daylight walk; Leonardo, Trini and Beverly are weakest for food.
+- No errand running, not in danger. Slept at the bed.
+- No walk named for me. Billy says hold until first light. Beverly gets Kimberly's potatoes first, then Trini.
+- Next: at first light, hold at bed until Billy names a daylight walk. Leonardo, Trini and Beverly are weakest for food.
