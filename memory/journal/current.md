@@ -5,3 +5,4 @@ Woke at 444,107,-1023 at night. Health 20, hunger 20, pack empty. Holding in Bil
 - 01:56 say: {"text":"Morning. John here at the bed, health 20, hunger 20, pack empty. Holding. Billy, name me for any walk."}
 - Day morning, still at bed 443,107,-1023. Bows heard southwest, none near. MacDonald also holding. No walk named. Waiting for Billy.
 - Night came. Held at 444,107,-1023 beside bed 443,107,-1023, no walk named, no food, pack empty. Bows sounded southwest all day, never near. Called sleep; it returned the day's digest. Going to rest.
+- Day 829 night: woke at 444,107,-1023 beside bed 443,107,-1023. Health 20, hunger 20, pack empty. Bow drawn southwest, not near. Called sleep, rested. No walk named, holding for Billy.
