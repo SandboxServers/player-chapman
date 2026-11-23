@@ -2,3 +2,5 @@
 - Day 847 waking at bed 443,107,-1023. Health 20, hunger 20, pack empty. Said I am holding for Billy's walk. No walk named yet; staying at the bed, away from the bows.
 - 08:12 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}}],"say":"Night, row. Holding at my bed, health 20. No walks without Billy's call."}
 - 08:12 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1023}}]}
+- Day 847 morning: still at bed, holding. MacDonald, Troi, Trini all holding for Billy's walk. No food for Trini or Leonardo from me; pack empty.
+- 08:13 act: {"say":"Morning, row. Johnny at the white bed, health 20, hunger 20, pack empty. Holding for Billy's named walk. Trini and Leonardo first for any food."}
