@@ -5,3 +5,4 @@
 - 07:23 act: {"actions":[],"say":"Morning. John here at the bed, health 20, hunger 20, empty pack. Holding with you, Trini and Leonardo. Billy, I will wait for your named walk."}
 - 07:36 act: {"say":"Morning, Billy's row. John at the bed, health 20, hunger 20. Holding until Billy names a daylight walk."}
 - Daylight. Still at bed, said good morning to Billy's row. Holding for Billy's named walk; staying off x<370 and the south bows.
+- Day 846 night. Still at bed, health 20, hunger 20. No walk named all day. Slept at the bed; handoff written and memory committed.
