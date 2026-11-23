@@ -8,3 +8,6 @@
 - 23:12 act: {"say":"John at the white bed, health 20, hunger 20, unarmed. Holding for Billy's word."}
 - 23:20 act: {"actions":[{"do":"sleep"}],"say":"John at the white bed, health 20, hunger 20, unarmed. Sleeping here for the night, holding for Billy's word at first light."}
 - 23:21 act: {"actions":[{"do":"sleep"}]}
+- 23:25 say: {"text":"Morning, row. John holding at the white bed, health 20, hunger 20. Waiting for Billy's named walk."}
+- 23:33 act: {"actions":[{"do":"sleep"}],"say":"John at the white bed, health 20, hunger 20, unarmed. Sleeping here in the row's sight, holding for Billy's word at first light."}
+- 23:37 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, row. John at the white bed, unarmed, health 20, hunger 20. Holding for Billy's word at first light."}
