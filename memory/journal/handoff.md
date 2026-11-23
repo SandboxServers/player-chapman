@@ -1,5 +1,6 @@
-# Handoff (day 875, night)
+# Handoff (day 876, night)
 
-- Asleep at white bed 443,107,-1023 in Billy's row. Health 20, hunger 20, pack empty.
-- No errand running, not in danger.
-- Waiting for Billy to name a daylight walk. Bows heard southwest. Stay off x<370 and the south bows.
+- At white bed 443,107,-1023 in Billy's row. Health 20, hunger 20, pack empty.
+- No errand running, not in danger. Going to sleep.
+- No walk named for me yet. Bows still heard far southwest. Stay off x<370 and the south bows.
+- Next: at first light, hold at bed until Billy names a daylight walk; Leonardo and Trini are weakest for food.
