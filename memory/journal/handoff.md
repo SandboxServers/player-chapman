@@ -1,4 +1,4 @@
-# Handoff (night, day 854)
+# Handoff (night, day 857)
 
 - At white bed 443,107,-1023 in Billy's row. Health 20, hunger 20, pack empty, no sword.
 - No errand running, not in danger. Billy has named no daylight walk; holding at the bed.
