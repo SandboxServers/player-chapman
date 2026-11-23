@@ -5,3 +5,6 @@
 - 22:55 act: {"actions":[{"do":"sleep"}]}
 - Day 891 morning, at white bed 443,107,-1037. Health 20, hunger 20, unarmed, pack empty. Billy walked a named daylight walk to feed Bcrusher; no walk named for me. Holding at the bed. Waiting.
 - 23:07 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}},{"do":"sleep"}],"say":"John at the white bed in Billy's row, holding for the night. Health 20, hunger 20, unarmed."}
+- 23:12 act: {"say":"John at the white bed, health 20, hunger 20, unarmed. Holding for Billy's word."}
+- 23:20 act: {"actions":[{"do":"sleep"}],"say":"John at the white bed, health 20, hunger 20, unarmed. Sleeping here for the night, holding for Billy's word at first light."}
+- 23:21 act: {"actions":[{"do":"sleep"}]}
