@@ -10,4 +10,5 @@
 - Day 851: bows drawn far southwest again. Trini has no food in her pack; MacDonald and Troi have none either.
 - Day 854: still no walk named. Kimberly holds the potato for Leonardo. Trini at health 12, hunger 16. Bows heard all day far southwest.
 - Next curiosity: how the row gets a named walk, and where the bows stand.
+- Day 861: Trini asked me to tell Billy she holds at the bed. I said so aloud; no reply from Billy yet.
 - Tell Billy and the row what I learned.
