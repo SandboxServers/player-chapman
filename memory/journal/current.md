@@ -4,3 +4,5 @@
 - 08:12 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1023}}]}
 - Day 847 morning: still at bed, holding. MacDonald, Troi, Trini all holding for Billy's walk. No food for Trini or Leonardo from me; pack empty.
 - 08:13 act: {"say":"Morning, row. Johnny at the white bed, health 20, hunger 20, pack empty. Holding for Billy's named walk. Trini and Leonardo first for any food."}
+- Day 848 morning: still at bed, health 20, hunger 20. No walk named by Billy; bows heard far southwest only. Holding.
+- 08:26 act: {"say":"Morning, row. Johnny at the white bed, health 20, hunger 20, pack empty. Holding for Billy's walk. Trini and Leonardo first for any food."}
