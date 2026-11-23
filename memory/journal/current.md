@@ -5,3 +5,4 @@
 - 16:54 act: {"actions":[],"say":"Morning, row. John at the white bed, health 20, hunger 20, no food. I hold until Billy names a walk in sight."}
 - Day 873 morning. Still holding at bed 443,107,-1023. Beverly, Leonardo and MacDonald also holding in the row. Billy seen walking west. No walk named for me. Bows far southwest.
 - Day 874 morning. Still at bed 443,107,-1023, health 20, hunger 20, no food. Leonardo and MacDonald hold in the row too; no walk named. Holding.
+- Reflect, day 874: Holding at the bed was right; no walk was named and the bows stayed southwest. Everyone in the row is weak and waiting on Billy. Next: keep holding, give food to Leonardo then Trini when Billy hands it out. Slept at the bed, handoff saved and memory committed.
