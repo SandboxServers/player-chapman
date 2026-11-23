@@ -6,3 +6,4 @@
 - 01:24 act: {"intent":{"goal":"reach_billy","program":"travel","arguments":{"target":{"x":440,"y":107,"z":-1036}},"wake_on":["goal_completed","directly_addressed"],"limits":{"max_world_ticks":600,"max_block_opera
 - 01:24 act: {"intent":{"goal":"reach_billy_potatoes","program":"travel","arguments":{"target":{"x":418,"y":107,"z":-1039}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_worl
 - 01:25 say: {"text":"Chapman at 412,-1055, health 0.3, no hostiles in sight. Billy, I could not reach you. Name a safe path and I will come."}
+- Day 827: I walked alone toward Billy at 412,-1055 under a pillager's bow and was shot dead. Respawned at bed row 444,107,-1023 with health 20, hunger 20, pack empty, nothing dropped. Lesson: hold at the bed until Billy names a walk in daylight with others in sight.
