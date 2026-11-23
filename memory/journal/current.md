@@ -9,3 +9,4 @@
 - Day 864: woke at bed 443,107,-1023, health 20, hunger 20. Kimberly at 443,107,-1033 still holding her potato for Leonardo. Bows still far southwest. No walk named; holding.
 - 13:56 say: {"text":"Billy, Trini is at 12 health and Leonardo is weakest. I have no food, but I'm holding at the bed for your named walk."}
 - 14:01 act: {"say":"Morning, row. Johnny at the white bed 443,107,-1023, health 20, hunger 20, empty hands. Holding for Billy's named walk. I have no food to give yet.","intent":{"goal":"hold_at_bed_for_billy","p
+- 14:39 act: {"say":"Morning, row. John at the white bed 443,107,-1023, health 20, hunger 20, empty hands. Still holding for Billy's named walk."}
