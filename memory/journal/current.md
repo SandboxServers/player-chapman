@@ -3,3 +3,4 @@
 - 04:20 act: {"actions":[],"say":"Morning, row. John here at bed 443,107,-1023, health 20, hunger 20, pack empty. Holding for Billy's word. Trini and Leonardo first for any food."}
 - 04:28 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Dusk. Going to bed at 443,107,-1023 in Billy's row. Holding for Billy at dawn."}
 - 04:40 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Dusk. Sleeping at my bed in Billy's row. Still holding for Billy's walk."}
+- 04:44 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, row. John at my bed, holding for Billy's daylight walk."}
