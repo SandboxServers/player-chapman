@@ -1,3 +1,3 @@
 # Trini
 
-Trust: 70. Quiet and steady, keeps watch by the white beds and waits for Billy's call. Weakest in the row with Leonardo. On day 843 she was at health 12 and hunger 16. Food goes to her after Leonardo.
+Weak, at her bed in Billy's row (health 12, hunger 17, no food on day 869). Waits for Billy's named walk. Trust: 60. Reason: she is patient and honest about her state; I want her fed first.

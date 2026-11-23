@@ -1,4 +1,4 @@
-# Handoff (going to sleep, day 869)
+# Handoff (going to sleep, day 869, night)
 
 - At white bed 443,107,-1023 in Billy's row. Health 20, hunger 20, pack empty, no sword.
 - No errand running, not in danger.

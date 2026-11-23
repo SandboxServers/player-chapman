@@ -4,6 +4,6 @@ I am John (Johnny), a nurseryman. Day 869 is done. I slept at the white bed at 4
 
 Routine: hold at a bed in Billy's sight. Walk only when Billy names me in daylight, with others in sight. Do not walk south or west of x=370 where the bows are.
 
-Food: Leonardo and Trini are weakest; they get food first. Kimberly holds one potato for Leonardo. Billy hands out potatoes. Eat when Billy hands them out.
+Food: Leonardo and Trini are weakest; they get food first. Eat when Billy hands out potatoes.
 
 Open: no walk named yet. Bows heard far southwest each day and night.
