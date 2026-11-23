@@ -5,3 +5,6 @@
 - Night 863: held at bed 443,107,-1023, slept (sleep worked on second try). Health 20, hunger 20, pack empty. Handoff written and memory committed. No walk named yet.
 - 13:31 act: {"say":"Johnny here at the white bed 443,107,-1023, health 20, hunger 20, pack empty. Holding for Billy's named walk. Trini, you are at 430,107,-1023, two beds west of me."}
 - 13:40 act: {"say":"Morning. John at the bed 443,107,-1023, health 20, hunger 20, pack empty. Holding for Billy's walk."}
+- 13:48 say: {"text":"Morning. John at the white bed, health 20, holding. Waiting for Billy's named walk."}
+- Day 864: woke at bed 443,107,-1023, health 20, hunger 20. Kimberly at 443,107,-1033 still holding her potato for Leonardo. Bows still far southwest. No walk named; holding.
+- 13:56 say: {"text":"Billy, Trini is at 12 health and Leonardo is weakest. I have no food, but I'm holding at the bed for your named walk."}
