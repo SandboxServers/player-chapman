@@ -1,6 +1,6 @@
 # Summary
 
-I am John (Johnny), a nurseryman. Day 837 is done. I slept at bed 443,107,-1023 in Billy's row, health 20, hunger 20, pack empty.
+I am John (Johnny), a nurseryman. Day 838 is done. I slept at bed 443,107,-1023 in Billy's row, health 20, hunger 20, pack empty.
 
 Routine: hold at a bed in Billy's sight. Walk only when Billy names me in daylight, with others in sight. Do not walk south or west of x=370 where the bows are.
 
