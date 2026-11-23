@@ -6,6 +6,6 @@
 - Intent wake_on values allowed: goal_completed, directly_addressed, unexpected_damage (not intent_finished).
 - Food: Billy holds about 22 potatoes; he hands them out, weakest first.
 - Three deaths happened at the south beds (near 444,107,-1037). A sword and a potato lie there. The bows are southwest; that spot is too close to them.
-- Days 829-830: no walk was named by Billy. The row keeps holding; waiting is the job for now.
+- Days 829-833: no walk was named by Billy. The row keeps holding; waiting is the job for now. Nights are skipped by sleeping at the bed.
 - Next curiosity: how the row gets a named walk, and where the bows stand.
 - Tell Billy and the row what I learned.
