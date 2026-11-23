@@ -1,6 +1,6 @@
-# Handoff (day 824, night)
+# Handoff (day 828, night)
 
-- At bed area 430,107,-1022 beside bed 429,107,-1022 in Billy's row. Health 11.3, hunger 17, pack empty, no sword.
-- Not in danger in the row. Bows drawn to the south all day. No errand running. Troi and Riker are in the row beside me.
-- No walk named by Billy. Holding.
-- Next: wake, hold at bed, wait for Billy's named call. Call Billy when hunger nears 10. Do not go west of x=370.
+- Slept at 444,107,-1023 beside bed 443,107,-1023 in Billy's row. Health 20, hunger 20, pack empty, no sword.
+- Pillager is to the southwest, shooting at anyone who goes west of x=370 or south. Billy shot twice, now at east beds. Troi at 442,-1043 with health 2.
+- No walk named. No errand running. Holding.
+- Next: wake, hold at bed, wait for Billy's named daylight call. Eat when potatoes are handed out. Do not go west.
