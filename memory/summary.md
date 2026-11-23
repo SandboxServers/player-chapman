@@ -6,4 +6,4 @@ Routine: hold at a bed in Billy's sight. Walk only when Billy names me in daylig
 
 Food: Leonardo and Trini are weakest; they get food first. Billy hands out potatoes. Kimberly holds one for Leonardo.
 
-Open: no walk named yet. Bows heard far southwest at night. Troi reports Deanna sleeping by his bed, not walking.
+Open: no walk named yet. Bows heard far southwest by day and night. Troi, Trini and Kimberly are all holding at the beds too.
