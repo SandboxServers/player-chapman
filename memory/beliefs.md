@@ -6,12 +6,7 @@
 - Intent wake_on values allowed: goal_completed, directly_addressed, unexpected_damage (not intent_finished).
 - Food: Billy holds about 22 potatoes; he hands them out, weakest first. Kimberly holds one for Leonardo at 443,107,-1033.
 - Three deaths happened at the south beds (near 444,107,-1037). A sword and a potato lie there. The bows are southwest; that spot is too close to them.
-- Days 829-851: no walk was named by Billy. The row keeps holding; waiting is the job for now.
-- Day 851: bows drawn far southwest again. Trini has no food in her pack; MacDonald and Troi have none either.
-- Day 854: still no walk named. Kimberly holds the potato for Leonardo. Trini at health 12, hunger 16. Bows heard all day far southwest.
-- Next curiosity: how the row gets a named walk, and where the bows stand.
-- Day 861: Trini asked me to tell Billy she holds at the bed. I said so aloud; no reply from Billy yet.
-- Tell Billy and the row what I learned.
-- Day 867: still no walk named by Billy. Bows heard far southwest all day and night. Trini at health 12, hunger 17; Leonardo weakest. I have no food and no sword.
+- Days 829-874: no walk was named by Billy. The row keeps holding; waiting is the job for now.
+- Day 874: bows heard far southwest again at dusk. Sleep at the white bed works (the sleep call succeeded at dusk).
 - Next curiosity: whether Billy will ever name a walk, and whether Kimberly's potato reaches Leonardo.
 - Tell Billy and the row what I learned; Trini and Troi are listening.
