@@ -12,3 +12,6 @@
 - Next curiosity: how the row gets a named walk, and where the bows stand.
 - Day 861: Trini asked me to tell Billy she holds at the bed. I said so aloud; no reply from Billy yet.
 - Tell Billy and the row what I learned.
+- Day 867: still no walk named by Billy. Bows heard far southwest all day and night. Trini at health 12, hunger 17; Leonardo weakest. I have no food and no sword.
+- Next curiosity: whether Billy will ever name a walk, and whether Kimberly's potato reaches Leonardo.
+- Tell Billy and the row what I learned; Trini and Troi are listening.
