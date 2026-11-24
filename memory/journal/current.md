@@ -9,3 +9,5 @@
 - 20:40 act: {"actions":[{"do":"sleep"}],"say":"Johnny going to sleep at my bed. Health 20, hunger 20, no food, unarmed. Goodnight, row."}
 - 20:52 act: {"actions":[{"do":"sleep"}],"say":"Johnny sleeping at my bed. Health 20, hunger 20, no food, unarmed. Goodnight, row."}
 - 21:04 act: {"actions":[{"do":"sleep"}],"say":"Johnny at my bed, night of 957. Health 20, hunger 20, no food, unarmed. Holding here. Goodnight, row."}
+- 21:04 act: {"actions":[{"do":"sleep"}]}
+- 21:08 act: {"actions":[],"say":"Johnny at my bed, morning of 958. Health 20, hunger 20, no food, unarmed. Beverly, I hear you: Leonardo first. Holding here until a daylight walk or food is named."}
