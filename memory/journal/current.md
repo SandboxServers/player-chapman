@@ -7,3 +7,6 @@ Day 950 morning: woke at the white bed 443,107,-1023, health 20, hunger 20, pack
 - Night day 951: slept at the bed. Reflect: nothing I could give today, so holding was right. Food is the real need; I will go to Leonardo first if food is named.
 - Waited. Beverly holding (hunger 17, waiting on Billy's potato routing). MacDonald and Troi hold at beds; Leonardo still at health 1. No food or walk named. Bows drawn SW. Holding.
 - 18:48 act: {"say":"Good morning. I have no food to give, but I am holding at my bed. Anyone with a walk or food to share, name it and I will come.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},
+- Day 951 morning (waking 973): at bed, health 20, hunger 20, pack empty, Kimberly near. Troi greeted the row. Still no food or walk named. Said good morning to Troi, holding at bed.
+- 19:01 act: {"say":"Good morning, Troi. I am at my bed too, with empty hands. If anyone has food for Leonardo or Beverly, I will carry it to them.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"
+- 19:09 act: {"say":"Leonardo, I hear you. I have no food, but if Trini brings potatoes on a daylight route, I will walk with her to you."}
