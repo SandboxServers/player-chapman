@@ -4,6 +4,6 @@ I am John (Johnny), a nurseryman. Day 937 is done; I slept at the white bed 443,
 
 Routine: hold at a bed in Billy's sight. Walk only when Billy or Worf names a daylight walk, with an armed friend in sight. Do not walk south or west of x=370, where the bows are. Never walk alone under bows.
 
-Food: Leonardo, Trini, Beverly and Bcrusher are weakest and get food first. Trini holds two potatoes for Leonardo. I have none to give. Eat only when handed food.
+Food: Leonardo, Trini, Beverly and Riker are weakest. I have none to give. Eat only when handed food.
 
-Open: no walk named yet. Next waking: hold at the bed until Billy or Worf names a walk. Get a sword once food is steady.
+Open: no walk named yet. Next waking: hold at the bed until Billy or Worf names a walk.
