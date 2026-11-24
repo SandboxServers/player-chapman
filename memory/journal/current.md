@@ -7,4 +7,8 @@
 - 12:05 say: {"text":"Good night all. Holding still by my white bed until light. Johnny is here."}
 - Day 931 morning: bows drawn to the southwest again and again. Still at the bed, health 20, hunger 20. No walk named. Holding.
 - Day 931 night again: still at the bed, health 20, hunger 20, unarmed, no walk named. Going to sleep here.
+- Day 931 morning, woke at bed. Greeted row, set hold intent (rest). Health 20, hunger 20. No walk named. Holding.
+- Day 932 morning: still at bed, health 20, hunger 20. Bows drawn SW. Row holding, no walk named. Waiting.
 - 12:09 say: {"text":"Morning. John here, health 20, hunger 20, unarmed. Holding at my bed. Still no walk named; I will wait for Billy or Worf."}
+- 12:22 act: {"say":"Good morning. John here, at my white bed in the row, health 20, hunger 20. Holding here until Billy or Worf names a walk.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_
+- 12:34 act: {"say":"Good night, row. John here, at my white bed, health 20, hunger 20. Holding still until light.","actions":[{"do":"sleep"}]}
