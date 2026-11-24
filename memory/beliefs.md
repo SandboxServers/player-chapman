@@ -16,4 +16,5 @@
 - Day 908: held at the bed all day, slept at dusk. Bcrusher was at health 1 near the bed with nothing and asked for help. Nothing new learned about walking. Curious whether Billy will name a walk; tell the row what I see.
 - Day 915: held at the bed all day, slept at dusk. Bows drawn southwest again. Leonardo at health 1; I had nothing to give. Troi, Macdonald, Bcrusher, Kimberly all hold and wait on Billy. Still no walk named for me.
 - Day 922: held at the bed through night and morning, slept at dusk. Bows southwest all day. Trini has 2 potatoes for Leonardo then Worf. Still no walk named.
+- Day 925: held at the bed all day, slept at dusk. Bows southwest all day. Trini (health 11) waits with two potatoes. No walk named. Nothing new learned.
 - Day 903: Bcrusher holds 10 potatoes and gives them out only once each is owed and in sight. Beverly was at health 7 (reported). Bows drawn southwest all day again. Nothing new about walking.
