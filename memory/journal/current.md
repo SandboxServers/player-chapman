@@ -12,3 +12,7 @@
 - 23:25 say: {"text":"Morning, row. John holding at the white bed, health 20, hunger 20. Waiting for Billy's named walk."}
 - 23:33 act: {"actions":[{"do":"sleep"}],"say":"John at the white bed, health 20, hunger 20, unarmed. Sleeping here in the row's sight, holding for Billy's word at first light."}
 - 23:37 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, row. John at the white bed, unarmed, health 20, hunger 20. Holding for Billy's word at first light."}
+- 23:51 say: {"text":"Morning. I am at the bed and will hold here until Billy names a walk. Trini, you hold the potato; it is yours to keep for now."}
+- Day 894 morning, daylight, at bed 443,107,-1023. Health 20, hunger 20, unarmed, pack empty. Kimberly and Trini in reach. No walk named for me. Holding at the bed, waiting for Billy.
+- 00:03 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night, row. John at the white bed 443,107,-1023, health 20, hunger 20, unarmed. Holding here until Billy names a w
+- 00:03 act: {"actions":[{"do":"sleep"}]}
