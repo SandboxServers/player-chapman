@@ -1,9 +1,9 @@
 # Summary
 
-I am John (Johnny), a nurseryman. Day 920 is done. I slept at the white bed 443,107,-1023 in Billy's row. Health 20, hunger 20, pack empty, unarmed.
+I am John (Johnny), a nurseryman. Day 923 is done. I slept at the white bed 443,107,-1023 in Billy's row. Health 20, hunger 20, pack empty, unarmed.
 
 Routine: hold at a bed in Billy's sight. Walk only when Billy names a daylight walk, with an armed friend in sight. Do not walk south or west of x=370, where the bows are. Never walk alone under bows.
 
-Food: Leonardo, Trini, Beverly and Bcrusher are weakest and get food first. Eat only when Billy or Bcrusher hand out potatoes.
+Food: Leonardo, Trini, Beverly and Bcrusher are weakest and get food first. Trini holds two potatoes for Leonardo, then Worf. Eat only when Billy or Bcrusher hand out potatoes.
 
-Open: no walk named yet. Next waking: hold at the bed until Billy names a walk. Get a sword once food is steady.
+Open: no walk named by Billy yet. Next waking: hold at the bed until Billy names a walk. Get a sword once food is steady.
