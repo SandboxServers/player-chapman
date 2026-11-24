@@ -11,3 +11,9 @@
 - 21:04 act: {"actions":[{"do":"sleep"}],"say":"Johnny at my bed, night of 957. Health 20, hunger 20, no food, unarmed. Holding here. Goodnight, row."}
 - 21:04 act: {"actions":[{"do":"sleep"}]}
 - 21:08 act: {"actions":[],"say":"Johnny at my bed, morning of 958. Health 20, hunger 20, no food, unarmed. Beverly, I hear you: Leonardo first. Holding here until a daylight walk or food is named."}
+- 21:17 act: {"actions":[{"do":"sleep"}],"say":"Johnny at my bed at dusk, health 20, hunger 20, no food, unarmed. Holding here. Goodnight, row."}
+- 21:25 act: {"actions":[],"say":"Johnny awake at my bed, morning of 959. Health 20, hunger 20, no food, unarmed. Holding here. Leonardo, Beverly, I am listening."}
+- 21:29 act: {"actions":[{"do":"sleep"}],"say":"Johnny at my bed at dusk of 959. Health 20, hunger 20, no food, unarmed. Holding here. Goodnight, row."}
+- 21:31 wait: day 959 daytime again. Dusk sleep had failed as not night; now light. Health 20, hunger 20, unarmed, pack empty. Kimberly beside me. Bows drawn southwest. No walk or food named. Holding at the bed.
+- 21:37 act: {"say":"Johnny at my white bed, health 20, hunger 20, pack empty, unarmed. Holding here until Billy or Worf names a daylight walk or food. Leonardo first when food comes."}
+- 21:49 act: {"actions":[],"say":"Johnny at my white bed, health 20, hunger 20, nothing to give. Leonardo, Trini's potatoes are yours first. I am holding here."}
