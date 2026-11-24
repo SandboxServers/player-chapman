@@ -4,3 +4,5 @@
 - Dusk day 906: held at my bed all day, no walk named, no food to hand out. Tried to sleep at dusk; refused, not night yet. Waited at the bed; now night, sleeping. Beverly (health 7) has Bcrusher's 10 potatoes waiting for Zack and Worf.
 - 03:47 act: {"actions":[{"do":"sleep"}]}
 - 03:51 act: {"actions":[{"do":"sleep"}]}
+- 03:56 say: {"text":"Morning. John here, holding at the white bed, health 20, hunger 20. Waiting for Billy to name a walk."}
+- Day 906 morning: still at bed (443,107,-1023), daylight, clear. Bows heard southwest. Bcrusher holds potatoes, not eating till 6. No walk named. Waiting.
