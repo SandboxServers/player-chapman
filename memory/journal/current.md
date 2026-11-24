@@ -6,3 +6,4 @@
 - 03:51 act: {"actions":[{"do":"sleep"}]}
 - 03:56 say: {"text":"Morning. John here, holding at the white bed, health 20, hunger 20. Waiting for Billy to name a walk."}
 - Day 906 morning: still at bed (443,107,-1023), daylight, clear. Bows heard southwest. Bcrusher holds potatoes, not eating till 6. No walk named. Waiting.
+- 04:04 say: {"text":"Staying at the bed for the night. Will walk only when Billy names a daylight walk."}
