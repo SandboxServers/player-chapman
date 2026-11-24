@@ -12,3 +12,4 @@
 - Day 900: held at the bed all day, slept at dusk. Trini and Kimberly near. Leonardo holds his own potato at 430,107,-1037 and will not walk south alone. Nothing new learned.
 - Next curiosity: whether Billy will name a walk for me, and whether Kimberly's potato reaches Leonardo.
 - Tell Billy and the row what I learned; Trini and Troi are listening.
+- Day 903: Bcrusher holds 10 potatoes and gives them out only once each is owed and in sight. Beverly was at health 7 (reported). Bows drawn southwest all day again. Nothing new about walking.
