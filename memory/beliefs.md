@@ -12,5 +12,6 @@
 - Days 829-929: no walk was named for me by Billy. The row keeps holding; waiting is the job for now.
 - Bows are heard southwest at most dusks, nights and days. Sleep at the white bed works.
 - Day 929: held through two nights; bows southwest all day; Leonardo at very low health with no food in the row. Nothing new about walking.
+- Day 938: held through the night at the white bed; bows heard southwest on day and night. Beverly hunger 17, Leonardo still weakest. Still no walk named.
 - Next curiosity: whether Billy will name a walk for me, and whether Trini's potatoes reach Leonardo.
 - Tell Billy and the row what I learned; Trini and Troi are listening.
