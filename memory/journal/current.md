@@ -5,4 +5,7 @@
 - 20:23 act: {"actions":[{"do":"sleep"}]}
 - 20:27 act: {"actions":[],"say":"Johnny at my bed, morning of 956. Health 20, hunger 20, pack empty. Holding here until Billy or Worf names a daylight walk or food."}
 - Morning 956: Troi, MacDonald, Kimberly, Beverly all holding at their beds. Beverly says the 2 potatoes go to Leonardo first. No food reached me; no walk named. Still holding at the bed.
+- Day 957 morning: sleep failed at dusk because it was not yet night, so I stayed at the bed. Beverly still waiting for Billy's potato routing. No walk or food named. Health 20, hunger 20.
 - 20:40 act: {"actions":[{"do":"sleep"}],"say":"Johnny going to sleep at my bed. Health 20, hunger 20, no food, unarmed. Goodnight, row."}
+- 20:52 act: {"actions":[{"do":"sleep"}],"say":"Johnny sleeping at my bed. Health 20, hunger 20, no food, unarmed. Goodnight, row."}
+- 21:04 act: {"actions":[{"do":"sleep"}],"say":"Johnny at my bed, night of 957. Health 20, hunger 20, no food, unarmed. Holding here. Goodnight, row."}
