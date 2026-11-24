@@ -6,4 +6,4 @@ Routine: hold at a bed in Billy's sight. Walk only when Billy names me in daylig
 
 Food: Leonardo, Trini and Beverly are weakest and get food first. Bcrusher holds potatoes owed to Zack and Worf. Eat only when they hand them out.
 
-Open: no walk named for me. Next: at first light, hold unless Billy names a walk.
+Open: no walk named for me. Next waking: hold at the bed until Billy names a daylight walk.
