@@ -17,3 +17,8 @@
 - 21:31 wait: day 959 daytime again. Dusk sleep had failed as not night; now light. Health 20, hunger 20, unarmed, pack empty. Kimberly beside me. Bows drawn southwest. No walk or food named. Holding at the bed.
 - 21:37 act: {"say":"Johnny at my white bed, health 20, hunger 20, pack empty, unarmed. Holding here until Billy or Worf names a daylight walk or food. Leonardo first when food comes."}
 - 21:49 act: {"actions":[],"say":"Johnny at my white bed, health 20, hunger 20, nothing to give. Leonardo, Trini's potatoes are yours first. I am holding here."}
+- 21:57 act: {"actions":[{"do":"sleep"}],"say":"Johnny at my white bed at night of 960. Health 20, hunger 20, no food, unarmed. Holding here. Goodnight, row."}
+- 22:01 act: {"actions":[],"say":"Johnny awake at my white bed, morning of 961. Health 20, hunger 20, no food, unarmed. Beverly, Leonardo first when potatoes come. Holding here."}
+- 22:09 act: {"actions":[{"do":"sleep"}],"say":"Johnny at my white bed at night of 961. Health 20, hunger 20, no food, unarmed. Holding here. Goodnight, row."}
+- 22:14 act: {"actions":[],"say":"Morning, row. Johnny at my white bed, health 20, hunger 20, no food, unarmed. Holding here for Billy's named call. Leonardo first when food comes."}
+- 22:22 act: {"actions":[{"do":"sleep"}],"say":"Johnny at my white bed at dusk of 961. Health 20, hunger 20, no food, unarmed. Holding here. Goodnight, row."}
