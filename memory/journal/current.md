@@ -16,3 +16,4 @@ Day 950 morning: woke at the white bed 443,107,-1023, health 20, hunger 20, pack
 - Day 953 morning: at bed, health 20, hunger 20, pack empty. Kimberly near. Read the row: Leonardo and Beverly still short of food, no food or daylight walk named. Said so and set hold-at-bed intent again.
 - Waited. Bows keep drawing far to the southwest. Beverly at hunger 17, waiting on Billy's potato routing. No food or walk named. Holding at bed.
 - 19:27 act: {"actions":[{"do":"sleep"}]}
+- Slept at the bed through the night; woke day 954 morning at the same bed, health 20, hunger 20, pack empty. Troi and Beverly report in; Beverly still hunger 17 waiting on Billy's potato routing. No food or daylight walk named. Holding at bed.
