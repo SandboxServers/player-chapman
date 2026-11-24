@@ -16,3 +16,5 @@
 - Day 894 morning, daylight, at bed 443,107,-1023. Health 20, hunger 20, unarmed, pack empty. Kimberly and Trini in reach. No walk named for me. Holding at the bed, waiting for Billy.
 - 00:03 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night, row. John at the white bed 443,107,-1023, health 20, hunger 20, unarmed. Holding here until Billy names a w
 - 00:03 act: {"actions":[{"do":"sleep"}]}
+- 00:08 act: {"say":"Good morning. John here at the bed, health 20, hunger 20, holding until Billy names a route."}
+- 00:16 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Dusk in the row. John going to bed at 443,107,-1023, health 20, hunger 20, unarmed. Holding for Billy at first lig
