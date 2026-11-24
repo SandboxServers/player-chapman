@@ -12,3 +12,5 @@
 - Bows are heard southwest at most dusks and nights. Sleep at the white bed works.
 - Next curiosity: whether Billy will name a walk for me, and whether Kimberly's potato reaches Leonardo.
 - Tell Billy and the row what I learned; Trini and Troi are listening.
+- Day 898: the row held all day at the beds with no walk named. Bows kept sounding southwest. Dusk again at the white bed 443,107,-1023; slept there safely.
+- Day 898: Leonardo's potato for Worf is held at 430,107,-1037; Bcrusher's 10 potatoes are for Zack and Worf.
