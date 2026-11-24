@@ -10,3 +10,5 @@ Day 950 morning: woke at the white bed 443,107,-1023, health 20, hunger 20, pack
 - Day 951 morning (waking 973): at bed, health 20, hunger 20, pack empty, Kimberly near. Troi greeted the row. Still no food or walk named. Said good morning to Troi, holding at bed.
 - 19:01 act: {"say":"Good morning, Troi. I am at my bed too, with empty hands. If anyone has food for Leonardo or Beverly, I will carry it to them.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"
 - 19:09 act: {"say":"Leonardo, I hear you. I have no food, but if Trini brings potatoes on a daylight route, I will walk with her to you."}
+- 19:14 act: {"actions":[{"do":"sleep"}]}
+- Waking 974, day 952 night: at white bed 443,107,-1023, health 20, hunger 20, pack empty, Kimberly near. No food or walk named. Slept at the bed; sleep worked. Holding at bed, nothing to give.
