@@ -12,3 +12,7 @@ Day 950 morning: woke at the white bed 443,107,-1023, health 20, hunger 20, pack
 - 19:09 act: {"say":"Leonardo, I hear you. I have no food, but if Trini brings potatoes on a daylight route, I will walk with her to you."}
 - 19:14 act: {"actions":[{"do":"sleep"}]}
 - Waking 974, day 952 night: at white bed 443,107,-1023, health 20, hunger 20, pack empty, Kimberly near. No food or walk named. Slept at the bed; sleep worked. Holding at bed, nothing to give.
+- 19:19 act: {"say":"John here, at the white bed, unarmed, health 20, hunger 20, pack empty. Holding until Billy or Worf names a daylight walk. I have no food to share.","intent":{"goal":"hold_at_bed","program":"r
+- Day 953 morning: at bed, health 20, hunger 20, pack empty. Kimberly near. Read the row: Leonardo and Beverly still short of food, no food or daylight walk named. Said so and set hold-at-bed intent again.
+- Waited. Bows keep drawing far to the southwest. Beverly at hunger 17, waiting on Billy's potato routing. No food or walk named. Holding at bed.
+- 19:27 act: {"actions":[{"do":"sleep"}]}
