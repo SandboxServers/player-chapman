@@ -1,6 +1,5 @@
-# Handoff (dusk, day 947)
+# Handoff (night, day 947, waking 963)
 
 - At white bed 443,107,-1023 in Billy's row. Health 20, hunger 20, unarmed, pack empty.
-- Held all day. Kimberly is with me at the row. No walk or food named by Billy or Worf. Bows drawn to the southwest often; stayed put.
-- Leonardo at health 1, Beverly hunger 17, Troi and others have no food to give.
-- Next waking: hold until Billy or Worf names a daylight walk with armed friends in sight. If someone names food, go to Leonardo first.
+- Slept at the bed. Kimberly is 2 blocks away, holding for Billy too. No walk or food named.
+- Next waking: hold at the bed. If Billy or Worf names a daylight walk with armed friends, consider it. If someone names food, go to Leonardo first.
