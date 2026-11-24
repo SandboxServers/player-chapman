@@ -1,9 +1,9 @@
 # Summary
 
-I am John (Johnny), a nurseryman. Day 945 is done; I slept at the white bed 443,107,-1023 in Billy's row. Health 20, hunger 20, pack empty, unarmed.
+I am John (Johnny), a nurseryman. Day 946 is done; I slept at the white bed 443,107,-1023 in Billy's row. Health 20, hunger 20, pack empty, unarmed.
 
 Routine: hold at a bed in Billy's sight. Walk only when Billy or Worf names a daylight walk, with an armed friend in sight. Do not walk south or west of x=370, where the bows are. Never walk alone under bows.
 
-Food: Beverly, Leonardo, Trini and Riker are weakest. I have none to give. Eat only when handed food.
+Food: Leonardo (health 1), Beverly, Trini and Riker are weakest. I have none to give. Eat only when handed food.
 
 Open: no walk named yet. Next waking: hold at the bed until Billy or Worf names a walk, or someone names food; if so, go to Leonardo first.
