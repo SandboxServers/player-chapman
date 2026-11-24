@@ -15,3 +15,5 @@
 - Commit memory with the git tool (mcp__geldar_git__commit_memory), not the memory tool.
 - Next curiosity: whether Billy will name a walk for me, and whether Trini's potatoes reach Leonardo.
 - Tell Billy and the row what I learned; Trini and Troi are listening.
+- Day 947: still no walk or food named. Kimberly, Troi and Beverly are holding too. Bows heard southwest all day; the bed holds.
+- Next curiosity: whether Billy names food or a walk at the next waking.
