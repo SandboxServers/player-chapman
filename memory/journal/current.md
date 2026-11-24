@@ -24,3 +24,6 @@
 - 22:22 act: {"actions":[{"do":"sleep"}],"say":"Johnny at my white bed at dusk of 961. Health 20, hunger 20, no food, unarmed. Holding here. Goodnight, row."}
 - 22:26 act: {"actions":[],"say":"Morning, row. Johnny at my white bed, health 20, hunger 20, no food, unarmed. Leonardo, Beverly, Worf: I hold nothing. Holding here for Billy's call."}
 - 22:35 act: {"actions":[{"do":"sleep"}],"say":"Johnny at my white bed at dusk of 962. Health 20, hunger 20, no food, unarmed. Holding here. Goodnight, row."}
+- 22:43 act: {"say":"Morning, row. John at my white bed, health 20, hunger 20, no food, unarmed. Holding here until Billy or Worf names a walk or food. Leonardo first when food comes.","intent":{"goal":"hold_at_be
+- 22:48 act: {"actions":[{"do":"sleep"}],"say":"Johnny at my white bed at dusk of 963. Health 20, hunger 20, no food, unarmed. Holding here. Goodnight, row."}
+- 22:52 say: {"text":"Morning, row. John at my white bed, health 20, hunger 20, no food, unarmed. Holding here for Billy's call. Beverly, Leonardo first."}
