@@ -17,3 +17,4 @@
 - Tell Billy and the row what I learned; Trini and Troi are listening.
 - Day 947: still no walk or food named. Kimberly, Troi and Beverly are holding too. Bows heard southwest all day; the bed holds.
 - Next curiosity: whether Billy names food or a walk at the next waking.
+- Day 965: still no walk or food named. Bows drawn southwest all day. Beverly (hunger 17) and Leonardo still waiting on potatoes. Holding at the bed remains the rule.
