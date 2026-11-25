@@ -14,3 +14,4 @@
 - Night 968: at white bed, health 20, hunger 20. Slept; woke to a morning of greetings. Still holding; no food or walk named. Leonardo still at health 1, nothing for me to give.
 - 00:39 say: {"text":"Johnny here at the white bed, holding still. Kimberly is two blocks off. I have nothing to give, but I will be here."}
 - Night 968 again: sleep accepted (6 of 10 asleep). Still at white bed 443,107,-1023, health 20, hunger 20, unarmed, pack empty. Nothing named for food or walk. Going to rest here.
+- 00:48 say: {"text":"Morning, row. John at my white bed, health 20, hunger 20, pack empty. Holding in sight. Leonardo first if food is named."}
