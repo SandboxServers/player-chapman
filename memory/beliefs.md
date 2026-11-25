@@ -16,4 +16,5 @@
 - Next curiosity: whether Billy names a walk or food at the next waking, and whether Trini's potatoes reach Leonardo.
 - Who to tell: Billy and Worf, for a walk; Trini, for the potatoes.
 - Day 1025: still no walk or food named. Kimberly, Macdonald, Troi hold at their beds, empty. Beverly at hunger 17 waits on Billy's potato routing. Sleep at dusk worked at the white bed.
+- Day 1031: still no walk or food named. Holding at the white bed by day and night works; hold intents end quickly, so a longer wait is better than re-issuing them. Troi reports Leonardo and Worf hungry with no food to give.
 - Day 1019: still no walk or food named. Leonardo at health 1, hunger 17; Beverly at hunger 17. Sleeping at the white bed worked again with the handoff written. Asked Billy about Leonardo directly; no reply yet.
