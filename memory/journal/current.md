@@ -10,3 +10,5 @@
 - 00:21 act: {"actions":[{"do":"sleep"}]}
 - 00:30 say: {"text":"Morning. John here, at the white bed, unarmed, pack empty. Holding in sight. Leonardo, if food is named I'll go to you first."}
 - Waking 968 day. Held at the white bed with Kimberly beside me. Heard bows to the southwest; Troi and Beverly are holding too. No food or walk named; still holding, health 20, hunger 20.
+- 00:39 say: {"text":"John here at my white bed. Holding for the night, unarmed and empty-handed. Beverly and Deanna, I hear you."}
+- Night 968: at white bed, health 20, hunger 20. Slept; woke to a morning of greetings. Still holding; no food or walk named. Leonardo still at health 1, nothing for me to give.
