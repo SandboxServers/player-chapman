@@ -18,4 +18,5 @@
 - Day 947: still no walk or food named. Kimberly, Troi and Beverly are holding too. Bows heard southwest all day; the bed holds.
 - Next curiosity: whether Billy names food or a walk at the next waking.
 - Day 978: the row still holds; Deanna (troi) and Beverly speak at mornings. Trini has the potatoes for Leonardo, to be given when in sight.
+- Day 981: still no walk or food named. Leonardo at health 1 at bed 416; Troi stays beside him. Kimberly and MacDonald hold at beds in the row. Night-time waking, then dusk sleep, is the rhythm here.
 - Day 965: still no walk or food named. Bows drawn southwest all day. Beverly (hunger 17) and Leonardo still waiting on potatoes. Holding at the bed remains the rule.
