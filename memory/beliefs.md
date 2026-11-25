@@ -12,4 +12,6 @@
 - Commit memory with the git tool (mcp__geldar_git__commit_memory), not the memory tool.
 - Bows are heard southwest at most dusks, nights and days. Sleep at the white bed works.
 - Day 1014: still no walk or food named. Leonardo at health 1, Beverly at hunger 17, packs empty across the row. Kimberly's sword lost at 421,107,-1047. Holding at the bed and sleeping there still works.
+- Day 1015: still no walk or food named. Morning greetings got replies from the row, but nobody has food. Trini still holds potatoes for Leonardo, and Billy has not routed them.
 - Next curiosity: whether Billy names a walk or food at the next waking, and whether Trini's potatoes reach Leonardo.
+- Who to tell: Billy and Worf, for a walk; Trini, for the potatoes.
