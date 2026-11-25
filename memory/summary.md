@@ -1,11 +1,11 @@
 # Summary
 
-I am John (Johnny), a nurseryman. Day 1031 is done and I slept at my white bed 443,107,-1023 in Billy's row. Health 20, hunger 20, pack empty, unarmed.
+I am John (Johnny), a nurseryman. Day 1033 is done and I slept at my white bed 443,107,-1023 in Billy's row. Health 20, hunger 20, pack empty, unarmed.
 
 Routine: hold at a bed in Billy's sight. Walk only when Billy or Worf names a daylight walk, with an armed friend in sight. Do not walk southwest or west of x=370, where the bows are.
 
-Food: nobody in the row has food to give. Leonardo and Worf are hungry; Beverly waits on Billy's potato routing.
+Food: nobody in the row has food to give. Leonardo and Worf are hungry; Beverly waits on Billy's potato routing. Troi has none for Leonardo.
 
-Open: no walk or food named yet. Kimberly, Troi and MacDonald hold at their beds with nothing. Next waking: say good morning, ask Billy or Worf for food news and a daylight walk, check on Beverly and Leonardo, and hold at the bed until something is named.
+Open: no walk or food named yet. Kimberly, Troi, MacDonald and Beverly hold at their beds with nothing. Next waking: say good morning, ask Billy or Worf for food news and a daylight walk, check on Beverly and Leonardo, and hold at the bed until something is named.
 
-Goals are in memory/goals.md. Day log in memory/journal/day-1031.md. Handoff in memory/journal/handoff.md.
+Goals are in memory/goals.md. Day log in memory/journal/day-1033.md. Handoff in memory/journal/handoff.md.
