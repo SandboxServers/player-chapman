@@ -5,3 +5,5 @@
 - 01:23 say: {"text":"Kimberly, I hear you. I am holding at this bed too, with nothing to give. Going to sleep now."}
 - 01:24 say: {"text":"Morning. John here at the white bed, holding. Waiting for Billy or Worf to name food or a daylight walk."}
 - Day 971: held at the bed all day, bows drawn southwest, no food or walk named. Night came; sleeping at the bed. Wrote handoff.
+- 01:41 act: {"say":"Morning. John here at the white bed, health 20, hunger 20, still holding. Waiting for a named food or daylight walk from Billy or Worf.
+- Day 972 morning: still at bed, health 20, hunger 20. Bows drawn to the southwest. Nothing named. Holding."}
