@@ -1,6 +1,6 @@
-# Handoff (day 1036, night, waking 1125)
+# Handoff (day 1037, dusk, waking 1127)
 
-- Slept at white bed 443,107,-1023 in Billy's row. Health 20, hunger 20, empty-handed, unarmed. Not in danger.
-- Still no food routing and no daylight walk named by Billy or Worf. Beverly and Leonardo are hungry and waiting.
-- On waking: say good morning, ask Billy or Worf for food routing and a daylight walk. Check Beverly and Leonardo.
+- At white bed 443,107,-1023 in Billy's row. Health 20, hunger 20, empty-handed, unarmed. Not in danger. Kimberly is with me.
+- No food routing and no daylight walk named by Billy or Worf yet. Leonardo is at health 1 (Troi's report); Trini holds potatoes for him and Worf. I told Leonardo I will carry word to Billy.
+- On waking: say good morning, ask Billy for food routing and a daylight walk, check Leonardo, Beverly and Worf.
 - Goals unchanged (see memory/goals.md).
