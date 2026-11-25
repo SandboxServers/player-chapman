@@ -12,3 +12,5 @@
 - 20:36 act: {"say":"Good night, Kimberly. Any food news, or a daylight walk named yet?","actions":[{"do":"sleep"}]}
 - 20:38 act: {"say":"Goodnight, Kimberly and MacDonald. I hold at my bed in Billy's row until a walk or food is named."}
 - 20:38 act: {"actions":[{"do":"sleep"}]}
+- 20:43 act: {"say":"Good morning. John here at my bed, health 20, hunger 20, empty-handed. Beverly, Leonardo, if anyone has food news, tell me and I will help carry it. Holding here until Billy or Worf names a wa
+- Waking 1106, day 1028 morning. Said good morning and offered to carry food news. Kimberly, Troi, MacDonald and Beverly all hold with no food; Beverly hunger 17. Set intent to hold at bed until woken.
