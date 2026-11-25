@@ -1,7 +1,9 @@
-# Handoff (day 1032, night)
+# Handoff (day 1034, dusk)
 
 - At white bed 443,107,-1023 in Billy's row. Health 20, hunger 20, empty-handed, unarmed.
-- Kimberly holding two blocks away, said goodnight. No food, no daylight walk named.
-- Bed "use" failed once (it is a bed); sleep was accepted. Try sleep again at the bed.
-- On waking: say good morning, ask Billy or Worf for food news and a daylight walk. Check Beverly and Leonardo.
+- Kimberly holding two blocks away. Troi, MacDonald, Beverly hold at their beds with no food.
+- Leonardo reported at health 1; no food in the row to give him. Billy's potato routing still not named.
+- No daylight walk named. Bows heard to the southwest all day; stay at the bed.
+- Going to sleep at the bed now.
+- On waking: say good morning, ask Billy or Worf for food news and a daylight walk. Check Leonardo and Beverly.
 - Goals unchanged.
