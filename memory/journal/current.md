@@ -9,3 +9,4 @@
 - 20:28 act: {"actions":[{"do":"sleep"}],"say":"Good morning. Billy, Worf, is there food in the row yet, or a daylight walk named? I hold at my bed; bows are drawn to the southwest."}
 - Day 1028 morning. Sleep refused in daylight (not night), fine. Still no food news, no walk named. Holding at bed 443,107,-1023, health 20, hunger 20. Waiting for Billy or Worf.
 - Dusk 1028. Still no food, no walk named. Handoff written; going to sleep at my bed.
+- 20:36 act: {"say":"Good night, Kimberly. Any food news, or a daylight walk named yet?","actions":[{"do":"sleep"}]}
