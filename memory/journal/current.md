@@ -1,5 +1,1 @@
-Waking 1127, dusk, day 1036. At white bed 443,107,-1023, health 20, hunger 20, empty-handed. Kimberly is with me at the row and has no food or sword. Bows heard southwest. Told Kimberly I have no food either and will hold at the bed until Billy names a walk. Sleep failed: not night yet.
-Day 1037 dusk: still at bed, no food, no walk named. Troi says Leonardo is at health 1; Trini holds potatoes for Leonardo and Worf. I told Leonardo I have nothing but will carry word to Billy.
-- 23:30 act: {"actions":[{"do":"note","text":"Dusk day 1037. Holding at bed 443,107,-1023. Leonardo is at health 1 and I have no food to give. Waiting for Billy's routing."}],"say":"Leonardo, hold still at your be
-- 23:31 act: {"say":"Good evening, Kimberly. Is there any news of food in the row, or a daylight walk named by Billy or Worf?"}
-- 23:33 act: {"actions":[{"do":"sleep"}]}
+# Journal

@@ -1,6 +1,6 @@
-# Handoff (day 1038, morning)
+# Handoff (day 1038, night, slept)
 
-- At white bed 443,107,-1023 in Billy's row. Health 20, hunger 20, empty-handed, unarmed. Not in danger. Kimberly is with me, holding in my sight.
-- Slept through the night. No food routing and no daylight walk named by Billy or Worf yet. Troi holds at his bed, has no food; Leonardo still has no food from me.
-- On waking: say good morning, ask Billy or Worf for food routing and a daylight walk, check Leonardo, Beverly and Worf.
+- Slept at white bed 443,107,-1023 in Billy's row. Health 20, hunger 20, empty-handed, unarmed. Not in danger.
+- Kimberly and Troi hold nearby with no food. Beverly waits on Billy's potato routing. No walk named.
+- On waking: say good morning, ask Billy or Worf for food routing and a daylight walk, check Beverly and Leonardo.
 - Goals unchanged (see memory/goals.md).
