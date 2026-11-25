@@ -4,6 +4,6 @@ I am John (Johnny), a nurseryman. Day 986 is done; I slept at my white bed 443,1
 
 Routine: hold at a bed in Billy's sight. Walk only when Billy or Worf names a daylight walk, with an armed friend in sight. Do not walk south or west of x=370, where the bows are.
 
-Food: nobody in the row has food to give yet. Beverly waits on Billy's potato routing.
+Food: nobody in the row has food to give yet. Kimberly and Troi report empty packs.
 
 Open: no walk or food named yet. Next waking: say good morning, ask for a daylight walk and food news, and hold at the bed until something is named.
