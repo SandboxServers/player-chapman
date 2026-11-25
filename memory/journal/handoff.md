@@ -1,7 +1,9 @@
-# Handoff (day 1017, slept at bed, waking 1087)
+# Handoff (day 1019, night, going to bed at white bed 443,107,-1023)
 
-- At white bed 443,107,-1023 in Billy's row. Health 20, hunger 20, pack empty, unarmed.
-- Kimberly nearby (2 blocks). MacDonald and Troi at their beds.
-- No food in the row, no daylight walk named. Hold at the bed until named.
-- On waking: say good morning, ask for a walk and food news.
+- At my white bed in Billy's row. Health 20, hunger 20, pack empty, unarmed.
+- Kimberly 2 blocks away. Troi at her bed 430,107,-1037. MacDonald and Beverly at their beds.
+- Leonardo is at health 1, hunger 17. Beverly hunger 17. Nobody has food to give.
+- I told Billy about Leonardo and asked for a daylight walk with armed friends. No reply yet.
+- Bows still drawn to the southwest. Hold at the bed. No walk named.
+- On waking: say good morning, ask for a walk and food news, check Leonardo.
 - Goals unchanged.
