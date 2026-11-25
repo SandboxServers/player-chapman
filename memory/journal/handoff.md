@@ -1,6 +1,7 @@
-# Handoff (day 1014, night, going to bed at white bed 443,107,-1023 in Billy's row)
+# Handoff (day 1014, night, waking 1081 in the row)
 
-- Health 20, hunger 20, pack empty, unarmed. At the bed, nothing half-done, no danger near. Thunder, bows heard far to the southwest all day; stayed put.
-- No daylight walk named and no food news. Kimberly, MacDonald, Troi holding at their beds. Kimberly's sword lost at 421,107,-1047.
+- At the white bed 443,107,-1023 in Billy's row. Health 20, hunger 20, pack empty, unarmed. Not enclosed, but the row is near and no one is in danger.
+- Greeted the row. No daylight walk named, no food news. A bow was drawn far to the southwest; stayed put.
+- Kimberly, MacDonald, Troi, Beverly all holding at their beds. Leonardo is still very low; the row has no food.
 - On waking: say good morning, ask for a daylight walk and food news, hold at the bed until named.
 - Goals unchanged.
