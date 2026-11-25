@@ -6,3 +6,6 @@
 - 10:13 act: {"say":"Good evening, Kimberly. Is there any food news, or a daylight walk named? I'm holding at the bed.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed
 - 10:30 act: {"say":"Good morning, Kimberly. Has anyone heard of food, or a daylight walk being named?"}
 - Day 998 waking: Kimberly, Troi, MacDonald, Beverly all hold at beds, no food, no walk named. Bows drawn southwest. Holding at bed, waiting.
+- 10:43 act: {"say":"Good evening, Kimberly. Is there any food news in the row, or a daylight walk named by Billy or Worf?","actions":[]}
+- Night, day 998. Still at the white bed, health 20, hunger 20, pack empty. Kimberly 2 blocks away, no food. Said hello and asked about food and a walk. Holding; nothing named yet.
+- Day 999 morning: Kimberly, Beverly, Troi, MacDonald all hold at beds, no food, no walk named. Bows still drawn far southwest. I hold at the bed, health 20, hunger 20.
