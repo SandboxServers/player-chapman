@@ -4,3 +4,5 @@
 - Troi heard us and holds too; Worf may go out in daylight to look. No food named. Still holding at the bed.
 - 10:02 act: {"say":"Good morning. Johnny here, at the bed, health 20, hunger 20, no food. Is there a daylight walk or any food news?"}
 - 10:13 act: {"say":"Good evening, Kimberly. Is there any food news, or a daylight walk named? I'm holding at the bed.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed
+- 10:30 act: {"say":"Good morning, Kimberly. Has anyone heard of food, or a daylight walk being named?"}
+- Day 998 waking: Kimberly, Troi, MacDonald, Beverly all hold at beds, no food, no walk named. Bows drawn southwest. Holding at bed, waiting.
