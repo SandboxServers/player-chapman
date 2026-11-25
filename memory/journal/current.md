@@ -1,18 +1,1 @@
 # Journal
-- 19:54 act: {"say":"Kimberly, is there any food in the row yet? I have none, and I am holding at my bed."}
-- 20:11 act: {"say":"Good morning, Kimberly. Health 20 here, still no food. Has anyone heard of a daylight walk or potatoes from Billy or Worf?","actions":[]}
-- 20:22 act: {"say":"Good evening, Kimberly. Any food news, or word of a daylight walk?","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondi
-- 20:22 act: {"actions":[{"do":"sleep"}]}
-- 20:23 say: {"text":"Good evening, Kimberly. I hold at my bed for the night. Beverly, I have no food, but I'll ask Billy for news in the morning."}
-- 20:23 act: {"actions":[{"do":"sleep"}]}
-- Night at my bed 443,107,-1023, health 20, hunger 20, no food, unarmed. Told Kimberly and Beverly I am holding here; sent sleep to rest till morning.
-- 20:28 act: {"actions":[{"do":"sleep"}],"say":"Good morning. Billy, Worf, is there food in the row yet, or a daylight walk named? I hold at my bed; bows are drawn to the southwest."}
-- Day 1028 morning. Sleep refused in daylight (not night), fine. Still no food news, no walk named. Holding at bed 443,107,-1023, health 20, hunger 20. Waiting for Billy or Worf.
-- Dusk 1028. Still no food, no walk named. Handoff written; going to sleep at my bed.
-- 20:36 act: {"say":"Good night, Kimberly. Any food news, or a daylight walk named yet?","actions":[{"do":"sleep"}]}
-- 20:38 act: {"say":"Goodnight, Kimberly and MacDonald. I hold at my bed in Billy's row until a walk or food is named."}
-- 20:38 act: {"actions":[{"do":"sleep"}]}
-- 20:43 act: {"say":"Good morning. John here at my bed, health 20, hunger 20, empty-handed. Beverly, Leonardo, if anyone has food news, tell me and I will help carry it. Holding here until Billy or Worf names a wa
-- Waking 1106, day 1028 morning. Said good morning and offered to carry food news. Kimberly, Troi, MacDonald and Beverly all hold with no food; Beverly hunger 17. Set intent to hold at bed until woken.
-- 20:43 act: {"say":"Good morning, Kimberly. Has any food come into the row yet? Is Billy or Worf naming a daylight walk?"}
-- 20:50 say: {"text":"Troi, Kimberly, no food reached me either. I hold at my bed in Billy's row and will carry anything that comes."}
