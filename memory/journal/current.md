@@ -8,3 +8,5 @@
 - Sleep was refused: it is not night yet. Deanna says Leonardo is at health 1. I have no food to give. Still holding at the bed.
 - 00:09 act: {"say":"Good night, Billy's row. John at the white bed, health 20, hunger 20, unarmed, nothing to give. Holding here.","actions":[{"do":"sleep"}]}
 - 00:21 act: {"actions":[{"do":"sleep"}]}
+- 00:30 say: {"text":"Morning. John here, at the white bed, unarmed, pack empty. Holding in sight. Leonardo, if food is named I'll go to you first."}
+- Waking 968 day. Held at the white bed with Kimberly beside me. Heard bows to the southwest; Troi and Beverly are holding too. No food or walk named; still holding, health 20, hunger 20.
