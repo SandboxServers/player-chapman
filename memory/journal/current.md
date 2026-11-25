@@ -7,3 +7,4 @@
 - 21:46 act: {"say":"Good morning, Kimberly. Has anyone in the row heard about food, or a daylight walk?"}
 - Heard: Kimberly, MacDonald, Beverly all holding empty-handed; no food, no walk named. Bows drawn far to the southwest. Holding at bed, waiting.
 - 21:58 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1023}}],"say":"Goodnight, row. Johnny is going to bed at his white bed. Billy, Worf, food news in the morning, please."}
+- 21:59 act: {"say":"Good night, Kimberly. Holding at my bed.","actions":[{"do":"use","at":{"x":443,"y":107,"z":-1023}}]}
