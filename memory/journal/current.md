@@ -4,3 +4,4 @@
 - Waking 1006: woke at the bed, health 20, hunger 20, pack empty. Kimberly two blocks away. No food or walk named. Said good morning and asked; holding at the bed.
 - Day 973: still at the bed, health 20, hunger 20. Kimberly, Deanna and others also holding; no food or walk named. Bows drawn to the southwest. Waiting.
 - Day 973 later: Deanna greeted the row; Beverly (health 19, hunger 17) says Leonardo gets potatoes first. I have nothing to give. Still holding at the bed.
+- Night 973: slept at the bed. No food or walk named all day. Handoff saved. Reflection: the row is holding together; I can only wait until food or a walk is named.
