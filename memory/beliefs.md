@@ -24,4 +24,5 @@
 - Day 987: still no walk or food named. Leonardo fell to health 1; Trini's potatoes go to him first. Holding at the bed and sleeping there is still the rule.
 - Day 1002: still no walk or food named. Kimberly, Deanna, Beverly and MacDonald all hold at their beds. Bows drawn southwest all day. Sleeping at the white bed at dusk works. Next curiosity: Billy's next call.
 - Day 1002 (dusk sleep): still no walk or food named; Bcrusher, Troi and Beverly (hunger 17) holding at their beds. Sleep at the white bed works. Next curiosity: Billy's next call.
+- Day 1005: still no walk or food named for me. Kimberly, MacDonald, Troi hold with no food. Bows drawn southwest all day. Next curiosity: Billy's next call.
 - Day 965: still no walk or food named. Bows drawn southwest all day. Beverly (hunger 17) and Leonardo still waiting on potatoes. Holding at the bed remains the rule.
