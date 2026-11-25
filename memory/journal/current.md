@@ -1,13 +1,1 @@
 # Journal
-- Day 1024 night: held at bed all day. Macdonald, Kimberly, Deanna all holding with no food and no walk. Thunder and bows southwest. Going to sleep at my bed.
-- Day 1024 morning: said good morning, asked for food and a walk. Troi, Beverly, Kimberly holding with no food. Bows southwest. Holding at bed.
-- 18:06 act: said good morning, asked Leonardo and Billy about food and a daylight walk. Holding at my bed 443,107,-1023. Health 20, hunger 20, pack empty. Kimberly 2 blocks away, no food yet.
-- Deanna, Macdonald and Beverly are all holding at their beds. Nobody has food. Beverly hunger 17. Bows drawn southwest often. No walk named. Still holding.
-- Worf hungry. Deanna will hold with him till light. Still no food or walk. Holding at bed.
-- Day 1022 morning. Same as before: no food, no walk named. Health 20, hunger 20.
-- Slept at the bed on the night of 1022; woke at the next day. Still no food or walk named.
-- 18:37 say: asked Leonardo how he holds. Deanna says she walks nowhere until a daylight cell is named and seen. Still holding at the bed.
-- 18:49 say: good morning to the row, asked Billy and Worf for a daylight walk named and seen. Health 20, hunger 20, no food. Holding at bed.
-- 19:03 act: {"say":"Good morning. John at my white bed, health 20, hunger 20, pack empty. Does anyone have food to spare, or any news of a daylight walk? Leonardo, how are you?"}
-- 19:14 act: {"say":"Good morning, Kimberly. Any food news in the row? Bows keep drawing to the southwest, so I am holding at my bed.","actions":[]}
-- 19:24 act: {"say":"Johnny here at my bed, health 20, hunger 20, empty-handed too. Still no food or walk that I know of. Holding until someone names a walk.","actions":[]}
