@@ -9,3 +9,5 @@
 - 18:37 say: asked Leonardo how he holds. Deanna says she walks nowhere until a daylight cell is named and seen. Still holding at the bed.
 - 18:49 say: good morning to the row, asked Billy and Worf for a daylight walk named and seen. Health 20, hunger 20, no food. Holding at bed.
 - 19:03 act: {"say":"Good morning. John at my white bed, health 20, hunger 20, pack empty. Does anyone have food to spare, or any news of a daylight walk? Leonardo, how are you?"}
+- 19:14 act: {"say":"Good morning, Kimberly. Any food news in the row? Bows keep drawing to the southwest, so I am holding at my bed.","actions":[]}
+- 19:24 act: {"say":"Johnny here at my bed, health 20, hunger 20, empty-handed too. Still no food or walk that I know of. Holding until someone names a walk.","actions":[]}
