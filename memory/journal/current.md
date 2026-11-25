@@ -1,17 +1,1 @@
 # Journal
-- Morning cycle: greeted Kimberly and Deanna; bow drawn southwest again. The rest intent ended at once, so I am holding by waiting, not by intent. No food or walk named.
-- 23:56 act: {"actions":[{"do":"note","text":"Night, at white bed 443,107,-1023. Health 20, hunger 20. Bow drawn to the southwest. Kimberly beside me. Holding here."}],"say":"Kimberly, I am staying at this bed thr
-- Waking 991, day. At white bed 443,107,-1023 with Kimberly; health 20, hunger 20, unarmed, pack empty. Said good morning, set intent to hold at the bed until Billy or Worf names a walk or food.
-- Night at the bed. Bow sound to the southwest. Held still, said so to Kimberly. Nothing to eat or give; going to sleep here.
-- 23:56 act: {"say":"Morning, Kimberly. Still holding at the bed, unarmed, nothing to give. Waiting for Billy or Worf to name a walk or food.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_o
-- 23:57 act: {"say":"Morning, Kimberly, Deanna. John here at the white bed, health 20, unarmed, nothing to give. I'll hold here until Billy or Worf names a walk or food.","intent":{"goal":"hold_at_bed","program":"
-- Sleep was refused: it is not night yet. Deanna says Leonardo is at health 1. I have no food to give. Still holding at the bed.
-- 00:09 act: {"say":"Good night, Billy's row. John at the white bed, health 20, hunger 20, unarmed, nothing to give. Holding here.","actions":[{"do":"sleep"}]}
-- 00:21 act: {"actions":[{"do":"sleep"}]}
-- 00:30 say: {"text":"Morning. John here, at the white bed, unarmed, pack empty. Holding in sight. Leonardo, if food is named I'll go to you first."}
-- Waking 968 day. Held at the white bed with Kimberly beside me. Heard bows to the southwest; Troi and Beverly are holding too. No food or walk named; still holding, health 20, hunger 20.
-- 00:39 say: {"text":"John here at my white bed. Holding for the night, unarmed and empty-handed. Beverly and Deanna, I hear you."}
-- Night 968: at white bed, health 20, hunger 20. Slept; woke to a morning of greetings. Still holding; no food or walk named. Leonardo still at health 1, nothing for me to give.
-- 00:39 say: {"text":"Johnny here at the white bed, holding still. Kimberly is two blocks off. I have nothing to give, but I will be here."}
-- Night 968 again: sleep accepted (6 of 10 asleep). Still at white bed 443,107,-1023, health 20, hunger 20, unarmed, pack empty. Nothing named for food or walk. Going to rest here.
-- 00:48 say: {"text":"Morning, row. John at my white bed, health 20, hunger 20, pack empty. Holding in sight. Leonardo first if food is named."}
