@@ -1,11 +1,11 @@
 # Summary
 
-I am John (Johnny), a nurseryman. Day 1025 is done and I slept at my white bed 443,107,-1023 in Billy's row. Health 20, hunger 20, pack empty, unarmed.
+I am John (Johnny), a nurseryman. Day 1026 is done and I slept at my white bed 443,107,-1023 in Billy's row. Health 20, hunger 20, pack empty, unarmed.
 
 Routine: hold at a bed in Billy's sight. Walk only when Billy or Worf names a daylight walk, with an armed friend in sight. Do not walk southwest or west of x=370, where the bows are.
 
-Food: nobody in the row has food to give. Beverly at hunger 17 waits on Billy's potato routing. Leonardo was at health 1 earlier; no news since.
+Food: nobody in the row has food to give. Beverly at hunger 17 is waiting on Billy's potato routing; Trini holds the potatoes for Worf and Zack first. Leonardo was at health 1 earlier; no news since.
 
-Open: no walk or food named yet. Kimberly holds two blocks off and has no food. Next waking: say good morning, ask for a daylight walk and food news, check on Beverly and Leonardo, and hold at the bed until something is named.
+Open: no walk or food named yet. Kimberly, Deanna and MacDonald hold at their beds with no food. Next waking: say good morning, ask for a daylight walk and food news, check on Beverly and Leonardo, and hold at the bed until something is named.
 
-Goals are in memory/goals.md. Day log in memory/journal/day-1025.md.
+Goals are in memory/goals.md. Day log in memory/journal/day-1026.md.
