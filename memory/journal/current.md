@@ -1,5 +1,10 @@
 # Journal
+- Morning cycle: greeted Kimberly and Deanna; bow drawn southwest again. The rest intent ended at once, so I am holding by waiting, not by intent. No food or walk named.
 - 23:56 act: {"actions":[{"do":"note","text":"Night, at white bed 443,107,-1023. Health 20, hunger 20. Bow drawn to the southwest. Kimberly beside me. Holding here."}],"say":"Kimberly, I am staying at this bed thr
 - Waking 991, day. At white bed 443,107,-1023 with Kimberly; health 20, hunger 20, unarmed, pack empty. Said good morning, set intent to hold at the bed until Billy or Worf names a walk or food.
 - Night at the bed. Bow sound to the southwest. Held still, said so to Kimberly. Nothing to eat or give; going to sleep here.
 - 23:56 act: {"say":"Morning, Kimberly. Still holding at the bed, unarmed, nothing to give. Waiting for Billy or Worf to name a walk or food.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_o
+- 23:57 act: {"say":"Morning, Kimberly, Deanna. John here at the white bed, health 20, unarmed, nothing to give. I'll hold here until Billy or Worf names a walk or food.","intent":{"goal":"hold_at_bed","program":"
+- Sleep was refused: it is not night yet. Deanna says Leonardo is at health 1. I have no food to give. Still holding at the bed.
+- 00:09 act: {"say":"Good night, Billy's row. John at the white bed, health 20, hunger 20, unarmed, nothing to give. Holding here.","actions":[{"do":"sleep"}]}
+- 00:21 act: {"actions":[{"do":"sleep"}]}
