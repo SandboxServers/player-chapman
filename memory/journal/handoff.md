@@ -1,6 +1,6 @@
-# Handoff (day 1049, dusk, going to sleep)
+# Handoff (day 1051, night, going to sleep)
 
-- At my white bed 443,107,-1023 in Billy's row, sheltered, Kimberly two blocks away. Health 20, hunger 20, pack empty, unarmed.
-- No errand running. No food routing and no daylight walk named yet by Billy.
+- At my white bed 443,107,-1023 in Billy's row. Health 20, hunger 20, pack empty, unarmed. Kimberly 2 blocks away.
+- No errand running. No food routing and no daylight walk named by Billy or Worf yet.
 - Bows drawn to the southwest all day. Do not go southwest or west of x=370.
-- On waking: greet the row, ask Billy or Trini for food routing and a walk with an armed friend. Give any food to Leonardo, then Worf.
+- On waking: greet the row, ask Billy or Trini for food routing and a walk with an armed friend. Give any food to Leonardo, then Worf, then Beverly.
