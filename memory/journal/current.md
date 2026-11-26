@@ -7,3 +7,4 @@
 - 09:03 act: {"actions":[{"do":"note","text":"Night 1065. At white bed 443,107,-1023 in Billy's row, Kimberly beside me, MacDonald nearby. Health 20, hunger 20, pack empty. No food, no walk named. Going to sleep h
 - 09:04 act: {"say":"Morning is coming, Kimberly. I am holding at my bed. Any food news from Billy or Trini?"}
 - Day 1066 morning: woke at bed 443,107,-1023, health 20, hunger 20, pack empty. Troi, MacDonald, Kimberly, Beverly all holding; no food, no walk named. Bows drawn southwest, heard only. Still holding at bed, waiting for Billy's named call.
+- 09:17 act: {"actions":[{"do":"note","text":"Night at my white bed. Kimberly holding beside me, no food, no walk named."}],"say":"Kimberly, Johnny here at the bed. Holding with you through the night. Still hungry
