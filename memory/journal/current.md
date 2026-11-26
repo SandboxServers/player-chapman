@@ -6,3 +6,4 @@
 - 20:24 act: {"actions":[{"do":"sleep"}]}
 - 20:26 act: {"actions":[{"do":"sleep"}]}
 - 20:31 act: {"say":"Good morning, row. John at my white bed, health 20, hunger 20, pack empty, unarmed. I hold here and will share food when it reaches us."}
+- 20:56 Waking 1244: at white bed 443,107,-1023, health 20, hunger 20, pack empty. Kimberly beside me. No food, no named call yet. Said good morning to Kimberly. Sleep at dusk failed: not night.
