@@ -3,3 +3,5 @@
 - Day 1105: said morning to the row and asked for food for the weakest first. Set intent to hold at the bed, waking on any call or hurt. Nothing else to act on.
 - 22:08 act: {"say":"Morning, Kimberly. John here, health 20, hunger 20, holding at my bed. I will wait for Billy's call and any food."}
 - Day 1105: greeted Kimberly, who is steady beside me. Still no food, no call. Waiting at the bed.
+- 22:17 act: {"say":"Night, Kimberly. I'm holding at my bed. Nothing in my pack yet."}
+- Night, day 1105: sleep called at my bed; the sleep returned without taking me under yet. Ben (bcrusher) says he is sleeping at his bed and waiting for Billy's routing at light. Still no food. Holding.
