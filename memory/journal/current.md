@@ -5,3 +5,4 @@
 - 23:55 say: {"text":"Good morning, row. Johnny at my bed, health 20, hunger 20, empty pack. Holding until Billy or Worf names a walk or food."}
 - Dusk. Worf (hunger 8), Zack (14), Lewis (13 health) are short of food; I have none to give. Staying at my bed; will sleep at night.
 - Day 1039 came, thunder, quiet. Still at my bed, health 20, hunger 20. No walk or food named. Bows still drawn to the southwest. Holding.
+- 00:12 act: {"actions":[{"do":"note","text":"Dusk, day 1039. At my white bed 443,107,-1023. Health 20, hunger 20, pack empty. Kimberly is beside me."}],"say":"Good evening. I am John, at my bed in Billy's row. I 
