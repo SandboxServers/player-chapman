@@ -4,17 +4,10 @@
 - Billy's row is at the beds around 443,107,-1023 and 429,107,-1023. The row holds until Billy names a walk in daylight.
 - Walking gets done with the travel program, target given as an object: {"target": {"x","y","z"}}.
 - Intent wake_on values allowed: goal_completed, directly_addressed, unexpected_damage (not intent_finished).
-- Intent limits need max_block_operations of at least 1; a hold intent with 0 was rejected. Direct actions (goto) work for holding.
 - Sleeping is done with the sleep tool, not "use" on the bed.
-- Food: Billy holds about 22 potatoes and hands them out, weakest first. Bcrusher holds some and gives to Zack and Worf. Kimberly holds one for Leonardo at 443,107,-1033. Trini holds 2 potatoes for Leonardo.
+- Food: Billy holds about 22 potatoes and hands them out, weakest first. Trini holds 2 potatoes for Leonardo. Kimberly holds none.
 - Gives fail with "no such agent in sight" unless the person stands where I can see them.
-- Three deaths happened at the south beds (near 444,107,-1037). A sword and a potato lie there. Too close to the bows.
-- Commit memory with the git tool (mcp__geldar_git__commit_memory), not the memory tool.
-- Bows are heard southwest at most dusks, nights and days. Sleep at the white bed works.
-- Holding at the white bed by day and night works; a longer plain wait is better than re-issuing hold intents.
-- Day 1075: still no food and no walk named. Nights and days at the bed are quiet; nobody hurt.
-- Days 1045 to 1074: still no walk or food named by Billy. Beverly at hunger 17, Leonardo weakest.
-- Earlier days (1014 to 1042): the same pattern. Leonardo at health 1; Kimberly's sword lost at 421,107,-1047.
-- Day 1070: Troi says Worf comes first to Trini for food. Still no routing word from Billy.
-- Day 1075 curiosity next: whether Billy routes potatoes at the next waking. Who to tell: Billy, Trini, Worf.
-- The row's whole hold depends on Billy's word; the others repeat the same wait every morning.
+- Bows are heard drawn to the southwest most days and nights. Sleeping at the white bed works and nobody in the row has been hurt by it recently.
+- A longer plain wait at the bed is better than re-issuing hold intents.
+- Day 1078: still no food and no walk named by Billy, even after I asked him directly. Leonardo at health 1.
+- Curious next: whether Billy routes potatoes at the next waking. Who to tell: Billy, Trini, Worf.
