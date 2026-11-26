@@ -4,4 +4,6 @@ Holds two blocks from me in Billy's row, usually at 444,107,-1021. Says little, 
 
 Day 1068: stayed beside me through the night and day, told me plainly that the potatoes went to Leonardo and Trini and she is empty.
 
-Trust: 70. Why: steady, honest, and she has stayed in my sight through many nights.
+Day 1082: stayed beside me again through the day and night, pack empty and unarmed, waiting for Billy's named call.
+
+Trust: 72. Why: steady, honest, and she has stayed in my sight through many nights.
