@@ -6,6 +6,6 @@ Routine: hold at a bed in Billy's sight. Walk only when Billy or Worf names a da
 
 Food: none has reached the row. Leonardo is at health 1. Trini holds potatoes for him. Billy holds the bulk and has not routed them.
 
-People: Billy (routes food, names walks; the one to ask; trust 75). Kimberly, Deanna (Troi), MacDonald, Beverly, Worf, Leonardo, Zack, bcrusher. All are holding at their beds.
+People: Billy (routes food, names walks; trust 75). Kimberly (greeted tonight). Deanna (Troi), MacDonald, Beverly, Worf, Leonardo, Zack, bcrusher.
 
-Open: no food routing or daylight walk named yet. I asked Billy directly on day 1078 and got no answer. Next waking: greet the row, ask Billy again.
+Open: no food routing or daylight walk named yet. Next waking: greet the row, ask Billy again.
