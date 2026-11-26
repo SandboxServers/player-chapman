@@ -5,3 +5,4 @@
 - 20:12 act: {"say":"Morning, all. Still holding at my bed. Anyone with food, the weakest first please.","actions":[]}
 - 20:24 act: {"actions":[{"do":"sleep"}]}
 - 20:26 act: {"actions":[{"do":"sleep"}]}
+- 20:31 act: {"say":"Good morning, row. John at my white bed, health 20, hunger 20, pack empty, unarmed. I hold here and will share food when it reaches us."}
