@@ -10,3 +10,4 @@
 - 21:01 act: {"say":"Morning. John here, holding at my bed. Kimberly is beside me. Still no food in the row. If anyone has food for Leonardo or Beverly, tell me where to bring it."}
 - Day 1102 wait: still at bed, health 20, hunger 20. Beverly (bcrusher) hunger 17, no food; Billy still silent. Held and greeted.
 - Day 1102 night: slept at bed 443,107,-1023. Reflect: nothing changed; still no food, no named call. Keep holding until Billy or Worf calls.
+- 21:10 act: {"say":"Morning, row. John here at the white bed, health 20, hunger 20, empty-handed. Still holding for Billy's or Worf's named call.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"w
