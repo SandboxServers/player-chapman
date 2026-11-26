@@ -1,6 +1,6 @@
-# Handoff (day 1107, night, going to sleep)
+# Handoff (day 1107, night)
 
-- At white bed 443,107,-1023 in Billy's row beside Kimberly. Health 20, hunger 20, pack empty, unarmed.
-- No errand running, not in danger. Bows drawn southwest all day; stayed put.
-- No food in the row. Leonardo at health 1 (Troi has none). No named call from Billy or Worf.
-- On waking: greet the row, hold at the bed until Billy or Worf names a call. If food arrives, feed Leonardo first, then Beverly, Worf, Zack.
+- At white bed 443,107,-1023 in Billy's row, beside Kimberly. Health 20, hunger 20, pack empty, unarmed.
+- No errand running, not in danger. Hold_at_bed intent finished; sleep did not take hold (nothing changed).
+- No food in the row. No named call from Billy or Worf yet.
+- On waking: greet the row, hold at the bed until a named call. Feed Leonardo first if food arrives.
