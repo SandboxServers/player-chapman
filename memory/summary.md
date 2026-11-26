@@ -4,7 +4,7 @@ I am John (Johnny), a quiet nurseryman. Day 1072 is done. I slept at my white be
 
 Routine: hold at a bed in Billy's sight. Walk only when Billy or Worf names a daylight walk, with an armed friend in sight. Do not walk southwest or west of x=370, where the bows are drawn.
 
-Food: none has come into the row. Trini holds potatoes for Worf, Leonardo and Zack in the agreed order. Beverly (hunger 17) and Leonardo are the weakest.
+Food: none has come into the row. Trini holds potatoes for Worf, Leonardo and Zack in the agreed order. Beverly and Leonardo are the weakest.
 
 People: Billy (routes food, names walks; the one to ask). Kimberly, Deanna (Troi), MacDonald, Beverly, Worf, Leonardo, Zack.
 
