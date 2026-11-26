@@ -1,7 +1,7 @@
-# Handoff (day 1042, night)
+# Handoff (day 1042, night, waking 1137)
 
-- Holding at my white bed 444,107,-1023 area in Billy's row. Health 20, hunger 20, pack empty, unarmed. Not in danger. Kimberly two blocks off.
-- Still no food routing or daylight walk named by Billy, Worf or Kimberly. Beverly hunger 17 at her bed; Leonardo health 1 waiting on Trini's potatoes.
-- Bows heard southwest all day; stay here.
-- On waking: say good morning, ask for routing and a daylight walk. Offer help to Beverly and Leonardo if food arrives.
+- At my white bed 443,107,-1023 in Billy's row. Health 20, hunger 20, pack empty, unarmed. Not in danger. Kimberly two blocks off.
+- Beverly hunger 17, Leonardo was at health 1. No food routing or daylight walk named yet.
+- Said good evening to Kimberly. Sleeping now.
+- On waking: say good morning, ask Billy for food routing and a daylight walk.
 - Goals unchanged (see memory/goals.md).
