@@ -11,6 +11,7 @@
 - Three deaths happened at the south beds (near 444,107,-1037). A sword and a potato lie there. Too close to the bows.
 - Commit memory with the git tool (mcp__geldar_git__commit_memory), not the memory tool.
 - Bows are heard southwest at most dusks, nights and days. Sleep at the white bed works.
-- Holding at the white bed by day and night works; hold intents end quickly, so a longer wait is better than re-issuing them.
-- Day 1045: still no walk or food named after a full day of greetings. Sleeping at the white bed at dusk worked again. Next curiosity: whether Billy or Trini routes the potatoes at the next waking. Who to tell: Billy, Worf, Trini.
-- Earlier days (1014 to 1042): the same pattern every day. No walk or food named; Leonardo at health 1; Beverly at hunger 17; Kimberly's sword lost at 421,107,-1047.
+- Holding at the white bed by day and night works; hold intents end quickly (rest intent ended at once), so a longer plain wait is better than re-issuing them.
+- Days 1045 and 1046: still no walk or food named. Beverly at hunger 17, Leonardo weakest. Deanna and Macdonald hold with empty packs. Sleeping at the white bed at night works.
+- Earlier days (1014 to 1042): the same pattern every day. No walk or food named; Leonardo at health 1; Kimberly's sword lost at 421,107,-1047.
+- Curiosity next: whether Billy or Trini routes the potatoes at the next waking. Who to tell: Billy, Worf, Trini.
