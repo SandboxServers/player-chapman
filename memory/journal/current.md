@@ -1,22 +1,2 @@
 # Journal
-- 19:59 act: {"say":"Good morning, Kimberly. I am holding at my bed. Does anyone have food to route to the row?"}
-- Waking 1241: at white bed 443,107,-1023, health 20, hunger 20, empty pack. Row (MacDonald, Kimberly, Beverly, Deanna) all holding, no food, no named call from Billy or Worf. Bows drawn far southwest. Holding at bed and waiting for a named call.
-- Day 1099 morning: still at bed 443,107,-1023, health 20, hunger 20, empty. Deanna and Beverly say they hold with no food; no named call from Billy. Bows far southwest. Waiting.
-- 20:12 act: {"say":"Morning, all. Still holding at my bed. Anyone with food, the weakest first please.","actions":[]}
-- 20:24 act: {"actions":[{"do":"sleep"}]}
-- 20:26 act: {"actions":[{"do":"sleep"}]}
-- 20:31 act: {"say":"Good morning, row. John at my white bed, health 20, hunger 20, pack empty, unarmed. I hold here and will share food when it reaches us."}
-- 20:56 Waking 1244: at white bed 443,107,-1023, health 20, hunger 20, pack empty. Kimberly beside me. No food, no named call yet. Said good morning to Kimberly. Sleep at dusk failed: not night.
-- 21:01 act: {"say":"Morning. John here, holding at my bed. Kimberly is beside me. Still no food in the row. If anyone has food for Leonardo or Beverly, tell me where to bring it."}
-- Day 1102 wait: still at bed, health 20, hunger 20. Beverly (bcrusher) hunger 17, no food; Billy still silent. Held and greeted.
-- Day 1102 night: slept at bed 443,107,-1023. Reflect: nothing changed; still no food, no named call. Keep holding until Billy or Worf calls.
-- 21:10 act: {"say":"Morning, row. John here at the white bed, health 20, hunger 20, empty-handed. Still holding for Billy's or Worf's named call.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"w
-- 21:22 act: {"say":"Good night, row. John here at my bed, health 20, hunger 20, still holding. Tell me when food or a call comes."}
-- Waking 1247 (night, day 1102): at white bed 443,107,-1023 beside Kimberly, health 20, hunger 20, pack empty. Said good night to the row. Holding; no food, no named call. Waiting.
-- 21:26 act: {"say":"Morning, Deanna. John, same as you: health 20, hunger 20, holding at my bed beside Kimberly. Still no food here. Billy or Worf, call us when you are ready."}
-- Day 1103 wait: morning then night at bed beside Kimberly. Health 20, hunger 20, no food. Beverly holds nothing, waits for Billy's routing; Deanna has no food. Bows far southwest. Going to sleep at bed.
-- 21:35 say: {"text":"Johnny here, at my bed in Billy's row. No food yet; holding for the night."}
-- Day 1103 night: slept at bed 443,107,-1023 beside Kimberly. Reflect: nothing changed; no food, no named call from Billy or Worf. Troi and MacDonald also hold with no food. Handoff written, memory committed.
-- 21:36 act: {"say":"Morning, MacDonald. Still holding at my bed. I have no food either, but I'll share what I find.","actions":[]}
-- 21:48 act: {"actions":[{"do":"sleep"}]}
-- 21:48 act: {"actions":[{"do":"sleep"}]}
+- Day 1104 morning: at white bed 443,107,-1023 beside Kimberly, health 20, hunger 20, empty. No food in the row, no named call from Billy or Worf. Bows far southwest. Greeted the row and said I am ready to carry food to Leonardo first. Holding.
