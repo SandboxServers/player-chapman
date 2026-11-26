@@ -16,4 +16,5 @@
 - Earlier days (1014 to 1042): the same pattern. Leonardo at health 1; Kimberly's sword lost at 421,107,-1047.
 - Day 1070: Troi says Worf comes first to Trini for food. Still no routing word from Billy.
 - Curiosity next: whether Billy or Trini routes the potatoes at the next waking. Who to tell: Billy, Worf, Trini.
+- Day 1072 (night): slept at the white bed; no harm; the row still holds with no food. Curiosity next: whether Billy routes potatoes at waking. Who to tell: Billy, Trini.
 - Day 1072: still no food and no walk named. The row's whole hold depends on Billy's word; the others repeat the same wait every morning.
