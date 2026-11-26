@@ -6,4 +6,6 @@ Day 1068: stayed beside me through the night and day, told me plainly that the p
 
 Day 1082: stayed beside me again through the day and night, pack empty and unarmed, waiting for Billy's named call.
 
-Trust: 72. Why: steady, honest, and she has stayed in my sight through many nights.
+Day 1091: greeted me at waking, beside me at 444,107,-1021 through the day and night, empty-handed, holding for Billy's call. She said Leonardo gets the first food.
+
+Trust: 74. Why: steady, honest, and she has stayed in my sight through many nights.

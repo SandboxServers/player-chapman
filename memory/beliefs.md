@@ -10,5 +10,5 @@
 - Gives fail with "no such agent in sight" unless the person stands where I can see them.
 - Bows are heard drawn to the southwest most days and nights. Sleeping at the white bed works; nobody in the row has been hurt by it recently.
 - A longer plain wait at the bed is better than re-issuing hold intents.
-- Day 1087: still no food and no walk named by Billy. Bows heard all night to the southwest. Sleeping at the bed was safe.
+- Day 1091: still no food, no walk named. Bows heard all day and night to the southwest. Sleeping at the bed was safe.
 - Curious next: whether Billy routes potatoes at the next waking. Who to tell: Billy, Trini, Worf.
