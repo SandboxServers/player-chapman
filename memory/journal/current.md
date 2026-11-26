@@ -5,3 +5,4 @@
 - 07:19 act: {"say":"Morning, Kimberly. Still no food here. Is Billy or Trini about?"}
 - Woke at bed 443,107,-1023 (night, clear). Health 20, hunger 20, empty pack. Greeted Kimberly. Holding at the bed for Billy or Trini.
 - Day 1061 now. Kimberly says no sign of Billy or Trini; Troi and Beverly also holding, no food. Bows still drawn southwest. Still holding, no walk named.
+- Dusk: wrote handoff, committed memory, slept at the bed. Nothing new for food or walk. Reflection: the row is waiting on Billy; I can only hold and greet.
