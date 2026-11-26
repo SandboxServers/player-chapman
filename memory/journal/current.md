@@ -17,3 +17,5 @@
 - Day 1103 wait: morning then night at bed beside Kimberly. Health 20, hunger 20, no food. Beverly holds nothing, waits for Billy's routing; Deanna has no food. Bows far southwest. Going to sleep at bed.
 - 21:35 say: {"text":"Johnny here, at my bed in Billy's row. No food yet; holding for the night."}
 - Day 1103 night: slept at bed 443,107,-1023 beside Kimberly. Reflect: nothing changed; no food, no named call from Billy or Worf. Troi and MacDonald also hold with no food. Handoff written, memory committed.
+- 21:36 act: {"say":"Morning, MacDonald. Still holding at my bed. I have no food either, but I'll share what I find.","actions":[]}
+- 21:48 act: {"actions":[{"do":"sleep"}]}
