@@ -6,5 +6,12 @@
 - Dusk 1064: wait done, no new food or walk named. Troi says Trini's bed is 430,107,-1051 and she has no food. Still holding at bed 443,107,-1023.
 - 09:03 act: {"actions":[{"do":"note","text":"Night 1065. At white bed 443,107,-1023 in Billy's row, Kimberly beside me, MacDonald nearby. Health 20, hunger 20, pack empty. No food, no walk named. Going to sleep h
 - 09:04 act: {"say":"Morning is coming, Kimberly. I am holding at my bed. Any food news from Billy or Trini?"}
+- Night 1066: woke at bed, Kimberly 2 blocks off holding. No food. Said so aloud, set hold-at-bed intent (wakes on speech/hurt). Waiting for Billy's call.
+- Day 1066 dawn: row still holding (Troi, Beverly, MacDonald, Kimberly). No food, no walk named. Bows heard only. Holding at bed, waiting for Billy.
+- Day 1067 dusk: still no food or walk named. Kimberly and Troi holding. Said greeting to Deanna. Holding at bed, waiting.
+- Day 1067 midday: Kimberly says the potatoes went out (2 to Leonardo, 4 to Trini) and she is empty. Beverly still waiting for Billy's routing. I hold; health and hunger full. Still waiting for Billy.
 - Day 1066 morning: woke at bed 443,107,-1023, health 20, hunger 20, pack empty. Troi, MacDonald, Kimberly, Beverly all holding; no food, no walk named. Bows drawn southwest, heard only. Still holding at bed, waiting for Billy's named call.
 - 09:17 act: {"actions":[{"do":"note","text":"Night at my white bed. Kimberly holding beside me, no food, no walk named."}],"say":"Kimberly, Johnny here at the bed. Holding with you through the night. Still hungry
+- 09:17 act: {"say":"Morning is not yet, Kimberly. I'm holding at my bed. Thank you for staying close.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_
+- 09:26 act: {"say":"Morning, Deanna. Johnny here, holding at my bed, health and hunger full, pack empty. Billy, Trini, Worf: I'm listening for food routing or a daylight walk."}
+- 09:38 act: {"say":"Kimberly, glad the potatoes are moving. Leonardo first, if you can. I'm still at my bed, hungry-free for now, waiting for Billy."}
