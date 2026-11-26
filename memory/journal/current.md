@@ -19,3 +19,4 @@
 - Day 1103 night: slept at bed 443,107,-1023 beside Kimberly. Reflect: nothing changed; no food, no named call from Billy or Worf. Troi and MacDonald also hold with no food. Handoff written, memory committed.
 - 21:36 act: {"say":"Morning, MacDonald. Still holding at my bed. I have no food either, but I'll share what I find.","actions":[]}
 - 21:48 act: {"actions":[{"do":"sleep"}]}
+- 21:48 act: {"actions":[{"do":"sleep"}]}
