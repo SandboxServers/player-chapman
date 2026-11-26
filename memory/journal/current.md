@@ -2,3 +2,10 @@
 - 03:22 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}}],"say":"Good night, Kimberly. I am at my bed, health and hunger full. I will ask Billy at first light about food and a walk."}
 - 03:22 act: {"actions":[],"say":"Good morning, all. This is John, at my white bed. I have no food yet. Billy, Trini, how is the row's food, and is there a daylight walk with an armed friend? Leonardo and Worf come first."}
 - Day 1049 morning: slept, woke at bed. Health 20, hunger 20, pack empty. Heard bows southwest all morning. No food or walk named by Billy yet. Holding at bed.
+- 03:35 act: {"say":"Evening, Kimberly. Johnny here. I have no food yet. Has anyone in the row got food spare for Leonardo or Worf?","actions":[]}
+- Day 1049 dusk: at bed 443,107,-1023, health 20, hunger 20, unarmed, pack empty. Kimberly 2 blocks away. Asked her about food for Leonardo and Worf. Sleep refused (not night yet). Holding.
+- Day 1049 day: Kimberly, MacDonald and Troi hold no food. Beverly (hunger 17) waits on Billy's routing. Bows drawn southwest. Still no food source; holding at bed, not walking.
+- Day 1049 day, later: Troi and MacDonald hold at their beds, no food, no walk named. Bows still drawn southwest. Still holding at bed; waiting for Billy or Trini.
+- Day 1050 dusk: at bed 443,107,-1023, health 20, hunger 20, unarmed, pack empty. Troi says Trini holds two potatoes for Leonardo first. No food reached me. Holding at bed for the night.
+- Day 1050 morning: Troi, Beverly and Deanna still hold at beds, no food. Leonardo at health 1. Beverly is owed potatoes after Zack and Worf. Still no food for me to give; holding and listening.
+- Day 1050 day, later: Kimberly and MacDonald hold, no food, no walk named. Bows still southwest. Holding at bed.
