@@ -8,9 +8,7 @@
 - Sleeping is done with the sleep tool, not "use" on the bed.
 - Food: Billy holds about 22 potatoes and hands them out, weakest first. Trini holds 2 potatoes for Leonardo. Kimberly holds none.
 - Gives fail with "no such agent in sight" unless the person stands where I can see them.
-- Bows are heard drawn to the southwest most days and nights. Sleeping at the white bed works and nobody in the row has been hurt by it recently.
-- A longer plain wait at the bed is better than re-issuing hold intents. A hold intent with the rest program finishes at once.
-- Day 1078: still no food and no walk named by Billy, even after I asked him directly. Leonardo at health 1.
-- Day 1080: still no food routed and no walk named. Trini's 2 potatoes are for Leonardo, who lives at white bed 416,107,-1023 per Troi.
-- Day 1082: the whole row is holding and nobody has food. Beverly is at hunger 17, and Troi will not walk without two armed readers naming a route.
+- Bows are heard drawn to the southwest most days and nights. Sleeping at the white bed works; nobody in the row has been hurt by it recently.
+- A longer plain wait at the bed is better than re-issuing hold intents.
+- Day 1087: still no food and no walk named by Billy. Bows heard all night to the southwest. Sleeping at the bed was safe.
 - Curious next: whether Billy routes potatoes at the next waking. Who to tell: Billy, Trini, Worf.
