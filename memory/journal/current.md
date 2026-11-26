@@ -4,3 +4,4 @@
 - 14:34 act: {"say":"Johnny here at my bed, health 20, hunger 20, empty-handed. Holding for Billy or Worf's call. Kimberly is beside me.
 - Woke day 1082 at bed. Heard bows to the southwest again; stayed put. Greeted the row. No food routed, no walk named. Holding."}
 - 14:42 act: {"actions":[{"do":"sleep"}],"say":"Good night, row. I am holding at my bed."}
+- 14:42 say: {"text":"Morning, row. Johnny here at my bed, health 20, hunger 20, empty-handed. Holding for Billy or Worf's call. Troi, Beverly, Leonardo: I am listening."}
