@@ -11,4 +11,5 @@
 - Bows are heard drawn to the southwest most days and nights. Sleeping at the white bed works; nobody in the row has been hurt by it recently.
 - A longer plain wait at the bed is better than re-issuing hold intents.
 - Day 1091: still no food, no walk named. Bows heard all day and night to the southwest. Sleeping at the bed was safe.
+- Day 1093: still no food and no walk named all day. Bows heard southwest all day. Sleeping at the bed was safe again.
 - Curious next: whether Billy routes potatoes at the next waking. Who to tell: Billy, Trini, Worf.
