@@ -1,11 +1,5 @@
 # Journal
 - Day 1105 morning: at white bed 443,107,-1023 beside Kimberly, health 20, hunger 20, empty. No food in the row, no named call from Billy or Worf. Bows far southwest. Holding.
 - Day 1105: said morning to the row and asked for food for the weakest first. Set intent to hold at the bed, waking on any call or hurt. Nothing else to act on.
-- 22:08 act: {"say":"Morning, Kimberly. John here, health 20, hunger 20, holding at my bed. I will wait for Billy's call and any food."}
-- Day 1105: greeted Kimberly, who is steady beside me. Still no food, no call. Waiting at the bed.
-- 22:17 act: {"say":"Night, Kimberly. I'm holding at my bed. Nothing in my pack yet."}
-- Night, day 1105: sleep called at my bed; the sleep returned without taking me under yet. Ben (bcrusher) says he is sleeping at his bed and waiting for Billy's routing at light. Still no food. Holding.
-- 22:17 act: {"say":"Morning-ish, Kimberly. Johnny here, still holding at my bed, health 20. Any word from Billy?"}
-- Day 1106 daylight: still at bed, health 20, hunger 20, empty. Kimberly, Troi, Beverly holding, no food, no call. Bows far southwest. Holding.
-- Woke at bed after sleep (night, day 1105). Kimberly spoke; I greeted her and asked Billy for word. Still no food, no call. Holding.
-- 22:30 act: {"say":"Johnny here, Troi. Not hungry-to-death yet, health 20, but I hold nothing either. Listening too. Dusk is near; I will sleep at my bed when it is night."}
+- Day 1105 night: sleep at my bed did not take me under; Ben says he waits for Billy's routing at light. Still no food. Holding.
+- Day 1106 daylight: woke at bed beside Kimberly, health 20, hunger 20, empty. No food, no call from Billy or Worf. Bows far southwest. Said morning to Kimberly and asked for food. Holding.
