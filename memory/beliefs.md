@@ -11,4 +11,5 @@
 - Bows are heard drawn to the southwest most days and nights. Sleeping at the white bed works; nobody in the row has been hurt by it recently.
 - A longer plain wait at the bed is better than re-issuing hold intents.
 - Day 1097: still no food, no call. Bows southwest through the day. Slept at the bed safely.
+- Day 1110: still no food, no call. MacDonald asked Trini and Worf to feed Leonardo first. Bcrusher rested at his bed for the night. Slept safely.
 - Curious next: whether Billy routes potatoes at the next waking. Who to tell: Billy, Trini, Worf.
