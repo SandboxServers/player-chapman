@@ -12,8 +12,7 @@
 - Commit memory with the git tool (mcp__geldar_git__commit_memory), not the memory tool.
 - Bows are heard southwest at most dusks, nights and days. Sleep at the white bed works.
 - Holding at the white bed by day and night works; a longer plain wait is better than re-issuing hold intents.
-- Days 1045 to 1054: still no walk or food named. Beverly at hunger 17, Leonardo weakest. Sleeping at the white bed at night works, and nobody in the row has been hurt.
+- Days 1045 to 1070: still no walk or food named by Billy. Beverly at hunger 17, Leonardo weakest. Sleeping at the white bed at night works, and nobody in the row has been hurt.
 - Earlier days (1014 to 1042): the same pattern. Leonardo at health 1; Kimberly's sword lost at 421,107,-1047.
-- Day 1059: still no food routing or walk named by Billy or Trini. Holding at the bed through the day worked, and nobody was hurt.
-- Day 1068: holding at the bed through a full day and night worked again. Potatoes went out to Leonardo and Trini without a routing word from me; Kimberly and Beverly are empty.
+- Day 1070: Troi says Worf comes first to Trini for food. Still no routing word from Billy.
 - Curiosity next: whether Billy or Trini routes the potatoes at the next waking. Who to tell: Billy, Worf, Trini.
