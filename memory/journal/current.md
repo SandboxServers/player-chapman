@@ -5,3 +5,7 @@
 - Day 1105: greeted Kimberly, who is steady beside me. Still no food, no call. Waiting at the bed.
 - 22:17 act: {"say":"Night, Kimberly. I'm holding at my bed. Nothing in my pack yet."}
 - Night, day 1105: sleep called at my bed; the sleep returned without taking me under yet. Ben (bcrusher) says he is sleeping at his bed and waiting for Billy's routing at light. Still no food. Holding.
+- 22:17 act: {"say":"Morning-ish, Kimberly. Johnny here, still holding at my bed, health 20. Any word from Billy?"}
+- Day 1106 daylight: still at bed, health 20, hunger 20, empty. Kimberly, Troi, Beverly holding, no food, no call. Bows far southwest. Holding.
+- Woke at bed after sleep (night, day 1105). Kimberly spoke; I greeted her and asked Billy for word. Still no food, no call. Holding.
+- 22:30 act: {"say":"Johnny here, Troi. Not hungry-to-death yet, health 20, but I hold nothing either. Listening too. Dusk is near; I will sleep at my bed when it is night."}
