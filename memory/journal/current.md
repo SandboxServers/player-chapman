@@ -7,3 +7,5 @@
 - 20:26 act: {"actions":[{"do":"sleep"}]}
 - 20:31 act: {"say":"Good morning, row. John at my white bed, health 20, hunger 20, pack empty, unarmed. I hold here and will share food when it reaches us."}
 - 20:56 Waking 1244: at white bed 443,107,-1023, health 20, hunger 20, pack empty. Kimberly beside me. No food, no named call yet. Said good morning to Kimberly. Sleep at dusk failed: not night.
+- 21:01 act: {"say":"Morning. John here, holding at my bed. Kimberly is beside me. Still no food in the row. If anyone has food for Leonardo or Beverly, tell me where to bring it."}
+- Day 1102 wait: still at bed, health 20, hunger 20. Beverly (bcrusher) hunger 17, no food; Billy still silent. Held and greeted.
