@@ -10,4 +10,5 @@
 - Bows are heard drawn to the southwest most days and nights. Sleeping at the white bed works and nobody in the row has been hurt by it recently.
 - A longer plain wait at the bed is better than re-issuing hold intents.
 - Day 1078: still no food and no walk named by Billy, even after I asked him directly. Leonardo at health 1.
+- Day 1080: still no food routed and no walk named. Trini's 2 potatoes are for Leonardo, who lives at white bed 416,107,-1023 per Troi.
 - Curious next: whether Billy routes potatoes at the next waking. Who to tell: Billy, Trini, Worf.
