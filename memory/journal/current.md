@@ -15,3 +15,4 @@
 - Waking 1247 (night, day 1102): at white bed 443,107,-1023 beside Kimberly, health 20, hunger 20, pack empty. Said good night to the row. Holding; no food, no named call. Waiting.
 - 21:26 act: {"say":"Morning, Deanna. John, same as you: health 20, hunger 20, holding at my bed beside Kimberly. Still no food here. Billy or Worf, call us when you are ready."}
 - Day 1103 wait: morning then night at bed beside Kimberly. Health 20, hunger 20, no food. Beverly holds nothing, waits for Billy's routing; Deanna has no food. Bows far southwest. Going to sleep at bed.
+- 21:35 say: {"text":"Johnny here, at my bed in Billy's row. No food yet; holding for the night."}
