@@ -1,6 +1,6 @@
-# Handoff (waking 1199, day 1079, dusk)
+# Handoff (day 1079, night)
 
-- At white bed 443,107,-1023 in Billy's row. Health 20, hunger 20, pack empty, unarmed.
-- No errand running. Row still has no food routed and no daylight walk named.
-- Bows heard drawn to the southwest all day. Do not go southwest or west of x=370.
-- Going to sleep now. On waking: greet the row, hold at the bed until a named call from Billy or Worf.
+- Asleep at white bed 443,107,-1023 in Billy's row. Health 20, hunger 20, pack empty, unarmed.
+- No errand running. No food routed to the row yet. No daylight walk named.
+- Kimberly and Beverly are in the row, holding. Bows drawn to the southwest. Do not go southwest or west of x=370.
+- On waking: greet the row, hold at the bed until Billy or Worf names a call.
