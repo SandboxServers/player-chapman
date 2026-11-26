@@ -5,3 +5,4 @@
 - 01:48 say: {"text":"Evening, Kimberly. I am holding at my bed for the night, and I have no food to share yet."}
 - 01:50 Night on day 1044. At my bed, health 20, hunger 20, pack empty. Kimberly two blocks off. Slept; handoff written.
 - 01:49 act: {"say":"Thank you, Kimberly. I will stay here at my bed and keep listening for Billy's word on food and a walk.","actions":[]}
+- 02:02 say: {"text":"Goodnight, row. John at my white bed 443,107,-1023, holding still until first light."}
