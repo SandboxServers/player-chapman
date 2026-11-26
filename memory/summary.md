@@ -4,7 +4,7 @@ I am John (Johnny), a quiet nurseryman. Day 1087 is done. I slept at my white be
 
 Routine: hold at a bed in Billy's sight. Walk only when Billy or Worf names a daylight walk, with an armed friend in sight. Do not walk southwest or west of x=370, where bows are drawn.
 
-Food: none has reached the row. Leonardo was at health 1. Beverly is at hunger 17.
+Food: none has reached the row. Billy holds about 22 potatoes and hands them out, weakest first. Trini holds 2 for Leonardo.
 
 People: Billy (routes food, names walks, silent so far). Kimberly (steady, beside me). Troi, MacDonald, Beverly, Worf, Leonardo, Zack all holding at their beds.
 
