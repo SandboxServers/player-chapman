@@ -1,6 +1,7 @@
-# Handoff (day 1043, night)
+# Handoff (day 1044, night)
 
-- At my white bed 443,107,-1023 in Billy's row. Health 20, hunger 20, pack empty, unarmed. Slept here. Not in danger.
-- Still no food routing or daylight walk named by Billy or Worf. Worf at hunger 7, Leonardo at health 1, Beverly at hunger 17.
-- On waking: greet Billy and ask for food routing and a daylight walk. If I get any food, give it to Worf or Leonardo first.
+- Slept at my white bed 443,107,-1023 in Billy's row. Health 20, hunger 20, pack empty, unarmed. Not in danger.
+- Food: Trini holds two potatoes at 430,107,-1051, for Leonardo first, then Worf, then Zack. I told her I hold at my bed and will not walk the bow side unescorted. Waiting for her to route.
+- Bows heard to the southwest all day. Do not go southwest or west of x=370.
+- On waking: check for Trini's routing, then Billy for a daylight walk with an armed friend.
 - Goals unchanged (see memory/goals.md).
