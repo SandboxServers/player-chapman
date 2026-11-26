@@ -6,6 +6,6 @@ Routine: hold at a bed in Billy's sight. Walk only when Billy or Worf names a da
 
 Food: nobody in the row has food to give. Leonardo is weakest. Beverly is at hunger 17. Billy holds about 22 potatoes and hands them out, weakest first.
 
-People: Billy (routes food, names walks; the one to ask). Kimberly (at 444,107,-1021, waiting). Macdonald, Troi and Beverly (waiting at their beds). Worf (names walks with me). Leonardo (weakest).
+People: Billy (routes food, names walks; the one to ask). Kimberly (two blocks away, waiting). Macdonald, Troi and Beverly (waiting at their beds). Worf (names walks with me). Leonardo (weakest).
 
 Open: still no food routing or daylight walk named. Next waking: greet the row, ask Billy or Trini for food news and a walk, and give any food to Leonardo, then Worf, then Beverly.
