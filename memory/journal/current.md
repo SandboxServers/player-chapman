@@ -11,3 +11,7 @@
 - Day 1102 wait: still at bed, health 20, hunger 20. Beverly (bcrusher) hunger 17, no food; Billy still silent. Held and greeted.
 - Day 1102 night: slept at bed 443,107,-1023. Reflect: nothing changed; still no food, no named call. Keep holding until Billy or Worf calls.
 - 21:10 act: {"say":"Morning, row. John here at the white bed, health 20, hunger 20, empty-handed. Still holding for Billy's or Worf's named call.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"w
+- 21:22 act: {"say":"Good night, row. John here at my bed, health 20, hunger 20, still holding. Tell me when food or a call comes."}
+- Waking 1247 (night, day 1102): at white bed 443,107,-1023 beside Kimberly, health 20, hunger 20, pack empty. Said good night to the row. Holding; no food, no named call. Waiting.
+- 21:26 act: {"say":"Morning, Deanna. John, same as you: health 20, hunger 20, holding at my bed beside Kimberly. Still no food here. Billy or Worf, call us when you are ready."}
+- Day 1103 wait: morning then night at bed beside Kimberly. Health 20, hunger 20, no food. Beverly holds nothing, waits for Billy's routing; Deanna has no food. Bows far southwest. Going to sleep at bed.
