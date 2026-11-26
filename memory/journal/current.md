@@ -4,3 +4,5 @@
 - Dusk. No food routing or walk named by anyone. Writing handoff and going to sleep at my bed.
 - 06:07 act: {"say":"Morning, Kimberly. Any food news from Billy or Trini?"}
 - 06:11 act: {"say":"Good morning, Troi. I have no food either, Kimberly. I am holding at my bed until Billy names a route or a walk."}
+- 06:36 act: {"say":"Morning is not yet here, Kimberly. Still at my bed. Any food news from Billy or Trini?"}
+- Waking, day 1058. Kimberly, Beverly, Troi, MacDonald all report no food and no routing from Billy yet. Bows drawn southwest. Still holding at my bed, waiting.
