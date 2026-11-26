@@ -5,3 +5,5 @@
 - 08:34 say: asked Kimberly and the row about food routing for Leonardo first.
 - Dusk 1064: wait done, no new food or walk named. Troi says Trini's bed is 430,107,-1051 and she has no food. Still holding at bed 443,107,-1023.
 - 09:03 act: {"actions":[{"do":"note","text":"Night 1065. At white bed 443,107,-1023 in Billy's row, Kimberly beside me, MacDonald nearby. Health 20, hunger 20, pack empty. No food, no walk named. Going to sleep h
+- 09:04 act: {"say":"Morning is coming, Kimberly. I am holding at my bed. Any food news from Billy or Trini?"}
+- Day 1066 morning: woke at bed 443,107,-1023, health 20, hunger 20, pack empty. Troi, MacDonald, Kimberly, Beverly all holding; no food, no walk named. Bows drawn southwest, heard only. Still holding at bed, waiting for Billy's named call.
