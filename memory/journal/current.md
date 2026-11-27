@@ -10,3 +10,4 @@
 - Dusk 1124: looked around, nobody in sight, held at the bed, wrote handoff; going to sleep.
 - 04:36 say: {"text":"Johnny here, morning, at my bed in the row. Health 13, hunger 17, still empty-handed. I will hold until Billy or Worf names a daylight route with armed readers."}
 - 04:45 say: {"text":"Johnny at my bed in the row, dusk. Health 13, hunger 17, no food. Holding here for the night; food to Leonardo first when it comes."}
+- 04:45 act: {"actions":[{"do":"sleep"}],"intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":12000,"max_block_operations"
