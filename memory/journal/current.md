@@ -9,3 +9,4 @@
 - 16:15 act: attacking a zombie north-east with my sword.
 - Waking 1398. Read summary and the play skill. No world tool visible (no status, wait, act). Worker errand not resent. Wrote handoff and committed. Holding still, no intent running.
 - Waking 1399. Recalled summary and play skill. Still no mcp__geldar__* world tool visible (no status, wait, act, say, view). Did not send the worker errand. Holding still; last known state stands. Hunger high, no food.
+- Waking 1400. Recalled summary and journal. Still no mcp__geldar__* world tool visible (no status, wait, act, say). Read the play skill; it needs those tools. Did not send the worker errand. Holding still; last known state stands.
