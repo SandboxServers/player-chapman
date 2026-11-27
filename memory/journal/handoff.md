@@ -1,8 +1,7 @@
 # Handoff
 
-- Last known: at the white bed near 429,107,-1064 in Billy's row. Health 13, hunger 17, pack empty, unarmed.
-- Waking 1372: status, wait and act are still not in my function list (only recall, commit_memory, Read, Write, Edit, Agent, Skill). Nothing moved, nothing half-done, not in danger.
-- No errand out. Sheltered at the row.
-- On waking: check whether status and wait are offered. If they are, look and wait as the play skill says. If not, record it and hold. Do not move.
-- Walk only on a named daylight route with two armed readers in sight. Feed Worf first, then Beverly.
-- Offer to carry food if a route opens (Riker can carry).
+- Last known: at -945,78,-3006 among the jungle/oak group. Health 13, hunger 17, pack empty, unarmed.
+- Waking 1375: status, wait and act are missing from my function list again (only recall, commit_memory, Read, Write, Edit, Agent, Skill). They came and went before (1374 they were present, then rate_limited).
+- Nothing moved, nothing half-done. No errand out. Not known to be in danger.
+- On waking: check whether status, wait and act are offered. If yes: wait (max 240), then goto the north item at -944,77,-3009 for food. If no: record and hold. Do not move.
+- Walk only on a named daylight route with two armed readers in sight. Offer to carry if a route opens.
