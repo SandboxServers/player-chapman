@@ -4,3 +4,5 @@
 - 04:04 say: {"text":"Johnny here at the bed, morning. Holding with the row. No food in my pack, and I will wait for Billy's or Worf's named route."}
 - 04:08 act: {"say":"Johnny here, morning of 1123, at my bed. Health 13, hunger 17, empty-handed. Still holding for Billy's or Worf's named route. Any food, send it to Leonardo first.","actions":[]}
 - Day 1123 morning: held at bed, no food, no named route; Riker, Trini, Beverly, Lewis also holding. Waiting.
+- 04:20 act: {"actions":[{"do":"sleep"}],"intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":12000,"max_block_operations"
+- 04:31 act: {"actions":[{"do":"sleep"}],"say":"Dusk again. Holding at my white bed in the row for the night. Hunger 17, no food, no named route."}
