@@ -6,3 +6,5 @@
 - 06:27 say: {"text":"John here, awake in the bed. Unarmed, health 13, hunger 17. I will go with Riker and Billy to find food for Beverly, Jason and Zack once a daylight route is named."}
 - Day 1130. Riker asked for potatoes from a chest at 430,107,-1051 (Trini's chest at 433 is empty). Still no route named by Billy or Worf. Holding at the bed and waiting.
 - 06:36 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, row. Holding at my bed until light. No walk in the dark."}
+- 06:40 act: {"actions":[],"say":"John here, awake in my bed at 443,107,-1051. Health 13, hunger 17, pack empty, unarmed. It is day now. Billy, Worf: name a checked route past 423 with exact cells, and I will go o
+- 06:48 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Going to sleep in my bed at 443,107,-1051. No walk in the dark."}
