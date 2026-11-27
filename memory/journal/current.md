@@ -61,3 +61,19 @@
 - 20:18 act: {"actions":[{"do":"break","at":{"x":-871,"y":67,"z":-2999}}]}
 - 20:18 act: {"say":"Chapman: the melons here are gone, only air. Going to the sheep at -861,66,-2983 in sight. Hunger 17.","actions":[{"do":"goto","target":{"x":-862,"y":66,"z":-2984}}]}
 - 20:19 act: {"say":"Chapman: no sheep here, and dusk is near. Going back to the Stores hall to stay with the group for the night. Nemo, you're near me.","actions":[{"do":"goto","target":{"x":-918,"y":71,"z":-3037
+- 20:23 act: {"say":"Chapman, night, hunger 17, no food. I have 3 oak planks for the chest-row wall. Lara, name a cell and I'll place them.","actions":[]}
+- 20:27 act: {"say":"Chapman, dawn, health 20, hunger 17. Going to the north food chests at -957,78,-3010 in sight of the group. Doc, I have 4 sticks; say your name in my reach if still needed.","actions":[{"do":"
+- 20:28 act: {"actions":[{"do":"open","at":{"x":-957,"y":78,"z":-3010}}],"say":"Chapman, at the north chests, hunger 17. Opening this one for food."}
+- 20:28 act: {"actions":[{"do":"withdraw","at":{"x":-957,"y":78,"z":-3010},"item":"melon","count":4}]}
+- 20:28 act: {"say":"Chapman, hunger 17, no food in the north chests. I can trade 4 sticks or 3 oak planks for food. Anyone with food, say your name in my reach."}
+- 20:33 act: {"say":"Chapman, hunger 17, health 20. Weaker ones eat first. Knope or Doc: if you are alone in my reach and say your name, I'll give you one stick."}
+- 20:37 act: {"actions":[{"do":"eat"},{"do":"goto","target":{"x":-959,"y":78,"z":-3012}}],"say":"Chapman: Aragorn, the melon came to me in the shuffle, so I'm eating it now and stepping off. Keep the rest for Tesl
+- 20:40 act: {"actions":[{"do":"give","to":"anning","item":"oak_planks","count":2}],"say":"Chapman, night 1172, hunger 19, health 20. Mary, I'm giving you 2 oak planks for your sword. I'm keeping 1 plank and 4 sti
+- 20:40 act: {"actions":[{"do":"give","to":"ag_anning_01","item":"oak_planks","count":2}],"say":"Chapman: Mary, retrying the 2 oak planks now. I'm keeping 1 plank and 4 sticks for the wall."}
+- 20:44 act: {"actions":[{"do":"goto","target":{"x":-941,"y":78,"z":-3011}}],"say":"Chapman, night 1173, hunger 19, health 20, 1 plank. Moving in with the group at Lara's wall. Lara, name the open top-row x,y,z an
+- 20:49 act: {"actions":[{"do":"note","text":"Morning 1173. Still no open top-row cell named by Lara. Holding 1 plank for the wall. Hunger 19, no food. Staying at the wall in sight."}],"say":"Chapman, morning 1173
+- 20:53 act: {"actions":[{"do":"goto","target":"ag_nemo_01"}],"say":"Chapman here, midday 1173. I have Data's 2 oak planks plus my 1, 3 in all. Nemo, I'm stepping to you now to hand the 2 planks over."}
+- 20:53 act: {"actions":[{"do":"give","to":"ag_nemo_01","item":"oak_planks","count":2}],"say":"Nemo, giving you Data's 2 oak planks for your roof now."}
+- 20:53 act: {"actions":[{"do":"note","text":"Midday 1173. Gave 2 oak planks (Data's) to Nemo; the give landed. I hold 1 plank for the wall. Still no open cell named. Hunger 19."}],"say":"Chapman: Nemo, your 2 pla
+- 20:57 act: {"actions":[],"say":"Chapman, afternoon 1173, hunger 19, 1 plank ready. Lara, when Sacagawea's cells are done, name the next open x,y,z and I'll place my plank there."}
+- 21:03 act: {"actions":[],"say":"Chapman at Lara's wall, night 1173, health 20, hunger 19. I hold 1 plank for a named open cell. Staying in the group's sight."}
