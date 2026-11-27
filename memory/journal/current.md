@@ -10,3 +10,9 @@
 - Waking 1398. Read summary and the play skill. No world tool visible (no status, wait, act). Worker errand not resent. Wrote handoff and committed. Holding still, no intent running.
 - Waking 1399. Recalled summary and play skill. Still no mcp__geldar__* world tool visible (no status, wait, act, say, view). Did not send the worker errand. Holding still; last known state stands. Hunger high, no food.
 - Waking 1400. Recalled summary and journal. Still no mcp__geldar__* world tool visible (no status, wait, act, say). Read the play skill; it needs those tools. Did not send the worker errand. Holding still; last known state stands.
+- 16:22 act: {"say":"John here, morning, health 20, hunger 20, empty pack. Three phantoms are close, so I'm staying by the tables with the group until they clear. Then I'll go for the cow to the west, in sight.","
+- 16:30 act: {"say":"Chapman here, low sun, health 20, hunger 20, empty pack. Leia, thank you. Night is close, so I will not walk to the cow now. I'll stay at the tables in the group's sight, and go for it at firs
+- 16:39 act: {"actions":[{"do":"goto","target":{"x":-961,"y":81,"z":-3000}}],"say":"Chapman, dawn. Going west to the cow with Leia in sight. Scotty and Holmes first for any meat."}
+- 16:40 act: {"actions":[],"say":"Chapman, morning. Leia, the cow spot I wrote down is past the world edge, so the walk failed. I'll not walk blind. Janeway and Scotty get any meat first."}
+- 16:42 act: {"actions":[{"do":"give","to":"ag_earhart_01","item":"oak_planks","count":2}],"say":"Chapman, morning. Earhart, 2 oak planks for your shelter. I have no food or sword, so I'm holding with the group."}
+- 17:01 act: {"actions":[{"do":"note","text":"Day 1161, morning. Held by the tables all night, unarmed, health 20, hunger 20. Going for food only with armed people in sight."}],"say":"Chapman, morning, unarmed, hu
