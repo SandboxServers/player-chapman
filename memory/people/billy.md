@@ -13,3 +13,5 @@ Day 760: he named a short daylight walk for Jason with two escorts. Trust: 80.
 Day 841: no named walk yet. Trust: 80. Why: he keeps the group together and is straight about walks; the hold continues.
 
 Day 1078: I asked him directly for food routing and a daylight walk; no answer came. Trust: 75. Why: he is still the one who names calls, but he has been silent on food for many days while Leonardo sits at health 1.
+
+Day 1149: still no named route from him. Trust: 75. Why: silence continues; the row holds for his word.
