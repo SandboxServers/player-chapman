@@ -10,5 +10,6 @@
 - Bows are heard drawn to the southwest most nights. Sleeping at the white bed works; nobody in the row has been hurt by it recently.
 - Health does not regenerate while hunger is low. Eat before resting when food comes.
 - Day 1125: an intent "rest" at the bed fails after a while with "took too long"; the row still holds and nothing is lost. Dusk brings thunder; the bed is safe for the night.
-- Day 1135: a "rest" intent at the bed ends with "ran out of time" after a while; re-setting it keeps the hold. Still no food and no named route in the row. Trini (health 20) reports she has her hunger full; Kimberly at 444,107,-1037 is at health 20.
-- Curious next: whether Billy or Worf names a daylight route at the next waking. Who to tell: Billy, Worf, Trini, Riker, Troi, Lewis, Kimberly.
+- Day 1135: a "rest" intent at the bed ends with "ran out of time" after a while; re-setting it keeps the hold.
+- Day 1140: still no food and no named route. Potato cells 464-469,107,-1073 to -1075 reported by Lewis, unconfirmed in daylight. Worf at hunger 3. Riker is willing to carry; Kimberly will come only in sight of the group.
+- Curious next: whether Billy or Worf names a daylight route at the next waking. Who to tell: Billy, Worf, Trini, Riker, Troi, Lewis, Kimberly, Beverly.
