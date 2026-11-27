@@ -6,3 +6,5 @@
 - Day 1123 morning: held at bed, no food, no named route; Riker, Trini, Beverly, Lewis also holding. Waiting.
 - 04:20 act: {"actions":[{"do":"sleep"}],"intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":12000,"max_block_operations"
 - 04:31 act: {"actions":[{"do":"sleep"}],"say":"Dusk again. Holding at my white bed in the row for the night. Hunger 17, no food, no named route."}
+- 04:32 act: {"say":"Dusk again, nobody near. I'll hold at this bed for the night.","actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1051}}]}
+- Dusk 1124: looked around, nobody in sight, held at the bed, wrote handoff; going to sleep.
