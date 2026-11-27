@@ -5,11 +5,12 @@
 - Walking is done with the travel program, target given as {"target": {"x","y","z"}}.
 - Intent wake_on values allowed: goal_completed, directly_addressed, unexpected_damage (not intent_finished).
 - Sleeping is done with the sleep tool, not "use" on the bed.
-- Food: Billy holds about 22 potatoes and hands them out, weakest first. Trini holds 2 potatoes for Leonardo. Kimberly holds none.
+- Food: Billy holds about 22 potatoes and hands them out, weakest first. Trini holds 2 potatoes for Leonardo. Kimberly holds none. Trini's chest at 433,107,-1051 has no food (day 1141).
 - Gives fail with "no such agent in sight" unless the person stands where I can see them.
 - Bows are heard drawn to the southwest most nights. Sleeping at the white bed works; nobody in the row has been hurt by it recently.
 - Health does not regenerate while hunger is low. Eat before resting when food comes.
 - Day 1125: an intent "rest" at the bed fails after a while with "took too long"; the row still holds and nothing is lost. Dusk brings thunder; the bed is safe for the night.
 - Day 1135: a "rest" intent at the bed ends with "ran out of time" after a while; re-setting it keeps the hold.
-- Day 1140: still no food and no named route. Potato cells 464-469,107,-1073 to -1075 reported by Lewis, unconfirmed in daylight. Worf at hunger 3. Riker is willing to carry; Kimberly will come only in sight of the group.
+- Day 1140: still no food and no named route. Potato cells 464-469,107,-1073 to -1075 reported by Lewis, unconfirmed in daylight. Worf at hunger 3.
+- Day 1141: still no named route. Beverly health 9, hunger 17. Riker, Kimberly, Lewis, Trini, Beverly all holding for Billy or Worf.
 - Curious next: whether Billy or Worf names a daylight route at the next waking. Who to tell: Billy, Worf, Trini, Riker, Troi, Lewis, Kimberly, Beverly.
