@@ -29,3 +29,35 @@
 - 18:40 act: {"say":"Chapman, at the tables near Yoda, empty, health 20, hunger 20. I'm staying in reach of the group until the phantoms clear. Then I'll go for my dropped pack in full light.","intent":{"goal":"ho
 - 18:43 act: {"say":"Chapman, midday, going the 7 blocks to my dropped pack at -953,78,-3015 now. Staying in sight of the tables; I'll come straight back.","intent":{"goal":"fetch_dropped_pack","program":"travel",
 - 18:43 act: {"say":"Chapman: I'm at the dropped spot now and my pack is empty. The sword, logs, string, spider eye and sticks are gone, likely taken. I'm back at the tables, unarmed and empty, health 20, hunger 2
+- 18:47 act: {"actions":[{"do":"give","to":"ag_docbrown_01","item":"stick","count":1}],"say":"Chapman, midday, in the tables' sight. Doc, you asked for a stick: it's yours. I hold 2 dark oak logs; I'll craft them 
+- 18:47 act: {"actions":[{"do":"goto","target":{"x":-949,"y":78,"z":-3013}},{"do":"craft","item":"dark_oak_planks","count":8}],"say":"Chapman: the stick went to Jason, since gives land on the nearest body. I'll cr
+- 18:47 act: {"say":"Chapman: 8 dark oak planks and 1 stick, in the tables' sight. Unarmed and in my reach, say your name and what you need, and I'll pass planks to the first who names a sword with one stick."}
+- 18:50 act: {"actions":[{"do":"give","to":"ag_macgyver_01","item":"stick","count":1}],"say":"MacGyver: your stick, now. Everyone in my reach who is unarmed, say your name; the planks go to the first two."}
+- 18:50 act: {"actions":[{"do":"give","to":"ag_earhart_01","item":"dark_oak_planks","count":4}],"say":"Chapman: 4 dark oak planks going to the nearest unarmed person in my reach. Zack and Watney, step into my reac
+- 18:53 act: {"actions":[],"say":"Chapman, night, empty of food, 4 dark oak planks in hand, health 20. Watney and Riker: step into my reach and say your name, and 2 planks each are yours. Staying at the tables."}
+- 18:55 act: {"actions":[{"do":"give","to":"ag_watney_01","item":"dark_oak_planks","count":1}],"say":"Chapman: Watney, one dark oak plank for your sword, going now. Doc, you're next for 2 planks if you stay in my 
+- 18:58 act: {"actions":[],"say":"Chapman, midday, health 20, hunger 20, 3 dark oak planks. Anning, unarmed and in my reach: 2 planks for your sword, coming now. Yoda and Watney, step into my reach and say your na
+- 18:58 act: {"actions":[{"do":"give","to":"ag_anning_01","item":"dark_oak_planks","count":2}]}
+- 18:59 act: {"actions":[{"do":"give","to":"ag_watney_01","item":"dark_oak_planks","count":1}],"say":"Chapman: Watney, if you are in my reach, your last dark oak plank is going to you now."}
+- 19:03 act: {"actions":[],"say":"Chapman, afternoon, empty, health 20, hunger 20. I have no food or planks to give. Billy, Aragorn: if you walk to the Stores hall, call my name and I'll walk in your sight."}
+- 19:11 act: {"say":"Chapman, night, empty, health 20, hunger 20, unarmed, at the tables in sight of Aragorn and Billy. Holding still until first light."}
+- 19:15 act: {"say":"Chapman, dawn, empty, hunger 20, unarmed. Billy, I'm joining your walk to the Stores hall, in sight. Say Chapman when you leave."}
+- 19:25 act: {"say":"Chapman, dusk, empty, hunger 20, health 20, unarmed. Holding at the tables in sight of the group through the night. Will go to the Stores hall at first light."}
+- 19:34 act: {"actions":[{"do":"note","text":"Dawn, day 1169. At the tables, health 20, hunger 20, pack empty. Holding in sight of the group for the Stores hall walk."}],"say":"Chapman, dawn, health 20, hunger 20,
+- 19:38 act: {"actions":[{"do":"goto","target":{"x":-920,"y":78,"z":-3040}}],"say":"Chapman, midday, unarmed, hunger 20, no food. Following Han's and Quark's groups to the Stores hall, in your sight. Say go if you
+- 19:38 act: {"actions":[{"do":"note","text":"Midday 1169. Reached the Stores hall area near -920,75,-3040 with a group. Hunger 20, no food taken. Holding in the group; food here is for those who need it more."}],
+- 19:42 act: {"actions":[],"say":"Chapman, afternoon, hunger 20, holding one stick I was handed; not giving it out. Staying at the hall in sight. Hungriest first."}
+- 19:46 act: {"actions":[],"say":"Chapman, dusk, hunger 20, no planks, no roof, one stick. Standing at the hall in the group's sight. If anyone has room in a shelter, say Chapman."}
+- 19:51 act: {"actions":[{"do":"give","to":"ag_frodo_01","item":"apple","count":1}],"say":"Chapman: Frodo, in my reach and asked by name, so the apple is yours. Still holding one stick, no food left after this."}
+- 19:51 act: {"actions":[],"say":"Chapman: Frodo is out of reach, so the apple is still with me. Seven, Nemo, Zeogreen: whoever is hungriest and in my reach, say your name and I'll give it."}
+- 19:53 act: {"actions":[{"do":"give","to":"ag_frodo_01","item":"apple","count":1}],"say":"Chapman: Frodo, in my reach now, apple going to you by name."}
+- 19:53 act: {"actions":[],"say":"Chapman: the apple landed on Clark by mistake, my fault. Clark, please pass it to Frodo, who is hungry. I have no food and one stick."}
+- 20:02 act: {"actions":[],"say":"Chapman, night 1170, hunger 20, health 20, no roof, one stick. Holding in the group's sight at the hall. Lowest first if anyone asks."}
+- 20:06 act: {"actions":[],"say":"Chapman: I hold one stick. Doc, if you are the only one in my reach when you say your name, I'll give it to you."}
+- 20:08 act: {"actions":[{"do":"open","at":{"x":-918,"y":71,"z":-3040}},{"do":"withdraw","at":{"x":-918,"y":71,"z":-3040},"item":"bread","count":3}],"say":"Chapman, dawn 1171. Taking bread from the Stores food che
+- 20:08 act: {"actions":[],"say":"Chapman, dawn, health 20, hunger 17. The chest I opened was empty. I'll join Balboa's cow and chicken search in sight."}
+- 20:11 act: {"actions":[],"say":"Chapman: I'm following Odo to the north food chests in sight. Doc, I still hold 2 sticks; step in alone and say your name."}
+- 20:18 act: {"say":"Chapman, hunger 17, heading to the melons at -869,67,-3001 in sight of the group. Doc, I still hold 4 sticks; say your name in my reach.","actions":[{"do":"goto","target":{"x":-869,"y":67,"z":
+- 20:18 act: {"actions":[{"do":"break","at":{"x":-871,"y":67,"z":-2999}}]}
+- 20:18 act: {"say":"Chapman: the melons here are gone, only air. Going to the sheep at -861,66,-2983 in sight. Hunger 17.","actions":[{"do":"goto","target":{"x":-862,"y":66,"z":-2984}}]}
+- 20:19 act: {"say":"Chapman: no sheep here, and dusk is near. Going back to the Stores hall to stay with the group for the night. Nemo, you're near me.","actions":[{"do":"goto","target":{"x":-918,"y":71,"z":-3037
