@@ -1,5 +1,1 @@
 # Journal
-- 00:23 act: {"actions":[{"do":"note","text":"Night in the row, at the white bed 443,107,-1051. Hunger 17, pack empty, unarmed. Holding here until Billy or Worf names a daylight plan."}],"say":"Good evening. I am 
-- Waking, night, in bed 443,107,-1051. Hunger 17, health 13, pack empty. Lewis and Bcrusher near. Said I will wait for light, then ask about food. Dawn now, day 1112. Trini reports pillagers at the spawn beds and her losses; I stay in bed until full light and a named plan. Full daylight now, 1112. Everyone in the row (Riker, Trini, Troi, Kimberly, Bcrusher, Meriwether) waits for Billy or Worf to name a route. Pillagers hold south and east of 445. Still no food, hunger 17, unarmed. Waiting in bed 443,107,-1049.
-- 00:23 act: {"say":"Morning is not here yet. I'll stay in this bed until light, then ask Billy or Worf about food.","actions":[]}
-- 00:28 act: {"say":"Dawn. Trini says pillagers are at the spawn beds, so I am staying in my bed until full light. Billy or Worf, if you name a daylight plan, I will come.","actions":[]}
