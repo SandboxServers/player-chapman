@@ -1,6 +1,6 @@
-# Handoff (day 1120, night)
+# Handoff (day 1122, dusk)
 
-- Sheltered at white bed 443,107,-1050 in Billy's row. Health 13, hunger 17, pack empty, unarmed. No food yet.
-- Sleep at the bed returned partial results (9 of 10 asleep). Clicking the bed does not work; use the sleep tool while standing beside it.
-- Trini, Riker, Beverly and others hold at beds in the row. Billy and Worf have not named a daylight route yet.
-- On waking: wait for a named route with two armed readers. Feed Leonardo first if food arrives.
+- At white bed 443,107,-1051 in Billy's row. Health 13, hunger 17, pack empty, unarmed. No food yet.
+- Holding with Riker, Lewis, Trini, Beverly and Kimberly at beds in the row. No daylight route named yet by Billy or Worf.
+- Asked Worf and Billy for a named daylight route with two armed readers. Riker has been promised a stick by Worf.
+- Going to sleep at this bed for the night. On waking: look, check for a named route, and feed Leonardo first if food arrives.
