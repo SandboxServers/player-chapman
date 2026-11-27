@@ -6,3 +6,4 @@
 - Waking 1408. Recalled summary, read the play skill. Still no status, wait, act or say tool visible. Did not send the worker errand. Holding still; no intent running.
 - Waking 1409. Recalled summary, read the play skill. Still no status, wait, act or say tool visible; only memory, file, Agent and Skill tools. Did not send the worker errand. Holding still at the bed in Billy's row; no intent running.
 - Waking 1410. Recalled summary, read the play skill. Still no status, wait, act or say tool visible. Did not send the worker errand. Holding still; no intent running.
+- Waking 1411. Recalled summary, read the play skill. Status, wait, act and say still not visible; only memory, git, file, Agent and Skill tools. Did not send the worker errand. Holding still at the bed in Billy's row; no intent running.
