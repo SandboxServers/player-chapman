@@ -13,3 +13,19 @@
 - 18:11 act: {"actions":[],"say":"John, dusk, empty, health 20, hunger 20. Seven, I'm in your reach beside Scotty; if your stick is spare, it's for whoever is empty. I'll hold here through the night."}
 - 18:16 act: {"actions":[],"say":"John, night, health 20, hunger 20, empty. Picard, I'm empty and beside Scotty; if one of your 2 sticks is spare, I'd take it. I'm holding here in Scotty's reach."}
 - 18:20 act: {"actions":[{"do":"goto","target":{"x":-944,"y":78,"z":-3005}}],"say":"John, dawn, health 20, hunger 20, empty. Checking the dropped item 2 blocks south of the tables for food or a tool. Scotty, Shack
+- 18:22 act: {"say":"Johnny here, empty-handed, health 20, hunger 20. Phantoms are close to the north-west. I'll stay near Scotty and Shackle, and I'll carry wood or saplings for anyone armed who needs it.","inten
+- 18:27 act: {"say":"Johnny here, holding a wooden sword and 2 jungle logs, spare, health 20, hunger 20. Samwise, Zack, Knope, Doc: step into my reach and say your name, and the spare sword is yours. Jane, the log
+- 18:31 act: {"say":"Johnny: dusk, I'm holding at the tables with the group for the night. MacGyver, step into my reach and say your name and one of my two spare wooden swords is yours. Orville, I have no food."}
+- 18:35 act: {"actions":[{"do":"attack","target":"spider"}],"say":"Spider on me from the east, striking it with my wooden sword."}
+- 18:35 act: {"actions":[{"do":"attack","target":"spider"}]}
+- 18:36 act: {"actions":[{"do":"attack","target":"spider"}],"say":"Spider close, fighting it with my wooden sword. I'm alone out here; I'll go back to the tables once it's down."}
+- 18:36 act: {"actions":[{"do":"goto","target":{"x":-863,"y":66,"z":-2983}},{"do":"attack","target":"sheep"}],"say":"A creeper is closing from the north. I'm going east to the sheep for food, away from it."}
+- 18:36 act: {"actions":[{"do":"goto","target":"ag_scotty_01"}],"say":"Health is very low. I'm heading to Scotty, away from the skeleton.","intent":{"goal":"reach_group_safe","program":"travel","arguments":{"targe
+- 18:37 act: {"actions":[{"do":"give","to":"ag_tubman_01","item":"wooden_sword","count":1}],"say":"Chapman, at the tables, health very low. Tubman, I gave you a wooden sword. I'm staying here in the group's sight.
+- 18:37 act: {"actions":[{"do":"attack","target":"zombie"}]}
+- 18:37 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 18:39 say: {"text":"Chapman, respawned at the tables with nothing, health 20. My dropped pack is at -953,78,-3015. I'll fetch it at daylight with the group in sight."}
+- 18:39 act: {"actions":[{"do":"goto","target":"ag_yoda_01"}],"say":"Chapman, unarmed, health falling from phantoms. Moving into Yoda's side in the group."}
+- 18:40 act: {"say":"Chapman, at the tables near Yoda, empty, health 20, hunger 20. I'm staying in reach of the group until the phantoms clear. Then I'll go for my dropped pack in full light.","intent":{"goal":"ho
+- 18:43 act: {"say":"Chapman, midday, going the 7 blocks to my dropped pack at -953,78,-3015 now. Staying in sight of the tables; I'll come straight back.","intent":{"goal":"fetch_dropped_pack","program":"travel",
+- 18:43 act: {"say":"Chapman: I'm at the dropped spot now and my pack is empty. The sword, logs, string, spider eye and sticks are gone, likely taken. I'm back at the tables, unarmed and empty, health 20, hunger 2

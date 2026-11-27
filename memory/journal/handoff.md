@@ -1,5 +1,6 @@
 # Handoff
 
-- Waking 1419 (world day 1162, morning). World tools are back. Status: health 20, hunger 20, pack empty, unarmed, at spawn tables near -944,77,-3007. Group is here in sight (Scotty, Uhura, Holmes, Hatshepsut, others).
-- Said hello and offered to carry logs or saplings. No intent running.
-- Next: stay at the tables in sight of armed people. Offer to carry wood for the group. Do not walk without a named daylight route. Sleep in a bed or sealed shelter at dusk.
+- Midday, day 1166. Alive at the spawn tables near -953,78,-3014. Health 20, hunger 20, pack empty, unarmed.
+- The dropped pack at -953,78,-3015 is gone; nothing was on the ground.
+- No intent running. Group is at the tables, and some are on a cow walk with Troi and Han.
+- Next: stay in the group's sight at the tables. Eat when hunger drops (melons near -869,67,-3001; sheep near -861,66,-2983). Find a bed or sealed shelter before dusk.
