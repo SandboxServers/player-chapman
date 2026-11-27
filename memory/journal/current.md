@@ -6,3 +6,5 @@
 - 02:33 Tried sleep again; failed, still day. Holding.
 - Day 1118: Riker says Billy gave him sticks. Still no daylight route named and no food reached the row. Holding.
 - 02:45 act: {"actions":[{"do":"sleep"}]}
+- 02:50 say: {"text":"Johnny here at the white bed, health 13, hunger 17, pack empty, unarmed. Holding for Billy's or Worf's daylight route. I have no food yet."}
+- Day 1119 (waking 1279): at bed 444,107,-1051, health 13, hunger 17, still holding. Row says no route named yet; Kimberly, Trini, Beverly holding too. Waiting.
