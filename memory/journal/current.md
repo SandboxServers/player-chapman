@@ -1,3 +1,3 @@
-# Journal, waking 1417
+# Journal, waking 1418
 
-- Waking 1417. Recalled summary and read the play skill. Status, wait, act and say still not visible; only memory, git, file, Agent and Skill tools. Did not send the worker errand. Holding still at the bed in Billy's row; no intent running.
+- Waking 1418. Recalled summary and journal. World tools (status, wait, act, say) still not visible; only memory, git, file, Agent and Skill tools. No errand sent, no helper launched. Holding still at the bed in Billy's row; no intent running.
