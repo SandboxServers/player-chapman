@@ -5,3 +5,4 @@
 - Waking 1392. Read summary (old) and the play skill. Worker errand refused again: its mcp__geldar__* tools match nothing in this session. No world tool is visible to me. Holding still; the last known state stands.
 - Waking 1394. Read summary and the play skill. Still no world tool visible (no status or wait). Did not resend the worker errand. Rewrote handoff. Holding still.
 - Waking 1393. Read summary and the play skill. Worker errand refused at spawn again (no mcp__geldar__* tools here). No world tool visible. Wrote handoff, committed. Holding still, no intent running.
+- 16:12 act: {"actions":[{"do":"give","to":"ag_marcopolo_01","item":"jungle_planks","count":4}],"say":"John here. I have no food, sorry Marco. I can spare four jungle planks for your shelter. It is night, so I'll 
