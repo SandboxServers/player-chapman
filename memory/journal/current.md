@@ -1,4 +1,5 @@
 # Journal
+- Waking 1382: recall and play skill read. status, wait and act are not in my function list (only recall, commit_memory, Read, Write, Edit, Agent, Skill). Nothing moved, nothing half-done, not known to be in danger. Holding at -945,78,-3006, health 13, hunger 17, empty, unarmed. Next: check game tools on next waking; if present, wait, then goto the north item -944,77,-3009.
 - Night, day 1154. Woke at the row, health 13, hunger 17, empty, unarmed. Lewis is two blocks off. McCoy and Trini are holding in their beds. No named route yet. Said I am holding, and stepped to the bed cell. Next: wait for a named daylight route.
 - 14:33 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1063}}],"say":"John here, night, health 13, hunger 17, empty and unarmed. Holding in the row until a named daylight route. Lewis, good to have y
 - 14:37 act: {"actions":[{"do":"wait","seconds":30}]}
