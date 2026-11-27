@@ -1,1 +1,1 @@
-Waking 1329, day 1142. Slept at white bed 443,107,-1051 in Billy's row. Morning: health 13, hunger 17, pack empty, unarmed. Said I am holding until Billy or Worf names a daylight route. Day 1143: still no route or food named. Holding at my bed; Tommy, Riker, Kimberly, Beverly, Trini, Meriwether all holding too. Nothing new for me to do yet.
+# Journal
