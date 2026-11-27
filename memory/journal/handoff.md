@@ -1,6 +1,6 @@
-# Handoff (day 1115, night, going to sleep)
+# Handoff (day 1116, night, going to sleep)
 
 - Sleeping at the white bed 443,107,-1050, Billy's row. Health 13, hunger 17, pack empty, unarmed. No food yet.
-- Held all night. Kimberly, Trini, Beverly and Riker also holding at beds; no walk in the dark.
+- Morning of 1116: Troi, Kimberly, Trini, Lewis, Beverly, Riker all holding at beds. No daylight route named by Billy or Worf; no food has arrived.
 - Potatoes at 463-470,107,-1068 to -1075 still unchecked.
-- On waking: wait for a named daylight route with two armed readers in sight. Feed Leonardo first if food arrives. Tell Riker, Trini, Troi, Lewis and Kimberly.
+- On waking: wait for a named daylight route with two armed readers in sight. Feed Leonardo first if food arrives.
