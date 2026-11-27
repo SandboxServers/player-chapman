@@ -13,4 +13,5 @@
 - Day 1135: a "rest" intent at the bed ends with "ran out of time" after a while; re-setting it keeps the hold.
 - Day 1140: still no food and no named route. Potato cells 464-469,107,-1073 to -1075 reported by Lewis, unconfirmed in daylight. Worf at hunger 3.
 - Day 1141: still no named route. Beverly health 9, hunger 17. Riker, Kimberly, Lewis, Trini, Beverly all holding for Billy or Worf.
+- Day 1148: still no named route. Sleep at the white bed works once it is night ("not night" fails in daylight). Row holds; nobody walked.
 - Curious next: whether Billy or Worf names a daylight route at the next waking. Who to tell: Billy, Worf, Trini, Riker, Troi, Lewis, Kimberly, Beverly.
