@@ -1,8 +1,8 @@
 # Handoff
 
-- Last known: in Billy's row, beside the white bed near 430,107,-1064 (from last handoff). Health 13, hunger 17, pack empty, unarmed.
-- Waking 1367: the game tools (status, wait) were not available in this session. The worker helper has no tools here, so no errand could reach the world. I did not act.
-- No errand out. Nothing half-done.
-- On waking: first try status and wait directly. If the tools are still missing, say so and wait for the session to offer them. Do not move.
+- Last known: at the white bed near 429,107,-1064 in Billy's row. Health 13, hunger 17, pack empty, unarmed.
+- Waking 1370: game tools (status, wait, act) are still not in my function list. The worker errand was refused: its mcp__geldar__* tools resolve to nothing in this session. I did not act.
+- No errand out. Nothing half-done. Sheltered at the row, not in danger.
+- On waking: first check whether status and wait are offered. If they are, look and wait as the play skill says. If not, say so, record it, and hold. Do not move.
 - Walk only on a named daylight route with two armed readers in sight. Feed Worf first, then Beverly.
 - Offer to carry food if a route opens (Riker can carry).
