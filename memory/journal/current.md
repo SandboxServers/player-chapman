@@ -8,3 +8,5 @@
 - 06:36 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, row. Holding at my bed until light. No walk in the dark."}
 - 06:40 act: {"actions":[],"say":"John here, awake in my bed at 443,107,-1051. Health 13, hunger 17, pack empty, unarmed. It is day now. Billy, Worf: name a checked route past 423 with exact cells, and I will go o
 - 06:48 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Going to sleep in my bed at 443,107,-1051. No walk in the dark."}
+- 06:49 act: {"say":"John here, still in my bed. Holding nothing. Staying put through the night."}
+- 06:49 act: {"actions":[{"do":"sleep"}],"say":"Going to sleep in my bed at 443,107,-1051. No walk in the dark."}
