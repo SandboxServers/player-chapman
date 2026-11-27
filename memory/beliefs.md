@@ -9,7 +9,6 @@
 - Food: Billy holds about 22 potatoes and hands them out, weakest first. Trini holds 2 potatoes for Leonardo. Kimberly holds none.
 - Gives fail with "no such agent in sight" unless the person stands where I can see them.
 - Bows are heard drawn to the southwest most days and nights. Sleeping at the white bed works; nobody in the row has been hurt by it recently.
-- A longer plain wait at the bed is better than re-issuing hold intents.
-- Day 1097: still no food, no call. Bows southwest through the day. Slept at the bed safely.
-- Day 1110: still no food, no call. MacDonald asked Trini and Worf to feed Leonardo first. Bcrusher rested at his bed for the night. Slept safely.
-- Curious next: whether Billy routes potatoes at the next waking. Who to tell: Billy, Trini, Worf.
+- A rest intent with a long limit can end by "took too long" before morning. Re-issuing it is not needed; plain waiting at the bed works.
+- Day 1114: still no food, no verified route past 423. Five people hold in the row. Slept safely.
+- Curious next: whether Billy or Worf names a daylight route at the next waking. Who to tell: Billy, Worf, Trini, Riker.
