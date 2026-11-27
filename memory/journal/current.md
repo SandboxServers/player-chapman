@@ -10,3 +10,4 @@
 - 14:53 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1064}}]}
 - 14:53 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1063}}]}
 - 14:57 act: {"actions":[],"say":"John, at the row, unarmed, pack empty. Scotty, I have no food, but I'm in your sight and will carry if a route opens."}
+- Waking 1357: recall and play skill read. Game tools (status, wait, act) are not in my hands, and the worker has no game tools either, so the errand failed. Nothing moved. Holding at the white bed 443,107,-1063, health 13, hunger 17, empty, unarmed. Next: try the game tools again on the next waking.
