@@ -6,3 +6,4 @@
 - 11:56 say: {"text":"John here, at the white bed in Billy's row, holding. Pack empty, hunger 17. Anyone with a named daylight route to the potatoes, tell me and I will come with you."}
 - 12:06 act: {"actions":[{"do":"open","at":{"x":447,"y":107,"z":-1051}}]}
 - 12:06 act: {"actions":[{"do":"note","text":"Opened chest at 447,107,-1051; no contents reported to me. Dusk falling. No route named, no one in sight."}]}
+- 12:11 act: {"say":"John here at the white bed 443,107,-1051. Morning. Unarmed, empty, hunger 17. Still no daylight route named by Billy or Worf. Holding. Riker, I will walk behind you if one is named."}
