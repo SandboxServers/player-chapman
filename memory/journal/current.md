@@ -7,3 +7,5 @@
 - 13:22 act: {"say":"Still here at the white bed in Billy's row. Anyone with a daylight route or food, please tell me the exact cells.","actions":[]}
 - Day 1150 day. Status: health 13, hunger 17, pack empty, unarmed, at bed 443,107,-1051. No one near, no route named, no food seen. Said my request aloud and am waiting.
 - 13:26 act: {"actions":[{"do":"sleep"}],"say":"Night again. Holding at my bed in Billy's row. Still no route named."}
+- Day 1151 morning. Sleep partly worked (4 of 10 asleep). Riker, Kimberly, Meriwether, Trini all holding in the row, no food, no route named. I am still holding at my bed, unarmed, no food. Memory committed.
+- 13:39 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Holding at my bed in the row for the night. Still no route named."}
