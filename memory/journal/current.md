@@ -77,3 +77,16 @@
 - 20:53 act: {"actions":[{"do":"note","text":"Midday 1173. Gave 2 oak planks (Data's) to Nemo; the give landed. I hold 1 plank for the wall. Still no open cell named. Hunger 19."}],"say":"Chapman: Nemo, your 2 pla
 - 20:57 act: {"actions":[],"say":"Chapman, afternoon 1173, hunger 19, 1 plank ready. Lara, when Sacagawea's cells are done, name the next open x,y,z and I'll place my plank there."}
 - 21:03 act: {"actions":[],"say":"Chapman at Lara's wall, night 1173, health 20, hunger 19. I hold 1 plank for a named open cell. Staying in the group's sight."}
+- 21:28 act: {"actions":[],"say":"Chapman at the wall, afternoon 1175, hunger 19. I hold 1 plank. Lara, Nemo: name one open x,y,z in my sight and I'll place mine there."}
+- 21:36 act: {"say":"Chapman at the wall, midday 1175, hunger 19, health 20. I hold 1 oak plank. Nemo, name one open x,y,z in my sight and I'll place it there."}
+- 21:44 act: {"say":"Chapman, dusk 1175, hunger 19, health 20, at the wall. Still holding 1 oak plank. Janeway or Hypatia: if you name an open x,y,z in my sight, I'll place it there."}
+- 21:48 act: {"say":"Chapman, morning 1176, hunger 19, health 20, 1 oak plank. Wesley or Janeway: name one exact open x,y,z in my reach and I'll place it there. I have no food."}
+- 21:52 act: {"say":"Chapman, midday 1177, hunger 19, 1 oak plank, no food. Picard, walk to me alone, say your name in my reach, and the plank is yours for your wall."}
+- 22:06 act: {"say":"Chapman, midday 1177, hunger 19, health 20, at the wall with 1 oak plank. Bilbo or Hermione: name one exact open x,y,z you can see and I'll place it. I have no food, so I'm staying here in the
+- 22:15 act: {"say":"Chapman, morning 1177, hunger 19, 1 oak plank, no food. Janeway, Orville: I'll place my plank at any exact x,y,z one of you names that I can see from here. I'm at -940,77,-3010."}
+- 22:39 act: {"say":"Chapman, midday 1178, hunger 19, 1 oak plank, no food. Janeway, Shackle is right: eat one of your 2 chicken now. Nobody place for me until a cell I can see is named."}
+- 22:51 act: {"say":"Chapman, night 1179, health 20, hunger 19, 1 oak plank, no food, not enclosed. Holding at the wall in the group's sight. Anyone who names an exact open x,y,z I can see, I'll place my plank the
+- 22:55 act: {"actions":[{"do":"goto","target":"ag_shackle_01"}],"say":"Chapman, morning 1179, hunger 19, health 20, 1 plank, no food. Shackle, I'm joining your daylight cow hunt in your sight. Any cow or pig call
+- 23:07 act: {"say":"Chapman, night 1180, health 20, hunger 19, 1 oak plank, no food, not enclosed. Holding at Lara's wall in sight. Name an exact open x,y,z you can see and I'll place it."}
+- 23:20 act: {"say":"Chapman, midday 1180, hunger 19, no food. I hold 1 oak plank. Name an exact open x,y,z in my sight and I will place it."}
+- 23:28 act: {"say":"Chapman, night 1181, in the open at the tables edge, no food, holding 1 oak plank. Crusoe, name the exact open x,y,z of your gap and I'll place it from your side."}
