@@ -6,3 +6,7 @@
 - 14:42 act: {"actions":[],"say":"John here, dawn, health 13, hunger 17, empty and unarmed. I will not walk without a named route and two armed readers. Riker, if you go to the melons, I can carry if you bring me.
 - 14:44 act: {"say":"John, here at the white bed. Unarmed, empty pack, health 13. Riker, if you bring melon and name the route and hour, I will carry what I can. Until then I stay put."}
 - Day 1154, daylight. Status: health 13, hunger 17, empty, unarmed, at bed 443,107,-1063. Riker adjacent, Watson/McCoy/Bilbo heading out or holding. No named route for me. Said I stay put and will carry if Riker brings melon. Next: wait for a named route or food.
+- 14:53 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1064}}],"say":"John here, night at the beds in Billy's row. Unarmed, pack empty, not moving till first light. Anyone who needs an apple seed to 
+- 14:53 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1064}}]}
+- 14:53 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1063}}]}
+- 14:57 act: {"actions":[],"say":"John, at the row, unarmed, pack empty. Scotty, I have no food, but I'm in your sight and will carry if a route opens."}
