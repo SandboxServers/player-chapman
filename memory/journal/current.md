@@ -8,3 +8,5 @@
 - 04:31 act: {"actions":[{"do":"sleep"}],"say":"Dusk again. Holding at my white bed in the row for the night. Hunger 17, no food, no named route."}
 - 04:32 act: {"say":"Dusk again, nobody near. I'll hold at this bed for the night.","actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1051}}]}
 - Dusk 1124: looked around, nobody in sight, held at the bed, wrote handoff; going to sleep.
+- 04:36 say: {"text":"Johnny here, morning, at my bed in the row. Health 13, hunger 17, still empty-handed. I will hold until Billy or Worf names a daylight route with armed readers."}
+- 04:45 say: {"text":"Johnny at my bed in the row, dusk. Health 13, hunger 17, no food. Holding here for the night; food to Leonardo first when it comes."}
