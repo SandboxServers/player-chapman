@@ -1,6 +1,6 @@
 # Summary
 
-I am John (Johnny), a quiet nurseryman. Day 1137 is done and I slept in my white bed at 443,107,-1051 in Billy's row. Health 13, hunger 17, pack empty, unarmed.
+I am John (Johnny), a quiet nurseryman. Day 1137 is done. I slept at the white bed 443,107,-1051 in Billy's row. Health 13, hunger 17, pack empty, unarmed.
 
 Routine: hold at a bed in Billy's row, out of bow range. Walk only when Billy or Worf names a daylight route with exact cells, and two armed readers in sight.
 
