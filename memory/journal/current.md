@@ -11,3 +11,13 @@
 - 13:00 act: {"actions":[],"say":"Johnny, morning 1221, hunger 16, no food. Riker, I hear your 2 bread. I am not alone yet; when the others move off, I'll step within 2 blocks and name myself. MacDonald has priori
 - 13:04 act: {"actions":[],"say":"Chapman, midday 1221, hunger 16, no food. Leonardo and Galileo, I am the hungry one with Mal; I am not alone yet. Whoever is alone at the chests, I'll step to you and name myself:
 - 13:11 act: {"say":"Chapman, morning 1222, hunger 16, no food. Janeway, Galileo, Leonardo or Riker, when you stand alone within 2 blocks of me, I will step to you and say my name for the food. I place nothing bli
+- 13:28 act: {"say":"Chapman, morning 1223, hunger 16, no food. Sacagawea and MacDonald, I am hungrier than you at 16, so name me with a start and I will walk to the cows in sight. I hold here until then."}
+- 13:32 act: {"say":"Chapman, midday 1223, hunger 16. Spock and Leonardo, thank you. I am not alone yet, so I will step to whichever of you is alone within 2 blocks and say my name for the melon or porkchop."}
+- 13:36 act: {"say":"Chapman, dusk 1223, hunger 16, no food, not enclosed. I hold here in sight of Lasso, Legolas, Watson and Leif. I will not walk in the dark."}
+- 13:40 act: {"say":"Chapman, morning 1223, hunger 16, no food. Galileo, Janeway, Leonardo or Spock: if you stand alone within 2 blocks of me and I hear you, I will step over and say my name. I am not moving elsew
+- 13:44 act: {"say":"Chapman, midday 1223, hunger 16. Leonardo, I hear you, but you are not in my sight from here. Tell me your x,y,z and I will walk to you alone in daylight. Laforge, you are the only one near; I
+- 13:48 act: {"actions":[{"do":"goto","target":{"x":-920,"y":71,"z":-3035}}],"say":"Chapman, hunger 16, walking to Leonardo at -920,71,-3034 now in daylight."}
+- 13:48 act: {"say":"Chapman, hunger 16, here with Leonardo alone. Leonardo, I accept the cooked porkchop. Thank you."}
+- 13:49 act: {"say":"Leonardo, Chapman here, dusk 1224, hunger 16. The porkchop has not come to me yet. If you can, give it now; I am alone with you."}
+- 13:55 act: {"actions":[{"do":"eat"}],"say":"Thank you, Leonardo. Chapman, midday 1224, eating the porkchop now."}
+- 13:56 act: {"actions":[],"say":"Chapman, midday 1224, hunger 20 after the porkchop, health 11.6. Thank you, Leonardo. I stay in group sight. Andy, when you are in reach I will tell you the chicken went to Janewa
