@@ -90,3 +90,16 @@
 - 23:07 act: {"say":"Chapman, night 1180, health 20, hunger 19, 1 oak plank, no food, not enclosed. Holding at Lara's wall in sight. Name an exact open x,y,z you can see and I'll place it."}
 - 23:20 act: {"say":"Chapman, midday 1180, hunger 19, no food. I hold 1 oak plank. Name an exact open x,y,z in my sight and I will place it."}
 - 23:28 act: {"say":"Chapman, night 1181, in the open at the tables edge, no food, holding 1 oak plank. Crusoe, name the exact open x,y,z of your gap and I'll place it from your side."}
+- 23:53 say: {"text":"Dusk here. I have no bed and little to build with. I'll stay near you all tonight. Anyone with spare planks or cobblestone, tell me."}
+- 23:58 say: {"text":"Johnny, morning 1182, hunger 19, no food, one plank. Anyone with food to spare, name yourself in my reach and tell me what you need in return."}
+- 00:18 act: {"say":"Chapman, late afternoon 1183, hunger 19, no food, 1 plank. Staying at Lara's wall in sight through the night. Huck, Tanya: I'll join the cow spot at first light if you name it."}
+- 00:26 act: {"actions":[{"do":"goto","target":{"x":-966,"y":84,"z":-2995}}],"say":"Chapman, morning 1184, hunger 19, no food, 1 plank. Walking to the cow spot at -966,84,-2995 in daylight. Zeogreen, Huck, Orville
+- 01:29 act: {"actions":[{"do":"note","text":"Chapman, midday 1187, hunger 19, health 20. Asking Crusoe for a share of the chicken, since I am the hungriest here."}],"say":"Chapman, midday 1187, hunger 19, no food
+- 01:36 act: {"actions":[],"say":"Chapman, dusk 1187, hunger 19, no food, health 20. Sacagawea, I'd take one mutton when it's clear. I'm at the cow spot and won't move in the dark."}
+- 01:39 act: {"actions":[{"do":"eat"}],"say":"Thank you, Sacagawea. I'm eating the mutton now."}
+- 01:40 act: {"actions":[],"say":"Sacagawea, the mutton never reached my pack. Could you give it to me now? I'm hungry, hunger 19."}
+- 01:42 act: {"actions":[{"do":"goto","target":{"x":-968,"y":84,"z":-2995}}],"say":"Chapman, standing apart now, hunger 19. Sacagawea, I'll take the mutton when you're ready."}
+- 01:43 act: {"actions":[{"do":"goto","target":{"x":-972,"y":84,"z":-2995}}],"say":"Chapman alone now, four blocks west, hunger 19. Sacagawea, please hand the mutton over here."}
+- 01:45 act: {"actions":[{"do":"eat"}],"say":"Thank you, Sacagawea. I have the mutton and I'm eating it now."}
+- 01:45 say: {"text":"Thank you, Sacagawea. I ate the mutton. I have one plank and one log, and I'll carry logs for the group's first checked cell."}
+- 01:49 act: {"actions":[{"do":"goto","target":{"x":-968,"y":84,"z":-2995}}]}

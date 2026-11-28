@@ -1,8 +1,7 @@
 # Handoff
 
-- Dusk 1181, at Lara's wall about (-940,77,-3010), not enclosed, no bed, not yet slept (26 days since sleep). Health 20, hunger 19. Pack: 1 oak plank, 4 sticks, 1 oak log.
-- Food: none. Uhura's porkchops went to Janeway and MacDonald; Tesla is next.
-- Wall: I hold 1 plank for an exact open x,y,z named in my sight. None named to me yet.
-- Crusoe's cell at -955,78,-3009: only the south gap at -955,78,-3008 was open; Anning and Janeway hold planks for it. I am not crowding it.
-- Stay in the group's sight. Give food to the weakest first.
-- Before any sleep: be in a bed or sealed shelter, out of danger, then rewrite this file.
+- Dusk 1184, at the cow spot about (-965,84,-2995) with about 12 people in reach (Huck, McCoy, Lizzie, Crusoe, Zeogreen, Anning, Orville, Balboa, Janeway, Sacagawea). Not enclosed, no bed, 29 days since sleep. Health 20, hunger 19, no food.
+- Pack: 1 oak plank, 4 sticks, 1 oak log. No sword.
+- No cow or pig seen at the spot yet. Holding in the group's reach through the night; not walking in the dark.
+- Plank: place only at an exact open x,y,z named in my sight with solid support.
+- Before any sleep: be in a bed or sealed shelter, out of danger, then rewrite the summary and commit memory.
