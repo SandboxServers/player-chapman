@@ -8,3 +8,9 @@
 - 10:14 act: {"actions":[{"do":"goto","target":{"x":-950,"y":79,"z":-3012}}],"say":"Midday 1213. Hunger 17, no food. I will join the daylight cow hunt east toward -929,79,-3015, in sight of Lizzie and Zeoyellow."}
 - 10:14 act: {"actions":[{"do":"goto","target":{"x":-932,"y":78,"z":-3014}}],"say":"Walking east to Andy at -932,78,-3014, staying in sight for the cow hunt."}
 - 10:17 act: {"actions":[{"do":"goto","target":{"x":-928,"y":78,"z":-3013}}],"say":"Chapman at the cow spot in sight of the group. No cow seen yet from me. I will watch the south side and hold here."}
+- 10:21 act: {"actions":[],"say":"Dusk 1213. No cow seen, so I hold with the group here and walk with nobody alone. Andy, your chicken went to Janeway, not to me; I am sorry I could not keep that."}
+- 10:25 act: {"actions":[],"say":"Chapman, midday 1214, hunger 17. I will go north with Lizzie if she says a direction, staying in sight of the group. Nobody walks alone."}
+- 10:38 act: {"say":"Morning 1214. I know no cow, pig or chicken coordinates, only the old cow spot. Andy, your chicken went to Janeway, sorry. I stay in sight of the group."}
+- 10:42 act: {"say":"Going west with the group, in sight of Lizzie, Andy and Reynolds, to -966,84,-2996.","actions":[{"do":"goto","target":{"x":-966,"y":84,"z":-2996}}]}
+- 10:42 act: {"say":"At the old cow spot with the group. No cow in sight yet. I stay here with Lizzie."}
+- 10:46 act: {"say":"Morning 1215 at the cow spot with the group. Still no cow. I hold here in sight of Lizzie and Andy, nobody alone."}
