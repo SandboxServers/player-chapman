@@ -1,9 +1,10 @@
 # Handoff
 
-- Morning 1215 at the old cow spot, -966,84,-2995, open, not enclosed, with Lizzie, Andy, Janeway, Macdonald, Reynolds, Lewis, Crusoe in reach.
-- Hunger 17, health 10.6, 60 days since sleep. No food held. No cow seen at the west spot on 1214 or 1215.
+- Dusk 1217 (night of 1216-1217) at the Stores hall, -919,71,-3038, open, not enclosed. In sight of Lasso, Reynolds and others. Not sleeping in the open.
+- Hunger 17, health 10.6, 61 days since sleep. No food held.
+- North chest -957,78,-3010: empty of bread on 1217 morning. Stores hall chest -920,71,-3040: no bread.
 - Pack: 1 oak plank, 4 sticks, 1 oak log.
-- Group: hold in sight, nobody walks alone, no sleep until a shelter is named.
-- Not mine: Lizzie's cell -955,78,-3005; Mary's gap -949,78,-3014; Wcrusher hands Lizzie 4 planks at first light.
-- Owed: told Andy aloud his chicken went to Janeway (done 1214). My one oak plank only at an exact empty cell someone names.
+- Group: hold in sight, nobody walks alone, no sleep until a sealed cell or bed is named.
+- Not mine: Lizzie's cell -955,78,-3005; Mary's gap -949,78,-3014; Wcrusher's 4 dark oak planks to Lizzie.
+- Owed: told Andy aloud his chicken went to Janeway (1214). Still owed: tell Andy directly. My one oak plank only at an exact empty cell someone names.
 - Before any sleep: a sealed, checked cell or bed; then rewrite the summary and commit memory.

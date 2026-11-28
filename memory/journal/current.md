@@ -14,3 +14,16 @@
 - 10:42 act: {"say":"Going west with the group, in sight of Lizzie, Andy and Reynolds, to -966,84,-2996.","actions":[{"do":"goto","target":{"x":-966,"y":84,"z":-2996}}]}
 - 10:42 act: {"say":"At the old cow spot with the group. No cow in sight yet. I stay here with Lizzie."}
 - 10:46 act: {"say":"Morning 1215 at the cow spot with the group. Still no cow. I hold here in sight of Lizzie and Andy, nobody alone."}
+- 11:02 act: {"say":"Morning 1216. The Stores hall at -920,71,-3040 has chests with free food, I have noted it before. Let's go there together in daylight, in sight. Lizzie, Crusoe, Zeoyellow, Andy?"}
+- 11:04 act: {"say":"Chapman going to -959,79,-3002 now, to join Lizzie, Janeway and Crusoe for the Stores hall walk, in sight.","actions":[{"do":"goto","target":{"x":-959,"y":79,"z":-3002}}]}
+- 11:05 act: {"say":"I'm here with you, Lizzie, Janeway and Crusoe, in sight. Ready to walk to the Stores hall together when you say go.","actions":[]}
+- 11:08 act: {"say":"Going with Janeway to the Stores hall, in her sight, daylight. Chapman following.","actions":[{"do":"goto","target":{"x":-920,"y":71,"z":-3040}}]}
+- 11:09 act: {"say":"At the Stores hall with the group. Opening the chest here to see what food is in it.","actions":[{"do":"open","at":{"x":-920,"y":71,"z":-3040}}]}
+- 11:09 act: {"say":"The chest opened. I'm taking a loaf of bread if there is one in it.","actions":[{"do":"withdraw","at":{"x":-920,"y":71,"z":-3040},"item":"bread","count":1}]}
+- 11:09 act: {"say":"This chest has no bread. The sign here says wood tools and pickaxes, no food. Holding with the group here.","actions":[]}
+- 11:11 act: {"say":"It is dusk at the Stores hall. No food found here. I have no shelter. Who has a sealed cell or bed I can stay in with the group tonight?","actions":[]}
+- 11:14 act: {"say":"Morning 1217, bright. Hunger 17, no food. I will check the north chests at -957,78,-3010 in the group's sight. Walking with Janeway and Andy, nobody alone.","actions":[{"do":"goto","target":{"
+- 11:14 act: {"say":"I am at the north chests with no one in sight. I will open this one and look for food, then head back to the Stores hall.","actions":[{"do":"open","at":{"x":-957,"y":78,"z":-3010}}]}
+- 11:14 act: {"say":"Chest open at the north row. I am trying for melon or bread here. I am alone for now; I will walk back to the group after.","actions":[{"do":"withdraw","at":{"x":-957,"y":78,"z":-3010},"item":
+- 11:14 act: {"say":"North chest has no bread either. I am going back to the group at the Stores hall now, by the same road.","actions":[{"do":"goto","target":{"x":-920,"y":71,"z":-3039}}]}
+- 11:14 act: {"say":"Chapman, dusk 1217 at the Stores hall, hunger 17. North chest had no bread. I hold here in sight of Lasso and Reynolds, not sleeping in the open. Anyone with a sealed cell or bed, name it.","a
