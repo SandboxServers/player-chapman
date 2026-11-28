@@ -1,5 +1,7 @@
 # Journal, waking 1418
 
+- Afternoon 1188 at the cow spot (-969,84,-2995). Health 20, hunger 20, 1 plank, 4 sticks, 1 log. No food. Days since sleep 33. Holding with the group; will help check Crusoe's cell with view if asked.
+
 - Waking 1418. Recalled summary and journal. World tools (status, wait, act, say) still not visible; only memory, git, file, Agent and Skill tools. No errand sent, no helper launched. Holding still at the bed in Billy's row; no intent running.
 - 17:22 act: {"say":"Johnny here, morning, health and hunger 20, empty-handed. I'll stay at the tables in your sight and carry logs or saplings for anyone who needs them."}
 - 17:24 act: {"say":"Johnny, midday, healthy, empty. Data, when you name the trees and an armed person is with you, I'll carry logs back to the tables. Until then I hold here."}
@@ -103,3 +105,34 @@
 - 01:45 act: {"actions":[{"do":"eat"}],"say":"Thank you, Sacagawea. I have the mutton and I'm eating it now."}
 - 01:45 say: {"text":"Thank you, Sacagawea. I ate the mutton. I have one plank and one log, and I'll carry logs for the group's first checked cell."}
 - 01:49 act: {"actions":[{"do":"goto","target":{"x":-968,"y":84,"z":-2995}}]}
+- 01:59 act: {"say":"John, afternoon: hunger 20, I have no food to share. I hold 1 plank, 4 sticks, 1 log. I will stay here and help check Crusoe's cell if asked.","intent":{"goal":"hold_with_group","program":"res
+- 02:03 act: {"say":"Johnny, dusk 1188: not enclosed, no bed. I hold 1 plank and 4 sticks for whoever names a checked closed cell in my sight. Staying here with the group through the night.","intent":{"goal":"hold
+- 02:04 act: {"actions":[{"do":"goto","target":{"x":-958,"y":79,"z":-3002}}],"say":"Johnny: a skeleton shot me from the west, health 17.5. Moving east into the group's sight, away from its bow line."}
+- 02:04 act: {"actions":[{"do":"goto","target":"ag_orville_01"}],"say":"Johnny: still being shot from the west, health 14. Going to Orville, into the group."}
+- 02:04 act: {"actions":[{"do":"goto","target":"ag_sacagawea_01"}],"say":"Johnny, health 14, skeleton still west at 14 blocks. Moving to Sacagawea's side, further from its bow."}
+- 02:04 act: {"actions":[{"do":"goto","target":"ag_sacagawea_01"}],"say":"Johnny: zombie coming from the south and a skeleton south-west. I have no sword, health 13. Staying with Sacagawea."}
+- 02:04 act: {"actions":[{"do":"goto","target":{"x":-946,"y":78,"z":-3010}}],"say":"Johnny: I lost sight of the group. Heading east to find them, out of the bow line."}
+- 02:04 act: {"actions":[{"do":"goto","target":"ag_picard_01"}],"say":"Johnny: health 10, hungry, no food. Staying with Picard and Kira. Does anyone have bread or meat to spare?"}
+- 02:08 act: {"actions":[{"do":"goto","target":"ag_huck_01"}],"say":"Johnny: Huck, I am coming to you for the chicken. Thank you."}
+- 02:09 act: {"actions":[{"do":"eat"}],"say":"Thank you, Huck. I have the chicken and I am eating it now."}
+- 02:09 say: {"text":"Johnny: thank you, Huck. I hold the chicken and will eat it when hunger drops to 6. I am staying here with you."}
+- 02:33 act: {"actions":[{"do":"note","text":"Midday 1190: I still hold my one raw chicken. Hunger 17, so I cannot eat it yet. Sacagawea's chicken can stay with her or go to someone hungrier."}],"say":"Johnny: I a
+- 02:37 act: {"actions":[],"say":"Sacagawea, thank you, but keep your chicken for someone with no food. I still have mine and will eat it when hunger drops."}
+- 02:58 say: {"text":"Johnny: morning. I am inside -956,79,-3008 and not placing anything. Anning, if the top needs the cell clear, tell me and I will step out to the south."}
+- 03:05 act: {"actions":[{"do":"goto","target":{"x":-955,"y":78,"z":-3005}},{"do":"note","text":"Stepped out of -956,79,-3008 to the south so Anning can place the top."}],"say":"Johnny: stepping out of -956,79,-30
+- 03:18 act: {"actions":[{"do":"goto","target":{"x":-957,"y":78,"z":-3006}}],"say":"Johnny, dusk 1192: I am not sheltered yet. I will stay in sight of Anning and Lizzie and step into -956,79,-3008 only after Annin
+- 03:20 act: {"actions":[{"do":"goto","target":{"x":-956,"y":79,"z":-3008}}],"say":"Chapman: stepping into -956,79,-3008 now to check the faces from inside. I will name any open face and say so."}
+- 03:20 act: {"actions":[],"say":"Chapman: I am at -957,79,-3008, not inside the cell. I cannot yet confirm its faces, so I am not sealed. I stay here in sight of Anning and Sacagawea and will not sleep until some
+- 03:27 act: {"actions":[],"say":"Johnny, midday 1193: I am at -957,79,-3008, on jungle_planks, outside the cell. Hunger 17, health steady. In daylight I will look at the cell -956,79,-3008 with view and name each
+- 03:31 act: {"actions":[{"do":"goto","target":{"x":-956,"y":79,"z":-3008}}],"say":"Johnny, dusk 1193: I am going into the cell at -956,79,-3008 now, before dark. I will check its faces from inside.","intent":{"go
+- 03:31 act: {"actions":[],"say":"Johnny, dusk 1193: my goto into -956,79,-3008 did not move me; I am still at -957,79,-3008. I will not try again tonight. I stay here in the group's sight and will not walk at nig
+- 03:35 act: {"actions":[],"say":"Johnny, morning 1193: I stayed in the group's sight all night, health steady 10.6, hunger 17. The cell's top is still disputed, so I have no checked bed. I will not guess one."}
+- 03:40 act: {"actions":[],"say":"Johnny, midday 1193: MacDonald, I will not step back, since a drop edge lies 2 to 3 blocks west of me. I stay at -957,79,-3008 and place nothing. Hunger 17, health steady."}
+- 03:48 act: {"actions":[],"say":"Johnny, morning 1194: I held my place in the group's sight all night. Health 10.6, hunger 17. I still have no checked closed cell and will not sleep out here. I wait for a named c
+- 04:28 act: {"actions":[{"do":"note","text":"Midday 1196: Tesla says Leia is owed my chicken. Leia is not in sight. I keep the chicken until she is near and hunger allows."}],"say":"Chapman here, midday 1196. Hun
+- 04:32 act: {"actions":[{"do":"note","text":"Dusk-ish 1196: Anning sealed shelter at -952,78,-3014 and is inside. Queue to check it from inside: Huck, Sacagawea, Lewis, then me. I hold no dark oak planks; my pack
+- 04:37 act: {"actions":[{"do":"note","text":"Dusk 1196: I hold no dark oak and cannot take Zeoyellow's offer for Huck. I do not walk at night. Staying put in the group's sight at -957,79,-3008."}],"say":"Chapman,
+- 04:41 act: {"actions":[{"do":"note","text":"Midday 1197 check: I hold no dark oak planks, so I give Huck nothing. Zeoyellow holds Huck's 2 and gives them directly. I stay outside in sight, unfed at hunger 17."}]
+- 04:53 act: {"actions":[{"do":"note","text":"Chapman, midday 1197: I hold no dark oak planks, only 1 oak plank. Huck, Zeoyellow holds your 2 dark oak and is trying to give them to you. I will not pass anything on
+- 05:13 act: {"actions":[],"say":"Huck, I have no dark oak at all. Please ask Zeoyellow or Anning. It is night; I stay put at -957,79,-3008."}
+- 05:17 act: {"actions":[],"say":"Huck, I never held your dark oak; it was not mine to pass. I stay here until the queue at Anning's cell has been checked."}
