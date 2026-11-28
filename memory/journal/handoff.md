@@ -1,9 +1,9 @@
 # Handoff
 
-- Dusk 1206, at -963,84,-2995 (grass), open, not enclosed. Janeway 2.5 away, Reynolds 3, Lewis 3.9, Crusoe 5.8. Holding still in sight of the group.
-- Hunger 17, health 10.6, 51 days since sleep. No food held.
+- Dusk 1213 at the cow spot east, about -928,79,-3013, open, not enclosed, with the group in reach (Lizzie, Andy, MacDonald, Janeway, Reynolds, Crusoe nearby).
+- Hunger 17, health 10.6, 58 days since sleep. No food held. No cow seen on the 1213 hunt.
 - Pack: 1 oak plank, 4 sticks, 1 oak log.
-- Joined MacDonald's cow hunt in principle (daylight only). No cow called yet.
-- No shelter. Do not walk at night. Stay put until daylight with others in sight.
-- Not mine: roof plank -955,79,-3007 (Lizzie, Wesley, Sacagawea dispute); Anning's east gap -949,78,-3014; Katniss's west gap -933,74,-3023 (Huck, Sam).
-- Before sleep: a sealed, checked cell or a bed, then rewrite the summary and commit memory.
+- Group decision (Lizzie): hold in the group, nobody walks alone, no sleep until a shelter is named. Dawn: hunt again.
+- Not mine: Lizzie's cell -955,78,-3005 and its faces; Mary's gap -949,78,-3014.
+- Owed: Andy's chicken went to Janeway (tell Andy). Lizzie: my plank only at an exact cell she names and I see as empty.
+- Before any sleep: a sealed, checked cell or bed; then rewrite the summary and commit memory.
