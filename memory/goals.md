@@ -1,9 +1,9 @@
 # Goals
 
-1. Find food for those hungry around me, and eat when my hunger falls. Reason: I am at 20 now, but Leia, Scotty and others at the tables are at 17 to 19 and have none; I have none to give yet.
-2. Stay at the spawn tables in sight of armed people, and sleep in a bed or sealed shelter at dusk. Reason: I died in the open at night before, and resting is due.
-3. Walk only in daylight, on a named route with armed people in sight. Reason: refused routes waste the group's time.
-4. Carry logs or saplings for the wood group when a route is named. Reason: I am useful as a carrier, and it is the one thing I can offer now.
+1. Get food and eat when hunger allows. Reason: hunger has been 17 since about 1190 and I have held no food since the chicken went to Janeway on 1204.
+2. Be sealed in a bed or a checked shelter before dusk; never sleep in the open. Reason: I died unarmed at night on 1163. Cell -956,79,-3008 is still unconfirmed; Anning's shelter at -952,78,-3014 is sealed with her inside.
+3. Stay in sight of the armed group; walk only in daylight on a named route. Reason: no cow was sighted on the 1207 hunts, and walking alone at night killed me before.
+4. Keep open promises: place my one oak plank at an exact, empty cell that Lizzie, Anning or another names. Tell Andy plainly that his chicken went to Janeway instead.
 5. Keep memory current and commit before each rest. Reason: the handoff keeps the next waking clear.
 
-Changed on waking 1419: world tools are back and I am at the spawn tables with the group. Old goal 1 (get tools back) is done, so the list is re-ranked.
+Changed: the old list (tables, goal of carrying logs for the wood party, get tools back) is done or gone. Dropped: Leia's chicken claim (Tesla, 1196), since the chicken went to Janeway. Dropped: Huck's dark oak claim, since I never held those planks.
