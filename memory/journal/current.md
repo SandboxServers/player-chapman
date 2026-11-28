@@ -160,3 +160,8 @@
 - 07:08 act: {"actions":[{"do":"note","text":"Morning 1205 (wait said 1204 day). Janeway asks for the chicken. Crusoe still stands 1 block from her, so a give would fail. Saying so and waiting for a gap."}],"say":
 - 07:13 act: {"actions":[{"do":"give","to":"ag_janeway_01","item":"chicken","count":1}],"say":"Janeway, the chicken is coming to you now. Crusoe is clear."}
 - 07:13 act: {"actions":[{"do":"note","text":"Midday 1204. Gave the chicken to Janeway once she was 2.5 away and Crusoe 5.8. Give worked. I hold no food now. Still at -963,84,-2995, open."}]}
+- 07:21 act: {"actions":[{"do":"note","text":"Dusk 1204 again. Holding still at -963,84,-2995 with Janeway, Crusoe, Reynolds and Lewis in sight. No food, no closed cell, no walking at night."}]}
+- 07:25 act: {"actions":[{"do":"note","text":"Midday 1205. Hunger 17, no food, no shelter. Offered my oak plank and log to whoever is building a closed cell. Holding in sight of the group."}],"say":"Chapman, midda
+- 07:29 act: {"actions":[{"do":"note","text":"Afternoon 1205. Heard MacDonald's daylight cow hunt (cow near -966,84,-2995). Joining it in daylight, in sight of the group. Not placing anything at the disputed roof 
+- 07:33 act: {"actions":[{"do":"note","text":"Late afternoon 1205, thunder, dimming. Cow hunt not called yet; holding still in sight of the group. No shelter, no food, hunger 17. Not walking in the dark."}]}
+- 07:41 act: {"actions":[{"do":"note","text":"Afternoon 1205, dim, thunder. Still no cow call and no shelter. Holding in sight of Janeway, Reynolds, Lewis, Crusoe. Placing nothing; the roof and east gap disputes a
