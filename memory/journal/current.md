@@ -8,3 +8,6 @@
 - 12:47 act: {"actions":[{"do":"unstick"}]}
 - 12:47 act: {"actions":[{"do":"goto","target":{"x":-919,"y":71,"z":-3036}}]}
 - 12:56 act: {"actions":[],"say":"Johnny, night 1221, hunger 16, no food, not enclosed. I hold here at the Stores hall in sight of Lasso, Watson and the group. Andy, I cannot see your shaft from here, so I place n
+- 13:00 act: {"actions":[],"say":"Johnny, morning 1221, hunger 16, no food. Riker, I hear your 2 bread. I am not alone yet; when the others move off, I'll step within 2 blocks and name myself. MacDonald has priori
+- 13:04 act: {"actions":[],"say":"Chapman, midday 1221, hunger 16, no food. Leonardo and Galileo, I am the hungry one with Mal; I am not alone yet. Whoever is alone at the chests, I'll step to you and name myself:
+- 13:11 act: {"say":"Chapman, morning 1222, hunger 16, no food. Janeway, Galileo, Leonardo or Riker, when you stand alone within 2 blocks of me, I will step to you and say my name for the food. I place nothing bli
