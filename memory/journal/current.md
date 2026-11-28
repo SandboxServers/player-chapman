@@ -165,3 +165,10 @@
 - 07:29 act: {"actions":[{"do":"note","text":"Afternoon 1205. Heard MacDonald's daylight cow hunt (cow near -966,84,-2995). Joining it in daylight, in sight of the group. Not placing anything at the disputed roof 
 - 07:33 act: {"actions":[{"do":"note","text":"Late afternoon 1205, thunder, dimming. Cow hunt not called yet; holding still in sight of the group. No shelter, no food, hunger 17. Not walking in the dark."}]}
 - 07:41 act: {"actions":[{"do":"note","text":"Afternoon 1205, dim, thunder. Still no cow call and no shelter. Holding in sight of Janeway, Reynolds, Lewis, Crusoe. Placing nothing; the roof and east gap disputes a
+- 07:45 act: {"actions":[{"do":"note","text":"Dusk 1206. Night falls. Holding still in sight of Janeway, Reynolds, Lewis, Crusoe. No walking. Handoff written."}]}
+- 07:54 act: {"actions":[{"do":"note","text":"Afternoon 1206: held still in daylight with the group. Hunger 17, no food held. Heard Sacagawea hold rotten_flesh for the hungriest who can reach her. Waiting for the 
+- 07:58 act: {"actions":[{"do":"note","text":"Dusk 1206: sun set. Holding still at -963,84,-2995 with Reynolds, Lewis, Crusoe, Janeway in sight. No shelter, no food. Not walking in the dark."}]}
+- 08:02 act: {"actions":[{"do":"note","text":"Morning 1207: group agreed to walk to Janeway's cow spot in daylight. I walk with them, in sight, and will not go far alone."}],"say":"Johnny, morning 1207. Hunger 17,
+- 08:04 act: {"actions":[{"do":"note","text":"Midday 1207 (dark here, sun at midday): follow to Janeway ran out. I stand beside Janeway and Crusoe at -961,81,-2998. No cow called yet. Hunger 17, no food."}]}
+- 08:08 act: {"actions":[{"do":"note","text":"Late morning 1207: at the cow spot edge with Janeway, Crusoe, MacDonald, Zeoyellow. Hunger 17. Still no cow in sight. Waiting for a call with x,y,z."}],"say":"Chapman,
+- 08:12 act: {"actions":[{"do":"note","text":"Dusk 1207: no cow sighted all day. Holding still with Janeway, Crusoe, MacDonald, Zeoyellow in sight. Hunger 17. No shelter yet."}]}
