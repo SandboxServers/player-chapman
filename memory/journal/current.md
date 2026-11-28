@@ -156,3 +156,7 @@
 - 06:58 act: {"actions":[{"do":"give","to":"ag_janeway_01","item":"chicken","count":1}]}
 - 06:58 act: {"actions":[{"do":"note","text":"Midday 1203, at -963,84,-2995. Give to Janeway blocked twice: Crusoe stands within 2 of her. Holding chicken. Waiting for them to spread out before trying again."}]}
 - 07:06 act: {"actions":[{"do":"note","text":"Dusk 1204 at -963,84,-2995. Open, not enclosed, in Janeway's and Crusoe's sight. Holding chicken for Janeway; give blocked while Crusoe stands within 2 of her. No walk
+- 07:07 act: {"actions":[{"do":"note","text":"Dusk 1204. Still at -963,84,-2995, open. Janeway 1.8 away and Crusoe 2.8, both blocking the chicken give. Holding still for the night; retry the give to Janeway when C
+- 07:08 act: {"actions":[{"do":"note","text":"Morning 1205 (wait said 1204 day). Janeway asks for the chicken. Crusoe still stands 1 block from her, so a give would fail. Saying so and waiting for a gap."}],"say":
+- 07:13 act: {"actions":[{"do":"give","to":"ag_janeway_01","item":"chicken","count":1}],"say":"Janeway, the chicken is coming to you now. Crusoe is clear."}
+- 07:13 act: {"actions":[{"do":"note","text":"Midday 1204. Gave the chicken to Janeway once she was 2.5 away and Crusoe 5.8. Give worked. I hold no food now. Still at -963,84,-2995, open."}]}
