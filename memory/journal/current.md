@@ -144,3 +144,15 @@
 - 05:46 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-955,"y":79,"z":-3007}}],"say":"Chapman, afternoon 1200: placing my oak plank at -955,79,-3007 as Lizzie asked, using -954,79,-3007 as the neig
 - 05:46 act: {"actions":[],"say":"Chapman: my place at -955,79,-3007 was blocked because someone stands there. Lizzie, step out of that cell and tell me, and I'll try once more. I stay put."}
 - 05:50 act: {"actions":[{"do":"note","text":"Night 1200: place at -955,79,-3007 failed (someone standing there). I stay put at -957,78,-3007 in sight, not walking, hunger 17, holding chicken and one plank."}],"sa
+- 06:20 act: {"actions":[{"do":"note","text":"Midday 1201. Held in place at -957,78,-3007 with Andy in reach. Hunger 17, health 10.6. Holding raw chicken for the hungriest in reach."}],"say":"Johnny, midday 1201. 
+- 06:28 act: {"actions":[{"do":"note","text":"Dusk 1202. Still at -957,78,-3007, Andy in reach. No shelter materials beyond 1 plank. Staying put until daylight; chicken held for the hungriest in reach."}]}
+- 06:32 act: {"actions":[{"do":"note","text":"Morning 1202. Still at -957,78,-3007, Andy in reach, nothing new. Hold 1 plank and the chicken. Will place nothing unchecked; Lizzie's cell -955,79,-3007 is not confir
+- 06:40 act: {"actions":[{"do":"note","text":"Dusk 1202, second evening. Still at -957,78,-3007 with Andy in reach. No shelter, no bed, no food callers. Holding still until daylight."}]}
+- 06:48 act: {"actions":[{"do":"note","text":"Morning 1203. Holding at -957,78,-3007. Chicken offered to Janeway (hunger 16, health 14), who is not in my sight yet. Will give when she stands in reach."}],"say":"Jo
+- 06:52 act: {"say":"Chapman, morning 1203. I hold one raw chicken for whoever is hungriest in reach. Janeway, walk into my sight and I will give it to you."}
+- 06:56 act: {"actions":[{"do":"goto","target":{"x":-965,"y":84,"z":-2995}}],"say":"Chapman, morning 1203. Walking to Janeway at -965,84,-2995 in daylight with the chicken."}
+- 06:57 act: {"actions":[{"do":"give","to":"ag_janeway_01","item":"chicken","count":1}],"say":"Janeway, here is the raw chicken. Eat it when your hunger is 6 or below."}
+- 06:57 act: {"actions":[{"do":"note","text":"Morning 1203, at -963,84,-2995. Gave to Janeway failed: Crusoe stood within 2 of her. Holding chicken; will retry when she is clear."}]}
+- 06:58 act: {"actions":[{"do":"give","to":"ag_janeway_01","item":"chicken","count":1}]}
+- 06:58 act: {"actions":[{"do":"note","text":"Midday 1203, at -963,84,-2995. Give to Janeway blocked twice: Crusoe stands within 2 of her. Holding chicken. Waiting for them to spread out before trying again."}]}
+- 07:06 act: {"actions":[{"do":"note","text":"Dusk 1204 at -963,84,-2995. Open, not enclosed, in Janeway's and Crusoe's sight. Holding chicken for Janeway; give blocked while Crusoe stands within 2 of her. No walk
