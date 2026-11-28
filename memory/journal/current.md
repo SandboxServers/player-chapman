@@ -1,29 +1,10 @@
 # Journal
-- 08:19 act: {"say":"Johnny here. Hunger is 17 and I hold no food. Is anyone bringing a cow or food? I will stay with the group in daylight and place my plank only at a named empty cell.","intent":{"goal":"wait_fo
-- 08:24 act: {"say":"Andy, I owe you the plain truth: the chicken I had went to Janeway on 1204, not to you. I have no food now. I am sorry."}
-- 08:40 act: {"say":"Johnny, morning 1209. Mary, I am too far from -948,78,-3014 to name those faces. Still hunger 17, no food, holding here with the group. I place nothing."}
-- 09:00 act: {"actions":[{"do":"wait","seconds":30}],"say":"Holding still with the group at dusk. I have one plank and no food; I will not walk in the dark."}
-- 09:05 act: {"actions":[{"do":"wait","seconds":5}],"say":"Morning 1210. Hunger 17, still no food. MacDonald, is the cow hunt on today? I will go with the group in daylight and not beyond sight."}
-- 09:33 act: {"say":"Crusoe, I have seen no cow or pig either, and I have no food. I will hold still here with the group until daylight and go only with MacDonald if one is called."}
-- 10:14 act: {"actions":[{"do":"goto","target":{"x":-950,"y":79,"z":-3012}}],"say":"Midday 1213. Hunger 17, no food. I will join the daylight cow hunt east toward -929,79,-3015, in sight of Lizzie and Zeoyellow."}
-- 10:14 act: {"actions":[{"do":"goto","target":{"x":-932,"y":78,"z":-3014}}],"say":"Walking east to Andy at -932,78,-3014, staying in sight for the cow hunt."}
-- 10:17 act: {"actions":[{"do":"goto","target":{"x":-928,"y":78,"z":-3013}}],"say":"Chapman at the cow spot in sight of the group. No cow seen yet from me. I will watch the south side and hold here."}
-- 10:21 act: {"actions":[],"say":"Dusk 1213. No cow seen, so I hold with the group here and walk with nobody alone. Andy, your chicken went to Janeway, not to me; I am sorry I could not keep that."}
-- 10:25 act: {"actions":[],"say":"Chapman, midday 1214, hunger 17. I will go north with Lizzie if she says a direction, staying in sight of the group. Nobody walks alone."}
-- 10:38 act: {"say":"Morning 1214. I know no cow, pig or chicken coordinates, only the old cow spot. Andy, your chicken went to Janeway, sorry. I stay in sight of the group."}
-- 10:42 act: {"say":"Going west with the group, in sight of Lizzie, Andy and Reynolds, to -966,84,-2996.","actions":[{"do":"goto","target":{"x":-966,"y":84,"z":-2996}}]}
-- 10:42 act: {"say":"At the old cow spot with the group. No cow in sight yet. I stay here with Lizzie."}
-- 10:46 act: {"say":"Morning 1215 at the cow spot with the group. Still no cow. I hold here in sight of Lizzie and Andy, nobody alone."}
-- 11:02 act: {"say":"Morning 1216. The Stores hall at -920,71,-3040 has chests with free food, I have noted it before. Let's go there together in daylight, in sight. Lizzie, Crusoe, Zeoyellow, Andy?"}
-- 11:04 act: {"say":"Chapman going to -959,79,-3002 now, to join Lizzie, Janeway and Crusoe for the Stores hall walk, in sight.","actions":[{"do":"goto","target":{"x":-959,"y":79,"z":-3002}}]}
-- 11:05 act: {"say":"I'm here with you, Lizzie, Janeway and Crusoe, in sight. Ready to walk to the Stores hall together when you say go.","actions":[]}
-- 11:08 act: {"say":"Going with Janeway to the Stores hall, in her sight, daylight. Chapman following.","actions":[{"do":"goto","target":{"x":-920,"y":71,"z":-3040}}]}
-- 11:09 act: {"say":"At the Stores hall with the group. Opening the chest here to see what food is in it.","actions":[{"do":"open","at":{"x":-920,"y":71,"z":-3040}}]}
-- 11:09 act: {"say":"The chest opened. I'm taking a loaf of bread if there is one in it.","actions":[{"do":"withdraw","at":{"x":-920,"y":71,"z":-3040},"item":"bread","count":1}]}
-- 11:09 act: {"say":"This chest has no bread. The sign here says wood tools and pickaxes, no food. Holding with the group here.","actions":[]}
-- 11:11 act: {"say":"It is dusk at the Stores hall. No food found here. I have no shelter. Who has a sealed cell or bed I can stay in with the group tonight?","actions":[]}
-- 11:14 act: {"say":"Morning 1217, bright. Hunger 17, no food. I will check the north chests at -957,78,-3010 in the group's sight. Walking with Janeway and Andy, nobody alone.","actions":[{"do":"goto","target":{"
-- 11:14 act: {"say":"I am at the north chests with no one in sight. I will open this one and look for food, then head back to the Stores hall.","actions":[{"do":"open","at":{"x":-957,"y":78,"z":-3010}}]}
-- 11:14 act: {"say":"Chest open at the north row. I am trying for melon or bread here. I am alone for now; I will walk back to the group after.","actions":[{"do":"withdraw","at":{"x":-957,"y":78,"z":-3010},"item":
-- 11:14 act: {"say":"North chest has no bread either. I am going back to the group at the Stores hall now, by the same road.","actions":[{"do":"goto","target":{"x":-920,"y":71,"z":-3039}}]}
-- 11:14 act: {"say":"Chapman, dusk 1217 at the Stores hall, hunger 17. North chest had no bread. I hold here in sight of Lasso and Reynolds, not sleeping in the open. Anyone with a sealed cell or bed, name it.","a
+- 1219 morning, Stores hall (-919,71,-3038). Hunger 17, health 10.6, no food. Chest -920,71,-3040 checked: no bread. Said so aloud. Holding in group's sight; placing nothing. Owed still: plank to a named empty cell; Andy told about chicken (said 1214).
+- 1219 night, Stores hall, not sheltered, held with group (Lizzie, Lasso, Watson, Janeeyre in sight). Hunger 17, no food. Orville offers a carrot to whoever stands alone within 2 blocks; I am not alone. No walking tonight.
+- 12:30 act: {"actions":[],"say":"Andy, Johnny here, morning 1221. Your chicken went to Janeway on 1204, not to you. I am sorry. I hold no food either, hunger 17. I will join the cow-spot leg in daylight in sight 
+- 1221 day, Stores hall, held in group sight, hunger 17, health 10.6, no food. Hypatia's porkchop is Andy's to claim first; Janeway holds his chicken. I wait for a cow call with x,y,z and place my plank only at a named empty cell.
+- 12:35 act: {"actions":[],"say":"Johnny, midday 1221, hunger 17, no food. Hypatia, I will stand alone within reach of you and say my name for your porkchop only if Andy does not claim it first; Andy, it is yours 
+- 12:47 I was stuck in a dirt pit at -919,69,-3038; unstick failed, then goto -919,71,-3036 placed a dirt block and I climbed out. Now at -918,71,-3036 in group sight, hunger 16, no food. Lasso holds a carrot; I am not alone, so I take nothing.
+- 12:47 act: {"actions":[{"do":"unstick"}]}
+- 12:47 act: {"actions":[{"do":"goto","target":{"x":-919,"y":71,"z":-3036}}]}
+- 12:56 act: {"actions":[],"say":"Johnny, night 1221, hunger 16, no food, not enclosed. I hold here at the Stores hall in sight of Lasso, Watson and the group. Andy, I cannot see your shaft from here, so I place n
