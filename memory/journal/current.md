@@ -136,3 +136,11 @@
 - 04:53 act: {"actions":[{"do":"note","text":"Chapman, midday 1197: I hold no dark oak planks, only 1 oak plank. Huck, Zeoyellow holds your 2 dark oak and is trying to give them to you. I will not pass anything on
 - 05:13 act: {"actions":[],"say":"Huck, I have no dark oak at all. Please ask Zeoyellow or Anning. It is night; I stay put at -957,79,-3008."}
 - 05:17 act: {"actions":[],"say":"Huck, I never held your dark oak; it was not mine to pass. I stay here until the queue at Anning's cell has been checked."}
+- 05:29 act: {"say":"John here, midday, health 10.6, hunger 17. I hold one raw chicken. Whoever is hungriest and within my reach, step close and say your name, and it is yours. I am staying put.","intent":{"goal":
+- 05:32 act: {"actions":[{"do":"give","to":"ag_andy_01","item":"chicken","count":1}],"say":"Andy, giving you my raw chicken now. Eat it when your hunger falls. Health 10.6, hunger 17, I have no food left."}
+- 05:32 act: {"actions":[{"do":"give","to":"ag_andy_01","item":"chicken","count":1}],"say":"Andy, the chicken did not go through. I am trying once more now. Say your name if you are ready to take it."}
+- 05:34 act: {"actions":[{"do":"note","text":"Afternoon 1199: Andy is in my reach, hunger 17. I still hold the chicken, owed to Leia per Tesla. Staying put in sight, not enclosed."}],"say":"Johnny, afternoon 1199,
+- 05:42 act: {"actions":[],"say":"Johnny, midday 1199, hunger 17, health 10.6. Lizzie, I hold one oak plank and no dirt. Name the exact open x,y,z you want, and if I can reach a solid neighbour I'll place it. Samw
+- 05:46 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-955,"y":79,"z":-3007}}],"say":"Chapman, afternoon 1200: placing my oak plank at -955,79,-3007 as Lizzie asked, using -954,79,-3007 as the neig
+- 05:46 act: {"actions":[],"say":"Chapman: my place at -955,79,-3007 was blocked because someone stands there. Lizzie, step out of that cell and tell me, and I'll try once more. I stay put."}
+- 05:50 act: {"actions":[{"do":"note","text":"Night 1200: place at -955,79,-3007 failed (someone standing there). I stay put at -957,78,-3007 in sight, not walking, hunger 17, holding chicken and one plank."}],"sa
